@@ -8,6 +8,7 @@ cssclass:
 ###### Inline Metadata
 date:: [[27-Mar-22]]
 ## Mixed bag of questions after a 2 hour rant.
+![[Mar-27-Psychology-Session.mp3]]
 #### Are past events bothering us? If yes, how?
 ##### Past events bothering me 
 - The breakup obviously bothers me a lot, so anything that happened during those 5 years, not just in the relationship but anything in general, I don’t like recalling things from my college days.
