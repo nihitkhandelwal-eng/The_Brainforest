@@ -8,6 +8,7 @@ cssclass:
 ###### Inline Metadata
 date::[[03-Apr-22]]
 
+![[Apr-3-Psychology-Session.mp3]]
 ### Preparation for job application
 ### Activity Scheduling
 ### Write 10 things that are your area of Interests 
