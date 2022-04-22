@@ -5,9 +5,9 @@ cssclass:
 ---
 
 ###### Inline Metadata 
-director::
-actors::
-screenplay::
+Director::
+Writer::
+Actor::
 
 ---
 <%tp.file.cursor(0)%>

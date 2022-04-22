@@ -5,12 +5,13 @@ cssclass:
 ---
 ---
 
-###### Metadata 
+###### Inline Metadata 
 DOB::
 Anniversary::
 Date_of_importance::
 Email::
 Contact_Number:: 
+Profession::
 
 
 <%tp.file.cursor(0)%>

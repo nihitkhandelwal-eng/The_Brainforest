@@ -3,8 +3,14 @@ aliases: [<% tp.file.title %>]
 tags: 
 cssclass:
 ---
+
+###### Inline Metadata 
+Lyricist:: <%tp.file.cursor(0)%>
+Singer::
+Composer::
+
 ---
-artists: <%tp.file.cursor(0)%>
+
 
 <% await tp.file.move("/🌿 Notes/Music/" + tp.file.title) %>
 
