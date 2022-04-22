@@ -1,7 +1,7 @@
 ---
 aliases: null
 tags: on/obsidian
-cssclass: t-c
+cssclass: 
 ---
 
 # Admonition-Syntax
