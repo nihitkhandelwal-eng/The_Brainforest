@@ -1,25 +1,25 @@
 > brief definition
 
-#  Topic:
+#### Topic:
 
-## Questions
+#### Questions
 
-## WIP
+#### WIP
 
-# Products
+#### Products
 
-## Atomic Notes
+#### Atomic Notes
 
-## Articles
+#### Articles
 
-## Newsletters
+#### Newsletters
 
-# References
+#### References
 
-## Literature Notes
+#### Literature Notes
 
-## Daily Notes
+#### Daily Notes
 
-## Raw Dumps
+#### Raw Dumps
 
-## In the Wild
+#### In the Wild
