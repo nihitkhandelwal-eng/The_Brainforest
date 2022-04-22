@@ -4,12 +4,15 @@ tags:
 cards-deck: Default
 cssclass:
 ---
+
+###### Inline Metadata 
+
 ---
 
-## Introduction
+### Introduction
 - <%tp.file.cursor(0)%>
 
-## Modules & Outline
+### Modules & Outline
 - <%tp.file.cursor(1)%>
 
 <% await tp.file.move("/🌴 Academia/Units/" + tp.file.title) %>

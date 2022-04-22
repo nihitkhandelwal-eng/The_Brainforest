@@ -3,15 +3,18 @@ aliases: [<% tp.file.title %>]
 tags: 
 cssclass:
 ---
----
-## Summary
 
-###### Metadata 
+###### Inline Metadata 
 author:: 
 why_this_book::
 recommended_by:: 
 date_started::
 date_finished::
+
+---
+
+## Summary
+
 
 ## Key Take-aways & Highlights
 ### Books & Sources Cited

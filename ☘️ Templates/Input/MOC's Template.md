@@ -1,11 +1,13 @@
 ---
+aliases: [<% tp.file.title %>]
 tags:
-aliases: 
 cssclass:
 ---
+
+###### Inline Metadata 
+
 ---
 
-###### Metadata 
 
 
 <% await tp.file.move("/🌿 Notes/MOC's/" + tp.file.title) %>
