@@ -5,7 +5,7 @@ cards-deck: Default
 cssclass:
 ---
 
-###### Metadata 
+###### Inline Metadata 
 
 ---
 
