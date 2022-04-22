@@ -3,12 +3,11 @@ tags:
 aliases:
 cssclass:
 ---
-[[<% moment(tp.file.title,'MMMM-YYYY').format("[Q]Q") %>]]
+[[Q2]]
 
 ---  
 ## Highlight of this month
 
-<% tp.file.rename(tp.file.title) -%>
 
 ###### Metadata 
 Effectiveness:: ⭐⭐⭐⭐⭐

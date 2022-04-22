@@ -4,7 +4,7 @@ aliases:
 cssclass:
 ---
 
-[[January-2017]]
+[[January]]
 
 ---
 

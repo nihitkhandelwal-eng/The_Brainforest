@@ -3,7 +3,7 @@ tags:
 aliases:
 cssclass:
 ---
-[[<% moment(tp.file.title,'YYYY-[Q]Q').format("YYYY") %>]]
+[[<% moment(tp.file.title,'YYYY')%>]]
 
 --- 
 
