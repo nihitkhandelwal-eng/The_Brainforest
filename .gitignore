@@ -1,0 +1,10 @@
+# Ignore files in this folder
+\.obsidian/*
+*/.obsidian/*
+\.trash/*
+.obsidian/
+.obsidian/**
+
+# Ignore JSON files
+*.json
+.vault-stats

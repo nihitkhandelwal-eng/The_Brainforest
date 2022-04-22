@@ -1,0 +1,1 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the aggressor applauds you, you’re PROBABLY on the right side of geopolitics, but CERTAINLY on the wrong side of history.</p>&mdash; Amit Schandillia (@Schandillia) <a href="https://twitter.com/Schandillia/status/1499257030061989893?ref_src=twsrc%5Etfw">March 3, 2022</a></blockquote>

@@ -1,0 +1,123 @@
+## I am thankful to a lot of people this year...
+- What were the most meaningful and impactful elements from the past Year?
+	1. This is the first time when I am paying attention to the prompt, I am now clearly seeing that I am asking for meaningful **&** Impactful elements, which are two very different things, particularly this year.
+		- I don't want to create a page for her in my knowledge vault so I will refer to her as "her" but yes, *breaking up with her was the most impactful thing I have had in many years*, maybe most impactful ever!
+		- The year started off with her not talking to me for almost 1 week, then I got to know about her health, she got admitted, we talked, I met her at her home but then, it was over.
+		- I then went to some strange parties which was definitely distracting from what was troubling me the most.
+		- **I cannot let this time go without thanking [[Rajat Soni]]** , who not only stayed with me for 2 straight days but also was tolerant of my interogation about his presence. I really am very thankful to him & to the fact that he stayed, it helped!
+	2. [[Moma]], [[👤 Papa]] & [[👤 Nannu]] are the 3 most patient people I could have ever asked for, it is tough tolerating me & they are so considerate. 
+		> Tu agar aur kahin paida hua hota toh ab tak mar jaata #type/quote 
+		\-[[Akshat]]
+	3. Papa was also dealing with the cancer diagnosis of [[Amma]] but he was considerate to give a breakup some space as well.
+	4. [[Akshat]] has been the wall against whom I do my punching & he lets me do it. The time that I spend talking to him about [[Aalund]] among other things is the best I feel throughout the day & I am cherishing that by saving all the recordings of me & him on the phone, this is nothing unique, I do it for all other people as well.
+		- Here is a sample from 22nd November ![[Jain-20211117104052.mp3]]
+	5. There was a time around July & August, when the time spent in gym with [[Shashank Bhaiya]] was the best time of my day, we would listen to qawwali's & made some nice jokes. He is my first qawwali student & proof of concept that I am not boring.
+	6. Then came [[Co-x3]], [[Conrad]] & [[👤 Annemarie]]
+		- Talking to conrad for the first time was a big deal for me & it made my day, this was the cover image for the day! 
+		- The only time when I studied for >10 hours this year, I immediately talked to Ann & I was so happy. ![[Talked to Conrad.png|grid]] ![[Studied for 10 hours & talked to Anne.png|grid]]
+		- There was brief period of about a month where Co-x3 was at it's best, it was very funny & a very safe space, I am here talking about [[Jacky]] who is absent from Co-x3 for the past 2 months, she really got my sense of humor.
+		
+	
+
+
+## Reflecting on this year
+###### In what moments did it feel like I was working within my zone of genius?
+- Any time I spent on my laptop customizing tools that I use.
+- Especially while working with Obsidian CSS, Integromat, Notion Formulas & Autohotkey
+![[4p4qASmZye.gif]]
+
+
+###### Biggest challenge(s) I overcame? How did I rise to that/those challenges? How did I change in the process?
+1. I am still dealing with the aftermath of the events in March & then in May but it was a big blow to me & I may not have handled it perfectly but I did not do bad either.
+	- I tried dealing with it by dealing with it & not by avoiding it & it caused a great deal of pain & anxiety along the way but it worked. 
+		- I had to avoid it on multiple occasions & than soon became part of an habit which is one of my goals this year, to be able to sit comfortably in silence & not get anxious.
+2. **I reduced my weight from 95 Kgs to 83 Kgs**
+	- Even though I am again on 93 Kgs as of [[22-Dec-21]] but I did it once & I will do it again, I did not do much other than exercise.
+		- Diet is easily maintained when you are at home given that you are mentally doing well.
+		- I stress eat & that is the major cause of increase in my weight
+
+
+###### What made me most happy this year?
+- Any number of things made me happy for a while but talking to Ann is the one consistent factor throughout the year.
+
+
+###### What do I get excited about discussing or thinking about? & What aspect of that excites me?
+###### What bummed me out the most? Could I have done more to avoid it? Does it still bother me? Should I just let it go and move on?
+- There is one obvious winner here but I am going to write about my other problems as well, because I want them to replace this big one about which I cannot do anything.
+- The Breakup
+	- In hindsight, I could have done a lot to avoid the breakup but even though I was not the ideal mate, I did reasonably well & she could have given me some benefit of the doubt, I cannot do anything about this & *I will now actively try to move on from this.*
+- The fallout of Co-x3
+	- It is not technically a fallout but more like inactivity but it’s significance in my head is much larger than what it actually is.
+	- This started a cascade reaction which would then eventually lead me to where I am now. Hence it’s importance.
+	- I could have been more active & could have worked more with Ann, instead of complaining about it.
+		- This reminds me of the talk I had with Ann [[21-Dec-21]] where she told me to…
+		> Remove the phrase ‘could have’ & ‘should have’ from your vocabulary 
+		\-Ann
+- My reduced weight increased again to 93 Kgs
+	- Yes, I could have done more to avoid it, it does bother me.
+
+
+###### Who had the biggest positive impact on my life?
+- It's safe to say Amazing Marvin, Obsidian, Notion, RemNote & Integromat combined!
+
+
+###### What patterns and feedback loops had an impact on my life in the past year? Did they help or hurt?
+- I was not very consistent with any of my feedback loops but it is clear that I spend a lot of time on things, I don't want to do, such as porn & I would very much like to reduce that.
+
+###### What are my biggest discoveries and learnings from the past year? ;  Our jobs (and by extension our days, weeks, and even years) get stale when we’re stagnant. Reflect on new skills you picked up in the past year or opportunities you had to stretch beyond your previous capabilities. If things stayed the same, consider whether that works for you or if it’s time to try out something new.
+- I learnt some basics about CSS, I almost got both my pecks to move, I have improved my typing speed & I am now familiar with the basics of Github.
+- It is not a long list but something to feel good about.
+![[IMG_20210911_200552.jpg]]
+
+
+## Moving Forwards
+###### What physical spaces have I spent extensive time in this year? Where do good things in life happen to me frequently? Where do problems arise?
+- Like the last year was basically spent in my room in Jodhpur, this year was primarily spent in my room in Sikar. I am not going to answer a bunch of questions that are listed in the prompts because I don't have anything new to add to them. I will evaluate these questions throughout the next year & hopefully come up with some better & though provoking prompts for next year 
+![[2020_cover_image.jpg|+grid]] ![[IMG_20211222_192833.jpg|+grid]]
+###### What do I represent and advance in the world? What do I wish I stood for and represented in the world?
+- I might be reflecting my anger & frustration in this question but I represent loyalty & true love. Transparency & Logical Living.
+###### Who do I want to become?
+- I have had some long talks about this & at this moment, all I want to become is a Radiologist with a good rank & not via payment seat.
+###### What do I wish I had done more of this year? Less of?
+- More of action & less of planning
+###### What do I regret this past year?
+- I wasted a lot of time, I could have done something extraordinary in this time. Now to quote Ann, I should remove the use of 'could have' & 'should have' from my vocabulary.
+
+
+## Next Year Design
+#### Describe what my life will be like in 3 months, how will it be different if things go according to plan. Visualize this, feel it. At the end of next year, if you are drastically exceeding your expectations, what would you be doing?
+##### Goals for the first 3 months;
+- I would have reduced my weight to 80 Kgs
+- I would have tackled the sleep & major depressive issues 
+- I would have completed 5 subjects
+- I would have completed 400 lectures from Dr Najeeb
+- I would be able to move both my pecs on will
+- I would have read 10 books
+- I would have journalled in Obsidian almost daily if not daily
+
+
+##### Goals this year;
+- I would have completed the course from marrow & revised it along the way as per my spaced repetition & flashcards at-least 3 times.
+- I would have watched all lectures from Dr Najeeb
+- I would have read 50 books
+- I would have overcome my mental health issues
+- I would be in the most perfect physical health possible
+- I would have journaled almost daily in Obsidian & Notion
+- I would have cracked the marrow & other coaching tests with a top 500 rank at-least 5 times.
+
+###### What new and unfamiliar activities and experiences will I undertake this year?
+- I will try to do one thing at a time & not keep something running in my ears all the times.
+- I will study, that is a lot of unfamiliar activities to be done in a single year
+###### What am I going to absolutely make happen this year? (that is under my control)
+- I actually wrote the earlier version without keeping the "if you exceed your expectations"
+###### What is standing between me and those outcomes?
+- The lack of fear & the inability to see the future
+- Lack of a reality check
+- Procrastination
+###### How can I change the equation or influence those obstacles in my favor?
+- I will have to visualize the fail state & the cost of that
+- I will no longer be able to journal in obsidian or notion if my laptop is not with me.
+###### What scares me about this undertaking? Why am I fearful of that? (or what makes me nervous if 'fear' is too strong)
+- I haven't studied in a long time but the good thing about this is that I actually love studying, I would love to be fit both physically & mentally, I would absolutely love to increase my knowledge by reading & thinking more, so what's not love & if everything that I need to do is something that I already love, nothing can stop me from doing it.
+###### What specific actions can I take to remove obstacles and advance toward the goal this month? Then the month after that?
+- I will create a rough outline & will do it first thing in the morning

@@ -1,0 +1,21 @@
+[build]
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+publish = "public"
+
+[build.environment]
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
+LANDING_DESCRIPTION = "Get started by using the search 🔎 button on the top right corner of this page."
+LANDING_PAGE = "https://cute-dragon-73e072.netlify.app/docs/home-note/"
+LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Nihit</span>"
+PYTHON_VERSION = "3.8"
+REPO_URL = "https://github.com/nihitkhandelwal-eng/The_Brainforest"
+SITE_TITLE = "Nihit's 🧠🌳"
+SITE_TITLE_TAB = "Nihit's Brainforest"
+SITE_URL = "https://cute-dragon-73e072.netlify.app/"
+TIMEZONE = "Asia/Hong_Kong"
+ZOLA_VERSION = "0.15.2"
+SORT_BY = "title"
+GANALYTICS = "G-GXRDN10PHJ"
+SLUGIFY = "y"
+HOME_GRAPH = "y"
+PAGE_GRAPH = "y"
