@@ -4,7 +4,7 @@ aliases:
 cssclass:
 ---
 
-[[<% moment(tp.file.title,'YYYY-[W]ww').format("MMMM") %>]]
+[[<% moment(tp.file.title,'[Week ]ww').format("MMMM") %>]]
 
 ---
 
