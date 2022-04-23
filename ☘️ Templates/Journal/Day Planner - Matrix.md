@@ -1,4 +1,3 @@
-## Day Planner
 ### Urgent | Important
 - [ ] 
 - [ ] BREAK

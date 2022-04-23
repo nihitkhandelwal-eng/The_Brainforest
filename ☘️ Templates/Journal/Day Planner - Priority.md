@@ -1,4 +1,3 @@
-## Day Planner
 ### 1st Priority
 - [ ] 
 - [ ] BREAK

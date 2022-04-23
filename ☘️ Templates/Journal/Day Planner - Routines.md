@@ -1,4 +1,3 @@
-## Day Planner
 ### Morning Routine
 - [ ] 
 - [ ] BREAK
