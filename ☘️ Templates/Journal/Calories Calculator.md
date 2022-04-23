@@ -1,5 +1,3 @@
-
-
 ###### <% tp.date.now("dddd | DD-MM-YY") %>
 
 |     | Nutrition [[<% tp.date.now("DD-MMM-YY") %>]] |                        |     |
