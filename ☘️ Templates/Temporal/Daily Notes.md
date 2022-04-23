@@ -21,9 +21,6 @@ Sleep_hours::
 Intentionality:: 
 Daily_effectiveness::
 
-###### Build a MVP version of a knowledge space to document my thoughts
-Notes_created_today::
-
 ###### Achieve a body weight of 80 Kg & a very fit body
 Weight:: 
 Calories:: 
