@@ -19,7 +19,7 @@ cssclass:
 Win_The_Day:: 
 Sleep_hours::
 Intentionality:: 
-daily_effectiveness::
+Daily_effectiveness::
 
 ###### Achieve a body weight of 80 Kg & a very fit body
 Weight:: 
