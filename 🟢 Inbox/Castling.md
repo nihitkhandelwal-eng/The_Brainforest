@@ -16,7 +16,7 @@ cssclass:
 	- i.e. if your king would cross path with a check or if after castling, it would be in check.
 
 #### King’s Side Castling
-- This is written as 0-0
+- This is written as 0-0.
 
 ```chesser
 fen: r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R
