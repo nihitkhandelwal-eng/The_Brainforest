@@ -1,6 +1,7 @@
 ---
 aliases:  
 tags:
+Win_The_Day:  
 cssclass:
 ---
 ---
@@ -14,11 +15,6 @@ cssclass:
 
 --- 
 ### Day Planner
-### Trackers
-###### Achieve a healthy MVP state of mental health
-Win_The_Day:: 
-Intentionality:: 
-Daily_effectiveness::
 
 ### Daily Activity 
 ###### Activity Grading

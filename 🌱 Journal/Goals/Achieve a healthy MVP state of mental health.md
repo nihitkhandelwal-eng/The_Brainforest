@@ -11,8 +11,8 @@ date_started:: [[09-Apr-22]]
 target_date:: [[30-Jun-22]]
 date_accomplished::
 accountabilty_buddy:: [[👤 Annemarie|Anne]]
-trackers::  [[Day Effectiveness]] | [[Intentionality]] | [[Sleep Hours]]
-habits:: [[Daily Meditation]] | [[Sleep Hours|Ideal Sleep Hours]] | [[Limit Watching Content While Working]] | [[Limit Masturbation]] | [[No Screen Time 1 Hour Before Bed]] | [[Brush Twice]] | [[Bathing]] | [[Win The Day]] 
+trackers::  
+habits:: [[Daily Meditation]] | [[Sleep Hours|Ideal Sleep Hours]] | [[Limit Watching Content While Working]] | [[Limit Masturbation]] | [[No Screen Time 1 Hour Before Bed]] | [[Brush Twice]] | [[Bathing]] | [[Win The Day]] | [[Day Effectiveness]] | [[Intentionality]] | [[Sleep Hours]] 
 
 ### Check-In’s
 ### Objectives
