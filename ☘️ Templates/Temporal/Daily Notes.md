@@ -17,13 +17,8 @@ cssclass:
 ### Trackers
 ###### Achieve a healthy MVP state of mental health
 Win_The_Day:: 
-Sleep_hours::
 Intentionality:: 
 Daily_effectiveness::
-
-###### Achieve a body weight of 80 Kg & a very fit body
-Weight:: 
-Calories:: 
 
 ### Daily Activity 
 ###### Activity Grading
