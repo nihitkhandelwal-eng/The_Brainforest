@@ -11,8 +11,8 @@ date_started:: [[09-Apr-22]]
 target_date:: [[30-Jun-22]]
 date_accomplished::
 accountabilty_buddy:: [[👤 Annemarie|Anne]]
-trackers:: Notes created today
-habits:: [[Sensemaking Sessions]]
+trackers:: 
+habits:: [[Sensemaking Sessions]] | [[Notes Created Today]]
 
 ### Check-In’s
 ### Objectives
