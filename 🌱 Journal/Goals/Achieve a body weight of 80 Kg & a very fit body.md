@@ -14,7 +14,7 @@ accountabilty_buddy:: [[Shashank Bhaiya]] | [[Aanya]]
 trackers:: [[Weight Tracker]] | [[Calories Tracker]]
 habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Running]] | [[Stretching]] | [[Eat Healthy]] | [[16/8 Intermittent Fasting]] 
 
-### Check-In’s
+### Check-In’s 
 ### Objectives
 - Target weight = 80 Kg %%Starting is 94 Kg%%
 - Biceps = 16 Inch %%Starting is 13.5 Inch%%
