@@ -24,4 +24,3 @@
 	- 🌱 Journal
 
 ---
-[[🌵 Workbench]]
