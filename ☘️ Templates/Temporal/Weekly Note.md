@@ -8,7 +8,7 @@ cssclass:
 
 ---
 
-## Highlight of this week
+### Highlight of this week
 <%tp.file.cursor(0)%>
 
 <% tp.file.rename(tp.file.title) -%>
