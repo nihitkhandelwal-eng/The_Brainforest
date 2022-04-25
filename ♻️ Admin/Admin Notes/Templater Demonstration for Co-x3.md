@@ -1,6 +1,7 @@
 ---
 aliases:
-tags: 
+tags: placeholder/publish 
+cssclass: 
 ---
 ---
 Here is a quick intro to templates
@@ -36,6 +37,8 @@ But it is one of the best plugin & you should use it for advanced use cases.
 	- this is not dependent on when the note is created, so if I create the note for 3rd March 2022 today, it will still work
 
 This are the basics, play around with the templates & throw any questions that you might have
+
+---
 
 See also:
 
