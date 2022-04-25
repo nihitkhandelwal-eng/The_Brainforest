@@ -1,9 +1,9 @@
 ---
 tags: type/poem
 aliases: [ Nannu's Poem ]
+cssclass: poem
 ---
 
-# <%+ tp.file.title %>
 >Is it me or my aching stomach
 That's burning?
 I have eaten too much, 
