@@ -1,0 +1,22 @@
+[[+Home]]
+# I want to... 
+- I want to get my bearings. Click [[+Home]].
+- I want to journal in a new daily note.
+	- Click on "Open today's note". If it's kind of personal, tag it with `#my/journal`.
+- I want to process new `#source` material, adding my own commentary.
+	- From that processing, I want to make new notes.
+- I want to find undeveloped notes and build them.
+	- Click `#note/boat🚤` (also search TK).
+- I want to further develop half-formed seedlings into fuller notes.
+	- Click `#note/develop🍃`
+- I want to forge, collide, and craft ideas in an `#MOC` note.
+- I want to further tidy up valuable, but messy notes.
+	- Click `#note/tidy🧹`
+- I want to navigate my existing spatial constellation of ideas. 
+	- Either go to: [[Interests MOC]] or "Open graph view"
+- I just want to browse around and have fun. Same as above.
+- I want to review my timestamped notes 
+	- (If you have hotkeys set up, you can go from day to day with a click. It's pretty awesome.)
+- I want to do a deeper reflection and planning session.
+	- Go to: `#my/review` and `#my/plan` 
+- I want to be surprised (click on "Open random note")
