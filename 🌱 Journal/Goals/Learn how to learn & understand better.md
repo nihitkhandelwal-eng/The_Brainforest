@@ -16,6 +16,9 @@ habits:: [[Sensemaking Sessions]] | [[Limit Watching Content While Working]] | [
 
 ### Check-In’s
 ### Objectives
+
+^02abbe
+
 - Maybe I can then give a presentation to Mami, Vihaan & Mama about what I learnt here.
 
 
