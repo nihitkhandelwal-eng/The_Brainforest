@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: module
+tags: modules
 cards-deck: Default
 cssclass:
 ---
