@@ -9,7 +9,7 @@ url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Embed-Adjustme
 > Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed. - Obsidian--ITS-Theme/Embed-Adjustments.md at main · SlRvb/Obs...
 
 ###### Metadata
-date:: [[25-Apr-22]]
+date:: 25-Apr-22
 author:: 
 
 ---

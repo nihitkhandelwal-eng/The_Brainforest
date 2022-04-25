@@ -9,7 +9,7 @@ url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md
 > Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed. - Obsidian--ITS-Theme/Callouts.md at main · SlRvb/Obsidian--IT...
 
 ###### Metadata
-date:: [[25-Apr-22]]
+date:: 25-Apr-22
 author:: 
 
 ---
@@ -67,7 +67,7 @@ author::
 
 ## Infoboxes
 
-```lisp
+```markdown
 > [!infobox]+
 > # Name
 > ![[Image.png|cover hsmall]]

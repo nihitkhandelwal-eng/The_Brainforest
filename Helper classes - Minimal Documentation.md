@@ -9,7 +9,7 @@ url: https://publish.obsidian.md/
 > Powered by Obsidian Publish.
 
 ###### Metadata
-date:: [[25-Apr-22]]
+date:: 25-Apr-22
 author:: 
 
 ---
