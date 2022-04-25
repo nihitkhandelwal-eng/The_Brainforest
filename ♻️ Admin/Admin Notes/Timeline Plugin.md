@@ -1,29 +1,33 @@
+---
+tags:
+aliases:
+cssclass: 
+---
 ### Timeline Preview
 
 [![Example](https://github.com/George-debug/obsidian-timeline/raw/master/readme_source/examples_4.jpg)](https://github.com/George-debug/obsidian-timeline/blob/master/readme_source/examples_4.jpg)
 
-## How to use it
+### How to use it
 
 Choose the `timeline` or `timeline-labeled` tag
 
--   `timeline` tag
+- `timeline` tag
     Requires `+` at the beginning of each line:
     -   each event has 3 `+`s in total: 1 for time, 1 for title and 1 for content
     -   you can separate them with empty lines if it's easier for you to write
     -   [Example](https://github.com/George-debug/obsidian-timeline/blob/master/readme_source/timeline_tag.md)
-    
--   #### `timeline-labeled` tag
+
+- `timeline-labeled` tag
     -   each event has a corresponding label (`date`, `title` and `content`) that starts the line, you can separate them with empty lines if it's easier for you to write
     -   [Example](https://github.com/George-debug/obsidian-timeline/blob/master/readme_source/timeline_labeled_tag.md)
    
-#### `[ ]` is optional!
+#### Classes
 
 You can use `[]` at the beginning of the code-block to add pre-written classes or your own classes to the wrapper.  
 Example: `[spaced-paragraph, your-class, even-more]`  
 Can be used for `timeline` and `timeline-labeled` tag  
 
 Example:
-
 ````
 ```timeline-labeled
 [line-5, body-3, active-color-interactive-accent-hover]
@@ -35,16 +39,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```
 ````
 
-## Just a snippet
 
-Use this [file](https://github.com/George-debug/obsidian-timeline/blob/master/just_the_snippet/timeline.css) as a snippet using this [template](https://github.com/George-debug/obsidian-timeline/blob/master/just_the_snippet/template.md)!
-
-## Customize
+### Customize
 
 Using pre-written classes for `line`, `body` and the `active color`:
 
--   ### line:
-    
+- line:
     -   preview (soon, for now test it in obsidian)
     -   classes:
         -   line-2
@@ -54,8 +54,7 @@ Using pre-written classes for `line`, `body` and the `active color`:
 
   
 
--   ### body:
-    
+- body:
     -   preview (soon, for now test it in obsidian)
     -   classes:
         -   body-2
@@ -63,26 +62,26 @@ Using pre-written classes for `line`, `body` and the `active color`:
         -   body-4
 
   
+### Active color
 
-### active color
-    -   it uses obsidian's css variables as active colors, so it matches the theme
-    -   default active color is *background-modifier-success*
-    -   if you want your own color use `--timeline-active-color` css variable attached to `.timeline` class
+- it uses obsidian's css variables as active colors, so it matches the theme
+  - default active color is *background-modifier-success*
+  - if you want your own color use `--timeline-active-color` css variable attached to `.timeline` class
 ```
 .timeline
 		--timeline-active-color: #00c137
 ```
 
-    - preview (soon, for now test it in obsidian)
-      - classes:
-          - active-color-background-modifier-success
-          - active-color-background-modifier-error
-          - active-color-background-modifier-error-hover
-          - active-color-text-accent
-          - active-color-text-accent-hover
-          - active-color-text-error
-          - active-color-text-error-hover
-          - active-color-text-selection
-          - active-color-interactive-accent
-          - active-color-interactive-accent-hover
-          - active-color-interactive-success
+- preview (soon, for now test it in obsidian)
+  - classes:
+	  - active-color-background-modifier-success
+	  - active-color-background-modifier-error
+	  - active-color-background-modifier-error-hover
+	  - active-color-text-accent
+	  - active-color-text-accent-hover
+	  - active-color-text-error
+	  - active-color-text-error-hover
+	  - active-color-text-selection
+	  - active-color-interactive-accent
+	  - active-color-interactive-accent-hover
+	  - active-color-interactive-success
