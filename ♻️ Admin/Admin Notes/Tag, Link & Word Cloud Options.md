@@ -1,3 +1,8 @@
+---
+tags:
+aliases:
+cssclass: 
+---
 ## General Options
 
 The following options are supported for all clouds.
