@@ -4,8 +4,11 @@ aliases: [Home]
 
 This is your launchpad and homebase. Your personal North Star. That's here. That's home. 
 
-## Atlas 
+###### Atlas 
 The Atlas holds my main sense-making maps.
+
+###### Compass
+The Compass point to other valuable spaces.
 
 
 #status/❓question 
