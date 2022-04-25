@@ -5,9 +5,6 @@ url: https://publish.obsidian.md/
 ---
 ---
 
-> ###### Description
-> Powered by Obsidian Publish.
-
 ###### Metadata
 date:: 25-Apr-22
 author:: 

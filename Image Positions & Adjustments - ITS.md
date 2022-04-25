@@ -9,7 +9,7 @@ url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Position
 > Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed. - Obsidian--ITS-Theme/Image-Positions.md at main · SlRvb/Obsid...
 
 ###### Metadata
-date:: [[25-Apr-22]]
+date:: 25-Apr-22
 author:: 
 
 ---
