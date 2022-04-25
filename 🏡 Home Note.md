@@ -1,8 +1,11 @@
 ---
-aliases: 
+aliases: [Home]
 ---
 
-This is your launchpad and home-base. Your personal North Star. That's here. That's home.
+This is your launchpad and homebase. Your personal North Star. That's here. That's home. 
+
+## Atlas 
+The Atlas holds my main sense-making maps.
 
 
 #status/❓question 
