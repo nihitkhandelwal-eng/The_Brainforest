@@ -50,7 +50,7 @@ author::
 | --- | --- | --- |
 | `no-t` | `no-title` | Hides callout title |
 | `n-th` | `no-table-header` | Hides table header in callouts |
-| `2`, `4` |  | Change number of columns for \[\[#Cards\]\] |
+| `2`, `4` |  | Change number of columns for \[\[`#Cards\]\] |
 
 > **Callouts uses the same [parameters](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions#sizing) as the images for resizing (width-wise) and [moving it](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions#leftrightcenter).**
 
