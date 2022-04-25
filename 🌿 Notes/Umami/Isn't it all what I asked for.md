@@ -1,7 +1,7 @@
 ---
 tags: type/poem 
 aliases:
-cssclass: poem
+cssclass: 
 ---
 
 >Is it me or my aching stomach
