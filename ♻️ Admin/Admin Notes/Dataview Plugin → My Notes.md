@@ -3,6 +3,7 @@ aliases: null
 tags: on/obsidian,
 ---
 https://blacksmithgu.github.io/obsidian-dataview/
+- [ ] break this down into multiple notes
 ## Metadata
 It is data/information about your data, that either is already in your data or manually added 
 
@@ -364,4 +365,5 @@ If you track `#People` in separate notes and add their Birthday as a dataview pr
 list from #People
 where Dates.Birthday = "2022-03-16"
 ```
+
 
