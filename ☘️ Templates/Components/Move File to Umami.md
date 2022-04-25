@@ -1,3 +1,3 @@
-<% await tp.file.move("/🌿 Notes/Umami/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/Umami/" + tp.file.title) %>
 
 

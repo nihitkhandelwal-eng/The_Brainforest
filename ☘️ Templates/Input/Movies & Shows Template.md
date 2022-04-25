@@ -12,7 +12,7 @@ Actor::
 ---
 <%tp.file.cursor(0)%>
 
-<% await tp.file.move("/🌿 Notes/Movies/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/Movies/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title

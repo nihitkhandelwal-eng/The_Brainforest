@@ -10,7 +10,7 @@ cssclass:
 
 
 
-<% await tp.file.move("/🌿 Notes/MOC's/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/MOC's/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title

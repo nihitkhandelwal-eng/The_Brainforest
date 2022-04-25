@@ -16,7 +16,7 @@ Profession::
 
 <%tp.file.cursor(0)%>
 
-<% await tp.file.move("/🌿 Notes/People/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/People/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title

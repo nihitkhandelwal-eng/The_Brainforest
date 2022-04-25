@@ -21,7 +21,7 @@ date_finished::
 ### Quotes
 ---
 
-<% await tp.file.move("/🌿 Notes/Books/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/Books/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title

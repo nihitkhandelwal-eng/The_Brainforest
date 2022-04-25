@@ -12,7 +12,7 @@ Composer::
 ---
 
 
-<% await tp.file.move("/🌿 Notes/Music/" + tp.file.title) %>
+<% await tp.file.move("/🌿 Spaces/Music/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title
