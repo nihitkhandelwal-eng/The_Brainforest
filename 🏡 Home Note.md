@@ -20,14 +20,3 @@ The Compass point to other valuable spaces.
 #status/📌put-a-pin-on-that
 
 #placeholder
-
-## Activity History
-```ActivityHistory
-/
-```
-
-
-
-
-
-<center><iframe width="600" height="300" src="https://indify.co/widgets/live/progressBar/IwlznUtcijO2hSugs33V"></iframe></center>
