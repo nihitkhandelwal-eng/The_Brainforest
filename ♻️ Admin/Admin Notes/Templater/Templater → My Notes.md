@@ -1,6 +1,7 @@
 ---
-aliases: null
-tags: on/obsidian,
+aliases: 
+tags: 
+cssclass: 
 ---
 
 It is a template language enabling uses of variables & functions in templates & thus notes
