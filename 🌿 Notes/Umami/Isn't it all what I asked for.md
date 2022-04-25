@@ -1,6 +1,6 @@
 ---
-tags: type/poem
-aliases: [ Nannu's Poem ]
+tags: type/poem 
+aliases:
 cssclass: poem
 ---
 
