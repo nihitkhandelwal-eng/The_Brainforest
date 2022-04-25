@@ -1,7 +1,7 @@
 ---
 tags:
 aliases:
-cssclass: 
+cssclass: table-100, img-100, iframe-100
 ---
 ## General Options
 
