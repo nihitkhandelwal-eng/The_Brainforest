@@ -16,7 +16,7 @@ habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Runnin
 
 ### Check-In’s 
 ### Objectives
-- Target weight = 80 Kg %%Starting is 94 Kg%%
+- Target weight = 80 Kg | Starting is 94 Kg
 - Biceps = 16 Inch %%Starting is 13.5 Inch%%
 - Pec Movement = Pro
 
