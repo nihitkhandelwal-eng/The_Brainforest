@@ -3,7 +3,7 @@ tags:
 aliases:
 cssclass: table-100, img-100, iframe-100
 ---
-## General Options
+### Configuration Options
 
 The following options are supported for all clouds.
 
@@ -26,5 +26,15 @@ The following options are supported for all clouds.
 | ellipticity | degree of 'flatness'                                                                                             | number                                                                                                                      | `0.65`                                 |
 | shuffle     | produce a different looking result each time?                                                                    | `true`/`false`                                                                                                              | `true`                                 |
 | rotateRatio | Rotation Probability                                                                                             | Number as percentage (so 1.0 is 100%)                                                                                       | `0.1`                                  |
+
+
+### Example
+```tagcloud
+shape: pentagon
+source: query
+query: '#feelings/bad'
+```
+
+
 
 
