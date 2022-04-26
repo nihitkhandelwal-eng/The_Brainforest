@@ -1,3 +1,10 @@
+---
+tags: genetics
+aliases:
+cssclass: 
+---
+
+This is the transcript of what [[👤 Nannu|Nannu]] sent me as his interpretation of NCERT 2 paragraphs on the topic.
 ### Application of Cloning sites
 - Let's say that we have a gene of interest, for example we need to administer a vaccine for Hepatitis B, for that we would need to clone antigen of Hepatitis B in order to amplify it so that it can be mass produced & can be administered to patients, so that patients can develop antibody against it.
 
