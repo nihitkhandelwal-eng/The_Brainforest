@@ -4,7 +4,7 @@ tags: on/obsidian
 cssclass: 
 ---
 
-# Admonition-Syntax
+### Syntax
 ```ad-<type>
 title:                  # Admonition title.
 collapse:               # Create a collapsible admonition.
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 
 ```
 
-# Types of Admonition
+### Types of Admonition / Callouts
 
 Type  |	Aliases
 ---| ---
