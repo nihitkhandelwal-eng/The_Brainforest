@@ -4,11 +4,10 @@ tags:
 cssclass:
 ---
 
-###### Inline Metadata 
+
+
 
 ---
-
-
 
 <% await tp.file.move("/🌿 Spaces/MOC's/" + tp.file.title) %>
 

@@ -8,7 +8,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 The Atlas holds my main sense-making maps.
 
 - Inside
-	- [[Thinking MOC]], [[Makings MOC]], [[Reflections MOC]]
+	- [[🌎 Thinking MOC]], [[Makings MOC]], [[Reflections MOC]]
 - Outside
 	- [[Interests MOC]], [[Sources MOC]], [[People MOC]]
 - Inward
