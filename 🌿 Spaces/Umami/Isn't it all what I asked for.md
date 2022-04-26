@@ -1,5 +1,5 @@
 ---
-tags: poem 
+tags: type/poem 
 aliases:
 cssclass: 
 ---
