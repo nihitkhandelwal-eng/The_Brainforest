@@ -8,8 +8,3 @@ tags:
 > #type/quote 
 
 - Not a maladaptive behaviour
-
-![[Dissociation - Annemarie.png]]
-
-
-[[Excerpt of Anne's Notes on what I sent her]]
