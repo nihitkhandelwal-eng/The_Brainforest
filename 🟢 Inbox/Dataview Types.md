@@ -1,3 +1,8 @@
+---
+tags:
+aliases:
+cssclass: 
+---
 
 #### List
 ````markdown
@@ -91,4 +96,3 @@ sort file.name asc, intensity desc
 
 ---
 
----

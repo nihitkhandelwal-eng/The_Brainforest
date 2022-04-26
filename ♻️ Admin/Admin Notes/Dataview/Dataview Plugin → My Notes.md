@@ -5,9 +5,7 @@ tags: on/obsidian,
 https://blacksmithgu.github.io/obsidian-dataview/
 - [ ] break this down into multiple notes
 
-See [[Metadata]]
-
-[[Dataview Types]]
+See [[Metadata]] & [[Dataview Types]]
 ## Dataview Queries 
 
 ### `From`
