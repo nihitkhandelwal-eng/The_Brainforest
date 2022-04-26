@@ -23,6 +23,8 @@ Pattern recognition alone doesn’t make us wise, but it gets us closer to wisdo
 
 All from making sense, over time of countless bits of information.
 
+---
+
 See also:
 
 
