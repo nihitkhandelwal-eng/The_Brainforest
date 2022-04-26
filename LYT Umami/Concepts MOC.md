@@ -1,7 +1,7 @@
 [[Thinking MOC]]
 
 *A concept is a pattern, truth, or mechanism recognized and given a name.*
-Just like the primordial goop that collided together billions of years ago to spark life on earth, so do these conceptual collisions spark exciting and diverse ideas.
+Just like the primordial goop that collided together billions of years ago to spark life on earth, so do these conceptual collisions, spark exciting and diverse ideas.
 
 | #concept | [[Psychological Concepts]]
 

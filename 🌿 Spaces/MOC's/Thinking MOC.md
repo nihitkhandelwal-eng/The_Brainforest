@@ -3,6 +3,7 @@ aliases:
 tags:
 cssclass:
 ---
+[[🏡 Home|Home Note]]
 
 We need to recognize there are many different and joyful ways to think. It's time to cultivate this inherently rich endeavor.
 
