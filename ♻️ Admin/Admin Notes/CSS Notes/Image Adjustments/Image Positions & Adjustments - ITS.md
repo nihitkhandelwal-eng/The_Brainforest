@@ -1,7 +1,6 @@
 ---
-aliases: 
 tags: type/web_clipping
-url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md
+aliases: 
 ---
 ---
 
@@ -11,14 +10,9 @@ url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Position
 ###### Metadata
 date:: 25-Apr-22
 author:: 
+url:: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md
 
 ---
-
-## Article
-
-[Open in github.dev](https://github.dev/) [Open in a new github.dev tab](https://github.dev/)
-
-[Permalink](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/2ac85a755f84618739cebed2039545ce20d6beac/Guide/Image-Positions.md)
 
 ## Image Positions
 
