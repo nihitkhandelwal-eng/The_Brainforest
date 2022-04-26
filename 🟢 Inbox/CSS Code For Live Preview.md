@@ -1,9 +1,9 @@
 ---
+tags: CSS, Coding
 aliases:
-tags: 
+cssclass: 
 ---
 ---
-You have not mentioned if you want it for the Edit/Live Preview mode, or for Reading mode, or for both.
 
 Here is the code for both Edit (= CM5) and Reading mode:
 
@@ -20,6 +20,7 @@ Having said that (last paragraph), it might not be sufficient (I have not checke
 
 - This was told by Klass in a post [here](https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/186?u=nihit)
 ---
+
 See also:
 
 
