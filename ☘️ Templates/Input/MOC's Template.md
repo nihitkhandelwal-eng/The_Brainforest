@@ -8,6 +8,7 @@ cssclass:
 
 
 ---
+<% tp.file.cursor(0) %>
 
 <% await tp.file.move("/🌿 Spaces/MOC's/" + tp.file.title) %>
 
@@ -15,7 +16,6 @@ cssclass:
   let title = tp.file.title
   if (title.startsWith("Untitled")) {
     title = await tp.system.prompt("Title");
-    await tp.file.rename("🌎 " + `${title}`);
-  } else {await tp.file.rename("🌎 " + `${title}`);
-  }
+    await tp.file.rename(`${title}`);
+  } 
 %>
