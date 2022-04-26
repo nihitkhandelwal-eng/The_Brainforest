@@ -22,5 +22,6 @@ The Atlas holds my main sense-making maps.
 ###### Compass
 The Compass point to other valuable spaces.
 
-[[Cabin 🪵]] | [[Seedbox 🌱]] | [[The Forge 🔥🗡]] | [[LYT Home ⚡️]] 
+example: 
+Cabin | Seedbox | The Forge | LYT Home  
 
