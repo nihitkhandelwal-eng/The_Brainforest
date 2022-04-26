@@ -1,6 +1,7 @@
 ---
-aliases: null
-tags: on/obsidian,
+aliases: 
+tags: 
+cssclass: 
 ---
 # Obsidian Command List
 

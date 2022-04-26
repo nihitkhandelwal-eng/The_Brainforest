@@ -1,3 +1,9 @@
+---
+tags:
+aliases:
+cssclass: 
+---
+
 1. Create simple cards with "→" → No need for a template
 	- To reverse this use "←" → No need for a template
 2. Highlight to create clozes → I have a template & also can be done without a template

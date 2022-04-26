@@ -1,3 +1,9 @@
+---
+tags:
+aliases:
+cssclass: 
+---
+
 - Daily Notes
 	- YYYY/[Quarter ]Q/MM-MMMM/DD-MMM-YY
 	- ☘️ Templates/Temporal/Daily Notes.md
