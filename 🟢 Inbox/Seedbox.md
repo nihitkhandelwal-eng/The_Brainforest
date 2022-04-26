@@ -6,9 +6,11 @@ cssclass:
 ---
 
 ```dataview
-table file.ctime as "Created", file.mtime as "Modified"
+table file.cday as "Created", file.mday as "Modified"
 from #status/🍃boat  
 ```
+
+---
 
 See also:
 
