@@ -6,7 +6,7 @@ cssclass:
 ---
 
 ```dataview
-list
+table date
 from #status/🍃boat  
 ```
 
