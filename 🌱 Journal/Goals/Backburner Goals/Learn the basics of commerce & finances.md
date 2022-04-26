@@ -1,5 +1,5 @@
 ---
-tags: goal/up_next  
+tags: type/goal/up_next  
 aliases:
 cssclass: 
 ---

@@ -1,5 +1,5 @@
 ---
-tags: goal/ongoing
+tags: type/goal/ongoing
 aliases:
 cssclass: 
 ---

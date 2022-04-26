@@ -1,5 +1,5 @@
 ---
-tags: goal/medium_priority, 
+tags: type/goal/medium_priority, 
 aliases:
 cssclass: 
 ---
