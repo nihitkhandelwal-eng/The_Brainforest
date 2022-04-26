@@ -1,9 +1,9 @@
 ---
-tags: on/obsidian,
-aliases: null
+tags: 
+aliases:
+cssclass: 
 ---
 
-# <%+ tp.file.title %>
 ---
 - [x] done (x)
 - [B] Bug (B)

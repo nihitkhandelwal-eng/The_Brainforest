@@ -10,12 +10,11 @@ aliases:
 ###### Metadata
 date:: 25-Apr-22
 author:: 
-url:: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md
+url:: [Github](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md)
 
 ---
 
 ## Image Positions
-
 > Move/position and re-size the images in notes
 
 [Download Image Adjusment Snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/S%20-%20Images%20Adjustments.css)

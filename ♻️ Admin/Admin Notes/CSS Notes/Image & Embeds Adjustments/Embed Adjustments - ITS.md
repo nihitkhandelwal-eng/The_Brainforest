@@ -1,24 +1,18 @@
 ---
+tags: type/web_clipping 
 aliases: 
-tags: type/web_clipping
-url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Embed-Adjustments.md
+cssclass: 
 ---
 ---
-
-> ###### Description
-> Theme designed with readability and customizability in mind. Change it easily to your liking with the Style Settings plugin installed. - Obsidian--ITS-Theme/Embed-Adjustments.md at main · SlRvb/Obs...
 
 ###### Metadata
 date:: 25-Apr-22
 author:: 
+url:: [Github](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Embed-Adjustments.md) 
 
 ---
 
-## Article
 
-[Open in github.dev](https://github.dev/) [Open in a new github.dev tab](https://github.dev/)
-
-[Permalink](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/2ac85a755f84618739cebed2039545ce20d6beac/Guide/Embed-Adjustments.md)
 
 ## Embed Adjustments
 
