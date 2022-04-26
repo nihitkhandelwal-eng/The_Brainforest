@@ -10,7 +10,7 @@ We need to recognize there are many different and joyful ways to think. It's tim
 - Connect ideas | Make leaps of insights | Think conceptually 
 	- [[Concepts MOC]]
 - Develop ideas | Think laterally | Broaden my perspective | Gain clarity
-	- [[Seedbox 🌱]]
+	- [[Seedbox]]
 	- [[Refraction Thinking]] | [[Nick's custom prompts for note-making]]
 	- [[•Sensemaker's Toolkit (P)]]
 - Define a problem | Solve a problem | Gain clarity
