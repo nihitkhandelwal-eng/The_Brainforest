@@ -1,6 +1,7 @@
 ---
-aliases:
 tags: 
+aliases:
+cssclass: 
 ---
 ---
 1. Masturbation
@@ -17,8 +18,9 @@ tags:
 	- Nothing is Perfect, so the idea itself is flawed
 	- Aim for perfection but don’t hesitate in getting started
 
+---
+
 See also:
 
 
----
 

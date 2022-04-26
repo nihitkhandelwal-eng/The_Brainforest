@@ -5,7 +5,6 @@ tags:
 ---
 # Here is my H1 header
 
-
 Then I prefer jumping into H3 headers. 
 
 ### Here's an H3 header

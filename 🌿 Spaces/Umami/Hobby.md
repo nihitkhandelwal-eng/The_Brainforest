@@ -1,6 +1,10 @@
 ---
-aliases: [What is a hobby?]
 tags: 
+aliases: [What is a hobby?]
+cssclass: 
+
+
+
 ---
 
 ## Etymology
@@ -17,7 +21,7 @@ tags:
 		- Many collect coins of different countries and have a huge collection of old and rare coins of various countries of the world. This is a hobby that is referred to as numismatics. 
 - Hobbies often led to invention and discovery. Many celestial bodies are discovered by amateur astronomers.
 
-- The important thing to remember is that a hobby is pursued for fun or pleasure and not for remuneration. ==Thus, an activity ceases to be a hobby as soon as it becomes a profession or a source of livelihood for an individual.==
+- The important thing to remember is that a hobby is pursued for fun or pleasure and not for remuneration. Thus, an activity ceases to be a hobby as soon as it becomes a profession or a source of livelihood for an individual.
 
 See also:
 [[Differences Between Hobbies and Interests]]

@@ -3,7 +3,11 @@ aliases:
 tags: 
 cssclass: 
 ---
-# Obsidian Command List
+
+### Hotkey Tips
+- Use Ctrl+Shift+Click to open in new pane in edit mode
+
+## Obsidian Command List
 
 This shows the currently active commands and defined hotkeys. Command _names_ are localized to whatever language you’ve set Obsidian to use (the same as used in the Command Palette).
 

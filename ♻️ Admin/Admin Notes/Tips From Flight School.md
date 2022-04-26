@@ -1,11 +1,9 @@
 ---
-aliases:
 tags: 
+aliases:
+cssclass: 
 ---
 ---
-
-## Hotkey Tips
-- Use Ctrl+Shift+Click to open in new pane in edit mode
 
 ## Note taking Tips
 ### H1 | H2 & H3
@@ -33,13 +31,12 @@ If I was using H3's then I can stay loose and creative (not restricted) as I com
 
 At the end of this process, you still have your proper H1, H2, and H3 headers, but you developed your structure in a fluid, non-rigid way, allowing your creative, lateral thinking muscles to stay involved in the work.
 
-[[Use case of headers from Nick Milo]]
-
-
-
 ### H6
 - Header 6 is when you want a header, but not really.
 - Header 6 is the swiss army knife of using a header without messing around with the core structure of the note (nor with messing around with SEO).
+
+---
+
 ### On the use of dividers
 Just like the "exploratory" approach to headers, I use dividers in much the same way. I use dividers liberally the start with, sometimes whenever something just "feels" different enough. A good example of this is when I take meeting notes. I don't want to add a ton of headers in the moment; it feels too heavy. Instead, I'll just add a divider and keep typing.
 Also, if you want to give a presentation using Obsidian, the core "slides" plugin uses dividers to recognize page breaks.
