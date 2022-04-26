@@ -1,10 +1,11 @@
 ---
-aliases: null
-tags: on/obsidian,
+tags: 
+aliases: 
+cssclass: 
 ---
 [SIRvb's Repo](https://github.com/SlRvb/Obsidian--ITS-Theme#ii-attributes)
 
-# ITS Adjustments
+## ITS Adjustments
 ![[Banner & Portrait.png]]
 ![[Profile.png]]
 
@@ -13,8 +14,8 @@ tags: on/obsidian,
 
 ![[Left-Right-Center.png]]
 ![[Micro Image Customizations.png]]
-# Lithou Image Flags
-## Core Flags
+## Lithou Image Flags
+### Core Flags
 - image.png|+side
 - image.png|+tape
 - image.png|+pin
@@ -24,19 +25,19 @@ tags: on/obsidian,
 - image.png|+hr
 - image.png|+grid
 
-## Modifier Flags
+### Modifier Flags
 i.e. add them after the core flags
-### Orientation & Position
+#### Orientation & Position
 -left
 -right
-### Size
+#### Size
 -thumb
 -sm
 -med
 -lg
 -huge
 -cwidth
-### Borders
+#### Borders
 -border1
 -border2
 -bradius1
@@ -47,7 +48,7 @@ i.e. add them after the core flags
 -bradiusbl
 -bthick
 -bthin
-### Misc
+#### Misc
 -shadow
 -glow
 -nofloat
