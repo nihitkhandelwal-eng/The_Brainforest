@@ -1,10 +1,11 @@
 ---
-aliases: null
-tags: on/obsidian,
+aliases: 
+tags: 
+cssclass: 
 ---
-https://blacksmithgu.github.io/obsidian-dataview/
-- [ ] break this down into multiple notes
 
+
+[Official Documentation](https://blacksmithgu.github.io/obsidian-dataview/)
 See [[Metadata]] & [[Dataview Types]]
 ## Dataview Queries 
 
@@ -61,6 +62,20 @@ Then, group by `intensity`:
 
 `group by intensity`
 
+##### Group by tags
+
+```
+table rows.file.tags, rows.file.link
+from #Fi/Yoga
+group by file.tags
+```
+
+###### Limitations
+
+It will only consider two notes to be in the same group if they have **exactly the same tags**.
+
+-   So even if two notes have `#Note/Author`, if the one has a tag that the other doesn't, they won't be grouped together.
+- 
 ### `rows Object`
 
 By grouping the notes, we've created a **new object**.
@@ -87,19 +102,6 @@ from #Uni/2021/Asg
 group by intensity
 ```
 
-##### Group by tags
-
-```
-table rows.file.tags, rows.file.link
-from #Fi/Yoga
-group by file.tags
-```
-
-###### Limitations
-
-It will only consider two notes to be in the same group if they have **exactly the same tags**.
-
--   So even if two notes have `#Note/Author`, if the one has a tag that the other doesn't, they won't be grouped together.
 
 
 ## Dataview Functions 
