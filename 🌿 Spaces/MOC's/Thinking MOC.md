@@ -1,5 +1,5 @@
 ---
-aliases: [Thinking MOC]
+aliases: 
 tags:
 cssclass:
 ---

@@ -1,5 +1,5 @@
 ---
-aliases: [<% tp.file.title %>]
+aliases:
 tags:
 cssclass:
 ---
