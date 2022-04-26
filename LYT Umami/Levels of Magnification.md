@@ -1,4 +1,4 @@
-[[🌎 Thinking MOC]] %% tags:: #concept dates:: 2018-06-18 %%
+[[Thinking MOC]] %% tags:: #concept dates:: 2018-06-18 %%
 
 # Levels of Magnification
 *Analyzing a Problem Through Three Different Levels of Magnification*

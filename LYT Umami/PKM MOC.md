@@ -10,7 +10,7 @@ Here are your "best practices" for managing your personal knowledge.
 
 ## Your PKM Meta Levels
 ### 1st level - Thinking
-[[Nick's custom prompts for note-making]] | [[🌎 Thinking MOC]]
+[[Nick's custom prompts for note-making]] | [[Thinking MOC]]
 
 ### 2nd level - Building relationships
 [[Folders]] | [[Tag Taxonomy 🔖]] | [[Templates]] | [[Vaults]] | [[PKM Misc]]

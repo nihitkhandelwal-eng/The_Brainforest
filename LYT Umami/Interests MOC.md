@@ -8,7 +8,7 @@ Navigate your library of interests with a classification system modified for PKM
 The [[PKM MOC]] shows the best practices of knowledge management. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.
 
 ### Personal Management
-The [[🌎 Thinking MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. Underpinning all is my [[Cabin 🪵]] note. Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]].
+The [[Thinking MOC]] can galvanize my attention; the [[Concepts MOC]] can flavor it; and the [[Habits MOC]] speaks about how to direct it. Underpinning all is my [[Cabin 🪵]] note. Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]].
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
 [[Philosophy MOC]] | [[Stoicism MOC]] | [[Confucianism MOC]] |

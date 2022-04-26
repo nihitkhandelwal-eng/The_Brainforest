@@ -1,4 +1,4 @@
-[[🌎 Thinking MOC|Mindsets]] %% tags:: #on/PD #MOC %%
+[[Thinking MOC|Mindsets]] %% tags:: #on/PD #MOC %%
 
 # Flowcreation MOC
 *Flowcreation: Choose your own Adventure*

@@ -1,4 +1,4 @@
-[[🌎 Thinking MOC]] %% tags:: #concept %%
+[[Thinking MOC]] %% tags:: #concept %%
 # Refraction Thinking
 *Thinking about ONE thing, through the lens of ANOTHER thing.*
 
