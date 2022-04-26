@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [boatyard, boat yard]
 tags: 
 cssclass:
 ---
