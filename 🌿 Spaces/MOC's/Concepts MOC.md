@@ -13,6 +13,8 @@ Just like the primordial goop that collided together billions of years ago to sp
 ### Daily reminders of powerful concepts
 Why not string out these ideas into paragraphs? What a way to unearth hidden connections!
 
+Starting some days, I'll consider how to apply three *strategic* mental models: [[OODA Loop]], [[Levels of Magnification]], and [[Refraction Thinking]].
+
 
 
 
