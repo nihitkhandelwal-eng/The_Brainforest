@@ -6,9 +6,6 @@ cssclass:
 ---
 
 ### What is it?
-
-
-
 - It’s a move to protect your king & activate your rook.
 - It’s the only time in chess, when you can move 2 pieces in one move.
 
