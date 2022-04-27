@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: placeholder/publish 
+tags: 
 cssclass: 
 ---
 ---
