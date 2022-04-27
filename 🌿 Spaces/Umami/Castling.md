@@ -1,5 +1,5 @@
 ---
-tags: chess  
+tags: on/chess  
 aliases:
 cssclass:
 ---

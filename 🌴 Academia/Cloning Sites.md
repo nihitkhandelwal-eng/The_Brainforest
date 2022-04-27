@@ -1,5 +1,5 @@
 ---
-tags: genetics
+tags: on/genetics
 aliases:
 cssclass: 
 ---
