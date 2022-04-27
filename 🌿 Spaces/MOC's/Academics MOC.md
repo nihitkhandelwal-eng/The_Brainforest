@@ -1,5 +1,5 @@
-#volatile/doubt
-#volatile/resolved
+#placeholder/volatile/doubt
+#placeholder/volatile/resolved
 #placeholder/volatile
 
 > brief definition
