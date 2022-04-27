@@ -14,6 +14,6 @@ title: Wiki
 **The OODA loop is the decision cycle of observe, orient, decide, and act**, developed by military strategist and United States Air Force Colonel John Boyd. Boyd applied the concept to the combat operations process, often at the operational level during military campaigns. It is now also often applied to understand commercial operations and learning processes. The approach *favors agility over raw power* in dealing with human opponents in any endeavor
 ```
 
-
+The OODA Loop is not only a tool to win in battle. It is a learning engine that acts as a [[Positive Feedback Loop]] that allows an individual or organization to thrive in a changing environment.
 
 See also:
