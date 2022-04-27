@@ -16,4 +16,4 @@ title: Wiki
 
 The OODA Loop is not only a tool to win in battle. It is a learning engine that acts as a [[Positive Feedback Loop]] that allows an individual or organization to thrive in a changing environment.
 
-See also:
+Related:
