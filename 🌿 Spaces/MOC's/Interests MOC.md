@@ -107,18 +107,6 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 - Warehouse (for this or the Home note)
 
 ---
-## Unrequited incoming links 💝
-```dataview
-list
-from [[Interests MOC]]
-and !outgoing([[Interests MOC]])
-sort file.name asc
-```
-
-
-
----
-
 
 
 
