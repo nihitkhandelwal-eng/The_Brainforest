@@ -9,7 +9,7 @@ MOC (pronounced EM-OH-SEE) stands for "Maps of Content". A note that mainly has 
 
 MOCs help you gather, develop, and navigate your idea
 
-## When to use MOCs
+### When to use MOCs
 The ability to know when and how to make an MOC is a key skill in overcoming overwhelm and project slowdown.
 
 Whenever you start to feel that tickle of overwhelm ([[Mental Squeeze Point]]), that's when you need to *become a cartographer of your own content* and create a new MOC. 
