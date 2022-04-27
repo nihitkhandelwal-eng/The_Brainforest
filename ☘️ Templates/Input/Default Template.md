@@ -6,7 +6,7 @@ cssclass:
 ---
 <%tp.file.cursor(0)%>
 
-See also:
+Related:
 
 <%*
   let title = tp.file.title

@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Positive Feedback Loops]
 tags: 
 cssclass:
 ---
@@ -10,6 +10,6 @@ _"The more you feed me, the more I feed you."_
 
 ---
 
-See also:
+Related: [[Habits carry a ton of hidden inertia]]
 
 
