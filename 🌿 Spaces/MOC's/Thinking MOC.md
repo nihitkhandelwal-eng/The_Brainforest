@@ -47,5 +47,5 @@ We need to recognize there are many different and joyful ways to think. It's tim
 Let's define some overlapping conceptual categories:
 -   **Concept**: A concept is a pattern, truth, or mechanism recognized and given a name.
 -   **Mental Models** are specific readily-available patterns or mechanisms that—*when applied to a current situation or thing*—allow for efficient, optimal action. Great for strategic agency and in-the-moment adaptability.
--   **Metaphors** are primarily for relating unlike things. Great for creative expression and a means unto itself.
--   [[Refraction Thinking]] are primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating. 
+- **Metaphors** are primarily for relating unlike things. Great for creative expression and a means unto itself.
+- [[Refraction Thinking]] are primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating. 
