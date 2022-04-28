@@ -16,13 +16,3 @@ cssclass:
 --- 
 ### Day Planner
 
-### Daily Activity 
-###### Activity Grading
-| Activity | Time Given | Fun | Satisfaction |
-| -------- | ---------- | --- | ------------ |
-|  |            |     |              |
-
-###### Notes Created Today
-###### Notes Modified Today 
-
-
