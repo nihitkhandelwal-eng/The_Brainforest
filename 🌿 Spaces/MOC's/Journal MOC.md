@@ -1,11 +1,13 @@
 
-#journal/highlight
-#journal/happy
-#journal/surprised
-#journal/procrastinating
-#journal/bad 
-#journal/euphoric 
-
-Happy Variants
-#journal/funny
-#journal/content
+- #journal/highlight
+- #journal/happy
+	- #journal/funny
+	- #journal/proud
+	- #journal/confident
+	- #journal/optimistic
+	- #journal/creative
+- #journal/surprised
+- #journal/procrastinating
+- #journal/bad 
+- #journal/euphoric 
+- #journal/content
