@@ -1,7 +1,8 @@
 ---
 aliases:
-tags: on/stretching 
+tags: on/stretching, on/workout 
 ---
+
 ---
 
 ![[Biceps Stretching.jpg]]
