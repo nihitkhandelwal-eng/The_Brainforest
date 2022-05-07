@@ -1,8 +1,8 @@
 
-#feelings/highlight
-#feelings/happy
-#feelings/surprised
-#feelings/lazy 
-#feelings/bad 
-#feelings/euphoric 
+#journal/highlight
+#journal/happy
+#journal/surprised
+#journal/lazy 
+#journal/bad 
+#journal/euphoric 
 
