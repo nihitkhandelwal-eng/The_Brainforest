@@ -1,14 +1,7 @@
 ---
 aliases:
 tags: on/workout 
-
-
-
 ---
----
-
-
-
 
 #### Theory 
 ![[Supinated Row.mp3]]

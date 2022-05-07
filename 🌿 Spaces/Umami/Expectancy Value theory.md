@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags: review 
 ---
 # Expectancy Value Theory
 ---

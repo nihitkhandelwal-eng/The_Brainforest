@@ -1,15 +1,12 @@
 ---
-tags: 
+tags: review 
 aliases:
 cssclass: 
-
-
-
 ---
 ---
 1. Masturbation
 	- Break associations - [[👤 Nannu]]
-	- Reinforce the idea that, it almost never feels good after doing the said activity
+	- Reinforce the idea that, it almost never feels as bad after doing the said activity
 	- Do something else if the trigger happens, so that the trigger may subside or decrease in amplitude
 2. Screen Time Before Bed
 	- Alternative? : Listen something, audio can be a good idea

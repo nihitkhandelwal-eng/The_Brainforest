@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [status/🍃boat]
+tags: status/🍃boat
 ---
 ---
 

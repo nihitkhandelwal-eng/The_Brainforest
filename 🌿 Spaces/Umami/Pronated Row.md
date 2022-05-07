@@ -1,9 +1,6 @@
 ---
 aliases:
 tags: on/workout 
-
-
-
 ---
 ---
 

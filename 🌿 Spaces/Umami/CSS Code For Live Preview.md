@@ -1,8 +1,5 @@
 ---
 tags: on/CSS, on/coding
-
-
-
 aliases:
 cssclass: 
 ---

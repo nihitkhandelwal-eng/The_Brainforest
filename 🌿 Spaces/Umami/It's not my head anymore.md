@@ -1,9 +1,8 @@
 ---
 tags: type/poem
-aliases: null
+aliases: 
 ---
 
-# <%+ tp.file.title %>
 ---
 > I just sat and scratched my head for days;
   And, my world started falling apart as flakes.
