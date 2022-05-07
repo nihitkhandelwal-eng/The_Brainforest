@@ -6,3 +6,6 @@
 #journal/bad 
 #journal/euphoric 
 
+Happy Variants
+#journal/funny
+#journal/content
