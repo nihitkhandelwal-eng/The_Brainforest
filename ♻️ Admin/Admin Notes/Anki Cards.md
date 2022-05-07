@@ -10,7 +10,7 @@ cssclass:
 	- Can be done with == or with {cloze} or with {2:cloze}
 3. Single Table Markdown → I have a template
 4. Q & A Card → I have a template
-5. Add the hashtag #card to a line or a header & that line or header becomes the front of it & the line below it will be the back
+5. Add the hashtag `#card` to a line or a header & that line or header becomes the front of it & the line below it will be the back
 
 
 ### Decks

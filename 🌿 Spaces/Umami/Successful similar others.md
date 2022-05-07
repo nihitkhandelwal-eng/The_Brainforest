@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: review 
+tags: placeholder/review 
 ---
 
 -   If a person feels that they can achieve their goal then, it is much more likely that he/she will stick with it

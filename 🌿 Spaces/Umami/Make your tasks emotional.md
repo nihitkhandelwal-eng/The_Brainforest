@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: review 
+tags: placeholder/review 
 ---
 
 -   You can use dramatic emotions Experiment with both kinds of emotions, fun & fear
