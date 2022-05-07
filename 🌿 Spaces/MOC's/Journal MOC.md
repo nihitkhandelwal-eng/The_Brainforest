@@ -7,7 +7,21 @@
 	- #journal/optimistic
 	- #journal/creative
 - #journal/surprised
+	- #journal/intentional
+	- #journal/focussed
+	- #journal/energized
+	- #journal/productive
 - #journal/procrastinating
+	- #journal/anxious
+	- #journal/sick
+	- #journal/discouraged
+	- #journal/lonely
+	- #journal/disappointed
 - #journal/bad 
+	- #journal/depressed
+	- #journal/numb
+	- #journal/devastated
+	- #journal/furious
+	- #journal/terrified
 - #journal/euphoric 
-- #journal/content
+	- #journal/musical
