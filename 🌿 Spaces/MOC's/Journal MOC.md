@@ -2,7 +2,7 @@
 #journal/highlight
 #journal/happy
 #journal/surprised
-#journal/lazy 
+#journal/procrastinating
 #journal/bad 
 #journal/euphoric 
 
