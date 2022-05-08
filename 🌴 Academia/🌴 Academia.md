@@ -1,10 +1,1 @@
-## Activity Tracker
-```ActivityHistory
-🌴 Academia
-```
-
-## Overview
-```folderv
-target: 
-sort: modify-new
-```
+Subjects are top level MOC's here
