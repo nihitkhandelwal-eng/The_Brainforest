@@ -21,3 +21,5 @@ Here are the available settings for a `chesr` code block:
 | `free` | `true`/`false` | If enabled, disables the chess logic, all moves are valid. |
 
 You can permanently set some settings in Chesser's obsidian plugin settings.
+
+will this be all over the places
