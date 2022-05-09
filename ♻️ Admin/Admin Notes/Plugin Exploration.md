@@ -2,6 +2,7 @@
 aliases:
 tags: 
 cssclass:
+banner: "![[IMG_2342.jpeg]]"
 ---
 ---
 
