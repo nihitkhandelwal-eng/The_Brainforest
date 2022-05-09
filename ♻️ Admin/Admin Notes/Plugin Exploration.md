@@ -13,10 +13,8 @@ cssclass:
 - Minimal Card View (I don't think this is a plugin but still)
 - Charts View
 - Chat View
-
-> [!error] Insufficient Testing
-> - Annotator
-> 
+- Annotator
+- CSV Table 
 
 ## Exploring now 
 
