@@ -7,6 +7,8 @@ cssclass:
 
 ## Plugins to explore
 - Activity History
+- Breadcrumbs
+- Buttons
 
 > [!error] Insufficient Testing
 > - Annotator
