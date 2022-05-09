@@ -9,7 +9,7 @@ cssclass:
 - Activity History
 - Breadcrumbs
 - Buttons
-- Card View Mode
+- Card View Mode → Check with Style settings plugin
 - Card View Switcher
 - Minimal Card View (I don't think this is a plugin but still)
 
