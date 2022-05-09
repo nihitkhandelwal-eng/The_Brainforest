@@ -8,4 +8,5 @@ cssclass:
 ## Plugins to explore
 - Activity History
 
-## i
+## Exploring now 
+
