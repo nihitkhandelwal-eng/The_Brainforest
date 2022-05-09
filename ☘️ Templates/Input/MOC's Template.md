@@ -4,10 +4,6 @@ tags:
 cssclass:
 ---
 
-
-
-
----
 <% tp.file.cursor(0) %>
 
 

@@ -2,13 +2,9 @@
 aliases: [<% tp.file.title %>]
 tags: 
 cssclass:
----
-
-###### Inline Metadata 
-Lyricist:: <%tp.file.cursor(0)%>
-Singer::
-Composer::
-
+Lyricist: <%tp.file.cursor(0)%>
+Singer:
+Composer:
 ---
 
 

@@ -5,9 +5,6 @@ cards-deck: Default
 cssclass:
 ---
 
-###### Inline Metadata 
-
----
 <%tp.file.cursor(0)%>
 
 
