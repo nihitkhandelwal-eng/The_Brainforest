@@ -7,7 +7,6 @@ cssclass:
 
 ## Plugins to explore
 - Activity History
-- Breadcrumbs
 - Buttons
 - Card View Mode → Check with Style settings plugin
 - Minimal Card View (I don't think this is a plugin but still)
@@ -16,7 +15,10 @@ cssclass:
 - Annotator
 - CSV Table 
 
-## Exploring now 
+## High value plugins to explore
+- Dataview
+- Breadcrumbs
+- 
 
 
 
