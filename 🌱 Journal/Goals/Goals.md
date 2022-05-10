@@ -1,30 +1,27 @@
-
+###### Mission Critical
 ```dataview
 table 
 target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
 from #type/goal/mission_critical  
-sort file.name asc
-```
-
-
-###### Mission Critical
-```dataview
-list date_created
-from #type/goal/mission_critical  
-sort file.name asc
 ```
 
 ---
+
 ###### Medium Priority
-
-
 ```dataview
-table WITHOUT ID file.name as "Low Priority"
-from #goal/low_priority 
-sort file.name asc
+table 
+target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
+from #type/goal/medium_priority   
 ```
 
+---
 
+###### Low Priority
+```dataview
+table 
+target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
+from #type/goal/low_priority   
+```
 
 
 ```dataview
