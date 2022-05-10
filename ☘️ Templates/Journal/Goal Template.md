@@ -3,7 +3,6 @@ tags:
 aliases:
 cssclass: 
 ---
----
 
 ###### Inline Metadata 
 date_created:: [[<% tp.date.now("DD-MMM-YY") %>]]
