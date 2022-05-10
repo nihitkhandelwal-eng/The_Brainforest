@@ -1,9 +1,7 @@
 
 ```dataview
-table
-target_date as "Target Date", row.tags
-from #goal/medium_priority
-group by tags
+table Without ID file.name as "Medium Priority"
+from #type/goal/medium_priority 
 sort file.name asc
 ```
 
@@ -11,7 +9,7 @@ sort file.name asc
 ###### Mission Critical
 ```dataview
 list 
-from #goal/mission_critical 
+from #type/goal/mission_critical  
 sort file.name asc
 ```
 
