@@ -15,6 +15,8 @@ trackers:: [[Calories Tracker]]
 habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Running]] | [[Stretching]] | [[Eat Healthy]] | [[16/8 Intermittent Fasting]] 
 
 ### Check-In’s 
+- [[10-May-22]] → Skipped gym today, but overall, I think it is going good
+	- 
 ### Objectives
 - Target weight = 80 Kg | Starting is 94 Kg
 - Biceps = 16 Inch %%Starting is 13.5 Inch%%
