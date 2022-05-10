@@ -14,7 +14,7 @@ cssclass:
 - Chat View
 - Annotator
 - CSV Table 
-- Dialogue
+- Dialogue Table
 
 ## Critical plugins to explore
 - Dataview
