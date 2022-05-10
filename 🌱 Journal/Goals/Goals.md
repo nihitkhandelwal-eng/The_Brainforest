@@ -1,6 +1,7 @@
 
 ```dataview
-table Without ID file.name as "Medium Priority"
+table 
+date_started as "Started On"
 from #type/goal/medium_priority 
 sort file.name asc
 ```
@@ -8,7 +9,7 @@ sort file.name asc
 
 ###### Mission Critical
 ```dataview
-list 
+list date_created
 from #type/goal/mission_critical  
 sort file.name asc
 ```
