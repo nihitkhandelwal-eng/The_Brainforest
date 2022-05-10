@@ -1,5 +1,0 @@
-## Activity Tracker
-```ActivityHistory
-🌱 Journal
-```
-
