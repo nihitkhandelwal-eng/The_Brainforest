@@ -34,15 +34,6 @@ from #type/goal/low_priority
 
 ---
 
-###### Ongoing
-```dataview
-table 
-target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
-from #type/goal/ongoing   
-```
-
----
-
 ###### Upnext
 ```dataview
 table 

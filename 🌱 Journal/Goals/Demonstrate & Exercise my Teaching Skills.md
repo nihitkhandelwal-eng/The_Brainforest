@@ -1,5 +1,5 @@
 ---
-tags: type/goal/ongoing
+tags: type/goal/low_priority 
 aliases:
 cssclass: 
 ---
