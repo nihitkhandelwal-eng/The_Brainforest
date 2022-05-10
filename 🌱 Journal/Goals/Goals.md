@@ -1,8 +1,8 @@
 
 ```dataview
 table 
-date_started as "Started On"
-from #type/goal/medium_priority 
+date_started as "Started On", target_date as "Target Date", accountabilty_buddy as "Accountable To"
+from #type/goal/mission_critical  
 sort file.name asc
 ```
 
