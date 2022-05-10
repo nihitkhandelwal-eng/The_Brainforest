@@ -15,6 +15,11 @@ trackers:: Tracking income in Marvin monthly
 habits:: 
 
 ### Check-In’s
+- [[10-May-22]] → USMLE costs a lot but gives back more
+	- I was of the mood that, if my studies are not going anywhere, might as well apply for a job
+		- That is out of the window after the decision to go after USMLE
+	- I still want to make some money on the side, so will look at some WFH options & by putting out some of my work on gumroad or patreon.
+		- I am really not sure about this, I will talk to Conrad about this (review on [[05-Jun-22]])
 ### Objectives
 - I have a balance of 1,07,803 Rs in my SBI account from my internship
 - My objective is to earn 2 more lacs to get it to 3 lacs
