@@ -43,6 +43,13 @@ from #type/goal/up_next
 
 ---
 
+###### Backburner
+```dataview
+list 
+from "🌱 Journal/Goals/Backburner Goals" and !#type/goal/up_next 
+```
+
+---
 
 See also:
 - [[My Hobbies]]
