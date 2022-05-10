@@ -34,6 +34,7 @@ from #type/goal/low_priority
 
 ---
 
+
 ###### Upnext
 ```dataview
 table 
