@@ -54,6 +54,7 @@ cssclass:
 47. Smart Typography
 48. Smarter Markdown Hotkeys
 49. Snippetor
+50. Supercharged Links
 
 ## Critical plugins to explore
 1. Breadcrumbs
@@ -67,4 +68,5 @@ cssclass:
 9. Mind Map
 10. Obsidian Big Calendar
 11. Obsidian Charts
+12. Style Settings
 
