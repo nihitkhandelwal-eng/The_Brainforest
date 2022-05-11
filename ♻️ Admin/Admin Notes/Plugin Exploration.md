@@ -34,6 +34,8 @@ cssclass:
 - Obsidian Markmind
 - Obsidian to Anki
 - Obsidian42 Text Transporter
+- Obsidian Tweaks
+- Obsius Publish
 
 ## Critical plugins to explore
 - Breadcrumbs
