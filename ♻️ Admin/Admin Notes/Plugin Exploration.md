@@ -50,6 +50,10 @@ cssclass:
 43. Sekund
 44. Shortcut Launcher
 45. Sidekick
+46. Smart Random Note
+47. Smart Typography
+48. Smarter Markdown Hotkeys
+49. Snippetor
 
 ## Critical plugins to explore
 1. Breadcrumbs
