@@ -6,19 +6,24 @@ cssclass:
 
 ## Plugins to explore
 - Activity History
+- Annotator
 - Buttons
 - Card View Mode → Check with Style settings plugin
-- Minimal Card View (I don't think this is a plugin but still)
 - Charts View
 - Chat View
-- Annotator
+- Core Search Assistant
 - CSV Table 
 - Dialogue Table
-- Fantasy Calendar
+- Minimal Card View (I don't think this is a plugin but still)
+- Fantasy Calendar 
+- Gallery
+- Graph Analysis
+- Heatmap Calendar
 
 ## Critical plugins to explore
 - Breadcrumbs
 - Dataview
 - Excalidraw
+- Full Calendar
 
 
