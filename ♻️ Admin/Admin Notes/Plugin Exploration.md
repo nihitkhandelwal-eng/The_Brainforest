@@ -36,6 +36,7 @@ cssclass:
 - Obsidian42 Text Transporter
 - Obsidian Tweaks
 - Obsius Publish
+- Omnisearch
 
 ## Critical plugins to explore
 - Breadcrumbs
