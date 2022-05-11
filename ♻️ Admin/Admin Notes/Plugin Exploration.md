@@ -37,6 +37,10 @@ cssclass:
 - Obsidian Tweaks
 - Obsius Publish
 - Omnisearch
+- Ozan's Image in Editor Plugin
+- Paste Image Rename
+- PDF Highlights
+- Persistent Graph
 
 ## Critical plugins to explore
 - Breadcrumbs
