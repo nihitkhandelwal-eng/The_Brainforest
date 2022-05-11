@@ -26,6 +26,14 @@ cssclass:
 - Macros
 - Map Of Content
 - Media Extended
+- Notion Like Tables
+- Obsidian JTab
+- Obsidian Leaflet
+- Obsidian Link Converter
+- Obsidian Memos
+- Obsidian Markmind
+- Obsidian to Anki
+- Obsidian42 Text Transporter
 
 ## Critical plugins to explore
 - Breadcrumbs
@@ -37,5 +45,6 @@ cssclass:
 - Longform
 - Map View
 - Mind Map
-
+- Obsidian Big Calendar
+- Obsidian Charts
 
