@@ -3,7 +3,6 @@ aliases:
 tags: 
 cssclass:
 ---
----
 
 ## Plugins to explore
 - Activity History
@@ -15,10 +14,11 @@ cssclass:
 - Annotator
 - CSV Table 
 - Dialogue Table
+- Fantasy Calendar
 
 ## Critical plugins to explore
-- Dataview
 - Breadcrumbs
-- 
+- Dataview
+- Excalidraw
 
 
