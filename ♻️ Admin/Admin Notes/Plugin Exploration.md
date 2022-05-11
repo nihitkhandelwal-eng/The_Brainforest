@@ -41,6 +41,8 @@ cssclass:
 - Paste Image Rename
 - PDF Highlights
 - Persistent Graph
+- Quiet Outline 
+- Reading Time
 
 ## Critical plugins to explore
 - Breadcrumbs
