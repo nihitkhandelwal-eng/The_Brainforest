@@ -19,11 +19,23 @@ cssclass:
 - Gallery
 - Graph Analysis
 - Heatmap Calendar
+- Journey
+- Kanban
+- Kindle Highlights
+- Latex Suite
+- Macros
+- Map Of Content
+- Media Extended
 
 ## Critical plugins to explore
 - Breadcrumbs
 - Dataview
 - Excalidraw
 - Full Calendar
+- Hover Editor
+- Incremental Writing
+- Longform
+- Map View
+- Mind Map
 
 
