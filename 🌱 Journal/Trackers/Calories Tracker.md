@@ -10,10 +10,10 @@ cssclass: nutFact
 |     | Water Intake                                 |                Bottles |     |
 |     |                                              |           **Calories** |     |
 |     | *Breakfast*                                  |                   /467 |     |
-|     | Dal Chilla (2)                        |  <% tp.file.cursor(1) %> |     |
-|     | <% tp.file.cursor(2) %>                        |  <% tp.file.cursor(3) %> |     |
+|     | Dal Chilla (2)                        |  249 |     |
+|     | Watermelon                        |  73 |     |
 |     | *Morning Snack*                              |                   /175 |     |
-|     | <% tp.file.cursor(4) %>                        |  <% tp.file.cursor(5) %> |     |
+|     | Protein Shake                        |  121 |     |
 |     | <% tp.file.cursor(6) %>                        |  <% tp.file.cursor(7) %> |     |
 |     | *Lunch*                                      |                   /467 |     |
 |     | <% tp.file.cursor(8) %>                        |  <% tp.file.cursor(9) %> |     |
