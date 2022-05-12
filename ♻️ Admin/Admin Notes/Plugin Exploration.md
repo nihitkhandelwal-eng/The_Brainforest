@@ -62,6 +62,10 @@ cssclass:
 55. Todoist Text
 56. Todoist Plugin
 57. Topic Linking
+58. Vale
+59. Vantage → Advanced Search Builder
+60. Various Complements
+61. Waypoint
 
 ## Critical plugins to explore
 1. Breadcrumbs
