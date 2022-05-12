@@ -13,13 +13,14 @@ cssclass:
 2. Full Calendar
 3. Hover Editor
 4. Incremental Writing
-5. Longform
-6. Map View
-7. Mind Map
-8. Obsidian Big Calendar
-9. Obsidian Charts
-10. Style Settings
-11. Tracker
+5. Kanban
+6. Longform
+7. Map View
+8. Mind Map
+9. Obsidian Big Calendar
+10. Obsidian Charts
+11. Style Settings
+12. Tracker
 
 ### Plugins To Explore
 1. Activity History
@@ -37,54 +38,53 @@ cssclass:
 13. Graph Analysis
 14. Heatmap Calendar
 15. Journey
-16. Kanban
-17. Kindle Highlights
-18. Latex Suite
-19. Macros
-20. Map Of Content
-21. Media Extended
-22. Notion Like Tables
-23. Obsidian JTab
-24. Obsidian Leaflet
-25. Obsidian Link Converter
-26. Obsidian Memos
-27. Obsidian Markmind
-28. Obsidian to Anki
-29. Obsidian42 Text Transporter
-30. Obsidian Tweaks
-31. Obsius Publish
-32. Omnisearch
-33. Ozan's Image in Editor Plugin
-34. Paste Image Rename
-35. PDF Highlights
-36. Persistent Graph
-37. Quiet Outline 
-38. Reading Time
-39. Read It Later
-40. Review
-41. Rewarder
-42. Search on Internet
-43. Sekund
-44. Shortcut Launcher
-45. Sidekick
-46. Smart Random Note
-47. Random Note
-48. Smart Typography
-49. Smarter Markdown Hotkeys
-50. Snippetor
-51. Supercharged Links
-52. Text Toolbar
-53. Timeline
-54. Timelines
-55. Todoist Link
-56. Todoist Text
-57. Todoist Plugin
-58. Topic Linking
-59. Vale
-60. Vantage → Advanced Search Builder
-61. Various Complements
-62. Waypoint
-63. Wordsprint
+16. Kindle Highlights
+17. Latex Suite
+18. Macros
+19. Map Of Content
+20. Media Extended
+21. Notion Like Tables
+22. Obsidian JTab
+23. Obsidian Leaflet
+24. Obsidian Link Converter
+25. Obsidian Memos
+26. Obsidian Markmind
+27. Obsidian to Anki
+28. Obsidian42 Text Transporter
+29. Obsidian Tweaks
+30. Obsius Publish
+31. Omnisearch
+32. Ozan's Image in Editor Plugin
+33. Paste Image Rename
+34. PDF Highlights
+35. Persistent Graph
+36. Quiet Outline 
+37. Reading Time
+38. Read It Later
+39. Review
+40. Rewarder
+41. Search on Internet
+42. Sekund
+43. Shortcut Launcher
+44. Sidekick
+45. Smart Random Note
+46. Random Note
+47. Smart Typography
+48. Smarter Markdown Hotkeys
+49. Snippetor
+50. Supercharged Links
+51. Text Toolbar
+52. Timeline
+53. Timelines
+54. Todoist Link
+55. Todoist Text
+56. Todoist Plugin
+57. Topic Linking
+58. Vale
+59. Vantage → Advanced Search Builder
+60. Various Complements
+61. Waypoint
+62. Wordsprint
 
 ---
 
