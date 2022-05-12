@@ -61,6 +61,7 @@ cssclass:
 54. Todoist Link
 55. Todoist Text
 56. Todoist Plugin
+57. Topic Linking
 
 ## Critical plugins to explore
 1. Breadcrumbs
@@ -75,6 +76,7 @@ cssclass:
 10. Obsidian Big Calendar
 11. Obsidian Charts
 12. Style Settings
+13. Tracker
 
 ---
 
