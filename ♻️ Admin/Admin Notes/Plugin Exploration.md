@@ -67,6 +67,7 @@ cssclass:
 60. Vantage → Advanced Search Builder
 61. Various Complements
 62. Waypoint
+63. Wordsprint
 ## Critical plugins to explore
 1. Breadcrumbs
 2. Dataview
