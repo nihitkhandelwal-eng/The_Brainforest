@@ -51,21 +51,22 @@ cssclass:
 44. Shortcut Launcher
 45. Sidekick
 46. Smart Random Note
-47. Smart Typography
-48. Smarter Markdown Hotkeys
-49. Snippetor
-50. Supercharged Links
-51. Text Toolbar
-52. Timeline
-53. Timelines
-54. Todoist Link
-55. Todoist Text
-56. Todoist Plugin
-57. Topic Linking
-58. Vale
-59. Vantage → Advanced Search Builder
-60. Various Complements
-61. Waypoint
+47. Random Note
+48. Smart Typography
+49. Smarter Markdown Hotkeys
+50. Snippetor
+51. Supercharged Links
+52. Text Toolbar
+53. Timeline
+54. Timelines
+55. Todoist Link
+56. Todoist Text
+57. Todoist Plugin
+58. Topic Linking
+59. Vale
+60. Vantage → Advanced Search Builder
+61. Various Complements
+62. Waypoint
 ## Critical plugins to explore
 1. Breadcrumbs
 2. Dataview
