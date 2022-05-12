@@ -5,20 +5,21 @@ cssclass:
 ---
 
 ### Extremely Critical Plugins To Explore
+1. Excalidraw
+2. Breadcrumbs
+
 ### Critical Plugins To Explore 
-1. Breadcrumbs
-2. Dataview
-3. Excalidraw
-4. Full Calendar
-5. Hover Editor
-6. Incremental Writing
-7. Longform
-8. Map View
-9. Mind Map
-10. Obsidian Big Calendar
-11. Obsidian Charts
-12. Style Settings
-13. Tracker
+1. Dataview
+2. Full Calendar
+3. Hover Editor
+4. Incremental Writing
+5. Longform
+6. Map View
+7. Mind Map
+8. Obsidian Big Calendar
+9. Obsidian Charts
+10. Style Settings
+11. Tracker
 
 ### Plugins To Explore
 1. Activity History
