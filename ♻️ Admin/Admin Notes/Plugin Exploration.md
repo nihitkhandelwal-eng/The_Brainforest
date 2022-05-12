@@ -4,8 +4,8 @@ tags:
 cssclass:
 ---
 
-###
-## Critical plugins to explore 
+### Extremely Critical Plugins To Explore
+### Critical Plugins To Explore 
 1. Breadcrumbs
 2. Dataview
 3. Excalidraw
@@ -20,7 +20,7 @@ cssclass:
 12. Style Settings
 13. Tracker
 
-## Plugins to explore
+### Plugins To Explore
 1. Activity History
 2. Annotator
 3. Buttons
