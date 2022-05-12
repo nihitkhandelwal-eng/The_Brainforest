@@ -55,6 +55,12 @@ cssclass:
 48. Smarter Markdown Hotkeys
 49. Snippetor
 50. Supercharged Links
+51. Text Toolbar
+52. Timeline
+53. Timelines
+54. Todoist Link
+55. Todoist Text
+56. Todoist Plugin
 
 ## Critical plugins to explore
 1. Breadcrumbs
@@ -69,5 +75,7 @@ cssclass:
 10. Obsidian Big Calendar
 11. Obsidian Charts
 12. Style Settings
+
+---
 
 
