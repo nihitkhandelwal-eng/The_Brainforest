@@ -5,9 +5,24 @@ cssclass:
 ---
 
 ### Best Resources
-- Anki & Anking
-- Pathoma → Everything Pathology
-- Amboss
+1. Anki & Anking
+2. Pathoma → Everything Pathology
+3. Amboss
+4. Sketchy
+5. Boards & Beyond
+
+
+### How to use Anking
+
+
+
+
+
+
+
+
+
+
 
 ---
 Related:
