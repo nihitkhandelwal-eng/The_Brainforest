@@ -19,6 +19,8 @@ habits:: <% tp.file.cursor(5) %>
 	- I have downloaded all the resources for pathoma & will be starting that after check off a few pending & itching tasks
 ### Objectives
 
+### Resources
+- [Discount links for subscriptions](https://www.ankipalace.com/discounts)
 
 
 
