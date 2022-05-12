@@ -2,7 +2,7 @@
 tags:
 aliases:
 cssclass: table-100, img-100, iframe-100
-url: 
+url: https://github.com/joethei/obsidian-tagcloud
 ---
 ### Configuration Options
 
@@ -33,7 +33,7 @@ The following options are supported for all clouds.
 ```tagcloud
 shape: pentagon
 source: query
-query: '#feelings/bad'
+query: '#journal/bad'
 ```
 
 
