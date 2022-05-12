@@ -13,6 +13,9 @@ cssclass:
 
 
 ### How to use Anking
+- Do your cards **every single day**
+	- Make it priority one
+	- 
 
 
 
