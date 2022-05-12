@@ -4,6 +4,22 @@ tags:
 cssclass:
 ---
 
+###
+## Critical plugins to explore 
+1. Breadcrumbs
+2. Dataview
+3. Excalidraw
+4. Full Calendar
+5. Hover Editor
+6. Incremental Writing
+7. Longform
+8. Map View
+9. Mind Map
+10. Obsidian Big Calendar
+11. Obsidian Charts
+12. Style Settings
+13. Tracker
+
 ## Plugins to explore
 1. Activity History
 2. Annotator
@@ -68,20 +84,6 @@ cssclass:
 61. Various Complements
 62. Waypoint
 63. Wordsprint
-## Critical plugins to explore
-1. Breadcrumbs
-2. Dataview
-3. Excalidraw
-4. Full Calendar
-5. Hover Editor
-6. Incremental Writing
-7. Longform
-8. Map View
-9. Mind Map
-10. Obsidian Big Calendar
-11. Obsidian Charts
-12. Style Settings
-13. Tracker
 
 ---
 
