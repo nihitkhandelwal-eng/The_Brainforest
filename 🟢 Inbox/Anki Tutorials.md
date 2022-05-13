@@ -7,7 +7,7 @@ cards-deck: My Deck
 
 ### Best Resources
 1. Anki & Anking
-2. Pathoma → Everything Pathology ^1652426138173
+2. Pathoma → Everything Pathology 
 3. Amboss
 4. Sketchy
 5. Boards & Beyond
@@ -24,20 +24,11 @@ cards-deck: My Deck
 	- suppose you pressed "show" by accident
 	- no color
 - Suspending a card
-	- color → yellow ^1652426138200
+	- color → yellow 
 - Marking a card
 	- it's like starring a card
 	- color → purple
 
-
-
-this ==should nor work== it won't
-^1652426249366
-
-
-
-is this a ==flashcard==, I think it is
-^1652426138217
 
 
 
