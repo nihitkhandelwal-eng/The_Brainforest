@@ -2,11 +2,12 @@
 aliases:
 tags: 
 cssclass:
+cards-deck: My Deck
 ---
 
 ### Best Resources
 1. Anki & Anking
-2. Pathoma → Everything Pathology
+2. Pathoma → Everything Pathology ^1652426138173
 3. Amboss
 4. Sketchy
 5. Boards & Beyond
@@ -23,7 +24,7 @@ cssclass:
 	- suppose you pressed "show" by accident
 	- no color
 - Suspending a card
-	- color → yellow
+	- color → yellow ^1652426138200
 - Marking a card
 	- it's like starring a card
 	- color → purple
@@ -34,7 +35,8 @@ cssclass:
 
 
 
-
+is this a ==flashcard==, I think it is
+^1652426138217
 
 
 
