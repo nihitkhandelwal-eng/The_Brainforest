@@ -19,7 +19,7 @@ I had a meeting with Conrad on [[13-May-22]] about clarity regarding leadership 
 > 
 > **Additional Responsibilities:**
 > Certain moderators may have additional responsibilities based on their skillsets and desires on where they want to help.
-> - Moderate comments and interactions on our social medias (Youtube, Twitter, etc.)
+> - Moderate comments and interactions on our social medias ([Youtube](https://www.youtube.com/c/thex3family/videos), [Twitter](https://twitter.com/thex3family), etc.)
 > - Respond to general inquiries and help desk questions
 > - Maintain our [Co-x3 Notion Workspace](https://www.notion.so/thex3family/Welcome-To-Our-Family-f2dc65e5dca847cc82044927be88d673)
 >  
