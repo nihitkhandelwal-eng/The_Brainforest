@@ -23,3 +23,4 @@ Here are the available settings for a `chesr` code block:
 You can permanently set some settings in Chesser's obsidian plugin settings.
 
 will this be all over the places
+
