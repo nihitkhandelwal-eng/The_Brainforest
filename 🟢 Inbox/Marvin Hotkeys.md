@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: 
+tags: on/hotkeys, on/marvin
 cssclass:
 ---
 
