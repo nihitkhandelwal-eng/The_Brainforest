@@ -40,8 +40,8 @@ cssclass:
 -   Periodic Notes: Open yearly note → Alt+Y
 -   Open settings → Ctrl+,
 -   Zoom: Zoom in → Ctrl+.
--   Focus on pane to the left → Ctrl+[
--   Focus on pane to the right→Ctrl+]
+-   Focus on pane to the left → Ctrl+ `[`
+-   Focus on pane to the right → Ctrl+`]`
 -   Hotkey Helper: Browse or search the Community Plugins catalog→Ctrl+*
 -   Toggle highlight→Ctrl+=
 -   Obsidian Tweaks: Toggle comment→Ctrl+5
