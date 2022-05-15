@@ -4,43 +4,43 @@ tags:
 cssclass:
 ---
 
--   Periodic Notes: Open previous monthly note→Alt+,
--   Periodic Notes: Open previous quarterly note→Alt+;
--   Periodic Notes: Open next monthly note→Alt+.
--   Periodic Notes: Open next quarterly note→Alt+'
--   Swap line up/down→Alt+↑ or Alt+↓
--   Navigate→Alt+← or Alt+→
--   Workbench: Link the current line/block in your Workbench.→Alt+Shift+W
--   Starred: Star/unstar current file→Ctrl+Alt+8
--   Toggle left sidebar→Ctrl+Alt+ArrowLeft
--   Toggle right sidebar→Ctrl+Alt+ArrowRight
--   File recovery: Open saved snapshots→Ctrl+Alt+ContextMenu
--   Split horizontally→Ctrl+Alt+PageDown
--   Search: Search in all files→Ctrl+S
--   Copy file path→Ctrl+Alt+Shift+/
--   Natural Language Dates: Parse natural language date (as link)→Alt + 2
--   Hotkeys for templates: Insert from Templater: Meta Template→Ctrl+Alt+E
--   Open another vault→Ctrl+Alt+Shift+O
--   Tag pane: Show tag pane→Ctrl+Alt+T
--   Workspaces: Manage workspaces→Alt+W
--   Periodic Notes: Open daily note→Alt+D
--   Delete current file→Alt+Delete
--   Templater: Open Insert Template modal→Alt+E
--   Templater: Jump to next cursor location→Alt+Enter
--   Follow link under cursor→Ctrl+Alt+Enter
--   Audio recorder: Stop recording audio→Alt+F11
--   Templater: Insert ☘️ Templates/Rename Title.md→Alt+F2
--   Periodic Notes: Open monthly note→Alt+M
--   Workbench: Link the current note/page in your Workbench.→Alt+Shift+Q
--   Periodic Notes: Open quarterly note→Alt+Q
--   Review: Add this note to a daily note for review→Alt+R
--   Find in current file→Ctrl + F
--   Open in default app: Show in system explorer→Alt+Shift+E
--   File explorer: Reveal active file in navigation→Alt+Shift+N
--   Periodic Notes: Open yearly note→Alt+Y
--   Open settings→Ctrl+,
--   Zoom: Zoom in→Ctrl+.
--   Focus on pane to the left→Ctrl+[
+-   Periodic Notes: Open previous monthly note → Alt+,
+-   Periodic Notes: Open previous quarterly note → Alt+;
+-   Periodic Notes: Open next monthly note → Alt+.
+-   Periodic Notes: Open next quarterly note → Alt+'
+-   Swap line up/down → Alt+↑ or Alt+↓
+-   Navigate → Alt+ left/right arrow
+-   Workbench: Link the current line/block in your Workbench. → Alt+Shift+W
+-   Starred: Star/unstar current file → Ctrl+Alt+8
+-   Toggle left sidebar → Ctrl+Alt+ArrowLeft
+-   Toggle right sidebar → Ctrl+Alt+ArrowRight
+-   File recovery: Open saved snapshots → Ctrl+Alt+ContextMenu
+-   Split horizontally → Ctrl+Alt+PageDown
+-   Search: Search in all files → Ctrl+S
+-   Copy file path → Ctrl+Alt+Shift+/
+-   Natural Language Dates: Parse natural language date (as link) → Alt + 2
+-   Hotkeys for templates: Insert from Templater: Meta Template → Ctrl+Alt+E
+-   Open another vault → Ctrl+Alt+Shift+O
+-   Tag pane: Show tag pane → Ctrl+Alt+T
+-   Workspaces: Manage workspaces → Alt+W
+-   Periodic Notes: Open daily note → Alt+D
+-   Delete current file → Alt+Delete
+-   Templater: Open Insert Template modal → Alt+E
+-   Templater: Jump to next cursor location → Alt+Enter
+-   Follow link under cursor → Ctrl+Alt+Enter
+-   Audio recorder: Stop recording audio → Alt+F11
+-   Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2
+-   Periodic Notes: Open monthly note → Alt+M
+-   Workbench: Link the current note/page in your Workbench. → Alt+Shift+Q
+-   Periodic Notes: Open quarterly note → Alt+Q
+-   Review: Add this note to a daily note for review → Alt+R
+-   Find in current file → Ctrl + F
+-   Open in default app: Show in system explorer → Alt+Shift+E
+-   File explorer: Reveal active file in navigation → Alt+Shift+N
+-   Periodic Notes: Open yearly note → Alt+Y
+-   Open settings → Ctrl+,
+-   Zoom: Zoom in → Ctrl+.
+-   Focus on pane to the left → Ctrl+[
 -   Focus on pane to the right→Ctrl+]
 -   Hotkey Helper: Browse or search the Community Plugins catalog→Ctrl+*
 -   Toggle highlight→Ctrl+=
