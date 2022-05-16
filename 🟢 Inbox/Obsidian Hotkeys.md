@@ -2,121 +2,122 @@
 aliases:
 tags: on/hotkeys, on/obsidian 
 cssclass:
+cards-deck: My Hotkeys::Obsidian
 ---
 
--   Periodic Notes: Open previous monthly note → Alt+,
--   Periodic Notes: Open previous quarterly note → Alt+;
--   Periodic Notes: Open next monthly note → Alt+.
--   Periodic Notes: Open next quarterly note → Alt+'
--   Swap line up/down → Alt+↑ or Alt+↓
--   Navigate → Alt+ left/right arrow
--   Workbench: Link the current line/block in your Workbench. → Alt+Shift+W
--   Starred: Star/unstar current file → Ctrl+Alt+8
--   Toggle left sidebar → Ctrl+Alt+ArrowLeft
--   Toggle right sidebar → Ctrl+Alt+ArrowRight
--   File recovery: Open saved snapshots → Ctrl+Alt+ContextMenu
--   Split horizontally → Ctrl+Alt+PageDown
--   Search: Search in all files → Ctrl+S
--   Copy file path → Ctrl+Alt+Shift+/
--   Natural Language Dates: Parse natural language date (as link) → Alt + 2
--   Hotkeys for templates: Insert from Templater: Meta Template → Ctrl+Alt+E
--   Open another vault → Ctrl+Alt+Shift+O
--   Tag pane: Show tag pane → Ctrl+Alt+T
--   Workspaces: Manage workspaces → Alt+W
--   Periodic Notes: Open daily note → Alt+D
--   Delete current file → Alt+Delete
--   Templater: Open Insert Template modal → Alt+E
--   Templater: Jump to next cursor location → Alt+Enter
--   Follow link under cursor → Ctrl+Alt+Enter
--   Audio recorder: Stop recording audio → Alt+F11
--   Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2
--   Periodic Notes: Open monthly note → Alt+M
--   Workbench: Link the current note/page in your Workbench. → Alt+Shift+Q
--   Periodic Notes: Open quarterly note → Alt+Q
--   Review: Add this note to a daily note for review → Alt+R
--   Find in current file → Ctrl + F
--   Open in default app: Show in system explorer → Alt+Shift+E
--   File explorer: Reveal active file in navigation → Alt+Shift+N
--   Periodic Notes: Open yearly note → Alt+Y
--   Open settings → Ctrl+,
--   Zoom: Zoom in → Ctrl+.
--   Focus on pane to the left → Ctrl+ `[`
--   Focus on pane to the right → Ctrl+`]`
--   Hotkey Helper: Browse or search the Community Plugins catalog → Ctrl+*
--   Toggle highlight → Ctrl+=
--   Obsidian Tweaks: Toggle comment → Ctrl+5
--   Obsidian Tweaks: Better Toggle Code → Ctrl + `
--   Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + -
--   Obsidian Tweaks: Better Toggle Highlight → Ctrl + =
--   Obsidian Tweaks: Better Math (Block) → Ctrl + 4
--   Obsidian Tweaks: Better Math (Inline) → Alt + Shift + 4
--   Open link under cursor in new pane → Ctrl+Alt+Enter
--   Toggle fold on the current line → Ctrl+ArrowDown
--   Obsidian Tweaks: Toggle bold → Ctrl+B
--   QuickAdd: 😎 Capture to Daily Note → Ctrl+Shift+D or Ctrl + Capslock
--   Admonition: Insert Admonition → Ctrl+D
--   Toggle edit/preview mode → Ctrl+E
--   Toggle checklist status → Ctrl+Enter
--   Audio recorder: Start recording audio → Ctrl+F11
--   Toggl Track: Start Toggl Timer → Ctrl+F12
--   Toggl Track: Stop Toggl Timer → Ctrl+F10
--   Graph view: Open graph view → Ctrl+G
--   Obsidian Tweaks: Toggle italics → Ctrl+I
--   Insert Markdown link → Ctrl+K
--   Graph view: Open local graph → Ctrl+L
--   Templater: Create new note from template → Alt+N
--   Hotkey Helper: Open the Community Plugins settings → Ctrl+Numpad9
--   Quick Switcher++: Open → Ctrl+O
--   Command palette: Open command palette → Ctrl+P
--   QuickAdd: Run QuickAdd → Ctrl+Q
--   Search & replace in current file → Ctrl+R
--   Quick Explorer: Browse vault → Ctrl+Shift+B
--   Zoom: Zoom out the entire document → Ctrl+Shift+.
--   Footnote Shortcut: Insert and Navigate Footnote → Ctrl+Shift+6
--   Starred: Show starred pane → Ctrl+Shift+8
--   Unfold all headings and lists → Ctrl+Shift+ArrowDown
--   Fold all headings and lists → Ctrl+Shift+ArrowUp
--   QuickAdd: 🔋 Capture to Workbench → Ctrl+Shift+X
--   Copy Block Link: Copy embed to current block or heading → Ctrl+Shift+E
--   Fullscreen mode plugin: Fullscreen focus mode → Ctrl+Shift+F
--   Sliding Panes (Andy's Mode): Toggle Leaf Auto Width → Ctrl+Shift+Insert
--   Better File Link / Insert attachment → Ctrl+Shift+K
--   Create note in new pane → Ctrl+Shift+N
--   File explorer: Move file to another folder → Ctrl+Shift+P
--   Copy Block Link: Copy link to current block or heading → Ctrl+Shift+R
--   Quick Explorer: Browse current folder → Alt+Shift+B
--   Undo close pane → Ctrl+Shift+T
--   Close all other panes → Ctrl+Shift+W
--   Outline: Show outline pane → Ctrl+Tab
--   Close active pane → Ctrl+W
--   Open help → F1
--   Edit file title → F2
--   Outliner: Outdent the list and sublists → Shift+Tab
--   Outliner: Indent the list and sublists → Tab
--   Toggle Pin → Alt+Shift+P
--   Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L
--   Advanced New File → Ctrl + Alt + Shift + N
--   Local File Interface : Import local file → Ctrl+Shift+I
--   Local File Interface : Export local file → Ctrl+Shift+O
--   Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6
--   Obsidian Tweaks: Select Current → Alt + Shift + ↑
--   Toggle Living Graph → Ctrl + Alt + G
--   Note Refactor: Extract selection to new note - content only → Ctrl+Alt+E
--   Note Refactor: Extract selection to new note - first line as file name → Ctrl+Alt+Q
--   Advanced Tables: Open table controls toolbar → Alt + T
--   Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V
--   Paste URL into selection → Alt + V
--   Better Command Palette: better command palette: Tag Search → Ctrl + T
--   Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C
--   Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M
--   Quick Add: Toggl Manager → Alt + F12
--   Get Info: See current file info → Alt + I
--   Highlightr: Open Highlightr → Ctrl + Alt + =
--   Highlightr: Remove Highlightr → Ctrl + Alt + -
--   Obsidian42 Jump-to-Date: Date Picker → Ctrl + Alt + D
--   Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ;
--   Text Format: Capitalize All Words In Selected Text → Alt + A
--   Text Format: UPPERCASE all words in selected text → Alt + Shift + A
+-   Periodic Notes: Open previous monthly note → Alt+, ^1652695878350
+-   Periodic Notes: Open previous quarterly note → Alt+; ^1652695878358
+-   Periodic Notes: Open next monthly note → Alt+. ^1652695878365
+-   Periodic Notes: Open next quarterly note → Alt+' ^1652695878373
+-   Swap line up/down → Alt+↑ or Alt+↓ ^1652695878380
+-   Navigate → Alt+ left/right arrow ^1652695878386
+-   Workbench: Link the current line/block in your Workbench. → Alt+Shift+W ^1652695878394
+-   Starred: Star/unstar current file → Ctrl+Alt+8 ^1652695878437
+-   Toggle left sidebar → Ctrl+Alt+ArrowLeft ^1652695878445
+-   Toggle right sidebar → Ctrl+Alt+ArrowRight ^1652695878453
+-   File recovery: Open saved snapshots → Ctrl+Alt+ContextMenu ^1652695878461
+-   Split horizontally → Ctrl+Alt+PageDown ^1652695878469
+-   Search: Search in all files → Ctrl+S ^1652695878476
+-   Copy file path → Ctrl+Alt+Shift+/ ^1652695878483
+-   Natural Language Dates: Parse natural language date (as link) → Alt + 2 ^1652695878489
+-   Hotkeys for templates: Insert from Templater: Meta Template → Ctrl+Alt+E ^1652695878496
+-   Open another vault → Ctrl+Alt+Shift+O ^1652695878503
+-   Tag pane: Show tag pane → Ctrl+Alt+T ^1652695878510
+-   Workspaces: Manage workspaces → Alt+W ^1652695878516
+-   Periodic Notes: Open daily note → Alt+D ^1652695878523
+-   Delete current file → Alt+Delete ^1652695878530
+-   Templater: Open Insert Template modal → Alt+E ^1652695878536
+-   Templater: Jump to next cursor location → Alt+Enter ^1652695878543
+-   Follow link under cursor → Ctrl+Alt+Enter ^1652695878550
+-   Audio recorder: Stop recording audio → Alt+F11 ^1652695878556
+-   Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2 ^1652695878563
+-   Periodic Notes: Open monthly note → Alt+M ^1652695878569
+-   Workbench: Link the current note/page in your Workbench. → Alt+Shift+Q ^1652695878577
+-   Periodic Notes: Open quarterly note → Alt+Q ^1652695878583
+-   Review: Add this note to a daily note for review → Alt+R ^1652695878590
+-   Find in current file → Ctrl + F ^1652695878597
+-   Open in default app: Show in system explorer → Alt+Shift+E ^1652695878603
+-   File explorer: Reveal active file in navigation → Alt+Shift+N ^1652695878610
+-   Periodic Notes: Open yearly note → Alt+Y ^1652695878616
+-   Open settings → Ctrl+, ^1652695878623
+-   Zoom: Zoom in → Ctrl+. ^1652695878630
+-   Focus on pane to the left → Ctrl+ `[` ^1652695878636
+-   Focus on pane to the right → Ctrl+`]` ^1652695878641
+-   Hotkey Helper: Browse or search the Community Plugins catalog → Ctrl+* ^1652695878648
+-   Toggle highlight → Ctrl+= ^1652695878655
+-   Obsidian Tweaks: Toggle comment → Ctrl+5 ^1652695878661
+-   Obsidian Tweaks: Better Toggle Code → Ctrl +   ^1652695878668
+-   Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - ^1652695878674
+-   Obsidian Tweaks: Better Toggle Highlight → Ctrl + = ^1652695878680
+-   Obsidian Tweaks: Better Math (Block) → Ctrl + 4 ^1652695878686
+-   Obsidian Tweaks: Better Math (Inline) → Alt + Shift + 4 ^1652695878693
+-   Open link under cursor in new pane → Ctrl+Alt+Enter ^1652695878700
+-   Toggle fold on the current line → Ctrl+ArrowDown ^1652695878707
+-   Obsidian Tweaks: Toggle bold → Ctrl+B ^1652695878714
+-   QuickAdd: 😎 Capture to Daily Note → Ctrl+Shift+D or Ctrl + Capslock ^1652695878720
+-   Admonition: Insert Admonition → Ctrl+D ^1652695878727
+-   Toggle edit/preview mode → Ctrl+E ^1652695878733
+-   Toggle checklist status → Ctrl+Enter ^1652695878740
+-   Audio recorder: Start recording audio → Ctrl+F11 ^1652695878747
+-   Toggl Track: Start Toggl Timer → Ctrl+F12 ^1652695878753
+-   Toggl Track: Stop Toggl Timer → Ctrl+F10 ^1652695878760
+-   Graph view: Open graph view → Ctrl+G ^1652695878767
+-   Obsidian Tweaks: Toggle italics → Ctrl+I ^1652695878774
+-   Insert Markdown link → Ctrl+K ^1652695878782
+-   Graph view: Open local graph → Ctrl+L ^1652695878789
+-   Templater: Create new note from template → Alt+N ^1652695878797
+-   Hotkey Helper: Open the Community Plugins settings → Ctrl+Numpad9 ^1652695878804
+-   Quick Switcher++: Open → Ctrl+O ^1652695878811
+-   Command palette: Open command palette → Ctrl+P ^1652695878817
+-   QuickAdd: Run QuickAdd → Ctrl+Q ^1652695878825
+-   Search & replace in current file → Ctrl+R ^1652695878831
+-   Quick Explorer: Browse vault → Ctrl+Shift+B ^1652695878839
+-   Zoom: Zoom out the entire document → Ctrl+Shift+. ^1652695878845
+-   Footnote Shortcut: Insert and Navigate Footnote → Ctrl+Shift+6 ^1652695878851
+-   Starred: Show starred pane → Ctrl+Shift+8 ^1652695878858
+-   Unfold all headings and lists → Ctrl+Shift+ArrowDown ^1652695878865
+-   Fold all headings and lists → Ctrl+Shift+ArrowUp ^1652695878872
+-   QuickAdd: 🔋 Capture to Workbench → Ctrl+Shift+X ^1652695878878
+-   Copy Block Link: Copy embed to current block or heading → Ctrl+Shift+E ^1652695878885
+-   Fullscreen mode plugin: Fullscreen focus mode → Ctrl+Shift+F ^1652695878891
+-   Sliding Panes (Andy's Mode): Toggle Leaf Auto Width → Ctrl+Shift+Insert ^1652695878898
+-   Better File Link / Insert attachment → Ctrl+Shift+K ^1652695878905
+-   Create note in new pane → Ctrl+Shift+N ^1652695878913
+-   File explorer: Move file to another folder → Ctrl+Shift+P ^1652695878921
+-   Copy Block Link: Copy link to current block or heading → Ctrl+Shift+R ^1652695878929
+-   Quick Explorer: Browse current folder → Alt+Shift+B ^1652695878935
+-   Undo close pane → Ctrl+Shift+T ^1652695878941
+-   Close all other panes → Ctrl+Shift+W ^1652695878948
+-   Outline: Show outline pane → Ctrl+Tab ^1652695878954
+-   Close active pane → Ctrl+W ^1652695878960
+-   Open help → F1 ^1652695878967
+-   Edit file title → F2 ^1652695878974
+-   Outliner: Outdent the list and sublists → Shift+Tab ^1652695878981
+-   Outliner: Indent the list and sublists → Tab ^1652695878988
+-   Toggle Pin → Alt+Shift+P ^1652695878995
+-   Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L ^1652695879002
+-   Advanced New File → Ctrl + Alt + Shift + N ^1652695879008
+-   Local File Interface : Import local file → Ctrl+Shift+I ^1652695879015
+-   Local File Interface : Export local file → Ctrl+Shift+O ^1652695879047
+-   Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 ^1652695879057
+-   Obsidian Tweaks: Select Current → Alt + Shift + ↑ ^1652695879063
+-   Toggle Living Graph → Ctrl + Alt + G ^1652695879071
+-   Note Refactor: Extract selection to new note - content only → Ctrl+Alt+E ^1652695879078
+-   Note Refactor: Extract selection to new note - first line as file name → Ctrl+Alt+Q ^1652695879085
+-   Advanced Tables: Open table controls toolbar → Alt + T ^1652695879092
+-   Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V ^1652695879098
+-   Paste URL into selection → Alt + V ^1652695879106
+-   Better Command Palette: better command palette: Tag Search → Ctrl + T ^1652695879112
+-   Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C ^1652695879118
+-   Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M ^1652695879126
+-   Quick Add: Toggl Manager → Alt + F12 ^1652695879134
+-   Get Info: See current file info → Alt + I ^1652695879141
+-   Highlightr: Open Highlightr → Ctrl + Alt + = ^1652695879148
+-   Highlightr: Remove Highlightr → Ctrl + Alt + - ^1652695879155
+-   Obsidian42 Jump-to-Date: Date Picker → Ctrl + Alt + D ^1652695879160
+-   Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ; ^1652695879167
+-   Text Format: Capitalize All Words In Selected Text → Alt + A ^1652695879174
+-   Text Format: UPPERCASE all words in selected text → Alt + Shift + A ^1652695879180
 
 ---
 Related:
