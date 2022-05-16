@@ -13,8 +13,6 @@ cards-deck: My Hotkeys::ShareX
 -   Text capture (OCR) → Ctrl + Alt + Insert ^1652691773753
 -   Image thumbnailer → Alt + PageUp ^1652691773760
 -   Video thumbnailer → Alt + PageDown ^1652691773767
--   Upload file → Ctrl+↑ ^1652691773774
-
 
 ---
 Related:
