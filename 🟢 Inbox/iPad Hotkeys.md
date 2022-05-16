@@ -16,9 +16,8 @@ cards-deck: My Hotkeys::iPad
 -   Control Centre → Globe + C ^1652693193620
 -   Notification Centre → Globe + N ^1652693193630
 -   Show keyboard shortcuts → hold Command ^1652693193640
--   Screenshot
-	-   Save to camera roll immediately → Command + Shift + 3 ^1652693193649
-	-   Open in markup thing → Command + Shift + 4 ^1652693193658
+-   Screenshot: Save to camera roll immediately → Command + Shift + 3 ^1652693193649
+-   Screenshot: Open in markup thing → Command + Shift + 4 ^1652693193658
 
 
 ### Multitasking
