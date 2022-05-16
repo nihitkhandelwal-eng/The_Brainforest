@@ -46,7 +46,6 @@ cards-deck: My Hotkeys::Obsidian
 -   Hotkey Helper: Browse or search the Community Plugins catalog → Ctrl+* ^1652695878648
 -   Toggle highlight → Ctrl+= ^1652695878655
 -   Obsidian Tweaks: Toggle comment → Ctrl+5 ^1652695878661
--   Obsidian Tweaks: Better Toggle Code → Ctrl +   ^1652695878668
 -   Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - ^1652695878674
 -   Obsidian Tweaks: Better Toggle Highlight → Ctrl + = ^1652695878680
 -   Obsidian Tweaks: Better Math (Block) → Ctrl + 4 ^1652695878686
