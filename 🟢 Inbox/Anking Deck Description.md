@@ -7,7 +7,7 @@ h1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, e
     li { margin-bottom: -5px; margin-top: -5px; }
     ul { margin-bottom: -5px; margin-top: -5px; }
 .collapsible {
-  background: #85BEE6!important;
+  background:  85BEE6!important;
   color: #282828!important;
   cursor: pointer;
   padding: 6px!important;
@@ -20,7 +20,7 @@ h1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, e
   text-shadow: none!important;
 }
 .collapsible2 {
-  background: #F6E288;
+  background: # F6E288;
   color: #282828!important;
   cursor: pointer;
   padding: 6px!important;
@@ -35,7 +35,7 @@ h1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, e
 
 
 .active, .collapsible:hover {
-  background-color: #F6E288!important;
+  background-color: # F6E288!important;
   color: black;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, ol, p, li, li1, li2, li3 p1, p2, p3, body, ul, s1, s2, s3, strong, e
   padding: 5px 10px!important;
   display: none;
   overflow: hidden;
-  background-color: #F6E288!important;
+  background-color: # F6E288!important;
   color: black;
   box-shadow: none;
   text-shadow: none!important;
