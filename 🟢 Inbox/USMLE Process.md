@@ -26,5 +26,6 @@ Once this is done
 
 ---
 Related:
+Resources & Syllabus from [DBMCI](https://dbmci.com/blog/usmle-exam-syllabus/)
 
 
