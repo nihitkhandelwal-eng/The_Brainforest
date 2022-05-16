@@ -13,7 +13,7 @@ cssclass:
 -   Image thumbnailer → PageUp
 -   Video thumbnailer → PageDown
 -   Upload file → Ctrl+↑
--   Jumpshare: Capture & Annotate Gifs → Alt + Shift + 2
+
 
 ---
 Related:
