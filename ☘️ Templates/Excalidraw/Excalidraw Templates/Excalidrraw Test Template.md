@@ -11,8 +11,8 @@
   await ea.addText(100,-30,"top to bottom",{width:200,textAlign:"center"});
   ea.addArrow([[200,0],[200,200]]);
   await ea.create({
-    filename    :"My Drawing",
-    foldername  :"myfolder/fordemo/",
+    filename    :"Sketch <%tp.date.now("DD-MMM HH:mm")%>",
+    foldername  :"🌿 Spaces/Excalidraw",
     templatePath:"☘️ Templates/Excalidraw/Excalidraw Templates/Sketch 17, May, 16.17.excalidraw.md",
     onNewPane   :true});
 %>
