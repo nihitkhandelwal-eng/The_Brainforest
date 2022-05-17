@@ -10,6 +10,6 @@ tags: [excalidraw]
 %%
 # Drawing
 ```json
-{"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
+{"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[],"appState":{"theme":"dark","gridSize":null,"viewBackgroundColor":"#ffffff"}}
 ```
 %%
