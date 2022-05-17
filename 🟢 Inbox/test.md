@@ -1,9 +1,3 @@
----
-aliases:
-tags: 
-cssclass:
----
-
 - USMLE 
 	- USMLE Step 1
 		- Pathoma
@@ -13,10 +7,6 @@ cssclass:
 		- Step 2 CK
 		- Step 2 CS
 	- USMLE Step 3
-
-
----
-Related:
 
 
 
