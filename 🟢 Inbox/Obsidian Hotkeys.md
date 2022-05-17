@@ -117,6 +117,14 @@ cards-deck: My Hotkeys::Obsidian
 -   Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ; ^1652695879167
 -   Text Format: Capitalize All Words In Selected Text → Alt + A ^1652695879174
 -   Text Format: UPPERCASE all words in selected text → Alt + Shift + A ^1652695879180
+- Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X
+- Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C
+- Excalidraw. Create a new drawing - IN A NEW PANE → Ctrl + Alt + Shift + E
+
+
+
+
+
 
 ---
 Related:
