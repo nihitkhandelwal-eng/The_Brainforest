@@ -2,7 +2,6 @@
 aliases:
 tags: on/hotkeys, on/obsidian 
 cssclass:
-cards-deck: My Hotkeys::Obsidian
 ---
 
 - Periodic Notes: Open previous monthly note → Alt+, ^1652695878350
@@ -83,46 +82,46 @@ cards-deck: My Hotkeys::Obsidian
 - Better File Link / Insert attachment → Ctrl+Shift+K ^1652695878905
 - Create note in new pane → Ctrl+Shift+N ^1652695878913
 - File explorer: Move file to another folder → Ctrl+Shift+P ^1652695878921
-- Copy Block Link: Copy link to current block or heading → Ctrl+Shift+R ^1652695878929
-- Quick Explorer: Browse current folder → Alt+Shift+B ^1652695878935
-- Undo close pane → Ctrl+Shift+T ^1652695878941
-- Close all other panes → Ctrl+Shift+W ^1652695878948
-- Outline: Show outline pane → Ctrl+Tab ^1652695878954
-- Close active pane → Ctrl+W ^1652695878960
-- Open help → F1 ^1652695878967
-- Edit file title → F2 ^1652695878974
-- Outliner: Outdent the list and sublists → Shift+Tab ^1652695878981
-- Outliner: Indent the list and sublists → Tab ^1652695878988
-- Toggle Pin → Alt+Shift+P ^1652695878995
-- Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L ^1652695879002
-- Advanced New File → Ctrl + Alt + Shift + N ^1652695879008
-- Local File Interface : Import local file → Ctrl+Shift+I ^1652695879015
-- Local File Interface : Export local file → Ctrl+Shift+O ^1652695879047
-- Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 ^1652695879057
-- Obsidian Tweaks: Select Current → Alt + Shift + ↑ ^1652695879063
-- Toggle Living Graph → Ctrl + Alt + G ^1652695879071
-- Note Refactor: Extract selection to new note - content only → Ctrl+Alt+E ^1652695879078
-- Note Refactor: Extract selection to new note - first line as file name → Ctrl+Alt+Q ^1652695879085
-- Advanced Tables: Open table controls toolbar → Alt + T ^1652695879092
-- Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V ^1652695879098
-- Paste URL into selection → Alt + V ^1652695879106
-- Better Command Palette: better command palette: Tag Search → Ctrl + T ^1652695879112
-- Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C ^1652695879118
-- Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M ^1652695879126
-- Quick Add: Toggl Manager → Alt + F12 ^1652695879134
-- Get Info: See current file info → Alt + I ^1652695879141
-- Highlightr: Open Highlightr → Ctrl + Alt + = ^1652695879148
-- Highlightr: Remove Highlightr → Ctrl + Alt + - ^1652695879155
-- Obsidian42 Jump-to-Date: Date Picker → Ctrl + Alt + D ^1652695879160
-- Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ; ^1652695879167
-- Text Format: Capitalize All Words In Selected Text → Alt + A ^1652695879174
-- Text Format: UPPERCASE all words in selected text → Alt + Shift + A ^1652695879180
-- Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X ^1652793924893
-- Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C ^1652793924913
-- Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E ^1652793924921
-- Excalidraw. Insert link to file → Ctrl + Alt + Shift + K ^1652801422365
-- Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M ^1652801422378
-- Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O ^1652801422388
+- Copy Block Link: Copy link to current block or heading → Ctrl+Shift+R 
+- Quick Explorer: Browse current folder → Alt+Shift+B 
+- Undo close pane → Ctrl+Shift+T 
+- Close all other panes → Ctrl+Shift+W 
+- Outline: Show outline pane → Ctrl+Tab 
+- Close active pane → Ctrl+W 
+- Open help → F1 
+- Edit file title → F2 
+- Outliner: Outdent the list and sublists → Shift+Tab 
+- Outliner: Indent the list and sublists → Tab 
+- Toggle Pin → Alt+Shift+P 
+- Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
+- Advanced New File → Ctrl + Alt + Shift + N 
+- Local File Interface : Import local file → Ctrl+Shift+I 
+- Local File Interface : Export local file → Ctrl+Shift+O 
+- Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 
+- Obsidian Tweaks: Select Current → Alt + Shift + ↑ 
+- Toggle Living Graph → Ctrl + Alt + G 
+- Note Refactor: Extract selection to new note - content only → Ctrl+Alt+E 
+- Note Refactor: Extract selection to new note - first line as file name → Ctrl+Alt+Q 
+- Advanced Tables: Open table controls toolbar → Alt + T 
+- Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V 
+- Paste URL into selection → Alt + V 
+- Better Command Palette: better command palette: Tag Search → Ctrl + T 
+- Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C 
+- Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M 
+- Quick Add: Toggl Manager → Alt + F12 
+- Get Info: See current file info → Alt + I 
+- Highlightr: Open Highlightr → Ctrl + Alt + = 
+- Highlightr: Remove Highlightr → Ctrl + Alt + - 
+- Obsidian42 Jump-to-Date: Date Picker → Ctrl + Alt + D 
+- Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ; 
+- Text Format: Capitalize All Words In Selected Text → Alt + A 
+- Text Format: UPPERCASE all words in selected text → Alt + Shift + A 
+- Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
+- Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C 
+- Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E 
+- Excalidraw. Insert link to file → Ctrl + Alt + Shift + K 
+- Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
+- Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
 
 
 ---
