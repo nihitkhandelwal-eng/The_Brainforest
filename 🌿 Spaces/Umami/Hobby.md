@@ -1,10 +1,7 @@
 ---
-tags: 
+tags: placeholder/review 
 aliases: [What is a hobby?]
 cssclass: 
-
-
-
 ---
 
 ## Etymology

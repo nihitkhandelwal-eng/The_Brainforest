@@ -2,16 +2,13 @@
 aliases: [<% tp.file.title %>]
 tags:
 cssclass:
+DOB:
+Anniversary:
+Date_of_importance:
+Email:
+Contact_Number:
+Profession:
 ---
----
-
-###### Inline Metadata 
-DOB::
-Anniversary::
-Date_of_importance::
-Email::
-Contact_Number:: 
-Profession::
 
 
 <%tp.file.cursor(0)%>

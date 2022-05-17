@@ -2,33 +2,32 @@
 cssclass: nutFact
 ---
 
-###### Thursday | 28-04-22
+###### Wednesday | 11-05-22
 
-|     | Nutrition [[28-Apr-22]]   |                          |     |
-| --- | ------------------------- | ------------------------:| --- |
-|     | Weight                    |                  94.5 Kg |     |
-|     | Water Intake              |                4 Bottles |     |
-|     |                           |             **Calories** |     |
-|     | *Breakfast*               |              624    /467 |     |
-|     | Aloo Parantha With Butter |                      496 |     |
-|     | Tamatar Pyaaz Parantha    |                      128 |     |
-|     | *Morning Snack*           |                    101 /175 |     |
-|     | Threptin                  |                     65.7 |     |
-|     | Papaya                    |                       35 |     |
-|     | *Lunch*                   |                    425 /467 |     |
-|     | Aloo Tamatar Subzi        |                      159 |     |
-|     | Bhindi                    |                       34 |     |
-|     | Kaddu & 2 Roti            |                      232 |     |
-|     | *Evening Snack*           |                    514 /175 |     |
-|     | Dahi ke kebab             |                      414 |     |
-|     | Lassi 1/2 glass           |                      100 |     |
-|     | *Dinner*                  |                     /467 |     |
-|     | Uttapam 4                   | 571 |     |
-|     |   | <% tp.file.cursor(21) %> |     |
-|     | <% tp.file.cursor(22) %>  | <% tp.file.cursor(23) %> |     |
-|     | **Total**                 |                    /1750 |     |
-|     | &nbsp;                    |                          |     |
+|     | Nutrition [[11-May-22]] |                        |     |
+| --- | -------------------------------------------- | ----------------------:| --- |
+|     | Weight                                       |                     Kg |     |
+|     | Water Intake                                 |                Bottles |     |
+|     |                                              |           **Calories** |     |
+|     | *Breakfast*                                  |                   /467 |     |
+|     | Dal Chilla (2)                        |  249 |     |
+|     | Watermelon                        |  73 |     |
+|     | *Morning Snack*                              |                   /175 |     |
+|     | Protein Shake                        |  121 |     |
+|     | <% tp.file.cursor(6) %>                        |  <% tp.file.cursor(7) %> |     |
+|     | *Lunch*                                      |                   /467 |     |
+|     | <% tp.file.cursor(8) %>                        |  <% tp.file.cursor(9) %> |     |
+|     | <% tp.file.cursor(10) %>                       | <% tp.file.cursor(11) %> |     |
+|     | <% tp.file.cursor(12) %>                       | <% tp.file.cursor(13) %> |     |
+|     | *Evening Snack*                              |                   /175 |     |
+|     | <% tp.file.cursor(14) %>                       | <% tp.file.cursor(15) %> |     |
+|     | <% tp.file.cursor(16) %>                       | <% tp.file.cursor(17) %> |     |
+|     | *Dinner*                                     |                   /467 |     |
+|     | <% tp.file.cursor(18) %>                       | <% tp.file.cursor(19) %> |     |
+|     | <% tp.file.cursor(20) %>                       | <% tp.file.cursor(21) %> |     |
+|     | <% tp.file.cursor(22) %>                       | <% tp.file.cursor(23) %> |     |
+|     | **Total**                                    |                  /1750 |     |
+|     | &nbsp;                                       |                        |     |
 
 
 ---
-

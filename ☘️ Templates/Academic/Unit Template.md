@@ -5,9 +5,6 @@ cards-deck: Default
 cssclass:
 ---
 
-###### Inline Metadata 
-
----
 
 ### Introduction
 - <%tp.file.cursor(0)%>
@@ -15,7 +12,7 @@ cssclass:
 ### Modules & Outline
 - <%tp.file.cursor(1)%>
 
-<% await tp.file.move("/🌴 Academia/Units/" + tp.file.title) %>
+<% await tp.file.move("/🌴 Academia/" + tp.file.title) %>
 
 <%*
   let title = tp.file.title

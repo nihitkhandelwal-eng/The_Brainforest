@@ -2,15 +2,9 @@
 aliases: [<% tp.file.title %>]
 tags: 
 cssclass:
----
-
-###### Inline Metadata 
-author:: 
-why_this_book::
-recommended_by:: 
-date_started::
-date_finished::
-
+author: 
+date_started:
+date_finished:
 ---
 
 ## Summary

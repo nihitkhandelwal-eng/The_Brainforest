@@ -1,6 +1,6 @@
 ---
 aliases: [meditating]
-tags: 
+tags: placeholder/review 
 ---
 ---
 > Meditation is deceptively simple, but extraordinarily profound  

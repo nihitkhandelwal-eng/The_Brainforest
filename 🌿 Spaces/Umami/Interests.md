@@ -1,10 +1,7 @@
 ---
-tags: 
+tags: placeholder/review 
 aliases: [What is an interest?]
 cssclass: 
-
-
-
 ---
 ---
 

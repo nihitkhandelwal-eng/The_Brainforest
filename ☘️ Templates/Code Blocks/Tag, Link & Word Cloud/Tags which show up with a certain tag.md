@@ -1,7 +1,7 @@
 ```tagcloud
 shape: pentagon
 source: query
-query: '#feelings/bad'
+query: '#journal/bad'
 ```
 
 

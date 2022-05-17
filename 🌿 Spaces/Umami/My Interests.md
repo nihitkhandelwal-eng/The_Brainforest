@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: 
+tags: placeholder/review 
 cssclass:
 ---
 ---
@@ -26,7 +26,7 @@ cssclass:
 	- I am very much interested in better ways of connecting thoughts
 	- Spaced Repetition
 	- Better tools for understanding things
-12. [[Sharpen my skills in psychology from a beginner level to advanced level|Learn about "Different types of Personalities"]]
+12. [[Sharpen my skills in psychology & Healthy MVP state of mind.|Learn about "Different types of Personalities"]]
 13. [[Learn how to play guitar|Playing Guitar]]
 14. [[Learn how to play piano|Playing Piano]]
 15. Photography

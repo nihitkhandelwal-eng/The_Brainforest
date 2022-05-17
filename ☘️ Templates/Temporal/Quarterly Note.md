@@ -3,9 +3,8 @@ tags:
 aliases:
 cssclass:
 ---
-[[<% moment(tp.file.title,'[Q]Q').format("YYYY") %>]]
 
---- 
+[[<% moment(tp.file.title,'[Q]Q').format("YYYY") %>]]
 
 ## Quarterly Review
 ### Review Journal Highlights

@@ -3,7 +3,6 @@ tags: type/poem,
 aliases: null
 ---
 
-# <%+ tp.file.title %>
 ---
 You are that Wind Of May
 Warm, comfortable and I can breath you all day

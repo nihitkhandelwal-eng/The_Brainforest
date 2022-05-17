@@ -1,9 +1,8 @@
 ---
 aliases:  
 tags:
-Win_The_Day:  
+highlight:  
 cssclass:
----
 ---
 
 ### Connect 
