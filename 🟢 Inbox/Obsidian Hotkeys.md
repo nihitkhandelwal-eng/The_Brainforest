@@ -120,9 +120,9 @@ cards-deck: My Hotkeys::Obsidian
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X ^1652793924893
 - Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C ^1652793924913
 - Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E ^1652793924921
-- Excalidraw. Insert link to file → Ctrl + Alt + Shift + K
-- Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M
-- Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O
+- Excalidraw. Insert link to file → Ctrl + Alt + Shift + K ^1652801422365
+- Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M ^1652801422378
+- Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O ^1652801422388
 
 
 ---
