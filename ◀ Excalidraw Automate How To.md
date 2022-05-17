@@ -46,7 +46,6 @@ Example input:
 
 *Use CTRL+Shift+V to paste code into Obsidian!*
 
-```
 <%*
 const IDX = Object.freeze({"depth":0, "text":1, "parent":2, "size":3, "children": 4, "objectId":5});
 
@@ -117,4 +116,3 @@ for(i=0;i<=linecount;i++) {
 
 await ea.create({onNewPane: true});
 %>
-```
