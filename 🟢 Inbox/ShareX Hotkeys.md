@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: on/hotkeys 
+tags: on/hotkeys, on/ShareX 
 cssclass:
 cards-deck: My Hotkeys::ShareX
 ---
