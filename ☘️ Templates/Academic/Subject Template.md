@@ -1,7 +1,6 @@
 ---
 aliases:
 tags:
-cards-deck: Default
 cssclass:
 ---
 
