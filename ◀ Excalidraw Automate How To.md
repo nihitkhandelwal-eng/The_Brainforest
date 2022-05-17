@@ -1,3 +1,52 @@
+--- 
+tags: type/web_clipping
+aliases:
+cssclass: 
+date: 18-May-22
+author: 
+url: https://zsviczian.github.io/obsidian-excalidraw-plugin/Examples/templater_mindmap.html
+---
+
+
+> ###### Description
+> A plugin to edit and view Excalidraw drawings in Obsidian
+
+
+---
+
+## Article
+
+## Generating a simple mindmap from a text outline
+
+This is a slightly more elaborate example. This will generate an a mindmap from a tabulated outline.
+
+### Output
+
+![Drawing 2021-05-05 20 52 34](https://user-images.githubusercontent.com/14358394/117194124-00a69d00-ade4-11eb-8b75-5e18a9cbc3cd.png)
+
+### Input file
+
+Example input:
+
+```
+- Test 1
+- Test 1.1
+- Test 2
+- Test 2.1
+- Test 2.2 
+- Test 2.2.1
+- Test 2.2.2
+- Test 2.2.3
+- Test 2.2.3.1
+- Test 3
+- Test 3.1
+```
+
+### Templater script
+
+*Use CTRL+Shift+V to paste code into Obsidian!*
+
+```
 <%*
 const IDX = Object.freeze({"depth":0, "text":1, "parent":2, "size":3, "children": 4, "objectId":5});
 
@@ -68,3 +117,4 @@ for(i=0;i<=linecount;i++) {
 
 await ea.create({onNewPane: true});
 %>
+```
