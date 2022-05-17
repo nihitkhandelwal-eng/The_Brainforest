@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-My Interests
+[[My Interests]]
  ^nlfXK5bs
 
 %%
@@ -76,8 +76,8 @@ My Interests
 			"type": "text",
 			"x": -2,
 			"y": 194,
-			"width": 130,
-			"height": 50,
+			"width": 186,
+			"height": 54,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -89,22 +89,22 @@ My Interests
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1074752265,
-			"version": 18,
-			"versionNonce": 25658025,
+			"version": 23,
+			"versionNonce": 752732873,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1652773441136,
-			"link": null,
+			"updated": 1652773526710,
+			"link": "[[My Interests]]",
 			"locked": false,
-			"text": "My Interests\n",
-			"rawText": "My Interests\n",
+			"text": "📍[[My Interests]]\n",
+			"rawText": "[[My Interests]]\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 47,
 			"containerId": null,
-			"originalText": "My Interests\n"
+			"originalText": "📍[[My Interests]]\n"
 		},
 		{
 			"id": "FRyibBvB",
