@@ -8,7 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
-is this a linka ^FRyibBvB
+My Interests
+ ^nlfXK5bs
 
 %%
 # Drawing
@@ -71,12 +72,47 @@ is this a linka ^FRyibBvB
 			"locked": false
 		},
 		{
+			"id": "nlfXK5bs",
+			"type": "text",
+			"x": -2,
+			"y": 194,
+			"width": 130,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "dotted",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1074752265,
+			"version": 18,
+			"versionNonce": 25658025,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1652773441136,
+			"link": null,
+			"locked": false,
+			"text": "My Interests\n",
+			"rawText": "My Interests\n",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "My Interests\n"
+		},
+		{
 			"id": "FRyibBvB",
 			"type": "text",
-			"x": -161,
+			"x": -163,
 			"y": 228,
-			"width": 138,
-			"height": 25,
+			"width": 278,
+			"height": 29,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -88,22 +124,22 @@ is this a linka ^FRyibBvB
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 816982025,
-			"version": 17,
-			"versionNonce": 376622857,
-			"isDeleted": false,
+			"version": 49,
+			"versionNonce": 347429607,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1652773265787,
+			"updated": 1652773369240,
 			"link": null,
 			"locked": false,
-			"text": "is this a linka",
-			"rawText": "is this a linka",
+			"text": "📍[[I am now including this]]",
+			"rawText": "[[I am now including this]]",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
+			"baseline": 22,
 			"containerId": null,
-			"originalText": "is this a linka"
+			"originalText": "📍[[I am now including this]]"
 		}
 	],
 	"appState": {
