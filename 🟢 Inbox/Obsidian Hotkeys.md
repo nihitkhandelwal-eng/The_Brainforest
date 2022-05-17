@@ -119,7 +119,7 @@ cards-deck: My Hotkeys::Obsidian
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A ^1652695879180
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X ^1652793924893
 - Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C ^1652793924913
-- Excalidraw. Create a new drawing - IN A NEW PANE → Ctrl + Alt + Shift + E ^1652793924921
+- Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E ^1652793924921
 
 ---
 
