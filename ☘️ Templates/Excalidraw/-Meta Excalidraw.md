@@ -1,10 +1,12 @@
 <%*
-const choice = await tp.system.suggester(["Blank Slate", "Placeholder 1", "Placeholder 2", "Placeholder 3", "Placeholder 4"]), (["Blank Slate", "Placeholder 1", "Placeholder 2", "Placeholder 3", "Placeholder 4"]);
+const choice = await tp.system.suggester(["Blank Slate", "Embed a Drawing Here"]), (["Blank Slate", "Embed a Drawing Here"]);
 let output = ""
 switch(choice) {
 	case "Blank Slate":
 		output = await tp.file.include("[[Blank Slate]]")
 		break;
+	case "Embed a Drawing Here"
+		output = await tp.file.include("[[Insert Drawing Into the Current Note]]")
 	default:
 		new Notice("No Matching Template")
 }
