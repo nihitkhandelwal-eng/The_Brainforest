@@ -118,7 +118,7 @@ cssclass:
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A 
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
 - Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C 
-- Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E 
+- Excalidraw. Create a new drawing - In a new pane → Ctrl + Alt + Shift + E  #anki
 - Excalidraw. Insert link to file → Ctrl + Alt + Shift + K 
 - Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
