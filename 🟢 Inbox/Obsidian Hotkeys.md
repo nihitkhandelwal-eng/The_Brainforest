@@ -125,6 +125,7 @@ cssclass:
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
 - Excalidraw: Insert image from the vault → Alt + Shift + I #status/🃏ankify 
 - Excalidraw: Search for text in drawing → Alt + S #status/🃏ankify 
+- Excalidraw: Toggle property-panel tray-mode → Alt + Shift + T #status/🃏ankify 
 
 
 ---
