@@ -27,7 +27,7 @@ cssclass:
 - Delete current file → Alt+Delete 
 - Templater: Open Insert Template modal → Alt+E 
 - Templater: Jump to next cursor location → Alt+Enter 
-- Follow link under cursor → Ctrl+Alt+Enter 
+- Follow link under cursor → Ctrl+Alt+Enter  remove it #status/🃏ankify 
 - Audio recorder: Stop recording audio → Alt+F11 
 - Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2 
 - Periodic Notes: Open monthly note → Alt+M 
@@ -131,6 +131,3 @@ cssclass:
 ---
 
 Related:
-
-[[🌵 Workbench]]
-https://academy.co-x3.com/en/
