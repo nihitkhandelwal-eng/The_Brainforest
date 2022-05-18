@@ -48,7 +48,7 @@ cssclass:
 - Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - 
 - Obsidian Tweaks: Better Toggle Highlight → Ctrl + = 
 - Obsidian Tweaks: Better Math (Block) → Ctrl + 4 
-- Obsidian Tweaks: Better Math (Inline) → Alt + Shift + 4 
+- Obsidian Tweaks: Better Math (Inline) → Ctrl + Shift + 4  #status/🃏ankify 
 - Open link under cursor in new pane → Ctrl+Alt+Enter 
 - Toggle fold on the current line → Ctrl+ArrowDown 
 - Obsidian Tweaks: Toggle bold → Ctrl+B 
