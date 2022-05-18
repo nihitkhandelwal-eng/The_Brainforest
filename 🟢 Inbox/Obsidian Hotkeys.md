@@ -11,7 +11,7 @@ cssclass:
 - Swap line up/down → Alt+↑ or Alt+↓ 
 - Navigate → Alt+ left/right arrow 
 - Workbench: Link the current line/block in your Workbench. → Alt+Shift+W 
-- Starred: Star/unstar current file → Ctrl+Alt+8 ^1652695878437
+- Starred: Star/unstar current file → Ctrl+Alt+8 
 - Toggle left sidebar → Ctrl+Alt+ArrowLeft 
 - Toggle right sidebar → Ctrl+Alt+ArrowRight 
 - File recovery: Open saved snapshots → Ctrl+Alt+ContextMenu 
