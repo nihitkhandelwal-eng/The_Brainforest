@@ -95,7 +95,7 @@ cssclass:
 - Toggle Pin → Alt+Shift+P 
 - Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
 - Advanced New File → Ctrl + Alt + Shift + N 
-- Local File Interface : Import local file → Ctrl+Shift+I 
+- Local File Interface : Import local file → Ctrl+Alt+Shift+I #status/🃏ankify  
 - Local File Interface : Export local file → Ctrl+Shift+O 
 - Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 
 - Obsidian Tweaks: Select Current → Alt + Shift + ↑ 
@@ -123,6 +123,7 @@ cssclass:
 - Excalidraw. Insert link to file → Ctrl + Alt + Shift + K 
 - Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
+- Excalidraw: Insert image from the vault → Alt + Shift + I #status/🃏ankify 
 
 
 ---
