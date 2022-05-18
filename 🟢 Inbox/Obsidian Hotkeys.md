@@ -124,6 +124,7 @@ cssclass:
 - Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
 - Excalidraw: Insert image from the vault → Alt + Shift + I #status/🃏ankify 
+- Excalidraw: Search for text in drawing → Alt + S #status/🃏ankify 
 
 
 ---
