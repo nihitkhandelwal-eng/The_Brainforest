@@ -131,3 +131,6 @@ cssclass:
 ---
 
 Related:
+
+[[🌵 Workbench]]
+https://academy.co-x3.com/en/
