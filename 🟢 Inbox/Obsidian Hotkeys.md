@@ -126,6 +126,8 @@ cssclass:
 - Excalidraw: Insert image from the vault → Alt + Shift + I #status/🃏ankify 
 - Excalidraw: Search for text in drawing → Alt + S #status/🃏ankify 
 - Excalidraw: Toggle property-panel tray-mode → Alt + Shift + T #status/🃏ankify 
+- Excalidraw: Transclude (embed) a drawing → Ctrl+Alt+Shift+D #status/🃏ankify 
+
 
 
 ---
