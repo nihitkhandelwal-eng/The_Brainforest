@@ -119,8 +119,8 @@ cssclass:
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
 - Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C 
 - Excalidraw. Create a new drawing - In a new pane & embed into active document → Ctrl + Alt + Shift + E  #status/🃏ankify 
-- Excalidraw: Insert markdown file from vault → Alt + Shift + K #status/🃏ankify 
-- Excalidraw. Insert link to file → Ctrl + Alt + Shift + K 
+- Excalidraw: Insert markdown file from vault → Ctrl+ Alt + Shift + K #status/🃏ankify 
+- Excalidraw. Insert link to file → Alt + Shift + K #status/🃏ankify  
 - Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
 - Excalidraw: Insert image from the vault → Alt + Shift + I #status/🃏ankify 
