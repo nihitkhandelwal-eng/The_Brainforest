@@ -14,7 +14,6 @@
 	- Transclude (embed) a drawing → Ctrl+Alt+Shift+D
 	- Open an existing drawing - In a new pane → Alt + Shift + O 
 	- Insert image from the vault → Alt + Shift + I 
-	- Insert link to file → Alt + Shift + K 
 	- Insert markdown file from vault → Ctrl+ Alt + Shift + K 
 	- Create a new drawing, In a new pane & embed into active document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
@@ -43,12 +42,12 @@
 		7. set text alignment
 		8. set stroke width of selected elements
 		9. set link alias
-		11. elbow connectors
-		12. set background color of unclosed line by adding a shadow clone → 
-		13. repeat elements
-		14. fixed inner distance
-		15. fixed vertical distance between centers
-		16. fixed vertical distance
-		17. fixed horizontal distance between centers
+		10. elbow connectors
+		11. set background color of unclosed line by adding a shadow clone → 
+		12. repeat elements
+		13. fixed inner distance
+		14. fixed vertical distance between centers
+		15. fixed vertical distance
+		16. fixed horizontal distance between centers
 
 
