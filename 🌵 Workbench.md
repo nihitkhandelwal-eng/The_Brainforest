@@ -18,35 +18,35 @@
 	- ive document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
 	- Scripts title bar & hotkeys
+		1. ocr 
+		2. transfer text elements to excalidraw markdown
+		3. select elements of type
+		4. scribble helper
+		5. darken background color → No hotkey
+		6. lighten background color → No hotkey
 	- Scripts hotkey only
-		1. add link to existing file & open
-		2. add link to new page & open
-		3. add next step in process
-		4. box each selected groups
-		5. convert freedraw to line
-		6. create new markdown file & embed into active drawing
-		7. ocr 
-		8. transfer text elements to excalidraw markdown
-		9. select elements of type
-		10. scribble helper
-		11. organic line
-		12. normalize selected arrows
-		13. change shape of select elements
-		14. Convert selected text elements to sticky notes
-		15. Lighten background color
-		16. box selected elements
-		17. set text alignment
-		18. set stroke width of selected elements
-		19. set link alias
-		20. set grid → Alt+Shift+G
-		21. set background color of unclosed line by adding a shadow clone → 
-		22. reverse arrows
-		23. repeat elements
-		24. fixed vertical distance between centers
-		25. fixed vertical distance
-		26. fixed spacing
-		27. fixed inner distance
-		28. fixed horizontal distance between centers
-		29. elbow connectors
+		1. organic line
+		2. add link to existing file & open
+		3. add link to new page & open
+		4. add next step in process
+		5. box each selected groups
+		6. convert freedraw to line
+		7. create new markdown file & embed into active drawing
+		8. normalize selected arrows
+		9. change shape of select elements
+		10. Convert selected text elements to sticky notes
+		11. box selected elements
+		12. set text alignment
+		13. set stroke width of selected elements
+		14. set link alias
+		15. set grid → Alt+Shift+G
+		16. elbow connectors
+		17. set background color of unclosed line by adding a shadow clone → 
+		18. reverse arrows
+		19. repeat elements
+		20. fixed inner distance
+		21. fixed vertical distance between centers
+		22. fixed vertical distance
+		23. fixed horizontal distance between centers
 
 
