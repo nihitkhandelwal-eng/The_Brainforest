@@ -21,6 +21,7 @@
 	- Title bar only
 		1. lighten background color 
 		2. darken background color 
+		3. set grid 
 	- Scripts title bar & hotkeys
 		1. ocr 
 		2. transfer text elements to excalidraw markdown
@@ -42,7 +43,6 @@
 		7. set text alignment
 		8. set stroke width of selected elements
 		9. set link alias
-		10. set grid → Alt+Shift+G
 		11. elbow connectors
 		12. set background color of unclosed line by adding a shadow clone → 
 		13. repeat elements
