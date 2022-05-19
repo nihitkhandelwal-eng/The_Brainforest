@@ -18,6 +18,7 @@
 	- ive document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
 	- Scripts title bar & hotkeys
+	- Scripts hotkey only
 		1. add link to existing file & open
 		2. add link to new page & open
 		3. add next step in process
@@ -33,20 +34,19 @@
 		13. change shape of select elements
 		14. Convert selected text elements to sticky notes
 		15. Lighten background color
-	- Scripts hotkey only
-		1. box selected elements
-		2. set text alignment
-		3. set stroke width of selected elements
-		4. set link alias
-		5. set grid → Alt+Shift+G
-		6. set background color of unclosed line by adding a shadow clone → 
-		7. reverse arrows
-		8. repeat elements
-		9. fixed vertical distance between centers
-		10. fixed vertical distance
-		11. fixed spacing
-		12. fixed inner distance
-		13. fixed horizontal distance between centers
-		14. elbow connectors
+		16. box selected elements
+		17. set text alignment
+		18. set stroke width of selected elements
+		19. set link alias
+		20. set grid → Alt+Shift+G
+		21. set background color of unclosed line by adding a shadow clone → 
+		22. reverse arrows
+		23. repeat elements
+		24. fixed vertical distance between centers
+		25. fixed vertical distance
+		26. fixed spacing
+		27. fixed inner distance
+		28. fixed horizontal distance between centers
+		29. elbow connectors
 
 
