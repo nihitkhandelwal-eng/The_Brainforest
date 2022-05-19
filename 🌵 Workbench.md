@@ -2,7 +2,7 @@
 
 
 - General Hotkeys
-	- Convert empty note to Excalidraw Drawing → Alt + Shift + X
+
 	- Copy markdown link for selected element to clipboard → Alt + Shift + C  
 	- Transclude (embed) a drawing → Ctrl+Alt+Shift+D
 	- Insert image from the vault → Alt + Shift + I 
