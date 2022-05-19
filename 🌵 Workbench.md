@@ -1,7 +1,3 @@
-### Excalidraw tasks
-- [ ] [mindmap script is not working](https://zsviczian.github.io/obsidian-excalidraw-plugin/Examples/templater_mindmap.html)
-
-
 ### Excalidraw Hotkeys
 
 
