@@ -1,3 +1,4 @@
+```dataviewjs
 function crawl(subtasks) {
   let size = subtasks.length > 0 ? 0 : 1; //if no children then a leaf with size 1
   for (let task of subtasks) {
@@ -38,3 +39,4 @@ tasks["objectID"] = ea.addText(width*1.5,height*(tasks.size-1),tasks.text,{box:t
 buildMindmap(tasks.subtasks, 2, 0, tasks.objectID);
 
 ea.createSVG().then((svg)=>dv.span(svg.outerHTML));
+```

@@ -1,3 +1,10 @@
+---
+tags:
+aliases:
+cssclass:
+excalidraw-plugin: parsed
+---
+
 - USMLE 
 	- USMLE Step 1
 		- Pathoma
@@ -9,3 +16,4 @@
 - Shark
 	- Baby 
 	- Fish
+
