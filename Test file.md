@@ -1,6 +1,5 @@
-- Step 1
-	- Step 2
-		- Step 2a
-	- Step 3
-		- Step 3a
-		- Step 3b
+- USMLE 
+	- USMLE Step 1
+		- Pathoma
+		- First Aid
+	- USMLE Step 2
