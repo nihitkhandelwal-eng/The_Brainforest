@@ -1,0 +1,29 @@
+---
+excalidraw-plugin: parsed
+tags: [excalidraw]
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+%%
+# Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
+
+ZMzYBXUtiRoIACyhQ4zZAHoFWPETKUAdNjYBbGnQT4EOhByjNuAbQC6/CLjhwAyl
+
+FxRxqUGEhRJxjxDEuKQA1vreDIQIFABCuNghAOakwhzEAMJs+Gyk3NDkHMxwwaZQ
+
+4ZDYIqSlAJLuOi4pIQiZ2bkSAMQADD295RCVpNVmdcZxCcmpGVk5eVAFRSVm/YPD
+
+UKM6AGKE+PguMEZ5kvGSIkj8FVW19Y1szQDqJL7cAIwXA1cjN/N3CPuHEkEahWn3
+
+W9QASsJEpIOAhmBY0G9wJchtdjAB5YrYQiwV49d6rNFbThQTa4HQ7GCvAmgjabEl
+
+OQgALw8PC6NNRX2MABUsFAAIJERJcCRGABmZQ5aw2t2aTmOpDgsPheRSQjSIM5YO
+
+MLmCAqGbAoflwxG4HCEuylRIAoml+QajQgTXlgikqFauToADKEWHBWV/BVKuEI9B
+
+qjXvZIkRkss0W/AEmakAAKBAQMg8wAAvuAs3YxTs4dxsyAs0A===```
+%%
