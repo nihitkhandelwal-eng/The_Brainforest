@@ -2,7 +2,6 @@
 
 
 - General Hotkeys
-	- Transclude (embed) a drawing → Ctrl+Alt+Shift+D
 	- Insert image from the vault → Alt + Shift + I 
 	- Create a new drawing, In a new pane & embed into active document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
