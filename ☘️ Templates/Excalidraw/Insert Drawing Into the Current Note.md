@@ -1,8 +1,8 @@
 <%*
-  const defaultTitle = tp.date.now("HHmm")+' '+tp.file.title;
+  const defaultTitle = tp.date.now("HH'mm")+' '+tp.file.title;
   const title = await tp.system.prompt("Title of the drawing?", defaultTitle);
   const folder = tp.file.folder(true);
-  const transcludePath = (folder== '/' ? '' : folder + '/') + title + '.excalidraw';
+  const transcludePath = (folder== '/' ? '' : folder + '/') + title;
   tR = '![['+transcludePath+']]';
   const ea = ExcalidrawAutomate;
   ea.reset();
@@ -10,7 +10,7 @@
   await ea.create({
     filename : title,
     foldername : folder,
-    //templatePath: 'Excalidraw/Template.excalidraw', //uncomment if you want to use a template
+    templatePath: '☘️ Templates/Excalidraw/Excalidraw Templates/Blank Slate.md', 
     onNewPane : true
   });
 %>
