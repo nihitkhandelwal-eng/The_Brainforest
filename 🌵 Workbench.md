@@ -34,6 +34,7 @@
 		11. organic line
 		12. normalize selected arrows
 		13. change shape of select elements
+		14. Convert selected text elements to sticky notes
 	- Scripts hotkey
 		1. box selected elements
 		2. set text alignment
