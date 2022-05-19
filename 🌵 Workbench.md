@@ -16,8 +16,7 @@
 	- Insert image from the vault → Alt + Shift + I 
 	- Insert link to file → Alt + Shift + K 
 	- Insert markdown file from vault → Ctrl+ Alt + Shift + K 
-	- Create a new drawing, In a new pane & embed into act
-	- ive document → Ctrl + Alt + Shift + E 
+	- Create a new drawing, In a new pane & embed into active document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
 	- Title bar only
 		1. lighten background color 
@@ -27,29 +26,29 @@
 		2. transfer text elements to excalidraw markdown
 		3. select elements of type
 		4. scribble helper
-		4. add next step in process
-		18. reverse arrows
-		2. add link to existing file & open
-		3. add link to new page & open
-		7. create new markdown file & embed into active drawing
-		9. change shape of select elements
+		5. add next step in process
+		6. reverse arrows
+		7. add link to existing file & open
+		8. add link to new page & open
+		9. create new markdown file & embed into active drawing
+		10. change shape of select elements
 	- Scripts hotkey only
 		1. organic line
-		5. box each selected groups
-		6. convert freedraw to line
-		8. normalize selected arrows
-		10. Convert selected text elements to sticky notes
-		11. box selected elements
-		12. set text alignment
-		13. set stroke width of selected elements
-		14. set link alias
-		15. set grid → Alt+Shift+G
-		16. elbow connectors
-		17. set background color of unclosed line by adding a shadow clone → 
-		19. repeat elements
-		20. fixed inner distance
-		21. fixed vertical distance between centers
-		22. fixed vertical distance
-		23. fixed horizontal distance between centers
+		2. box each selected groups
+		3. convert freedraw to line
+		4. normalize selected arrows
+		5. Convert selected text elements to sticky notes
+		6. box selected elements
+		7. set text alignment
+		8. set stroke width of selected elements
+		9. set link alias
+		10. set grid → Alt+Shift+G
+		11. elbow connectors
+		12. set background color of unclosed line by adding a shadow clone → 
+		13. repeat elements
+		14. fixed inner distance
+		15. fixed vertical distance between centers
+		16. fixed vertical distance
+		17. fixed horizontal distance between centers
 
 
