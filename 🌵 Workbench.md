@@ -33,6 +33,7 @@
 		10. scribble helper
 		11. organic line
 		12. normalize selected arrows
+		13. change shape of select elements
 	- Scripts hotkey
 		1. box selected elements
 		2. set text alignment
@@ -48,6 +49,7 @@
 		12. fixed inner distance
 		13. fixed horizontal distance between centers
 		14. elbow connectors
+
 
 
 
