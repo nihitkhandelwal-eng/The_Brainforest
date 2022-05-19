@@ -3,6 +3,8 @@
 
 
 ### Excalidraw Hotkeys
+
+
 - General Hotkeys
 	- Convert empty note to Excalidraw Drawing → Alt + Shift + X
 	- Copy markdown link for selected element to clipboard → Alt + Shift + C 
