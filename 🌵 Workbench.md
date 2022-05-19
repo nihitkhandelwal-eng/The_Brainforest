@@ -36,3 +36,5 @@
 		14. fixed vertical distance between centers
 		15. fixed vertical distance
 		16. fixed horizontal distance between centers
+
+You know I was thinking about 
