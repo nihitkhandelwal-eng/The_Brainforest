@@ -17,23 +17,25 @@
 	- Create a new drawing, In a new pane & embed into act
 	- ive document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
+	- Title bar only
+		1. lighten background color 
+		2. darken background color 
 	- Scripts title bar & hotkeys
 		1. ocr 
 		2. transfer text elements to excalidraw markdown
 		3. select elements of type
 		4. scribble helper
-		5. darken background color → No hotkey
-		6. lighten background color → No hotkey
-	- Scripts hotkey only
-		1. organic line
+		4. add next step in process
+		18. reverse arrows
 		2. add link to existing file & open
 		3. add link to new page & open
-		4. add next step in process
+		7. create new markdown file & embed into active drawing
+		9. change shape of select elements
+	- Scripts hotkey only
+		1. organic line
 		5. box each selected groups
 		6. convert freedraw to line
-		7. create new markdown file & embed into active drawing
 		8. normalize selected arrows
-		9. change shape of select elements
 		10. Convert selected text elements to sticky notes
 		11. box selected elements
 		12. set text alignment
@@ -42,7 +44,6 @@
 		15. set grid → Alt+Shift+G
 		16. elbow connectors
 		17. set background color of unclosed line by adding a shadow clone → 
-		18. reverse arrows
 		19. repeat elements
 		20. fixed inner distance
 		21. fixed vertical distance between centers
