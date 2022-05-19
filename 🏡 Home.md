@@ -24,4 +24,3 @@ The Compass point to other valuable spaces.
 
 example: 
 Cabin | Seedbox | The Forge | LYT Home  
-

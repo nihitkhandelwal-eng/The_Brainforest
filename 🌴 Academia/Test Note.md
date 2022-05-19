@@ -1,5 +1,0 @@
-- USMLE Process
-	- Step 1
-	- Step 2
-		- CK 
-		- CS
