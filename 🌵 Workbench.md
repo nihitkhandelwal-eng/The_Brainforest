@@ -1,6 +1,4 @@
 ### Excalidraw tasks
-- [ ] setup hotkeys for excalidraw
-- [ ] learn how to create graph using data
 - [ ] [mindmap script is not working](https://zsviczian.github.io/obsidian-excalidraw-plugin/Examples/templater_mindmap.html)
 
 
@@ -19,7 +17,7 @@
 	- Create a new drawing, In a new pane & embed into act
 	- ive document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
-	- Scripts title bar
+	- Scripts title bar & hotkeys
 		1. add link to existing file & open
 		2. add link to new page & open
 		3. add next step in process
@@ -35,7 +33,7 @@
 		13. change shape of select elements
 		14. Convert selected text elements to sticky notes
 		15. Lighten background color
-	- Scripts hotkey
+	- Scripts hotkey only
 		1. box selected elements
 		2. set text alignment
 		3. set stroke width of selected elements
