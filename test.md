@@ -1,5 +1,5 @@
 ---
-tags: #status/🍃boat, #excalidraw 
+tags: status/🍃boat, excalidraw 
 aliases:
 cssclass: 
 ---
