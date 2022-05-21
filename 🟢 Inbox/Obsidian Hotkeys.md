@@ -105,7 +105,7 @@ cssclass:
 - Advanced Tables: Open table controls toolbar → Alt + T 
 - Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V 
 - Paste URL into selection → Alt + V 
-- Better Command Palette: better command palette: Tag Search → Ctrl + T 
+- Better Command Palette: better command palette: Tag Search → Ctrl + T  remove this card #status/🃏ankify 
 - Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C 
 - Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M 
 - Quick Add: Toggl Manager → Alt + F12 
