@@ -2,6 +2,8 @@
 
 
 - General Hotkeys
+
+
 	- Create a new drawing, In a new pane & embed into active document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
 	- Title bar only
