@@ -40,3 +40,10 @@
 		16. fixed horizontal distance between centers
 
 You know I was thinking about 
+### Late Morning
+
+- **Feeling** 😤 Lazy|Not sure
+- Sleep
+	- It was not so good but I'm adult remember the content of the sleep
+	- Intentional about sleeping try not to wait late to get work try to do work in the day at six
+	- Completing two units of bathroom
