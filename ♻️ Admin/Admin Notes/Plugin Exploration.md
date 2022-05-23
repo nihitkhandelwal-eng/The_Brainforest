@@ -25,66 +25,69 @@ cssclass:
 ### Plugins To Explore
 1. Activity History
 2. Annotator
-3. Buttons
-4. Card View Mode → Check with Style settings plugin
-5. Charts View
-6. Chat View
-7. Core Search Assistant
-8. CSV Table 
-9. Dialogue Table
-10. Minimal Card View (I don't think this is a plugin but still)
-11. Fantasy Calendar 
-12. Gallery
-13. Graph Analysis
-14. Heatmap Calendar
-15. Journey
-16. Kindle Highlights
-17. Latex Suite
-18. Macros
-19. Map Of Content
-20. Media Extended
-21. Notion Like Tables
-22. Obsidian JTab
-23. Obsidian Leaflet
-24. Obsidian Link Converter
-25. Obsidian Memos
-26. Obsidian Markmind
-27. Obsidian to Anki
-28. Obsidian42 Text Transporter
-29. Obsidian Tweaks
-30. Obsius Publish
-31. Omnisearch
-32. Ozan's Image in Editor Plugin
-33. Paste Image Rename
-34. PDF Highlights
-35. Persistent Graph
-36. Quiet Outline 
-37. Reading Time
-38. Read It Later
-39. Review
-40. Rewarder
-41. Search on Internet
-42. Sekund
-43. Shortcut Launcher
-44. Sidekick
-45. Smart Random Note
-46. Random Note
-47. Smart Typography
-48. Smarter Markdown Hotkeys
-49. Snippetor
-50. Supercharged Links
-51. Text Toolbar
-52. Timeline
-53. Timelines
-54. Todoist Link
-55. Todoist Text
-56. Todoist Plugin
-57. Topic Linking
-58. Vale
-59. Vantage → Advanced Search Builder
-60. Various Complements
-61. Waypoint
-62. Wordsprint
+3. Better Audio Recorder
+4. Buttons
+5. Card View Mode → Check with Style settings plugin
+6. Charts View
+7. Chat View
+8. Core Search Assistant
+9. CSV Table 
+10. Dialogue Table
+11. Minimal Card View (I don't think this is a plugin but still)
+12. Fantasy Calendar 
+13. Gallery
+14. Graph Analysis
+15. Heatmap Calendar
+16. Journey
+17. Kindle Highlights
+18. Latex Suite
+19. Macros
+20. Map Of Content
+21. Media Extended
+22. Note Auto Creation
+23. Notion Like Tables
+24. Obsidian JTab
+25. Obsidian Leaflet
+26. Obsidian Link Converter
+27. Obsidian Memos
+28. Obsidian Markmind
+29. Obsidian State Switcher
+30. Obsidian to Anki
+31. Obsidian42 Text Transporter
+32. Obsidian Tweaks
+33. Obsius Publish
+34. Omnisearch
+35. Ozan's Image in Editor Plugin
+36. Paste Image Rename
+37. PDF Highlights
+38. Persistent Graph
+39. Quiet Outline 
+40. Reading Time
+41. Read It Later
+42. Review
+43. Rewarder
+44. Search on Internet
+45. Sekund
+46. Shortcut Launcher
+47. Sidekick
+48. Smart Random Note
+49. Random Note
+50. Smart Typography
+51. Smarter Markdown Hotkeys
+52. Snippetor
+53. Supercharged Links
+54. Text Toolbar
+55. Timeline
+56. Timelines
+57. Todoist Link
+58. Todoist Text
+59. Todoist Plugin
+60. Topic Linking
+61. Vale
+62. Vantage → Advanced Search Builder
+63. Various Complements
+64. Waypoint
+65. Wordsprint
 
 ---
 
