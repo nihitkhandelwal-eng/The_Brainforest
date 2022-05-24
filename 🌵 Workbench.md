@@ -1,9 +1,5 @@
 ### Excalidraw Hotkeys
-
-
 - General Hotkeys
-
-
 	- Create a new drawing, In a new pane & embed into active document → Ctrl + Alt + Shift + E 
 - Excalidraw Scripts
 	- Title bar only
@@ -40,3 +36,9 @@
 		16. fixed horizontal distance between centers
 
 You know I was thinking about 
+
+
+### Sync Obsidian Settings Across Devices
+- Auto Note Mover
+- CSS - Outliner in ipad is not correctly placing bullets
+- Sync atext
