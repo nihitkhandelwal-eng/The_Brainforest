@@ -48,7 +48,7 @@ cssclass:
 - Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - 
 - Obsidian Tweaks: Better Toggle Highlight → Ctrl + = 
 - Obsidian Tweaks: Better Math (Block) → Ctrl + 4 
-- Obsidian Tweaks: Better Math (Inline) → Ctrl + Shift + 4  #status/🃏ankify 
+- Obsidian Tweaks: Better Math (Inline) → Ctrl + Shift + 4  
 - Open link under cursor in new pane → Ctrl+Alt+Enter 
 - Toggle fold on the current line → Ctrl+ArrowDown 
 - Obsidian Tweaks: Toggle bold → Ctrl+B 
@@ -95,7 +95,7 @@ cssclass:
 - Toggle Pin → Alt+Shift+P 
 - Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
 - Advanced New File → Ctrl + Alt + Shift + N 
-- Local File Interface : Import local file → Ctrl+Alt+Shift+I #status/🃏ankify  
+- Local File Interface : Import local file → Ctrl+Alt+Shift+I 
 - Local File Interface : Export local file → Ctrl+Shift+O 
 - Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 
 - Obsidian Tweaks: Select Current → Alt + Shift + ↑ 
@@ -105,7 +105,6 @@ cssclass:
 - Advanced Tables: Open table controls toolbar → Alt + T 
 - Auto Card Link: Paste URL and enhance to card link → Alt + Shift + V 
 - Paste URL into selection → Alt + V 
-- Better Command Palette: better command palette: Tag Search → Ctrl + T  remove this card #status/🃏ankify 
 - Daily Activity. Links to Files Created Today for date (default's for today) → Ctrl + Alt + C 
 - Daily Activity. Links to Files Modified for date (default's for today) → Ctrl + Alt + M 
 - Quick Add: Toggl Manager → Alt + F12 
