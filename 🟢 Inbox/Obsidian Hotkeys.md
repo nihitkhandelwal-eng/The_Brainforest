@@ -125,13 +125,13 @@ cssclass:
 - Excalidraw: Insert image from the vault → Alt + Shift + I  
 - Excalidraw: Search for text in drawing → Alt + S 
 - Excalidraw: Toggle property-panel tray-mode → Alt + Shift + T 
-- Excalidraw: Transclude (embed) a drawing → Ctrl+Alt+Shift+D #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/Add Next Step in Process → Alt + Shift + → #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/Change shape of selected elements → Alt + Shift + Clear #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/OCR → Alt + Shift + 3 #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/Transfer text elements to excalidraw markdown metadata → Alt + Shift + 4 #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/Reverse Arrows → Alt + Shift + ↓ #status/🃏ankify 
-- Excalidraw: (Script) Downloaded/Scribble Helper → Alt + Shift + ↑ #status/🃏ankify 
+- Excalidraw: Transclude (embed) a drawing → Ctrl+Alt+Shift+D  
+- Excalidraw: (Script) Downloaded/Add Next Step in Process → Alt + Shift + →  
+- Excalidraw: (Script) Downloaded/Change shape of selected elements → Alt + Shift + Clear 
+- Excalidraw: (Script) Downloaded/OCR → Alt + Shift + 3  
+- Excalidraw: (Script) Downloaded/Transfer text elements to excalidraw markdown metadata → Alt + Shift + 4 
+- Excalidraw: (Script) Downloaded/Reverse Arrows → Alt + Shift + ↓ 
+- Excalidraw: (Script) Downloaded/Scribble Helper → Alt + Shift + ↑ 
 
 
 
