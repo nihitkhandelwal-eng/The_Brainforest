@@ -5,15 +5,11 @@ cssclass:
 ---
 
 ### QuickAdd
-- QuickAdd: 😎 Capture to Daily Note → Ctrl+Shift+D or Ctrl + Capslock 
-- QuickAdd: Run QuickAdd → Ctrl+Q 
-- QuickAdd: 🔋 Capture to Workbench → Ctrl+Shift+X 
-
 - QuickAdd: Toggl Manager → Alt + F12
-QuickAdd: Quick Capture → Ctrl + Shift + D
-QuickAdd: Workbench → Ctrl + Shift + X
-QuickAdd: Journal → Ctrl + Shift + J
-QuickAdd: Run QuickAdd → Ctrl + Q
+- QuickAdd: Quick Capture → Ctrl + Shift + D
+- QuickAdd: Workbench → Ctrl + Shift + X
+- QuickAdd: Journal → Ctrl + Shift + J
+- QuickAdd: Run QuickAdd → Ctrl + Q
 
 
 ### Periodic Notes
