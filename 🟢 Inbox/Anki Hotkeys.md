@@ -10,9 +10,10 @@ cssclass:
 - Card Info → I
 - Again → 1
 - Hard → 2
-- Good → 3
+- Good → 3 or Spacebar
 - Easy → 4
-- Show answer Or Flip to the back of the card → Space
+- Question Mode: Show answer Or Flip to the back of the card → Spacebar
+
 
 
 
