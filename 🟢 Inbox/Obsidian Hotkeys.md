@@ -28,10 +28,7 @@ cssclass:
 - Workspaces: Manage workspaces → Ctrl+Alt+Shift+W 
 - Delete current file → Alt+Delete 
 
-- Templater: Open Insert Template modal → Alt+E 
-- Templater: Jump to next cursor location → Alt+Enter 
-- Templater: Create new note from template → Alt+N 
-- Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2 
+
 
 - Follow link under cursor → Ctrl+Alt+Enter  
 - Audio recorder: Stop recording audio → Alt+F11 
@@ -170,4 +167,9 @@ Related:
 - Outliner: Outdent the list and sublists → Shift+Tab 
 - Outliner: Indent the list and sublists → Tab
 - Outliner: Fold the list → Ctrl+Alt+↑ 
+### Templater
 - Outliner: Unfold the list → Ctrl+Alt+↓
+- Templater: Open Insert Template modal → Alt+E 
+- Templater: Jump to next cursor location → Alt+Enter 
+- Templater: Create new note from template → Alt+N 
+- Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2 
