@@ -4,24 +4,7 @@ tags: on/hotkeys, on/obsidian
 cssclass:
 ---
 
-### QuickAdd
-- QuickAdd: Toggl Manager → Alt + F12
-- QuickAdd: Quick Capture → Ctrl + Shift + D
-- QuickAdd: Workbench → Ctrl + Shift + X
-- QuickAdd: Journal → Ctrl + Shift + J
-- QuickAdd: Run QuickAdd → Ctrl + Q
 
-
-### Periodic Notes
-- Periodic Notes: Open previous monthly note → Alt+, 
-- Periodic Notes: Open previous quarterly note → Alt+; 
-- Periodic Notes: Open next monthly note → Alt+. 
-- Periodic Notes: Open next quarterly note → Alt+' 
-- Periodic Notes: Open daily note → Alt+D 
-- Periodic Notes: Open monthly note → Alt+M 
-- Periodic Notes: Open quarterly note → Alt+Q 
-- Periodic Notes: Open yearly note → Alt+Y 
-- Periodic Notes: Open weekly note → Alt+W 
 
 - Swap line up/down → Alt+↑ or Alt+↓ 
 - Navigate → Alt+ left/right arrow 
@@ -59,16 +42,6 @@ cssclass:
 - Focus on pane to the right → Ctrl+`]` 
 - Hotkey Helper: Browse or search the Community Plugins catalog → Ctrl+* 
 - Toggle highlight → Ctrl+= 
-
-### Obsidian Tweaks
-- Obsidian Tweaks: Toggle comment → Ctrl+5 
-- Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - 
-- Obsidian Tweaks: Better Toggle Highlight → Ctrl + = 
-- Obsidian Tweaks: Better Math (Block) → Ctrl + 4 
-- Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 
-- Obsidian Tweaks: Select Current → Alt + Shift + ↑ 
-- Obsidian Tweaks: Better Math (Inline) → Ctrl + Shift + 4  
-- Obsidian Tweaks: Toggle bold → Ctrl+B 
 
 - Toggl Track: Start Toggl Timer → Ctrl+F12 
 - Toggl Track: Stop Toggl Timer → Ctrl+F10 
@@ -153,9 +126,37 @@ cssclass:
 - Excalidraw: (Script) Downloaded/Scribble Helper → Alt + Shift + ← 
 
 
+### Obsidian Tweaks
+- Obsidian Tweaks: Toggle comment → Ctrl+5 
+- Obsidian Tweaks: Better Toggle Strikethrough → Ctrl + - 
+- Obsidian Tweaks: Better Toggle Highlight → Ctrl + = 
+- Obsidian Tweaks: Better Math (Block) → Ctrl + 4 
+- Obsidian Tweaks: Toggle Headings → Ctrl + Alt + 1-6 
+- Obsidian Tweaks: Select Current → Alt + Shift + ↑ 
+- Obsidian Tweaks: Better Math (Inline) → Ctrl + Shift + 4  
+- Obsidian Tweaks: Toggle bold → Ctrl+B 
+
 
 
 
 ---
 
 Related:
+
+### Periodic Notes
+- Periodic Notes: Open previous monthly note → Alt+, 
+- Periodic Notes: Open previous quarterly note → Alt+; 
+- Periodic Notes: Open next monthly note → Alt+. 
+- Periodic Notes: Open next quarterly note → Alt+' 
+- Periodic Notes: Open daily note → Alt+D 
+- Periodic Notes: Open monthly note → Alt+M 
+- Periodic Notes: Open quarterly note → Alt+Q 
+- Periodic Notes: Open yearly note → Alt+Y 
+- Periodic Notes: Open weekly note → Alt+W 
+
+### QuickAdd
+- QuickAdd: Toggl Manager → Alt + F12
+- QuickAdd: Quick Capture → Ctrl + Shift + D
+- QuickAdd: Workbench → Ctrl + Shift + X
+- QuickAdd: Journal → Ctrl + Shift + J
+- QuickAdd: Run QuickAdd → Ctrl + Q
