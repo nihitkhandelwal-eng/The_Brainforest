@@ -31,7 +31,6 @@ cssclass:
 - Workbench: Link the current line/block in your Workbench. → Alt+Shift+W
 - Workbench: Link the current note/page in your Workbench. → Alt+Shift+Q
  
-- File recovery: Open saved snapshots → Ctrl+Alt+ContextMenu 
 - Split horizontally → Ctrl+Alt+PageDown 
 - Search: Search in all files → Ctrl+S 
 - Copy file path → Ctrl+Alt+Shift+/ 
