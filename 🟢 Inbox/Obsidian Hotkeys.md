@@ -105,6 +105,7 @@ cssclass:
 - Highlightr: Open Highlightr → Ctrl + Alt + = 
 - Highlightr: Remove Highlightr → Ctrl + Alt + - 
 - Obsidian42 Jump-to-Date: Date Picker → Ctrl + Alt + D 
+- Natural Language Dates: Date Picker → Ctrl + Shift + 1
 - Obsidian42 - WordNet Dictionary: Look up a word → Ctrl + ; 
 - Text Format: Capitalize All Words In Selected Text → Alt + A 
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A
