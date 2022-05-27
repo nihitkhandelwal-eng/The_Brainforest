@@ -6,8 +6,6 @@
 ### Good Morning!
 ### Note to next day’s self
 
-![[Recording 20220527133305.m4a]]
-
 
 
 Customizable Page Header & Title Bar
