@@ -85,8 +85,10 @@ cssclass:
 - Close active pane → Ctrl+W 
 - Open help → F1 
 - Edit file title → F2 
-- Outliner: Outdent the list and sublists → Shift+Tab 
-- Outliner: Indent the list and sublists → Tab 
+
+
+
+ 
 - Toggle Pin → Alt+Shift+P 
 - Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
 - Advanced New File → Ctrl + Alt + Shift + N 
@@ -164,3 +166,8 @@ Related:
 - QuickAdd: Workbench → Ctrl + Shift + X
 - QuickAdd: Journal → Ctrl + Shift + J
 - QuickAdd: Run QuickAdd → Ctrl + Q
+### Outliner
+- Outliner: Outdent the list and sublists → Shift+Tab 
+- Outliner: Indent the list and sublists → Tab
+- Outliner: Fold the list → Ctrl+Alt+↑ 
+- Outliner: Unfold the list → Ctrl+Alt+↓
