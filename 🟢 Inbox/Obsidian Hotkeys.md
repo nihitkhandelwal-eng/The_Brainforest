@@ -21,6 +21,7 @@ cssclass:
 - Periodic Notes: Open monthly note → Alt+M 
 - Periodic Notes: Open quarterly note → Alt+Q 
 - Periodic Notes: Open yearly note → Alt+Y 
+- Periodic Notes: Open weekly note → Alt+W 
 
 - Swap line up/down → Alt+↑ or Alt+↓ 
 - Navigate → Alt+ left/right arrow 
