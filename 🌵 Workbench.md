@@ -5,3 +5,14 @@
 ### Day In Review
 ### Good Morning!
 ### Note to next day’s self
+
+
+
+Customizable Menu
+Customizable Page Header & Title Bar
+Customizable Sidebar
+Excalidraw
+Hotkeys for templates
+Quickadd
+
+Good Afternoon
