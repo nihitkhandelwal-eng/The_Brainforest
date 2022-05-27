@@ -150,7 +150,7 @@ cssclass:
 - Excalidraw: (Script) Downloaded/OCR → Alt + Shift + 3  
 - Excalidraw: (Script) Downloaded/Transfer text elements to excalidraw markdown metadata → Alt + Shift + 4 
 - Excalidraw: (Script) Downloaded/Reverse Arrows → Alt + Shift + ↓ 
-- Excalidraw: (Script) Downloaded/Scribble Helper → Alt + Shift + ↑ 
+- Excalidraw: (Script) Downloaded/Scribble Helper → Alt + Shift + ← 
 
 
 
