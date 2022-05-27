@@ -13,6 +13,4 @@ Customizable Page Header & Title Bar
 Customizable Sidebar
 Excalidraw
 Hotkeys for templates
-Quickadd
 
-Good Afternoon
