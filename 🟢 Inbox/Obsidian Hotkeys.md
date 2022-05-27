@@ -4,6 +4,9 @@ tags: on/hotkeys, on/obsidian
 cssclass:
 ---
 
+> [!note]
+> These are not as upto date as in anki
+> 
 
 
 - Swap line up/down → Alt+↑ or Alt+↓ 
