@@ -21,11 +21,11 @@ cssclass:
 - Split horizontally → Ctrl+Alt+PageDown 
 - Search: Search in all files → Ctrl+S 
 - Copy file path → Ctrl+Alt+Shift+/ 
-- Natural Language Dates: Parse natural language date (as link) → Alt + 2 
+- Natural Language Dates: Parse natural language date (as link) → Ctrl + Shift + 2 
 - Hotkeys for templates: Insert from Templater: Meta Template → Ctrl+Alt+E 
 - Open another vault → Ctrl+Alt+Shift+O 
 - Tag pane: Show tag pane → Ctrl+Alt+T 
-- Workspaces: Manage workspaces → Alt+W 
+- Workspaces: Manage workspaces → Ctrl+Alt+Shift+W 
 - Delete current file → Alt+Delete 
 
 - Templater: Open Insert Template modal → Alt+E 
