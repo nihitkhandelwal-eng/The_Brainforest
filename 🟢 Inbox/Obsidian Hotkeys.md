@@ -70,7 +70,6 @@ cssclass:
 - Fold all headings and lists → Ctrl+Shift+ArrowUp 
 - Copy Block Link: Copy embed to current block or heading → Ctrl+Shift+E 
 - Fullscreen mode plugin: Fullscreen focus mode → Ctrl+Shift+F 
-- Sliding Panes (Andy's Mode): Toggle Leaf Auto Width → Ctrl+Shift+Insert 
 - Better File Link / Insert attachment → Ctrl+Shift+K 
 - Create note in new pane → Ctrl+Shift+N 
 - File explorer: Move file to another folder → Ctrl+Shift+P 
@@ -82,6 +81,7 @@ cssclass:
 - Close active pane → Ctrl+W 
 - Open help → F1 
 - Edit file title → F2 
+
 
 
 
@@ -174,3 +174,7 @@ Related:
 - Templater: Jump to next cursor location → Alt+Enter 
 - Templater: Create new note from template → Alt+N 
 - Templater: Insert ☘️ Templates/Rename Title.md → Alt+F2 
+### Sliding Panes
+- Sliding Panes: Toggle Leaf Auto Width → Alt+2
+- Sliding Panes: Toggle Sliding Panes → Alt+1
+- Sliding Panes: Toggle Stacking → Alt+3
