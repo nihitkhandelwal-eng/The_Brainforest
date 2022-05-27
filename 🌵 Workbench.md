@@ -6,11 +6,9 @@
 ### Good Morning!
 ### Note to next day’s self
 
+![[Recording 20220527133305.m4a]]
 
 
-Customizable Menu
+
 Customizable Page Header & Title Bar
-Customizable Sidebar
-Excalidraw
-Hotkeys for templates
 
