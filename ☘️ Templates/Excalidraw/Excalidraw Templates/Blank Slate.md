@@ -3,6 +3,11 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 ---
 # Text Elements
+<%*
+const title = await tp.system.prompt("New Drawing?"); 
+await tp.file.rename(`${title}`); 
+%>
+
 %%
 # Drawing
 ```compressed-json

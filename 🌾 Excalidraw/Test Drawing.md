@@ -3,6 +3,8 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 ---
 # Text Elements
+
+
 %%
 # Drawing
 ```compressed-json
