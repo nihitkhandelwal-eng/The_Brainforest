@@ -1,5 +1,5 @@
 ---
-aliases: [♫ Bas Mujh Par Ye Ehsan Tumhara Ho Jaye]
+aliases: [Bas Mujh Par Ye Ehsan Tumhara Ho Jaye]
 tags: 
 cssclass:
 Lyricist: 
