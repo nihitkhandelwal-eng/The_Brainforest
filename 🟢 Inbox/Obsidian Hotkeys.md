@@ -106,6 +106,12 @@ cssclass:
 - Text Format: Capitalize All Words In Selected Text → Alt + A 
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A
 
+#status/🃏ankify ↓
+- Media Extended: Get Current Timestamp of Recording → Alt + Shift +R
+- Media Extended: Get timestamp from player → Ctrl + T
+- Media Extended: Open Media from Link → Ctrl + Shift + M
+
+
 ### Excalidraw 
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
 - Excalidraw. Copy markdown link for selected element to clipboard → Alt + Shift + C 
