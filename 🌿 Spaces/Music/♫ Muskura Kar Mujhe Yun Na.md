@@ -1,8 +1,11 @@
 ---
-aliases: 
+aliases: [Muskura Kar Mujhe Yun Na]
 tags: 
+cssclass:
+Lyricist: 
+Singer:
+Composer:
 ---
-artists: 
 
 मुस्कुरा कर मुझे यूँ न देखा करो  
 मृगशिरा-सा मेरा मन दहक जाएगा 
@@ -26,3 +29,5 @@ artists:
   
 मुस्कुरा कर मुझे यूँ न देखा करो  
 मृगशिरा-सा मेरा मन दहक जाएगा
+
+
