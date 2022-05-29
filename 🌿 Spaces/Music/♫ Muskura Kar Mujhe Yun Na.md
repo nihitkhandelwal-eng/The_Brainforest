@@ -1,6 +1,6 @@
 ---
 aliases: [Muskura Kar Mujhe Yun Na]
-tags: 
+tags: status/📰to-translate 
 cssclass:
 Lyricist: 
 Singer:
