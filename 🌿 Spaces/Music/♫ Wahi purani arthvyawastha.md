@@ -1,9 +1,0 @@
----
-aliases: 
-tags: 
----
-artists: 
-
-
-
-

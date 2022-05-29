@@ -9,6 +9,8 @@ Opinion is something that I have little knowledge about & I am actively looking 
 #status/🔓opinion
 #status/📌put-a-pin-on-that
 #status/🃏ankify
+#status/📰to-translate
+#status/📄translated
 
 
 #placeholder
