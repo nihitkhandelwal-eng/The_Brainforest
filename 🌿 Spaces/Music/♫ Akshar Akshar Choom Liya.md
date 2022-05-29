@@ -1,11 +1,12 @@
 ---
-aliases: [♫ Akshar Akshar Choom Liya]
+aliases: [Akshar Akshar Choom Liya]
 tags: 
 cssclass:
 Lyricist: Deval Ashish
 Singer: Deval Ashish
 Composer: Deval Ashish
 ---
+
 
 प्रिये तुम्हारी सुधि को मैंने यूँ भी अक्सर चूम लिया  
 तुम पर गीत लिखा फिर उसका अक्षर-अक्षर चूम लिया  
