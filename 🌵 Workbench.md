@@ -5,8 +5,6 @@ Develop your visual vocabulary, you can also include text elements in them, so l
 ![[Ashley's Query for Weekly Notes.png|700]]
 
 ```query
-"Home/1 fires/Bullet Journals/Ashely's Journal/Input/" + 
+path: "The_Brainforest/Ashely's Journal/Input/" + 
 <% moment(tp.file.title,'[Week ] ww').format("YYYY/[Quarter ]Q/MM-MMMM/[Week ]ww") %>
 ```
-"Home/1 fires/Bullet Journals/Ashely's Journal/Input/" + 
-<% moment(tp.file.title,'[Week ] ww').format("YYYY/[Quarter ]Q/MM-MMMM/[Week ]ww") %>
