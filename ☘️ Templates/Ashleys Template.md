@@ -1,3 +1,3 @@
 ```query
-path: "Ashley's Journal/Input/<% moment(tp.file.title,'[Week ] ww').format("YYYY/MMMM/[Week ]ww") %>
+path: "Home/1 fires/Bullet Journals/Ashley's Journal/Input/<% moment(tp.file.title,'[Week ] ww').format("YYYY/MMMM/[Week ]ww") %>
 ```
