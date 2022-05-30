@@ -6,3 +6,5 @@ Develop your visual vocabulary, you can also include text elements in them, so l
 
 
 "Home/1 fires/Bullet Journals/Ashely's Journal/Input/" + <% moment (tp.file.title,'MMMM YYYY/Week [ww])"
+
+<% moment(tp.file.titleYYYY/[Quarter ]Q/MM-MMMM/[Week ]ww
