@@ -2,11 +2,5 @@
 
 Develop your visual vocabulary, you can also include text elements in them, so like in the top right corner here, we have a bulb with the tag idea, so create a template for new idea drawing with this in it, also the other items have a text element describing them, that can be used with some elements
 
-![[Ashley's Query for Weekly Notes.png]]
+![[Ashley's Query for Weekly Notes.png|700]]
 
-```query
-path:""
-```
-
-
-YYYY/[Quarter ]Q/MM-MMMM/DD-MMM-YY
