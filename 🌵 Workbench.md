@@ -6,5 +6,5 @@ Develop your visual vocabulary, you can also include text elements in them, so l
 
 ```query
 path: "The_Brainforest/Ashely's Journal/Input/" + 
-<% moment(tp.file.title,'[Week ] ww').format("YYYY/[Quarter ]Q/MM-MMMM/[Week ]ww") %>
+<% moment(tp.file.title,'[Week ] ww').format("YYYY/MM-MMMM/[Week ]ww") %>
 ```
