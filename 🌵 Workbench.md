@@ -4,3 +4,5 @@ Develop your visual vocabulary, you can also include text elements in them, so l
 
 ![[Ashley's Query for Weekly Notes.png|700]]
 
+
+"Home/1 fires/Bullet Journals/Ashely's Journal/Input/" + <% tp.file.date(MMMM YYYY/Week [ww])"
