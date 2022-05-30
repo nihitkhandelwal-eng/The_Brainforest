@@ -86,7 +86,7 @@ cssclass:
 61. Vale
 62. Vantage → Advanced Search Builder
 63. Various Complements
-64. Waypoint
+64. Waypoint ↑ (recommended by Ashley & Ben)
 65. Wordsprint
 
 ---
