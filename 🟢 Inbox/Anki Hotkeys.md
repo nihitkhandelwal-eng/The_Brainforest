@@ -14,6 +14,14 @@ cssclass:
 - Easy → 4
 - Question Mode: Show answer Or Flip to the back of the card → Spacebar
 
+### Amboss Addons #status/🃏ankify 
+
+Open next pop-up → Shift+F
+Open previous pop-up → Shift+D
+Close pop-up → Shift+Esc
+Toggle side panel → Shift+A
+
+
 
 
 
