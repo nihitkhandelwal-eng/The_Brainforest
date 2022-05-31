@@ -21,6 +21,8 @@ habits:: <% tp.file.cursor(5) %>
 
 ### Resources
 - [Discount links for subscriptions](https://www.ankipalace.com/discounts)
+- www.medicalstudyzone.com
+	- [Lecturio 419 GB Collection](https://mega.nz/folder/ebIHTKLC#ct7DaJQBUajIEnBe_Bi8wg/folder/fL5BGYwA) 
 
 
 
