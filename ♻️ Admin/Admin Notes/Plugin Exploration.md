@@ -56,39 +56,40 @@ cssclass:
 31. Obsidian to Anki
 32. Obsidian42 Text Transporter
 33. Obsidian Tweaks
-34. Obsius Publish
-35. Omnisearch
-36. Ozan's Image in Editor Plugin
-37. Paste Image Rename
-38. PDF Highlights
-39. Persistent Graph
-40. Quiet Outline 
-41. Reading Time
-42. Read It Later
-43. Review
-44. Rewarder
-45. Search on Internet
-46. Sekund
-47. Shortcut Launcher
-48. Sidekick
-49. Smart Random Note
-50. Random Note
-51. Smart Typography
-52. Smarter Markdown Hotkeys
-53. Snippetor
-54. Supercharged Links
-55. Text Toolbar
-56. Timeline
-57. Timelines
-58. Todoist Link
-59. Todoist Text
-60. Todoist Plugin
-61. Topic Linking
-62. Vale
-63. Vantage → Advanced Search Builder
-64. Various Complements
-65. Waypoint ↑ (recommended by Ashley & Ben)
-66. Wordsprint
+34. Obsidian Extract URL
+35. Obsius Publish
+36. Omnisearch
+37. Ozan's Image in Editor Plugin
+38. Paste Image Rename
+39. PDF Highlights
+40. Persistent Graph
+41. Quiet Outline 
+42. Reading Time
+43. Read It Later
+44. Review
+45. Rewarder
+46. Search on Internet
+47. Sekund
+48. Shortcut Launcher
+49. Sidekick
+50. Smart Random Note
+51. Random Note
+52. Smart Typography
+53. Smarter Markdown Hotkeys
+54. Snippetor
+55. Supercharged Links
+56. Text Toolbar
+57. Timeline
+58. Timelines
+59. Todoist Link
+60. Todoist Text
+61. Todoist Plugin
+62. Topic Linking
+63. Vale
+64. Vantage → Advanced Search Builder
+65. Various Complements
+66. Waypoint ↑ (recommended by Ashley & Ben)
+67. Wordsprint
 
 ---
 
