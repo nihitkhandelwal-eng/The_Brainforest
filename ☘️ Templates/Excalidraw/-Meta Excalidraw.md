@@ -1,5 +1,5 @@
 <%*
-const choice = await tp.system.suggester(["Blank Slate", "Embed a Drawing Here", "Placeholder 2", "Placeholder 3", "Placeholder 4"]), (["Blank Slate", "Embed a Drawing Here", "Placeholder 2", "Placeholder 3", "Placeholder 4"]);
+const choice = await tp.system.suggester(["Blank Slate", "Embed a Drawing Here"]), (["Blank Slate", "Embed a Drawing Here"]);
 let output = ""
 switch(choice) {
 	case "Blank Slate":
