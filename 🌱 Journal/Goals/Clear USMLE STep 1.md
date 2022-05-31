@@ -24,6 +24,8 @@ habits:: <% tp.file.cursor(5) %>
 - www.medicalstudyzone.com
 	- [Lecturio 419 GB Collection](https://mega.nz/folder/ebIHTKLC#ct7DaJQBUajIEnBe_Bi8wg/folder/fL5BGYwA) 
 	- [Lecturio Step 2](https://medicalstudyzone.com/lecturio-usmle-step-2-videos-free-download/)
+	- Osmosis
+		- 
 
 
 
