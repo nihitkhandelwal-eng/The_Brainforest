@@ -10,7 +10,7 @@ cssclass:
 
 ### Critical Plugins To Explore 
 1. Dataview
-2. F
+2. Frontmatter Title Name
 3. Full Calendar
 4. Hover Editor
 5. Incremental Writing
