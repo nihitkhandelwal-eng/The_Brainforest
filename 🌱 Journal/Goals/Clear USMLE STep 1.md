@@ -33,7 +33,7 @@ habits:: <% tp.file.cursor(5) %>
 		- [Clinical Sciences](https://medicalstudyzone.com/onlinemeded-for-clinical-free-download/)
 	- Kenhub
 		- [Anatomy & Histology](https://medicalstudyzone.com/kenhub-anatomy-histology-videos-free-download/)
-			- I have downloaded 75% of the first unit & 
+			- I have downloaded 75% of the first unit (Anatomy Basics) & Cross Sections has been downloaded completely
 
 
 
