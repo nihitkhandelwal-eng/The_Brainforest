@@ -30,7 +30,9 @@ habits:: <% tp.file.cursor(5) %>
 		- [Osmosis Prime](https://medicalstudyzone.com/osmosis-prime-videos-875-videos-free-download/)
 	- Online MedEd
 		- [Basic Sciences](https://medicalstudyzone.com/onlinemeded-for-basic-sciences-free-download/)
-		- Clinical Sciences
+		- [Clinical Sciences](https://medicalstudyzone.com/onlinemeded-for-clinical-free-download/)
+	- Kenhub
+		- 
 
 
 
