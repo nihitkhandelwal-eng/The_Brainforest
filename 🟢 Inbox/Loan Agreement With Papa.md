@@ -1,8 +1,10 @@
 ---
-aliases:
+aliases: [The Great Loan Sanctioning]
 tags:
 cssclass: 
 ---
+
+### The Great Loan Sanctioning
 
 - I completed my internship in March 2021, upto that point, I was covered by my parents, which is a normal thing in India & it is absolutely perfect.
 - After that, it's now 1.2 year now & I will be needing their financial support for at-least 2 more years, so 3.2 years. Let's round that off to 3.5 years
