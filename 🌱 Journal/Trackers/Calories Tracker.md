@@ -1,5 +1,5 @@
 ---
-cssclass: nutFact, custom Margin
+cssclass: nutFact
 ---
 
 ###### Wednesday | 11-05-22
