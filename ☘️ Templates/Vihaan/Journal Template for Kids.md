@@ -3,10 +3,6 @@ aliases:
 tags:
 ---
 
-
-
-
-
 ### Note to Next Day Self 
 > [!tip] Reminder
 > Dear [[<% moment(tp.file.title,'DD-MMM-YY').add(1,'days').format("dddd") %>]] Vihaan,
