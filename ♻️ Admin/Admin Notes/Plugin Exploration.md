@@ -60,40 +60,41 @@ cssclass:
 33. Obsidian42 Text Transporter
 34. Obsidian Tweaks
 35. Obsidian Extract URL
-36. Obsius Publish
-37. Omnisearch
-38. Ozan's Image in Editor Plugin
-39. Paste Image Rename
-40. PDF Highlights
-41. Persistent Graph
-42. Quiet Outline 
-43. Reading Time
-44. Read It Later
-45. Release Timeline
-46. Review
-47. Rewarder
-48. Search on Internet
-49. Sekund
-50. Shortcut Launcher
-51. Sidekick
-52. Smart Random Note
-53. Random Note
-54. Smart Typography
-55. Smarter Markdown Hotkeys
-56. Snippetor
-57. Supercharged Links
-58. Text Toolbar
-59. Timeline
-60. Timelines
-61. Todoist Link
-62. Todoist Text
-63. Todoist Plugin
-64. Topic Linking
-65. Vale
-66. Vantage → Advanced Search Builder
-67. Various Complements
-68. Waypoint ↑ (recommended by Ashley & Ben)
-69. Wordsprint
+36. Obsidian Share to Notion
+37. Obsius Publish
+38. Omnisearch
+39. Ozan's Image in Editor Plugin
+40. Paste Image Rename
+41. PDF Highlights
+42. Persistent Graph
+43. Quiet Outline 
+44. Reading Time
+45. Read It Later
+46. Release Timeline
+47. Review
+48. Rewarder
+49. Search on Internet
+50. Sekund
+51. Shortcut Launcher
+52. Sidekick
+53. Smart Random Note
+54. Random Note
+55. Smart Typography
+56. Smarter Markdown Hotkeys
+57. Snippetor
+58. Supercharged Links
+59. Text Toolbar
+60. Timeline
+61. Timelines
+62. Todoist Link
+63. Todoist Text
+64. Todoist Plugin
+65. Topic Linking
+66. Vale
+67. Vantage → Advanced Search Builder
+68. Various Complements
+69. Waypoint ↑ (recommended by Ashley & Ben)
+70. Wordsprint
 
 ---
 
