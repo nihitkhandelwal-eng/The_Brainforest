@@ -7,6 +7,10 @@ cssclass:
 - Edit card during review → E
 - Flag Card → Ctrl + 1-7
 - Bury Card → - 
+- Bury Note → = #status/🃏ankify 
+- Mark Card → *  #status/🃏ankify 
+- Options → O #status/🃏ankify 
+- Delete Note → Ctrl + Delete #status/🃏ankify 
 - Card Info → I
 - Again → 1
 - Hard → 2
