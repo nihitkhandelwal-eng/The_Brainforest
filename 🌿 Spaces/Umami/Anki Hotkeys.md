@@ -27,7 +27,7 @@ Toggle side panel → Shift+A
 ### Quick Tags
 - Add Tag → q
 - Edit Tag → w
-- Tag with Edit Later → Shift + E
+- Tag with Edit_Later → Shift + E
 - Tag with Delete → Shift + D
 - 
 
