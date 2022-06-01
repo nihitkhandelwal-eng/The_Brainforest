@@ -68,30 +68,31 @@ cssclass:
 42. Quiet Outline 
 43. Reading Time
 44. Read It Later
-45. Review
-46. Rewarder
-47. Search on Internet
-48. Sekund
-49. Shortcut Launcher
-50. Sidekick
-51. Smart Random Note
-52. Random Note
-53. Smart Typography
-54. Smarter Markdown Hotkeys
-55. Snippetor
-56. Supercharged Links
-57. Text Toolbar
-58. Timeline
-59. Timelines
-60. Todoist Link
-61. Todoist Text
-62. Todoist Plugin
-63. Topic Linking
-64. Vale
-65. Vantage → Advanced Search Builder
-66. Various Complements
-67. Waypoint ↑ (recommended by Ashley & Ben)
-68. Wordsprint
+45. Release Timeline
+46. Review
+47. Rewarder
+48. Search on Internet
+49. Sekund
+50. Shortcut Launcher
+51. Sidekick
+52. Smart Random Note
+53. Random Note
+54. Smart Typography
+55. Smarter Markdown Hotkeys
+56. Snippetor
+57. Supercharged Links
+58. Text Toolbar
+59. Timeline
+60. Timelines
+61. Todoist Link
+62. Todoist Text
+63. Todoist Plugin
+64. Topic Linking
+65. Vale
+66. Vantage → Advanced Search Builder
+67. Various Complements
+68. Waypoint ↑ (recommended by Ashley & Ben)
+69. Wordsprint
 
 ---
 
