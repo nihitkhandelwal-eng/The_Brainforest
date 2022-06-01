@@ -6,3 +6,4 @@ Develop your visual vocabulary, you can also include text elements in them, so l
 ![[Ashley's Query for Weekly Notes.png|700]]
 
 
+test lide fjdfkldjfiud fsdjfkja 
