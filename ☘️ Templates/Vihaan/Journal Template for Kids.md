@@ -4,7 +4,7 @@ tags:
 ---
 
 
-### Note to Next Day Self
+### Note to Next Day Self 
 > [!tip] Reminder
 > Dear [[<% moment(tp.file.title,'DD-MMM-YY').add(1,'days').format("dddd") %>]] Vihaan,
 > Acknowledge the weirdness of the first few times (optional).
