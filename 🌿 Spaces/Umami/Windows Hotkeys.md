@@ -28,6 +28,7 @@ cssclass:
 -  Delete a word after cursor → Ctrl+Delete 
 
 
+#status/🃏ankify  ↓
 ### Windows Apps
 - Open Ditto (The Clipboard Manager) → Ctrl+~
 - Quick Look → Hold Space while selecting 
@@ -35,6 +36,7 @@ cssclass:
 - Create a New Sticky Note → Alt+Shift+S
 
 ### Atext
+- All Abbreviations → @@
 
 
 ### Flow Launcher
