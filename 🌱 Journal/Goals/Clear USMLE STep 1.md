@@ -29,9 +29,5 @@ habits:: <% tp.file.cursor(5) %>
 	- Osmosis
 		- [Step 1](https://medicalstudyzone.com/osmosis-usmle-step-1-review-free-download/) 
 		- [Osmosis Prime](https://medicalstudyzone.com/osmosis-prime-videos-875-videos-free-download/)
-	- Online MedEd
-		- [Basic Sciences](https://medicalstudyzone.com/onlinemeded-for-basic-sciences-free-download/)
-		- [Clinical Sciences](https://medicalstudyzone.com/onlinemeded-for-clinical-free-download/)
-
 
 
