@@ -47,7 +47,7 @@ cssclass:
 	- Quick Access → qa:
 - Fancy Emoji → emoji
 - General Converter → gc
-- Obsidian Notes → 
+- Obsidian Notes → ob
 ---
 Related:
 
