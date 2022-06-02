@@ -23,9 +23,6 @@ habits:: <% tp.file.cursor(5) %>
 ### Resources
 - [Discount links for subscriptions](https://www.ankipalace.com/discounts)
 - www.medicalstudyzone.com
-	- Lecturio
-		- [Lecturio Step 2](https://medicalstudyzone.com/lecturio-usmle-step-2-videos-free-download/)
-		- [Physical Examination](https://medicalstudyzone.com/lecturio-physical-examination-videos-free-download/)
 	- Osmosis
 		- [Step 1](https://medicalstudyzone.com/osmosis-usmle-step-1-review-free-download/) 
 		- [Osmosis Prime](https://medicalstudyzone.com/osmosis-prime-videos-875-videos-free-download/)
