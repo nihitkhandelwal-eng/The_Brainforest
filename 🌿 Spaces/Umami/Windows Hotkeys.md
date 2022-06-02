@@ -48,6 +48,8 @@ cssclass:
 - Fancy Emoji → emoji
 - General Converter → gc
 - Obsidian Notes → ob
+- Process Killer → kill
+- 
 ---
 Related:
 
