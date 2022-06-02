@@ -35,9 +35,14 @@ cssclass:
 - Search Everything → Ctrl+Alt+Shift+S
 - Create a New Sticky Note → Alt+Shift+S
 
+
+### OBS
+- Start Recording → F12
+- Stop Recording → F10
+- Pause/Unpause Recording → F11
+
 ### Atext
 - All Abbreviations → @@
-
 
 ### Flow Launcher
 - Browser Bookmarks → bookmarks
