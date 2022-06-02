@@ -38,6 +38,10 @@ cssclass:
 
 
 ### Flow Launcher
+- Browser Bookmarks → bookmarks
+- Currency Converter → cc
+- Dictionary → dict
+- 
 
 ---
 Related:
