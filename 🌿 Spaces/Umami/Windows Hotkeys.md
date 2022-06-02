@@ -46,7 +46,8 @@ cssclass:
 	- Path Search → path:
 	- Quick Access → qa:
 - Fancy Emoji → emoji
-- 
+- General Converter → gc
+- Obsidian Notes → 
 ---
 Related:
 
