@@ -1,4 +1,3 @@
 
-ο	
-ο	
-β
+here is my theory & so & so
+∴ 
