@@ -45,7 +45,8 @@ cssclass:
 	- File Content Search → file:
 	- Path Search → path:
 	- Quick Access → qa:
-
+- Fancy Emoji → emoji
+- 
 ---
 Related:
 
