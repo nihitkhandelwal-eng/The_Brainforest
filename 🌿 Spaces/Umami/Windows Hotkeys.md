@@ -49,7 +49,12 @@ cssclass:
 - General Converter → gc
 - Obsidian Notes → ob
 - Process Killer → kill
-- 
+- Quick Uninstaller → uninstall
+- System Commands → system
+- Add Tasks To Todoist → t
+- Open URL → url
+- Web Searches
+	- 
 ---
 Related:
 
