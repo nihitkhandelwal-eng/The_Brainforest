@@ -41,7 +41,10 @@ cssclass:
 - Browser Bookmarks → bookmarks
 - Currency Converter → cc
 - Dictionary → dict
-- 
+- Explorer
+	- File Content Search → file:
+	- Path Search → path:
+	- Quick Access → qa:
 
 ---
 Related:
