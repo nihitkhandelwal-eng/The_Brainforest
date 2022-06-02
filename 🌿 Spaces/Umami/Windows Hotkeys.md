@@ -30,7 +30,7 @@ cssclass:
 
 ### Windows Apps
 - Open Ditto (The Clipboard Manager) → Ctrl+~
-- Quick Look → Space
+- Quick Look → Hold Space while selecting 
 - Search Everything → Ctrl+Alt+Shift+S
 - Create a New Sticky Note → Alt+Shift+S
 
