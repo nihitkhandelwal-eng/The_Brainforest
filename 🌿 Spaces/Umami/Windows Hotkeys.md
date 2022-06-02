@@ -54,8 +54,37 @@ cssclass:
 - Add Tasks To Todoist → t
 - Open URL → url
 - Web Searches
-	- google → nothing
-	- google scholar
+	- Google → nothing
+	- DuckDuckGo → d
+	- Google scholar → sc
+	- Wikipedia → wiki 
+	- Findicon → findicon
+	- Facebook → fb
+	- Twitter → twitter
+	- Google Translate → translate
+	- Github → git
+	- Gmail → gmail 
+	- Google Drive → drive
+	- WolframAlpha → wolf
+	- Stack Overflow → stackoverflow
+	- I'm Feeling Lucky → lucky
+	- Google Images → image
+	- YouTube → yt
+	- Rekhta → rekhta
+	- Amazon → az
+	- Product Hunt → product
+	- Pixabay → pixabay
+	- Thesaurus → thesaurus
+	- Tenor → gif
+	- Giphy → giphy
+	- Raindrop → raindrop
+	- Unsplash → unsplash
+	- Obsidian Forum → forum
+	- IMDB → imdb
+	- Pexels → pexel
+	- 
+- Windows Settings → control_panel
+
 ---
 Related:
 
