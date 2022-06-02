@@ -34,6 +34,11 @@ cssclass:
 - Search Everything → Ctrl+Alt+Shift+S
 - Create a New Sticky Note → Alt+Shift+S
 
+### Atext
+
+
+### Flow Launcher
+
 ---
 Related:
 
