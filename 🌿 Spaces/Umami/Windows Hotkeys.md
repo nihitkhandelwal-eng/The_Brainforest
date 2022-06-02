@@ -54,7 +54,8 @@ cssclass:
 - Add Tasks To Todoist → t
 - Open URL → url
 - Web Searches
-	- 
+	- google → nothing
+	- google scholar
 ---
 Related:
 
