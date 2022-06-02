@@ -80,7 +80,6 @@ cssclass:
 
 
 
-
  
 - Toggle Pin → Alt+Shift+P 
 - Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
@@ -111,6 +110,8 @@ cssclass:
 - Media Extended: Get timestamp from player → Ctrl + T
 - Media Extended: Open Media from Link → Ctrl + Shift + M
 - Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
+- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
+
 
 
 ### Excalidraw 
