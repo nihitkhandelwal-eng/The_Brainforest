@@ -111,3 +111,6 @@ Related:
 - OneTab
 	- Display OneTab → Alt+Shift+1
 	- Send the current tab to OneTab → Alt+Shift+W
+- Save this tab to raindrop → Alt+Shift+R
+- Save to Notion → Alt+Shift+N
+- Activate Volume Master Extension → Alt+↑
