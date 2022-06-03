@@ -96,3 +96,11 @@ cssclass:
 Related:
 
 
+
+
+### Chrome Extensions
+- Bitwarden
+	- Activate Bitwarden → Alt+Shift+B
+	- Generate & copy a new random password to the clipboard → Ctrl+Shift+9
+- Dark Reader → Ctrl+Shift+L
+- Activate Fleeting Notes 
