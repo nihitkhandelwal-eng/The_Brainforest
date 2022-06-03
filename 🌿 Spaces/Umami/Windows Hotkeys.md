@@ -107,3 +107,4 @@ Related:
 - Markdownload
 	- Activate the extension → Alt+Shift+M
 	- Copy current tab as markdown to the clipboard → Alt+Shift+C
+- Activate Obsidian Clipper → Alt+Shift+O
