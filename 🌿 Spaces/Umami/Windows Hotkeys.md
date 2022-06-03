@@ -108,3 +108,6 @@ Related:
 	- Activate the extension → Alt+Shift+M
 	- Copy current tab as markdown to the clipboard → Alt+Shift+C
 - Activate Obsidian Clipper → Alt+Shift+O
+- OneTab
+	- Display OneTab → Alt+Shift+1
+	- Send the current tab to OneTab → Alt+Shift+W
