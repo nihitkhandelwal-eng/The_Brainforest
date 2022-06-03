@@ -103,4 +103,7 @@ Related:
 	- Activate Bitwarden → Alt+Shift+B
 	- Generate & copy a new random password to the clipboard → Ctrl+Shift+9
 - Dark Reader → Ctrl+Shift+L
-- Activate Fleeting Notes 
+- Activate Fleeting Notes → Ctrl+Shift+E
+- Markdownload
+	- Activate the extension → Alt+Shift+M
+	- Copy current tab as markdown to the clipboard → Alt+Shift+C
