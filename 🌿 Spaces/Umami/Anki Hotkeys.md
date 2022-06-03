@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: on/hotkeys, status/🃏ankify 
+tags: on/hotkeys
 cssclass:
 ---
 
