@@ -112,7 +112,10 @@ cssclass:
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
-- Trigger Head
+- Trigger Heading Mode → #
+- 
+
+
 
 
 #status/🃏ankify ↑
