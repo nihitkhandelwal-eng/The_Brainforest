@@ -1,23 +1,10 @@
-
---- 
-tags: type/web_clipping
+---
+tags: type/web_clipping 
 aliases:
 cssclass: 
-date: 04-Jun-22
-author: Fei-Ling Tseng
----
-
-
 url: https://feeei.substack.com/p/the-essence-of-the-zettelkasten-method?s=r
-
-
-> ###### Description
-> And the reason behind the name of my newsletter
-
-
 ---
 
-## Article
 
 I woke up and had an epiphany about my note-making.
 
