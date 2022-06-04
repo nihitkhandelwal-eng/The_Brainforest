@@ -50,52 +50,53 @@ cssclass:
 23. Media Extended
 24. Note Auto Creation
 25. Notion Like Tables
-26. Obsidian Extract URL
-27. Obsidian JTab
-28. Obsidian Leaflet
-29. Obsidian Link Converter
-30. Obsidian Memos
-31. Obsidian Markbase (Publish)
-32. Obsidian Markmind
-33. Obsidian State Switcher
-34. Obsidian to Anki
-35. Obsidian Tweaks
-36. Obsidian Share to Notion
-37. Obsidian42 Text Transporter
-38. Obsius Publish
-39. Omnisearch
-40. Ozan's Image in Editor Plugin
-41. Paste Image Rename
-42. PDF Highlights
-43. Persistent Graph
-44. Quiet Outline 
-45. Reading Time
-46. Read It Later
-47. Release Timeline
-48. Review
-49. Rewarder
-50. Search on Internet
-51. Sekund
-52. Shortcut Launcher
-53. Sidekick
-54. Smart Random Note
-55. Random Note
-56. Smart Typography
-57. Smarter Markdown Hotkeys
-58. Snippetor
-59. Supercharged Links
-60. Text Toolbar
-61. Timeline
-62. Timelines
-63. Todoist Link
-64. Todoist Text
-65. Todoist Plugin
-66. Topic Linking
-67. Vale
-68. Vantage → Advanced Search Builder
-69. Various Complements
-70. Waypoint ↑ (recommended by Ashley & Ben)
-71. Wordsprint
+26. Obsidian Bellboy
+27. Obsidian Extract URL
+28. Obsidian JTab
+29. Obsidian Leaflet
+30. Obsidian Link Converter
+31. Obsidian Memos
+32. Obsidian Markbase (Publish)
+33. Obsidian Markmind
+34. Obsidian State Switcher
+35. Obsidian to Anki
+36. Obsidian Tweaks
+37. Obsidian Share to Notion
+38. Obsidian42 Text Transporter
+39. Obsius Publish
+40. Omnisearch
+41. Ozan's Image in Editor Plugin
+42. Paste Image Rename
+43. PDF Highlights
+44. Persistent Graph
+45. Quiet Outline 
+46. Reading Time
+47. Read It Later
+48. Release Timeline
+49. Review
+50. Rewarder
+51. Search on Internet
+52. Sekund
+53. Shortcut Launcher
+54. Sidekick
+55. Smart Random Note
+56. Random Note
+57. Smart Typography
+58. Smarter Markdown Hotkeys
+59. Snippetor
+60. Supercharged Links
+61. Text Toolbar
+62. Timeline
+63. Timelines
+64. Todoist Link
+65. Todoist Text
+66. Todoist Plugin
+67. Topic Linking
+68. Vale
+69. Vantage → Advanced Search Builder
+70. Various Complements
+71. Waypoint ↑ (recommended by Ashley & Ben)
+72. Wordsprint
 
 ---
 
