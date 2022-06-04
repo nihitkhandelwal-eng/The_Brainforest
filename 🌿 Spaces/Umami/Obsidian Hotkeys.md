@@ -55,7 +55,6 @@ cssclass:
 - Insert Markdown link → Ctrl+K 
 - Graph view: Open local graph → Ctrl+L 
 - Hotkey Helper: Open the Community Plugins settings → Ctrl+Numpad9 
-- Quick Switcher++: Open → Ctrl+O 
 - Command palette: Open command palette → Ctrl+P 
 - Search & replace in current file → Ctrl+R 
 - Quick Explorer: Browse vault → Ctrl+Shift+B 
