@@ -111,6 +111,11 @@ cssclass:
 
 
 ### Quick Switcher
+- Quick Switcher++: Open → Ctrl+O 
+- Trigger Head
+
+
+#status/🃏ankify ↑
 
 ### Excalidraw 
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
