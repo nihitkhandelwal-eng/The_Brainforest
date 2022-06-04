@@ -112,6 +112,8 @@ cssclass:
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
+- Quick Switcher++: Open in Editor Mode → Alt+%
+- Quick Switcher++: Open in Related Items Mode → Alt+~
 - Triggers
 	- Heading Mode → #
 	- Symbol Navigation → @
@@ -120,9 +122,6 @@ cssclass:
 	- Editor Mode → %
 	- Workspace Mode → +
 	- Starred Mode → *
-- 
-
-
 
 
 #status/🃏ankify ↑
