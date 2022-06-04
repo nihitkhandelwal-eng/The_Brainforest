@@ -119,6 +119,7 @@ cssclass:
 	- Related Mode → ~
 	- Editor Mode → %
 	- Workspace Mode → +
+	- Starred Mode → *
 - 
 
 
