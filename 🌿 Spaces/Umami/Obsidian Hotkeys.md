@@ -111,6 +111,7 @@ cssclass:
 - Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
 
+### Quick Switcher
 
 ### Excalidraw 
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
