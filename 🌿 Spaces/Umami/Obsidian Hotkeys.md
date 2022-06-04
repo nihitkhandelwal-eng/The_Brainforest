@@ -78,8 +78,6 @@ cssclass:
 - Open help → F1 
 - Edit file title → F2 
 
-
-dnwi
  
 - Toggle Pin → Alt+Shift+P 
 - Add links to current note: add links to the note from the quick switcher → Ctrl + Shift + L 
