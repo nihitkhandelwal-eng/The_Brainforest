@@ -117,7 +117,7 @@ cssclass:
 	- Symbol Navigation → @
 	- Command Mode → >
 	- Related Mode → ~
-	- Editor Mode
+	- Editor Mode → %
 - 
 
 
