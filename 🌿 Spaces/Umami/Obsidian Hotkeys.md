@@ -112,8 +112,12 @@ cssclass:
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
-- Trigger Heading Mode → #
-- Trigger Symbol Navigation → @
+- Triggers
+	- Heading Mode → #
+	- Symbol Navigation → @
+	- Command Mode → >
+	- Related Mode → ~
+	- 
 - 
 
 
