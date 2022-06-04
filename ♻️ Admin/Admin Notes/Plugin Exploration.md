@@ -20,9 +20,10 @@ cssclass:
 9. Map View
 10. Mind Map
 11. Obsidian Big Calendar
-12. Obsidian Charts
-13. Style Settings
-14. Tracker
+12. Obsidian Camera
+13. Obsidian Charts
+14. Style Settings
+15. Tracker
 
 ### Plugins To Explore
 1. Activity History
