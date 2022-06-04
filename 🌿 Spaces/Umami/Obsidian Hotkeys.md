@@ -118,6 +118,7 @@ cssclass:
 	- Command Mode → >
 	- Related Mode → ~
 	- Editor Mode → %
+	- Workspace Mode → +
 - 
 
 
