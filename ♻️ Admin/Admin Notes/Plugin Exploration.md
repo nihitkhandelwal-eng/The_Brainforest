@@ -58,45 +58,46 @@ cssclass:
 31. Obsidian Memos
 32. Obsidian Markbase (Publish)
 33. Obsidian Markmind
-34. Obsidian State Switcher
-35. Obsidian to Anki
-36. Obsidian Tweaks
-37. Obsidian Share to Notion
-38. Obsidian42 Text Transporter
-39. Obsius Publish
-40. Omnisearch
-41. Ozan's Image in Editor Plugin
-42. Paste Image Rename
-43. PDF Highlights
-44. Persistent Graph
-45. Quiet Outline 
-46. Reading Time
-47. Read It Later
-48. Release Timeline
-49. Review
-50. Rewarder
-51. Search on Internet
-52. Sekund
-53. Shortcut Launcher
-54. Sidekick
-55. Smart Random Note
-56. Random Note
-57. Smart Typography
-58. Smarter Markdown Hotkeys
-59. Snippetor
-60. Supercharged Links
-61. Text Toolbar
-62. Timeline
-63. Timelines
-64. Todoist Link
-65. Todoist Text
-66. Todoist Plugin
-67. Topic Linking
-68. Vale
-69. Vantage → Advanced Search Builder
-70. Various Complements
-71. Waypoint ↑ (recommended by Ashley & Ben)
-72. Wordsprint
+34. Obsidian Sequence Hotkeys
+35. Obsidian State Switcher
+36. Obsidian to Anki
+37. Obsidian Tweaks
+38. Obsidian Share to Notion
+39. Obsidian42 Text Transporter
+40. Obsius Publish
+41. Omnisearch
+42. Ozan's Image in Editor Plugin
+43. Paste Image Rename
+44. PDF Highlights
+45. Persistent Graph
+46. Quiet Outline 
+47. Reading Time
+48. Read It Later
+49. Release Timeline
+50. Review
+51. Rewarder
+52. Search on Internet
+53. Sekund
+54. Shortcut Launcher
+55. Sidekick
+56. Smart Random Note
+57. Random Note
+58. Smart Typography
+59. Smarter Markdown Hotkeys
+60. Snippetor
+61. Supercharged Links
+62. Text Toolbar
+63. Timeline
+64. Timelines
+65. Todoist Link
+66. Todoist Text
+67. Todoist Plugin
+68. Topic Linking
+69. Vale
+70. Vantage → Advanced Search Builder
+71. Various Complements
+72. Waypoint ↑ (recommended by Ashley & Ben)
+73. Wordsprint
 
 ---
 
