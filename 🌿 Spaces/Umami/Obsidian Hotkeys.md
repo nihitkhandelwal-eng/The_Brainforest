@@ -113,6 +113,7 @@ cssclass:
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
 - Trigger Heading Mode → #
+- Trigger Symbol Navigation → @
 - 
 
 
