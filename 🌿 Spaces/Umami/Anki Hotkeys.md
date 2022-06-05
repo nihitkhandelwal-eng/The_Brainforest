@@ -30,8 +30,8 @@ Toggle side panel → Shift+A
 ### Quick Tags
 - Add Tag → q
 - Edit Tag → w
-- Tag with Edit_Later → Shift+E
-- Tag with Need_to_Understand → Shift+U
+- Tag with Edit_Later & Suspend Card → Shift+E
+- Tag with Need_to_Understand Suspend Card → Shift+U
 
 
 
