@@ -18,12 +18,13 @@ cssclass:
 7. Kanban
 8. Longform
 9. Map View
-10. Mind Map
-11. Obsidian Big Calendar
-12. Obsidian Camera
-13. Obsidian Charts
-14. Style Settings
-15. Tracker
+10. Math Plugins (In general)
+11. Mind Map
+12. Obsidian Big Calendar
+13. Obsidian Camera
+14. Obsidian Charts
+15. Style Settings
+16. Tracker
 
 ### Plugins To Explore
 1. Activity History
