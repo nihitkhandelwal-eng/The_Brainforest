@@ -6,12 +6,7 @@ date: 05-Jun-22
 author:
 ---
 
-> ###### Highlights
 
-
----
-
-## Article
 Multiple people commented under my last post asking about my workflow with Obsidian as a medical student, so I wanted to make a somewhat detailed post explaining it. Note that I only started using Obsidian 2 months ago, so this is a work in progress. Also, a caveat: your mileage may vary. The brilliance of Obsidian is in its customizability, allowing you to mold the software to your style of thinking - NOT the other way around!!! Only use this for inspiration, not as a definitive guide on how to use Obsidian for medical students.
 
 First, this is what my setup looks like:
