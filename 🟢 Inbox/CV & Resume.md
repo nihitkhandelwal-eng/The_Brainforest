@@ -9,7 +9,6 @@ cssclass:
 - A resume is a list of your past jobs, along with relevant skills & accomplishments in your career that you use in a job application.
 - It's usually one-two page long
 
-
 ### CV
 - CV stands for curriculum vitae ≈ curriculum of life	
 - A CV is used to apply to positions related to academia, typically opportunities in education, science, medicine & research.
