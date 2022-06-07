@@ -114,3 +114,7 @@ Related:
 - Save this tab to raindrop → Alt+Shift+R
 - Save to Notion → Alt+Shift+N
 - Activate Volume Master Extension → Alt+↑
+
+### OBS
+- Switch to Only Display → Ctrl+Alt+Shift+1
+- Switch to Only Display → Ctrl+Alt+Shift+1
