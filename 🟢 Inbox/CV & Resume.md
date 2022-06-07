@@ -16,6 +16,8 @@ cssclass:
 	- It's your opportunity to explain your experience & achievements in detail.
 	- They are usually listed in chronological order
 
+> In a way, CV is like the scrapbook of your life, while resume is more like a picture 
+
 
 #### Sections that should be in a CV
 1. Contact information
@@ -25,6 +27,14 @@ cssclass:
 5. Publications & Presentations
 6. Extracurricular & Volunteer Experience
 7. Interests
+
+##### Optional Sections
+1. Objective/Summary
+2. Certifications & Licensure
+3. Professional Affiliations
+4. Professional Activities
+5. Research
+6. Added Qualifications 
 
 ---
 Related:
