@@ -117,4 +117,7 @@ Related:
 
 ### OBS
 - Switch to Only Display → Ctrl+Alt+Shift+1
-- Switch to Only Display → Ctrl+Alt+Shift+1
+- Switch to Only Webcam → Ctrl+Alt+Shift+2
+- Switch to Only Lapcam → Ctrl+Alt+Shift+3
+- Switch to Webcam Scenes → Ctrl+Numpad Keys
+- Switch to Lapcam Scenes → Ctrl+Alt+Numpad Keys
