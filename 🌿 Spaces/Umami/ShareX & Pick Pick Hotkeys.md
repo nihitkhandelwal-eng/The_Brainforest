@@ -21,6 +21,4 @@ cssclass:
 ---
 
 Related:
- because htat that 
 
-::emoji
