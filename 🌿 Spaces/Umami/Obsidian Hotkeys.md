@@ -28,7 +28,6 @@ cssclass:
 
 - Follow link under cursor → Ctrl+Alt+Enter  
 - Audio recorder: Stop recording audio → Alt+F11 
-- Review: Add this note to a daily note for review → Alt+R 
 - Find in current file → Ctrl + F 
 - Open in default app: Show in system explorer → Alt+Shift+E 
 - File explorer: Reveal active file in navigation → Alt+Shift+N 
