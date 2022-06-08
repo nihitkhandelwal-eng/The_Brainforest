@@ -5,3 +5,7 @@ YYYY/[Quarter ]Q/[Quarter ]Q
 YYYY/YYYY
 
 🌱 Journal/{{DATE:YYYY}}/{{DATE:[Quarter ]Q}}/{{DATE:MM-MMMM}}/{{DATE:[Week] ww}}/{{DATE:DD-MMM-YY}}.md
+
+🌱 Journal/{{DATE:YYYY}}/{{DATE:[Quarter ]Q}}/{{DATE:MM-MMMM}}/{{DATE:[Week] ww}}/{{DATE:[Week] ww}}.md
+
+🌱 Journal/{{DATE:YYYY}}/{{DATE:[Quarter ]Q}}/{{DATE:MM-MMMM}}/{{DATE:MM-MMMM}}.md
