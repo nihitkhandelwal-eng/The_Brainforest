@@ -51,7 +51,8 @@ Toggle side panel → Shift+A
 	- for both editor & in "tag lines dialog"
 - Open tag lines dialog → Ctrl+Alt+t
 	- for both editor & from reviewer
-- Insert Additional Line in "tag lines dialot" → Ctrl+Alt+l
+- Insert Additional Line in "tag lines dialog" → Ctrl+Alt+l
+- Search browser from tag in "tag lines dialog" → Ctrl+Alt+s
 
 
 ---
