@@ -43,13 +43,15 @@ Toggle side panel → Shift+A
 - Date range dialog for rated → drated
 - Modifier for insert current text only → Ctrl
 - Modifier for Negate → Alt
-- Modifier for overriding autosearch default, i.e. to insert OR in between queries
+- Modifier for overriding autosearch default, i.e. to insert OR in between queries → Shift
 
 
 ### Extended Tag Add/Edit Dialog
 - Show filter dialog to add single tag → Ctrl+Alt+e
-	- for both editor & "in tag lines dialog"
+	- for both editor & in "tag lines dialog"
 - Open tag lines dialog → Ctrl+Alt+t
+	- for both editor & from reviewer
+- Insert Additional Line in "tag lines dialot" → Ctrl+Alt+l
 
 
 ---
