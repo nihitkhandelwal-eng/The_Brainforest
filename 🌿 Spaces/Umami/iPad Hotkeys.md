@@ -9,7 +9,6 @@ cssclass:
 	- Quit apps by pressing q while any app is selected
 - Show dock → Globe + A
 - Show App Library → Shift + Globe + A
-- Quick Note → Globe + Q
 - Search → Command + Space
 - Siri → Globe + S
 - Control Centre → Globe + C
@@ -38,6 +37,11 @@ cssclass:
 - Navigate between previous & next app → 3 finger left/right swipe
 - Activate/hide Slide over → use 1 finger to go to the right side until the window appears/disappears
 
+
+### Notes App
+- Quick Note → Globe + Q
+#status/🃏ankify ↓
+- 
 ---
 
 Related:
