@@ -41,7 +41,7 @@ cssclass:
 ### Notes App
 - Quick Note → Globe + Q
 #status/🃏ankify ↓
-- 
+- Search All Notes → Option+Comman+F
 ---
 
 Related:
