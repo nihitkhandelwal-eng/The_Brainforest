@@ -4,7 +4,11 @@ tags: type/MOC
 cssclass:
 ---
 [[🏡 Home|Home Note]]
- 
+
+COUNTER YOURSELF LIKE A TRUE THINKER
+
+IF A PERSON SAYS THAT THEY ARE THINKING, IT IS NOT AN EASY THING TO DO, YOUR HEAD REVOLVES BECAUSE YOU END UP COUNTERING YOURSELF MULTIPLE TIMES TO REACH TO A OBJECTIVELY BETTER CONCLUSION
+
 We need to recognize there are many different and joyful ways to think. It's time to cultivate this inherently rich endeavor.
 
 *I want to...*
