@@ -36,7 +36,18 @@ Toggle side panel → Shift+A
 
 #status/🃏ankify ↓
 ### Better Search
-- tag & deck popover → xx or all:
+- Tag & deck popover → xx or all:
+- Date range dialog for added → dadded
+- Date range dialog for edited → dedited
+- Date range dialog for introduced → dintroduced
+- Date range dialog for rated → drated
+- Modifier for insert current text only → Ctrl
+- Modifier for Negate → Alt
+- Modifier for overriding autosearch default, i.e. to insert OR in between queries
+
+
+### Extended Tag Add/Edit Dialog
+- 
 
 
 ---
