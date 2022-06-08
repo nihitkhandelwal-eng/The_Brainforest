@@ -34,7 +34,9 @@ Toggle side panel → Shift+A
 - Tag with Need_to_Understand Suspend Card → Shift+U
 
 
-
+#status/🃏ankify ↓
+### Better Search
+- tag & deck popover → xx or all:
 
 
 ---
