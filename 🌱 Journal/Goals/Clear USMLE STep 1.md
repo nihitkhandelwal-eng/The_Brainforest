@@ -19,6 +19,15 @@ habits:: <% tp.file.cursor(5) %>
 	- I have downloaded all the resources for pathoma & will be starting that after check off a few pending & itching tasks
 ### Objectives
 
+### Best Resources
+1. Anki & Anking
+2. Pathoma → Everything Pathology 
+3. Amboss → Highly rated by Anking
+4. Sketchy → Not so updated, says Anking
+5. Boards & Beyond
+6. Physeo
+7. Uworld
+8. Rx Qbank
 
 ### Resources
 - [Discount links for subscriptions](https://www.ankipalace.com/discounts)
