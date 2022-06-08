@@ -12,4 +12,4 @@ YYYY/YYYY
 
 🌱 Journal/{{DATE:YYYY}}/{{DATE:[Quarter ]Q}}/{{DATE:[Quarter ]Q}}.md
 
-🌱 Journal/{{DATE:YYYY}}/{{DATE:[Quarter ]Q}}/{{DATE:[Quarter ]Q}}.md
+🌱 Journal/{{DATE:YYYY}}/{{DATE:YYYY}}.md
