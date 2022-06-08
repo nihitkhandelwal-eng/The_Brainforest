@@ -47,7 +47,7 @@ Toggle side panel → Shift+A
 
 
 ### Extended Tag Add/Edit Dialog
-- 
+- Show filter dialog to add single tag → Ctrl+Alt+e
 
 
 ---
