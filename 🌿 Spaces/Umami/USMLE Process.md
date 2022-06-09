@@ -167,7 +167,10 @@ Once this is done
 		- You call programs & ask if they have any unfilled spots & you try to fill them. 
 
 
-
+### Guarantee for Match
+- There is no guarantee
+- If you don't end up matching, go for CV building
+	- Do a research elective for 1 year or 2 year
 
 
 ---
