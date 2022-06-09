@@ -13,19 +13,19 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 
 ![[USMLE Flowchart]]
 ### Process
-- Apply for ECFMG Registration (Educational Council for Foreign Medical Graduation)
-- USMLE Step 1 Exam (6-9 months of prep)
-- USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
-- Clinical Rotations (3-6 month)
-- USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
-- USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
+1. Apply for ECFMG Registration (Educational Council for Foreign Medical Graduation)
+2. USMLE Step 1 Exam (6-9 months of prep)
+3. USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
+4. Clinical Rotations (3-6 month)
+5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
+6. USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
 
 Once this is done
-- Apply for ECFMG Certification
-- Apply for NRMP Match → The programs & the applicants will see what works for them.
-- Interviews
-- Rank Order List
-- Match Date (NRMP declares if I have been matched in a program)
+1. Apply for ECFMG Certification
+2. Apply for NRMP Match → The programs & the applicants will see what works for them.
+3. Interviews
+4. Rank Order List
+5. Match Date (NRMP declares if I have been matched in a program)
 
 
 ---
