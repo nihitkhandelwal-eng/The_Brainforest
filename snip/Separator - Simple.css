@@ -1,0 +1,42 @@
+.markdown-preview-view hr {
+  margin-block-start: 4em;
+  margin-block-end: 4em;
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    var(--background-primary),
+    var(--text-accent),
+    var(--background-primary)
+  );
+}
+
+.markdown-preview-view hr::after {
+  /* content: '§'; */
+  content: "ᛟ";
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  /* transform: translate(-50%, -50%) rotate(60deg); */
+  transform: translate(-50%, -50%) rotate(0deg);
+  transform-origin: 50% 50%;
+  padding: 0.5rem;
+  color: var(--bright-aqua);
+  background-color: var(--background-primary);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

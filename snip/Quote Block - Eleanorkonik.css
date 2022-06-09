@@ -1,0 +1,31 @@
+/* Eleanorkonik quote snippet */
+/* Eleanorkonik quote snippet for editor */
+.cm-quote {
+  color: var(--text-normal) !important;
+}
+
+/* Eleanorkonik quote snippet for preview */
+.markdown-preview-view blockquote {
+  border: 1px solid;
+  border-color: #8272d0 !important;
+  border-left-width: 0px !important;
+  border-radius: 8px 8px 8px 8px;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin: 5px 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.markdown-preview-view blockquote {
+  position: relative;
+}
+
+.markdown-preview-view blockquote:after {
+  content: '\201C'; /* 201C, 201D, 2018, 2019 */
+  position: absolute;
+  top: 0.30em;
+  left: -0.45em;
+  font-size: 2em;
+color: #d9d4f0;
+}

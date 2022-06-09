@@ -1,0 +1,693 @@
+/* ---------------------------------------------------------------------------
+---------outliner for the file and folders - not in minimal theme ------------
+------------------------------------------------------------------------------*/
+
+.nav-folder,.nav-file{
+    margin:0 !important;
+    border-left: 1px solid rgba(118,158,165,0.2);
+  }
+  
+  /* connecting lines outliner */
+  .outline {
+    font-size: 0.8rem;
+    font-weight: 200;
+  }
+  
+  .outline .tree-item {
+    line-height: 1.3;
+  }
+  
+  .outline .tree-item-self {
+    padding-top: 0.2rem;
+    padding-bottom: 0.1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.3rem;
+  }  
+  
+  .outline .tree-item-collapse {
+    left: 0.1rem;
+  }  
+  
+  .outline .tree-item-inner{
+    position:relative;
+    padding-top: 0.2rem;
+    /* padding-left: 1rem; */
+    padding-left: 1.7em;
+    text-indent: -0.8em;
+    margin-left: 0.2rem;
+    /* font-size: 0.9em; */
+  }  
+  
+  .outline .tree-item-children {
+    margin-left: 0.7rem;
+    padding-left: 0.5rem;
+    margin-top: -0.3rem;
+    padding-top: 0.3rem;
+    border-left: 1px solid var(--sidebar-marks, var(--background-modifier-border));
+    border-radius: 4px;
+    transition:all 0.5s ease-in-out;
+  }
+  
+  .outline .tree-item-children:hover {
+    border-left-color: var(--sidebar-marks-hover, var(--background-secondary));
+  }
+  
+  .outline .collapse-icon + .tree-item-inner {
+    font-weight: 400;
+    padding-left: 0.2rem;
+    /* margin-left: 0rem; */
+    /* font-size: 1em; */
+  }
+  
+  .outline .collapse-icon {
+    margin-top: 0.2rem;
+    margin-left: -0.4rem;
+    margin-right: -0.4rem;
+    width: 2rem;
+  }
+  
+  
+  /* change font color outline */
+  div.collapsible-item-inner {
+    color: var(--base3);
+  }
+  
+  
+  
+  /* Heading counter for outline pane */
+  .outline {
+    counter-reset: rootLayout;
+  }
+  .outline .tree-item .tree-item-self .tree-item-inner::before {
+    content: counters(rootLayout, ".") ". ";
+    counter-increment: rootLayout;
+  }
+  .tree-item-children {
+    counter-reset: internalLayout;
+  }
+  .tree-item-children .tree-item .tree-item-self .tree-item-inner::before {
+    content: counters(rootLayout, ".") "." counters(internalLayout, ".") ". ";
+    counter-increment: internalLayout;
+  }
+  
+  
+  /* nested list counting (ex: 1.1, 1.2) */
+  /* https://github.com/hipstersmoothie/obsidian-plugin-toc#detailed-nested-ordered-lists */
+  ol {
+    counter-reset: item;
+  }
+  
+  ol li {
+    display: block;
+  }
+  
+  ol li:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+    padding-right: 5px;
+  }
+
+
+
+
+/*---------------------------------------------------------------
+-------------------------- Subtle Tag Pills ---------------------
+-----------------------------------------------------------------*/
+.theme-dark{
+    --tag-base: var(--background-primary-alt);
+  }
+  
+  .theme-light{
+    --tag-base: var(--background-primary);
+  }
+  
+  .tag {
+    background-color: var(--tag-base);
+    border: 1px solid var(--blue);
+    color: var(--gray);
+    font-weight: 500;
+    padding: 1px 2px;
+    text-align: center;
+    text-decoration: none !important;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: .5s ease-in-out;
+  }
+  
+  .tag:hover {
+    color: rgb(61, 107, 110) !important;
+    text-decoration: none !important;
+    transition: .1s ease-in-out;
+    background-color: var(--gray);
+  }
+
+
+
+
+/*------------------------------------------------------------------
+------------------------ Embed Popover -----------------------------
+--------------------------------------------------------------------*/
+
+.markdown-preview-view .markdown-embed {
+    padding:0 calc(var(--nested-padding) / 2) 0 var(--nested-padding);
+  }
+  .markdown-embed-title {
+    line-height:18px;
+    height:24px;
+    display: none;
+  }
+  .markdown-embed .markdown-preview-sizer {
+      padding-left: 1em !important;
+      padding-top: .5em !important;
+      min-height: 0em !important;
+  }
+  .markdown-embed .markdown-preview-sizer:first-child ul {
+    margin-block-start:2px;
+  }
+  .markdown-embed .markdown-preview-section:last-child p,
+  .markdown-embed .markdown-preview-section:last-child ul {
+    margin-block-end:2px;
+  }
+  .markdown-embed-link,
+  .file-embed-link {
+    top:0px;
+    right:0;
+    text-align:right;
+  }
+  .file-embed-link svg,
+  .markdown-embed-link svg {
+    width:16px;
+    opacity:0;
+  }
+  .markdown-embed:hover .file-embed-link svg,
+  .markdown-embed:hover .markdown-embed-link svg {
+    opacity:1;
+  }
+  .markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+    max-height: none !important;}
+  .markdown-embed .markdown-preview-view {
+    padding:0;}
+  .internal-embed .markdown-embed {
+    border:0;
+    border:.5px solid var(--background-tertiary);
+    border-left:2px solid var(--text-accent);
+    border-radius:0;
+    padding-left: 0;
+    background-color: var(--background-primary-alt);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  }
+  .internal-embed .markdown-embed:hover {
+      box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+      transform: translate3d(0px, -3px, 0px);
+  }
+  br + .internal-embed {
+      margin-top: -1.75rem;
+  }
+  .markdown-embed-title ~ .markdown-embed-link,
+  .internal-embed[src*="#"] .markdown-embed-link {
+    right:0 !important;
+    width:3%;
+  }
+  
+  .internal-embed:not([src*="#^"]) .markdown-embed-link {
+      left: auto;
+  }
+  .internal-embed[src*="^"] .markdown-preview-sizer {
+      padding-left: .25em !important;
+      padding-top: 0 !important;
+  }
+  li > div.internal-embed {
+      display: inline-flex;
+      width: 99%
+  }
+  
+  li .internal-embed .markdown-embed {
+      width: 99%;
+  }
+  
+  .markdown-embed-title {
+    line-height:18px;
+    height:24px;
+    display: none;
+  }
+  .markdown-embed .markdown-preview-sizer {
+      padding-left: 1em;
+      padding-top: .5em;
+  }
+  
+  .popover {
+    box-shadow:0 20px 40px var(--background-modifier-box-shadow);
+    pointer-events:auto !important;
+    border:1px solid var(--background-modifier-border);
+  }
+  .popover .markdown-embed-link {
+    display:none;
+  }
+  .popover .markdown-embed .markdown-preview-view {
+    padding-bottom:1em;
+  }
+  .popover.hover-popover .markdown-embed .markdown-embed-content {
+    max-height: none !important;
+  }
+  
+  .popover.hover-popover .internal-embed[src*="^"] .markdown-embed {
+      height: 100%;
+      max-height: none;
+  }
+  
+  .popover.hover-popover .internal-embed[src*="^"] {
+      height: 3.25em;
+  }
+  
+  .popover.hover-popover {
+    max-height:40vh;
+  }
+
+
+
+/*--------------------------------------------------------------------------
+-----------------------Font - Futura Round----------------------------------
+-----------/* default font is: 'Inter', sans-serif; ------------------------*/
+
+/* font for edit mode */
+.CodeMirror.cm-s-obsidian {
+    font-family: 'a_FuturaRound';
+}
+
+/* font for preview mode */
+div.markdown-preview-view {
+	font-family: 'a_FuturaRound';
+}
+
+
+
+/*----------------------------------------------------------------------------------
+----------------------- footnotes by eleanorkonik ----------------------------------
+------------------------------------------------------------------------------------ */
+
+.markdown-preview-view .footnotes > hr:first-child {
+    display: none;
+  }
+  
+  .markdown-preview-view .footnotes::before {
+    content: "Endnotes";
+    font-family: "Caveat Brush"; 
+    font-size:2.5em;
+  }
+
+
+
+
+/*---------------------------------------------------------------------------------------
+---------------------------------- Clutter Free Headers ---------------------------------
+-----------------------------------------------------------------------------------------*/
+
+
+.markdown-preview-view h1, .cm-header-1 { font-size: 2.33rem; }
+.markdown-preview-view h2, .cm-header-2 { font-size: 1.83rem; }
+.markdown-preview-view h3, .cm-header-3 { font-size: 1.5rem; }
+.markdown-preview-view h4, .cm-header-4 { font-size: 1.33rem; }
+.markdown-preview-view h5, .cm-header-5 { font-size: 1.16rem; }
+.markdown-preview-view h6, .cm-header-6 { font-size: 1rem; }
+
+.cm-formatting-header-1 { font-size: 2rem; }
+.cm-formatting-header-2 { font-size: 1.16rem; }
+.cm-formatting-header-3 { font-size: 0.83rem; }
+.cm-formatting-header-4 { font-size: 0.64rem; }
+.cm-formatting-header-5 { font-size: 0.52rem; }
+.cm-formatting-header-6 { font-size: 0.44rem; }
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header {
+  color: transparent !important;
+  background:none;
+}
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header::before {
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: none;
+  width:0;
+  overflow:visible;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-1::before {
+  content: 'H1';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-2::before {
+  content: 'H2';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-3::before {
+  content: 'H3';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-4::before {
+  content: 'H4';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-5::before {
+  content: 'H5';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-6::before {
+  content: 'H6';
+}
+
+
+
+
+
+/*----------------------------------------------------------------------------------
+-------------------------Header Font, Size & Color Variations-----------------------
+------------------------------------------------------------------------------------*/
+
+/* variables */
+:root {
+    --accent-lightest: #F5F4FB;
+    --accent-default: #dcddde;
+    --accent-light: #d9d4f0; 
+    --accent-middle: #8272d0;
+    --admonition-green: #64DD17; 
+    --altaccent-middle: #277f8e; 
+    --altaccent2-middle: #ad3fc9;
+    --altaccent-light: #BFDEFF; 
+    --altaccent-lighter: #E3E5E8; 
+    --infobox-header: #F2EDFF;
+    --header-font: 'Caveat Brush'; 
+    --cybertron-h1: #c7c400;
+    --cybertron-h2: #b9adff;
+    --cybertron-h3: #52c1da;
+    --cybertron-h4: #67c073;
+    --cybertron-h5: #de87ca;
+    --cybertron-h6: #b4b4b4;
+    }  
+  
+  
+  /* Preview size customization*/
+  
+  .markdown-preview-view h1 {
+    font-family: var(--header-font);
+    text-transform: uppercase;
+    letter-spacing:-0.05em;
+    font-size:3em !important;
+    line-height:1.3;
+    font-weight:var(--normal-weight) !important;
+    color:var(--accent-default);
+  }
+  
+  .markdown-preview-view.dailynote h1 {
+    text-align: right;
+  }
+  
+  .markdown-preview-view h2 {
+    font-family: var(--header-font);
+    font-variant:caps;
+    text-transform:uppercase;
+    letter-spacing:-0em;
+    font-size:2.4em !important;
+    line-height:1.3;
+    color:var(--accent-default);
+  }
+  
+  .markdown-preview-view h3 {
+    font-family: var(--header-font);
+    font-variant:caps;
+    text-transform:uppercase;
+    letter-spacing:0.005em;
+    font-weight:550 !important;
+    font-size:1.8em !important;
+    line-height:1.4;
+    color:var(--accent-default);
+  }
+  
+  .markdown-preview-view h4 {
+    font-family: var(--header-font);
+    font-variant:normal;
+    font-weight:550 !important;
+    font-size:1.6em !important;
+    line-height:1.4;
+    text-transform:caps;
+    color:var(--accent-default);
+  }
+  
+  .markdown-preview-view h5 {
+    font-family: var(--header-font);
+    font-variant:normal;
+    font-weight:550 !important;
+    font-size:24px !important;
+    line-height:1.4;
+    text-transform:caps;
+    color:var(--accent-default);
+  }
+  
+  .markdown-preview-view h6 {
+    font-family: var(--header-font);
+    font-variant:normal;
+    font-weight:550 !important;
+    font-size:24px !important;
+    line-height:1.4;
+    text-transform:caps;
+    color:var(--accent-default);
+  }
+  
+  
+  /* Editor size customization */
+  
+  .cm-header-1,
+  .markdown-preview-section h1{
+      font-size: 34px;
+  }
+  
+  .cm-header-2,
+  .markdown-preview-section h2{
+      font-size: 30px;
+  }
+  
+  .cm-header-3,
+  .markdown-preview-section h3{
+      font-size: 27px;
+  }
+  
+  .cm-header-4,
+  .markdown-preview-section h4{
+      font-size: 24px;
+  }
+  
+  .cm-header-5,
+  .markdown-preview-section h5{
+      font-size: 21px;
+  }
+  
+  .cm-header-6,
+  .markdown-preview-section h6{
+      font-size: 17.5p;
+  }
+
+
+
+/*--------------------------------------------------------------------------------
+--------------------------- HEADING COLORS - Cybertron ---------------------------
+----------------------------------------------------------------------------------*/
+
+
+.markdown-preview-view h1,
+.cm-header-1
+{
+  color: #c7c400;
+}
+
+.markdown-preview-view h2,
+.cm-header-2
+{
+  color: #b9adff;
+}
+
+.markdown-preview-view h3,
+.cm-header-3
+{
+  color: #52c1da;
+}
+
+.markdown-preview-view h4,
+.cm-header-4
+{
+  color: #67c073;
+}
+
+.markdown-preview-view h5,
+.cm-header-5
+{
+  color: #de87ca;
+}
+
+.markdown-preview-view h6,
+.cm-header-6
+{
+  color: #b4b4b4;
+}
+
+
+
+/*-----------------------------------------------------------------------------------
+-------------------------------- Subtle Note Title ----------------------------------
+-------------------------------------------------------------------------------------*/
+
+
+/* Change the colour or the font-weight of the note title in a pane */
+.view-header-title {
+    /*color: red; */
+    font-weight: 300; /** this range from 1 - 1000 **/
+}
+
+/* Change color of note title active pane - Obsidianite */
+.workspace-leaf.mod-active .view-header-title {
+  color: var(--base2);
+}
+
+/* Change icon above  vert. note title on title spine - from Obsidianite */
+.view-header-icon {
+    color: rgb(31, 178, 129); /* PB changed from var(--text-accent) */
+}
+
+/* Change color of line next to note title in Andy Mode - Obsidianite */
+.workspace-leaf.mod-active .view-header {
+  border-right: 2px solid var(--base2) !important; /* change to border-bottom in non-AM */
+}
+
+/* Change color of note spine (Andy mode) */
+/* this is for Light theme; for Dark theme change words "theme-light" to "theme-dark" in the rule */
+body.theme-light.plugin-sliding-panes .view-header {
+    background-color: #f2f8fd;
+}
+
+
+/* Wrap long title in the title bar of a note
+courtsey of SIRvb https://discord.com/channels/686053708261228577/702656734631821413/829852938763370546 */
+.view-header-title {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  white-space: pre-wrap;
+  line-height: 25px;
+}
+.view-header {
+  height: auto;
+}
+
+
+
+
+/*-----------------------------------------------------------------------------------------
+--------------------------Note toolbar auto fades note header controlls -------------------
+------------------------------------------------------------------------------------------*/
+
+/* change opacity to 0 if you want controls to fade completely */
+.view-header:not(:hover) .view-actions {
+    opacity: 0.1;
+    transition: opacity 0.25s ease-in-out;
+  }
+
+
+
+
+/*-------------------------------------------------------------------------------------------
+--------------------- Quotation Marks without creating block --------------------------------
+---------------------------------------------------------------------------------------------*/
+
+.markdown-preview-view blockquote:before {
+    content: "❝";
+    font-size: 2.5em;
+    margin-right: .05em;
+    line-height: 0.1em;
+    vertical-align: -0.3em;
+  }
+  
+  blockquote p {
+    color: var(--blockquote-border);
+    display: inline;
+  }
+  
+  blockquote em{
+      color: var(--blockquote-border);
+  }
+  
+  .cm-hmd-indent-in-quote {
+    padding-left: 0px;
+  }
+  
+  .markdown-preview-view blockquote {
+    line-height: 1.75em;
+    color: var(--blockquote-border);
+    font-family: var(--default-font);
+    font-style: bold !important;
+    letter-spacing: 0px;
+    border: none;
+    border-left: 0.2rem solid var(--blockquote-border);
+    border-radius: 0px !important;
+    margin: 1.5rem 0rem 1.5rem 0rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    background-color: var(--blockquote-bg);
+  }
+
+
+
+/*--------------------------------------------------------------------------------------
+------------------------------- Compact Settings Menu ----------------------------------
+----------------------------------------------------------------------------------------*/
+
+/* make the window bigger and more compact - courtesy: pseudometa */
+.modal.mod-settings {
+    height: 92.5%;
+    width: 90%;
+  }
+  .modal-close-button {
+    top: 0px;
+    right:3px;
+  }
+  .vertical-tab-content-container {
+    padding-bottom: 0 !important;
+    padding-top: 1em !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+    height: 40em !important;
+  }
+  .vertical-tab-header {
+    height: 40em !important;
+  }
+  .setting-item {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+  .setting-item-description{
+    font-size: 0.85em;
+    line-height: 1.5em;
+  }
+  .setting-item-name{
+    font-size: 0.95em;
+    line-height: 1.5em;
+  }
+  .mod-cta, .dropdown{
+    font-size: 0.85em !important;
+    line-height: 1.5em;
+  }
+  .horizontal-tab-content, .vertical-tab-content {
+    background:var(--background-primary);
+    padding-bottom:100px;
+  }
+  .modal.mod-settings .vertical-tab-header {
+    background:var(--background-secondary);
+    padding-top: 0;
+  }
+  .vertical-tab-header-group-title {
+    color:var(--text-normal);
+    font-size:0.8em;
+    letter-spacing:0.1em;
+    font-weight:600;
+    padding-bottom:0;
+  }
+  .vertical-tab-nav-item {
+    padding:3px 3px 3px 0.9em;
+    color:var(--text-muted);
+    background:var(--background-secondary);
+  }
+  

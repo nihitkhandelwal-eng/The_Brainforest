@@ -1,0 +1,126 @@
+
+/* ====== floating obsidian ====== */
+
+/* == neat ribbon == */
+body:not(.is-mobile) .workspace-ribbon.mod-left {min-width: 4em !important;}
+body:not(.is-mobile) .side-dock-ribbon-action {margin-bottom: 1em;}
+body:not(.is-mobile) .side-dock-settings, .workspace-ribbon-collapse-btn, .mod-left-split .workspace-tab-header-container, .pin-sidebar  {display: none !important;}
+body:not(.is-mobile) .side-dock-actions {display: block; margin: auto !important;}
+body:not(.is-mobile) [aria-label="Open another vault"] {display: block !important;}
+body:not(.is-mobile) .side-dock-actions {box-shadow: 0px 4px 10px 1px black; border-radius: 12px !important; padding: 10px 0px 0px !important;}
+
+/* == right sidebar == */
+body:not(.is-mobile) .mod-right-split .workspace-tabs {background: transparent !important; margin-left: 1px;}
+body:not(.is-mobile) .mod-right-split .workspace-tab-header-container {
+	width: auto; 
+	margin: 0.25em auto 1em !important; 
+	padding-right: 0.75em; 
+	background: var(--bg1) !important; 
+	border-radius: 12px;
+	box-shadow: 0px 4px 10px 1px black;
+}
+.mod-right-split .workspace-leaf-content > .view-content {
+	background: var(--bg1) !important;
+	border-radius: 12px;
+	box-shadow: 0px 4px 10px 1px black;
+	margin: 1em;
+	width: auto;
+}
+
+.mod-right-split *, .mod-right-split {overflow: visible !important;}
+
+body:not(.is-mobile) .workspace-ribbon.side-dock-ribbon.mod-right {display: none !important;}
+
+/* == tabs and leaves == */
+body:not(.is-mobile) [data-type="file-explorer"]:before, body:not(.is-mobile) [data-type="search"]:before, body:not(.is-mobile) [data-type="recent-files"]:before {
+	font-weight: 900; 
+	padding-bottom: 0.25em; 
+	font-size: 15px; 
+	letter-spacing: 1px;
+}
+
+body:not(.is-mobile) .dropdown:active, body:not(.is-mobile) .dropdown:focus, body:not(.is-mobile) input:focus, body:not(.is-mobile) select:active, body:not(.is-mobile) select:focus, body:not(.is-mobile) textarea:active, body:not(.is-mobile) textarea:focus {
+	box-shadow: none;
+	background: transparent;
+}
+
+[data-type="file-explorer"]:before {content: "Your Files";}
+[data-type="search"]:before {content: "Search Vault";}
+[data-type="recent-files"]:before {content: "Recent Activity"; margin-bottom: 0.75em;}
+
+[data-type="file-explorer"], [data-type="search"], [data-type="recent-files"], [data-type="outline"] {
+ margin-top: auto; height: 80%;
+}
+
+/* == header == */
+body:not(.is-mobile) .view-header {margin-top: 6px;}
+body:not(.is-mobile) .view-header {opacity: 0; transition: opacity 0.5s 3s ease-in !important;} body:not(.is-mobile) .view-header:hover {opacity: 1; transition: opacity 0.5s 0s ease-in !important;}
+
+/* == floating window == */
+body:not(.is-mobile) {
+	background: url('https://i.imgur.com/xKIOFc8.png'); 
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	display:flex;
+	align-items:flex-start;
+	align-content:flex-start;
+}
+body:not(.is-mobile) > .app-container {align-self: stretch; margin: 2em; height: auto; overflow: visible;}
+body:not(.is-mobile) > .app-container, body:not(.is-mobile) > .app-container  > .horizontal-main-container, 
+body:not(.is-mobile) > .app-container > .horizontal-main-container .workspace {
+	overflow: visible !important;
+}
+body:not(.is-mobile) > .app-container > .horizontal-main-container { border-radius: 12px !important; margin: 1em;} 
+body:not(.is-mobile) > .app-container > .horizontal-main-container .workspace > .mod-root {
+	border-radius: 0px 12px 12px 0px;  
+	overflow: visible; 
+	box-shadow:4px 4px 10px 0.2px black; 
+}
+body:not(.is-mobile) > .app-container > .horizontal-main-container .workspace > .mod-left-split {
+	overflow: visible; 
+	box-shadow: 10px 6px 10px 0.1px black; 
+}
+body:not(.is-mobile) > .app-container > .horizontal-main-container .workspace > .workspace-ribbon {
+	border-radius: 12px 0px 0px 12px;  
+	overflow: visible; 
+	box-shadow: 13px 5px 10px 0.1px black; z-index: 0;
+}
+
+
+
+/* == workspace background color == */
+body:not(.is-mobile) .workspace-split.mod-vertical.mod-root, .empty-state, .workspace-ribbon, .mod-left-split {
+	background: var(--bg1) !important;
+}
+
+.view-header, .workspace-leaf-header, .workspace-leaf.mod-active .view-header, .workspace-split.mod-root>.workspace-leaf:first-of-type:last-of-type .view-header, 
+.view-actions, .view-content, .CodeMirror-gutter, .workspace-split:not(.mod-right-split) .workspace-tabs,
+body:not(.is-translucent):not(.is-mobile) .mod-left-split .backlink-pane, body:not(.is-translucent):not(.is-mobile) .mod-left-split .item-list, 
+body:not(.is-translucent):not(.is-mobile) .mod-left-split .nav-files-container, 
+body:not(.is-translucent):not(.is-mobile) .mod-left-split .outgoing-link-pane, 
+body:not(.is-translucent):not(.is-mobile) .mod-left-split .tag-container, 
+body:not(.is-translucent):not(.is-mobile) .mod-left-split .workspace-leaf-content[data-type=search] .search-result-container {
+	background: transparent !important;
+}
+
+/* == cards appearance == */
+.markdown-preview-section > div > p,.markdown-preview-section > div >  ul, .markdown-preview-section > div > ol, .markdown-preview-section > div > blockquote,
+.dataview, .markdown-preview-section > div > table, .markdown-preview-section > div > pre  {
+	border-radius: 5px !important; 
+	border: none !important; 
+	box-shadow: 0px 4px 10px 0.25px black; 
+	padding: 1.5em 2em;
+	margin: 1em auto;
+}
+
+.markdown-preview-section > div >  ul, .markdown-preview-section > div >  ol {padding-left: 3.5em;}
+
+.empty-state {box-shadow: inset 0px 4px 10px 1px black;}
+
+blockquote:before {content:'“'; font-family: Serif; font-size: 32px; font-weight: 900; transform: translate(-10px,-15px); position: absolute;}
+blockquote p {margin-left: 15px; padding-top: 0.5em;}
+
+/* == padding  == */
+body:not(.is-mobile) .workspace-split.mod-left-split {padding: 0em 2em 10vh 2em !important;}
+body:not(.is-mobile) .markdown-preview-view {padding-top: 4.5em !important; padding-bottom: 2.5em !important;}
+body:not(.is-mobile) .markdown-preview-sizer{padding-bottom: 0.5em !important;}

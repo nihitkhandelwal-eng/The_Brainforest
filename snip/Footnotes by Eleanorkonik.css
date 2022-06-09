@@ -1,0 +1,14 @@
+/*----------------------------------------------------------------------------------
+----------------------- footnotes by eleanorkonik ----------------------------------
+------------------------------------------------------------------------------------ */
+
+.markdown-preview-view .footnotes > hr:first-child {
+  display: none;
+}
+
+.markdown-preview-view .footnotes::before {
+  content: "Endnotes";
+  font-family: "Caveat Brush"; 
+  font-size:1.8em;
+  color: rgb(114, 111, 111);
+}

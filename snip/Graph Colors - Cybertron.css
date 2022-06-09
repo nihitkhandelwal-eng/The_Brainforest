@@ -1,0 +1,87 @@
+:root{
+
+  /*----------------------------------------------------------------
+   COLORS
+   ----------------------------------------------------------------*/
+
+   --red: #ff5582; 
+   --pink: #f2b3cf; 
+   --fairpink: #eed3e1; 
+   --yellow:  #fff3a3;
+   --linen: #fcecec;
+   --linen2: #302e2e;
+   --linen3: #636161; 
+   --purple: #d2b3ff; 
+   --palegreen:  #bbfabb;
+   --cornflower-blue: #a1c4fd;
+   --light-cornflower-blue: #adccff;
+   --duskblue: #a2acc3; 
+   --darkbrown: #34343d;
+   --pureblack:  #000000;
+   --royalblue: #7288da;
+   --graph-line-fade: #2e3333;
+   --graph-line-cybertron: #2b3e4f;
+
+   /*----------------------------------------------------------------
+   BOLD & LIGHT COLORS
+   ----------------------------------------------------------------*/
+
+   --boldpink: #fe53bb; 
+   --lightpink: #d669bc;
+   --boldpurple: #7322e6; 
+   --palepurple: #9e8aff;
+   --boldred: #ff5555;
+   --boldyellow: #fcf601;
+   --boldorange: #f78710;
+   --lightorange: rgb(248, 230, 197);
+   --boldgreen: #85ffa4; 
+   --boldblue: #99e7ff; 
+   --lighttblue: #5dbcd2;
+   --mintblue: #26798c;
+   --boldlightpink: #ffbaeb;
+   --soothingwhite: #cccccc;
+}
+
+/**********************/
+/* Graph Colors */
+/**********************/
+
+.theme-dark .graph-view.color-fill-tag {
+ color: var(--lighttblue);
+}
+
+.theme-dark .graph-view.color-fill-attachment {
+ color: var(--lightpink);
+}
+
+.theme-dark .graph-view.color-fill-unresolved {
+ color: var(--palepurple);
+ Opacity: 100%;
+}
+
+.theme-dark .graph-view.color-arrow {
+ color: var(--lightpink);
+}
+
+.graph-view.color-fill {
+   color: var(--boldyellow);
+}
+
+.graph-view.color-circle {
+   color: var(--mintblue);
+}
+
+.graph-view.color-line {
+   color:  var(--mintblue);
+}
+
+.graph-view.color-text {
+   color: var(--soothingwhite);
+}
+
+.graph-view.color-fill-highlight {
+   color: var(--mintblue);
+}
+.graph-view.color-line-highlight {
+   color: var(--lighttblue);
+}

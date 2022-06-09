@@ -1,0 +1,12 @@
+/* Put this code in the CSS sheet (courtesy Gabroel) */
+/* signature inside the blockquote*/
+.signature {
+  font-family: "SignPainter"; /**Choose a cursive font */
+  text-align: right;
+}
+
+/* Then, in the note, at the end of the blockquote put this:
+`<div class="signature">- Name </div>`
+
+if you want the font size of the signature bigger, use this instead:
+`<div class="signature"> <span style="font-size:25px">- Name</span> </div>` */

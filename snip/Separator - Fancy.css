@@ -1,0 +1,20 @@
+/* separator */
+.markdown-preview-view hr {
+  margin-block-start: 4em;
+  margin-block-end: 4em;
+  border: none;
+  height: 8px;
+  background-image: linear-gradient(to right, var(--background-primary), var(--text-accent), var(--background-primary));
+}
+
+.markdown-preview-view hr::after {
+  content: '§';
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(60deg);
+  transform-origin: 50% 50%;
+  padding: 0.5rem;
+  color: var(--text-sub-accent);
+  background-color: var(--background-primary);
+}

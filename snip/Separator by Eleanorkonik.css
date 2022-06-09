@@ -1,0 +1,23 @@
+/* prettier hr bar */
+
+.markdown-preview-view hr {
+  height: 0;  
+  border:0;
+}
+.markdown-preview-view hr::after {
+  content: "* * *";
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(0deg);
+  font-size: 25px;
+  transform-origin: 50% 50%;
+  color: transparent;
+  text-shadow: 0 0 0 var(--text-normal);
+  padding: 2px;
+  background-color: var(--background-primary);
+}
+
+.cm-s-obsidian pre.HyperMD-hr {
+  text-align: center;
+}
