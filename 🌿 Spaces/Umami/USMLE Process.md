@@ -111,6 +111,8 @@ Once this is done
 				- How is your clinical knowledge
 				- How did you perform in your rotations
 		- Medical School Transcripts
+			- Your performance in different clinical examinations in medical school
+			- 
 	- This will be presented to the programs that you have applied for.
 	- If they like your ERAS CV, they will ask you for an interview
 3. Interviews
