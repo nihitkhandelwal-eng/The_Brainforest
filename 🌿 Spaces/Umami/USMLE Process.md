@@ -126,6 +126,11 @@ Once this is done
 		- Program Director
 		- Chief Resident
 		- Associate PD/Professor
+	- They are looking for 
+		- English Skills
+		- Ethical Questions
+		- Behavioural Questions
+		- They are not evaluating your medical knowledge here but holistically
 4. Rank Order List
 5. Match Date (NRMP declares if I have been matched in a program)
 
