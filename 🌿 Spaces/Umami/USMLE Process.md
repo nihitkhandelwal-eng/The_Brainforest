@@ -25,6 +25,7 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 		- Total 280 Questions
 		- Divided into 7 blocks, 1 hour each
 			- 1 Block is of 40 Questions
+			- you can gain experience with the CBT format by taking the 120 practice questions i.e. three blocks with 40 questions each available online for free at https://www.usmle.org/prepare-your-exam 
 		- 1 hour time is divided into 15 minutes orientation & 45 minutes of break time
 			- You can do the orientation before doing the exam through the NBME's website
 			- This will give you about 1 hour break time
