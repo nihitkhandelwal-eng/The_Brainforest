@@ -78,6 +78,9 @@ Once this is done
 		- Volunteer experiences
 			- Anything you did, for which you did not take money
 		- Research experiences
+			- Any experience, where you worked with a team that was dedicated to research
+			- Writing a research paper by myself won’t count 
+			- TEAM WORK is important
 		- Personal Statement
 		- LOR (Letter of recommendation)
 		- MSPE
