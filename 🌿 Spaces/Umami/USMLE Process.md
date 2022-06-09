@@ -131,7 +131,11 @@ Once this is done
 		- Ethical Questions
 		- Behavioural Questions
 		- They are not evaluating your medical knowledge here but holistically
+	- Write a "thank you" letter to every single person, send it either by post or email
 4. Rank Order List
+	- Comes out in february
+	- Programs make their ROL
+	- Applicants make their ROL
 5. Match Date (NRMP declares if I have been matched in a program)
 
 
