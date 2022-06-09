@@ -22,8 +22,23 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 	- Minimum passing score in 196
 	- Tests Preclinical Knowledge i.e. basic sciences
 	- Exam is of 8 hours
+		- Total 280 Questions
 		- Divided into 7 blocks, 1 hour each
-		- 
+			- 1 Block is of 40 Questions
+		- 1 hour time is divided into 15 minutes orientation & 45 minutes of break time
+			- You can do the orientation before doing the exam through the NBME's website
+			- This will give you about 1 hour break time
+			- 
+	- Resources Needed for Step 1 (in brief)
+		- BUFAP
+		- B&B → Main Videos
+		- UWorld → Main QBank
+		- First Aid → 
+		- Pathoma →
+		- Sketchy → Picture Mnemonics
+			- Micro
+			- Pharma
+			- Pathology
 3. USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
 4. Clinical Rotations (3-6 month)
 5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
