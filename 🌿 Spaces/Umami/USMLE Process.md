@@ -103,6 +103,7 @@ Once this is done
 			- It is basically someone vouching for you
 			- You can upload maximum of 4 LOR's per program
 		- MSPE
+			- Medical School Performance Evaluation
 		- Medical Transcripts
 	- This will be presented to the programs that you have applied for.
 	- If they like your ERAS CV, they will ask you for an interview
