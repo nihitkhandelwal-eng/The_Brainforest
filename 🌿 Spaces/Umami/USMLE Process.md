@@ -74,6 +74,8 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 				- 6 blocks of MCQ's | 45 minute each
 					- 30 MCQ/Block
 					- 180 MCQ's total
+			- 13 CCS cases
+				- Testing you in a simulation on your ability to deliver patient care 
 
 Once this is done
 1. Apply for ECFMG Certification
