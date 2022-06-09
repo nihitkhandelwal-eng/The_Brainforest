@@ -69,6 +69,11 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 				- 38-39 MCQ/Block
 		- 2nd day → Advanced Clinical Medicine & CCS Cases
 			- You don't necessarily have to write it on consecutive days (a maximum of a week delay is allowed)
+			- Testing your physical examination ability, patient care, history taking ability
+			- 9 hours long
+				- 6 blocks of MCQ's | 45 minute each
+					- 30 MCQ/Block
+					- 180 MCQ's total
 
 Once this is done
 1. Apply for ECFMG Certification
