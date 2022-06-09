@@ -63,7 +63,19 @@ Once this is done
 		- USMLE Step 2 Score
 		- Your Degree → MBBS
 		- Letter of good standing from your university 
-2. Apply for NRMP Match → The programs & the applicants will see what works for them.
+2. Apply for NRMP Match 
+	- The programs & the applicants will see what works for them.
+	- You as an applicant will submit something called as "ERAS Application" or "ERAS CV"
+		- This will have your:
+		- Professional experiences
+		- Volunteer experiences
+		- Research experiences
+		- Personal Statement
+		- LOR (Letter of recommendation)
+		- MSPE
+		- Medical Transcripts
+	- This will be presented to the programs that you have applied for.
+	- If they like your ERAS CV, they will ask you for an interview
 3. Interviews
 4. Rank Order List
 5. Match Date (NRMP declares if I have been matched in a program)
