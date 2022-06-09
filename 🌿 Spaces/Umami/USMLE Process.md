@@ -28,7 +28,7 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 		- 1 hour time is divided into 15 minutes orientation & 45 minutes of break time
 			- You can do the orientation before doing the exam through the NBME's website
 			- This will give you about 1 hour break time
-			- You can access a 15-minute and practice blocks at http://orientation.nbme.org/Launch/USMLE/STPFI
+			- You can access a 15-minute and practice blocks at http://orientation.nbme.org/Launch/USMLE/STPFI. This tutorial interface is very similar to the one you will use in the exam; learn it now and you can skip taking it during the exam, giving you up to 15 extra minutes of break time.
 	- Resources Needed for Step 1 (in brief)
 		- BUFAP
 		- B&B → Main Videos
