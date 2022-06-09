@@ -101,6 +101,7 @@ Once this is done
 				- Home Country LOR's
 			- Written by professors or attendings who are practicing medicne in any country, they are basically a testament to your quality as a physician, in communication, cultural values, professionally
 			- It is basically someone vouching for you
+			- You can upload maximum of 4 LOR's per program
 		- MSPE
 		- Medical Transcripts
 	- This will be presented to the programs that you have applied for.
