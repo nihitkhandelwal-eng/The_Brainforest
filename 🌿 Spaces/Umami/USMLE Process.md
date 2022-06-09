@@ -167,8 +167,11 @@ Once this is done
 		- You call programs & ask if they have any unfilled spots & you try to fill them. 
 
 
+
+
+
 ---
 Related:
-Resources & Syllabus from [DBMCI](https://dbmci.com/blog/usmle-exam-syllabus/)
+- Resources & Syllabus from [DBMCI](https://dbmci.com/blog/usmle-exam-syllabus/)
 
 
