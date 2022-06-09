@@ -81,7 +81,18 @@ Once this is done
 			- Any experience, where you worked with a team that was dedicated to research
 			- Writing a research paper by myself won’t count 
 			- TEAM WORK is important
+			- It's very important for
+				- Surgery
+				- Neurosurgery
+				- Dermatology
+				- Radiology
+				- Orthopedics
 		- Personal Statement
+			- Why do you want to get into a certain speciality
+			- Example: If I am applying for Psychiatry
+				- I am going to write a statement about my whole life experiences, that have made me want to go for psychiatry
+				- They want to know your motivation
+				- If you get into the branch, what are your aspirations, what do you want to become.
 		- LOR (Letter of recommendation)
 		- MSPE
 		- Medical Transcripts
