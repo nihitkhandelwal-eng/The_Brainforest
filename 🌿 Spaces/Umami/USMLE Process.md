@@ -51,6 +51,7 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 		- Amboss Library
 4. Clinical Rotations (3-6 month)
 5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
+	- 
 6. USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
 
 Once this is done
