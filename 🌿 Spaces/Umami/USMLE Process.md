@@ -137,6 +137,8 @@ Once this is done
 	- Programs make their ROL
 	- Applicants make their ROL
 5. Match Date (NRMP declares if I have been matched in a program)
+	- Usually on monday of the 3rd week of march
+	- You are told, whether you have matched or not
 
 
 ---
