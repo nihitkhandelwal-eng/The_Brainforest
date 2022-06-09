@@ -68,7 +68,15 @@ Once this is done
 	- You as an applicant will submit something called as "ERAS Application" or "ERAS CV"
 		- This will have your:
 		- Professional experiences
+			- United States Clinical Experience → This is the most important thing
+				- This tells them that you know the US Medical System
+				- You have lived there
+			- Professional work in your home country
+				- Internship
+				- Job
+				- Residency 
 		- Volunteer experiences
+			- Anything you did, for which you did not take money
 		- Research experiences
 		- Personal Statement
 		- LOR (Letter of recommendation)
