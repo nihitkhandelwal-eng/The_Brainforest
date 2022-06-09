@@ -1,9 +1,0 @@
-/*-----------------------------------------------------------------------------------------
---------------------------Note toolbar auto fades note header controlls -------------------
-------------------------------------------------------------------------------------------*/
-
-/* change opacity to 0 if you want controls to fade completely */
-.view-header:not(:hover) .view-actions {
-  opacity: 0.1;
-  transition: opacity 0.25s ease-in-out;
-}
