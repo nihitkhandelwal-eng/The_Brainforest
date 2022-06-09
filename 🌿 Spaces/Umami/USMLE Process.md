@@ -53,8 +53,22 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
 	- E2 OET Free Course → Search on YouTube
 	- Official OET Sample Papers
-6. USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
-	- 
+6. USMLE Step 3 Exam 
+	- Not a requirement for matching, people usually give it after they get into residency
+		- IMG's can do it before matching
+		- AMG's cannot give it before matching
+	- Most people give it in their PGY1 or PGY2
+		- There are some programs where they won't allow you to transition to PGY3, if you have not cleared it
+	- It's a 2 day exam
+		- 1st day → Foundations of Independent Practice
+			- Will test you step1 & step2 knowledge in a MCQ format
+			- 7 hours long
+				- 1 hour break (same like step 1&2)
+				- 6 block of MCQ's (1 block is 1 hour long)
+				- 232 MCQ's
+				- 38-39 MCQ/Block
+		- 2nd day → Advanced Clinical Medicine & CCS Cases
+			- You don't necessarily have to write it on consecutive days (a maximum of a week delay is allowed)
 
 Once this is done
 1. Apply for ECFMG Certification
