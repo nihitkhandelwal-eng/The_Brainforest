@@ -11,7 +11,7 @@ cssclass:
 
 USMLE (United States Medical Licensing Exam) is something that everybody needs to give to get into residency, which is mandatory to practice medicin in USA
 
-![[09-06, 2'38 PM]]
+![[USMLE Flowchart]]
 ### Process
 - USMLE Step 1 Exam (6-9 months of prep)
 - USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
