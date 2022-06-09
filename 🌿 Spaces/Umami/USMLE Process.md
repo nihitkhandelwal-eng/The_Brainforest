@@ -117,6 +117,15 @@ Once this is done
 	- If they like your ERAS CV, they will ask you for an interview
 3. Interviews
 	- They are held for about 4 months from October to January
+	- It used to be in-person interview
+		- You will fly to the program
+		- Have pre-interview dinner
+		- Interview at their program the next day
+	- Time for an interview ranges from 4-6 hours
+	- You will be interviewing usually with 
+		- Program Director
+		- Chief Resident
+		- Associate PD/Professor
 4. Rank Order List
 5. Match Date (NRMP declares if I have been matched in a program)
 
