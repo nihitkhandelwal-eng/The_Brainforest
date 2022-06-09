@@ -104,6 +104,12 @@ Once this is done
 			- You can upload maximum of 4 LOR's per program
 		- MSPE
 			- Medical School Performance Evaluation
+			- Your evaluation by your medical college compared to your peers
+				- Character
+				- How was your basic sciences performance (1st & 2nd year)
+				- How was your clinical sciences performance (3rd & 4th year)
+				- How is your clinical knowledge
+				- How did you perform in your rotations
 		- Medical Transcripts
 	- This will be presented to the programs that you have applied for.
 	- If they like your ERAS CV, they will ask you for an interview
