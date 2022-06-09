@@ -57,6 +57,12 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 
 Once this is done
 1. Apply for ECFMG Certification
+	- It means that you have been ceritfied by the ECFMG, to be having as good as a clinical training as an american medical graduate
+	- You need
+		- USMLE Step 1 Pass
+		- USMLE Step 2 Score
+		- Your Degree → MBBS
+		- Letter of good standing from your university 
 2. Apply for NRMP Match → The programs & the applicants will see what works for them.
 3. Interviews
 4. Rank Order List
