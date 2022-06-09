@@ -66,6 +66,7 @@ Once this is done
 2. Apply for NRMP Match 
 	- The programs & the applicants will see what works for them.
 	- You as an applicant will submit something called as "ERAS Application" or "ERAS CV"
+		- The deadline to submit your ERAS Application is usually September 15th, due to COVID it was postponed to Sept 28th
 		- This will have your:
 		- Professional experiences
 			- United States Clinical Experience → This is the most important thing
@@ -112,10 +113,10 @@ Once this is done
 				- How did you perform in your rotations
 		- Medical School Transcripts
 			- Your performance in different clinical examinations in medical school
-			- 
 	- This will be presented to the programs that you have applied for.
 	- If they like your ERAS CV, they will ask you for an interview
 3. Interviews
+	- They are held for about 4 months from October to January
 4. Rank Order List
 5. Match Date (NRMP declares if I have been matched in a program)
 
