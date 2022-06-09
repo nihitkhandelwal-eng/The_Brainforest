@@ -14,7 +14,16 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 ![[USMLE Flowchart]]
 ### Process
 1. Apply for ECFMG Registration (Educational Council for Foreign Medical Graduation)
-2. USMLE Step 1 Exam (6-9 months of prep)
+	- Helps IMG practice medicine in the USA
+	- Fill → **Form 183**
+	- Now you are eligible to write USMLE Step 1
+2. USMLE Step 1 Exam (5-7 months of prep)
+	- From Jan 2022 it is now a pass/fail system
+	- Minimum passing score in 196
+	- Tests Preclinical Knowledge i.e. basic sciences
+	- Exam is of 8 hours
+		- Divided into 7 blocks, 1 hour each
+		- 
 3. USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
 4. Clinical Rotations (3-6 month)
 5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
