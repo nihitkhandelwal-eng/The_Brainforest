@@ -54,6 +54,7 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 	- E2 OET Free Course → Search on YouTube
 	- Official OET Sample Papers
 6. USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
+	- 
 
 Once this is done
 1. Apply for ECFMG Certification
