@@ -137,8 +137,12 @@ Once this is done
 	- Programs make their ROL
 	- Applicants make their ROL
 5. Match Date (NRMP declares if I have been matched in a program)
-	- Usually on monday of the 3rd week of march
-	- You are told, whether you have matched or not
+	- Usually on monday of the 3rd week of march (Matched or Not)
+	- Program Reveal → On Friday, you are told, which program you have matched
+	- Why This Delay?
+		- People who do not match can apply for something called SOAP (during this 5 day period)
+		- SOAP is supplemental offer & acceptance program
+		- You call programs & ask if they have any unfilled spots & you try to fill them. 
 
 
 ---
