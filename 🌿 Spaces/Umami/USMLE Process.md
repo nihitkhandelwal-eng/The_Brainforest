@@ -94,6 +94,13 @@ Once this is done
 				- They want to know your motivation
 				- If you get into the branch, what are your aspirations, what do you want to become.
 		- LOR (Letter of recommendation)
+			- 2 types
+				- US LOR's
+					- You need to go for USCE i.e. US clinical experience
+					- These are more valuable
+				- Home Country LOR's
+			- Written by professors or attendings who are practicing medicne in any country, they are basically a testament to your quality as a physician, in communication, cultural values, professionally
+			- It is basically someone vouching for you
 		- MSPE
 		- Medical Transcripts
 	- This will be presented to the programs that you have applied for.
