@@ -40,6 +40,8 @@ USMLE (United States Medical Licensing Exam) is something that everybody needs t
 			- Pharma
 			- Pathology
 3. USMLE Step 2 CK Exam (Clinical Knowledge) (4-5 months of prep)
+	- This is to test your clinical knowledge & your application of the knowledge
+	- 
 4. Clinical Rotations (3-6 month)
 5. USMLE Step 2 CS Exam → Replaced by OET (Occupational English Test) (1-2 weeks of prep)
 6. USMLE Step 3 Exam (Not a requirement for matching, people usually give it after they get into residency)
