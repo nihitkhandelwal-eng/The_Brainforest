@@ -1,6 +1,6 @@
 ---
 aliases: [Bhai, Nalin Khandelwal, bhai, brother, Nannu, nannu]
-tags:
+tags: type/👤people/😍family 
 ---
 
 - [ ] Add the other two poem by Nannu
