@@ -1,5 +1,1 @@
-
-
-![[USMLE Flowchart]]
-
 ![[test & delete]]
