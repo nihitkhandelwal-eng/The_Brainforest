@@ -3,10 +3,8 @@
 - What were the most meaningful and impactful elements from the past Year?
 
 ---
-
 ### This Year Reflections & Insights
 - Biggest wins for the year? ;  In what moments did it feel like I was working within my zone of genius?
- ^f9ece9
 - Biggest challenge(s) I overcame? How did I rise to that/those challenges? How did I change in the process?
 - What made me most happy this year?
 - What bummed me out the most? Could I have done more to avoid it? Does it still bother me? Should I just let it go and move on?
