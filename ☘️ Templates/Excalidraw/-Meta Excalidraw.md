@@ -5,7 +5,7 @@ switch(choice) {
 	case "Blank Slate":
 		output = await tp.file.include("[[☘️ Templates/Excalidraw/☘️ Templates/Excalidraw/Blank Slate]]")
 		break;
-	case "Embed a Drawing Here"
+	case "Embed a Drawing Here:"
 		output = await tp.file.include("[[Insert Drawing Into the Current Note]]")
 	default:
 		new Notice("No Matching Template")
