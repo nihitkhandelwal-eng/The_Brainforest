@@ -1,0 +1,27 @@
+---
+excalidraw-plugin: parsed
+tags: excalidraw
+---
+# Text Elements
+%%
+# Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
+
+ZMzYBXUtiRoIACyhQ4zZAHoFWPETKUAdNjYBbGnQT4EOhByjNuAbQC6/CLjhwAyl
+
+FxRxqUGEhRJxjxDEuKQA1vreDIQIFABCuNghAOakwhzEAMJs+Gyk3BAAxABmxSXh
+
+kNgipKZQAJLuOi4pIQiZ2bkSAEb48WH85ZXVdcZxCcmpGVk5eVDkHMxwwdVlEBWk
+
+VWZDOgBihPj4LjBGeZLxkiJIfSsDG/WNbM0A6iS+3ACMl6vrtbcz9wgHRwkgjUy0
+
++g3qACVhIlJBwEMwLGh3uB+mtwcYAPILbCEWBvAAM+I+12+xi2nCgW1wOl2MDexL
+
+RNzJFKchAAXh4eESUVdGaSdAAVLBQACCRESXAkRkKUFBJM2d2aThOpDgcIReWYKr
+
+gcr5CtcpFFazYFD8uGI3A4Qj2DK+mwAomkRcbTQhzXlgikqLb0ToADKEOHBRX/bX
+
+qxHoFJCNLLZIkVkc7j48AAXzshV28O4wBTIBTQA=
+```
+%%
