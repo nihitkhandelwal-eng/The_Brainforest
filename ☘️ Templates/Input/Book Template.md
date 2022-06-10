@@ -8,8 +8,6 @@ date_finished:
 ---
 
 ## Summary
-
-
 ## Key Take-aways & Highlights
 ### Books & Sources Cited
 ### Quotes
