@@ -1,6 +1,6 @@
 ---
 aliases: [How to take smart notes]
-tags: 
+tags: type/📚book
 cssclass:
 author: Sohnke Ahrens
 date_started: 07-Jan-22
