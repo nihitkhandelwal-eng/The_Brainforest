@@ -1,6 +1,6 @@
 ---
 aliases: [Ann, Anne, Annemarie]
-tags:
+tags: type/👤people
 cssclass:
 DOB: 18-July
 Anniversary:
