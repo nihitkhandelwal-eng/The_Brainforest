@@ -1,6 +1,6 @@
 ---
 aliases: [Better Call Saul]
-tags:
+tags: type/movi
 cssclass:
 ---
 ---
