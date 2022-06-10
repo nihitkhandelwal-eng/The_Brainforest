@@ -1,4 +1,4 @@
-#type/MOC 
+#type/⌘MOC 
 - #journal/highlight
 - #journal/happy
 	- #journal/funny

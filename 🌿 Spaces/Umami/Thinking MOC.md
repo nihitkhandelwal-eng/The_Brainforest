@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: type/MOC 
+tags: type/⌘MOC 
 cssclass:
 ---
 [[🏡 Home|Home Note]]
