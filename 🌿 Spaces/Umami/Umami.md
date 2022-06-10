@@ -15,7 +15,7 @@ Information is everywhere.
 > It is in a book / it is in a nook / it's absolutely everywhere we look. 
 
 Information is all around us. 
- ![[Knowledge#^b3288e]]
+![[Knowledge#^b3288e]]
 
 With enough knowledge, experience, and "connecting-the-dots" that comes from living; we form patterns of insights, heuristics, and helpful models of the world. The better we get, the more complex patterns we are able to chunk into bite size bits that we can act upon. 
 
