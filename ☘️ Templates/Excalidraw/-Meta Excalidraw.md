@@ -7,6 +7,7 @@ switch(choice) {
 		break;
 	case "Embed a Drawing Here":
 		output = await tp.file.include("[[Insert Drawing Into the Current Note]]")
+		break;
 	default:
 		new Notice("No Matching Template")
 }
