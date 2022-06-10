@@ -11,10 +11,6 @@ tags:
 - Recommended By : Hannes Frank from RemNote
 ---
 
-### Introduction
-> [[One cannot think without writing.]] 
-> \- [[Niklas Luhmann]]
-> #type/quote 
 
 
 
