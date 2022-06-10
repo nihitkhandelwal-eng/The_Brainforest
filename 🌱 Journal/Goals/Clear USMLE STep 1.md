@@ -1,5 +1,5 @@
 ---
-tags: type/goal/mission_critical 
+tags: type/🎯goal/mission_critical 
 aliases:
 cssclass: 
 ---
