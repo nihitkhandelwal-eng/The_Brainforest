@@ -11,35 +11,31 @@ group by file.tags as "Status"
 ```dataview
 table 
 target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
-from #type/goal/mission_critical  
+from #type/🎯goal/mission_critical  
 ```
 
----
 
 ###### Medium Priority
 ```dataview
 table 
 target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
-from #type/goal/medium_priority   
+from #type/🎯goal/medium_priority   
 ```
 
----
 
 ###### Low Priority
 ```dataview
 table 
 target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
-from #type/goal/low_priority   
+from #type/🎯goal/low_priority   
 ```
-
----
 
 
 ###### Upnext
 ```dataview
 table 
 target_date as "Target Date", accountabilty_buddy as "Accountable To", trackers as "Trackers", date_started as "Started On"
-from #type/goal/up_next   
+from #type/🎯goal/up_next   
 ```
 
 ---
