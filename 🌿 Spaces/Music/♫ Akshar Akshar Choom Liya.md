@@ -1,6 +1,6 @@
 ---
 aliases: [Akshar Akshar Choom Liya]
-tags: status/📰to-translate, type/🎶poem 
+tags: status/📰to-translate, type/🎵music/🎶poem 
 cssclass:
 Lyricist: Deval Ashish
 Singer: Deval Ashish

@@ -1,6 +1,6 @@
 ---
 aliases: [Ek Baar Jeevan Mein Pyaar Karlo Priye]
-tags: status/📰to-translate, type/🎶poem  
+tags: status/📰to-translate, type/🎵music/🎶poem  
 cssclass:
 Lyricist: 
 Singer:
