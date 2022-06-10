@@ -1,6 +1,6 @@
 ---
 aliases: [Kiven Mukhde Ton Nazran Hatawan]
-tags: status/📰to-translate 
+tags: status/📰to-translate, type/🎧qawwali 
 cssclass:
 Lyricist: 
 Singer:
