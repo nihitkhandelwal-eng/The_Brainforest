@@ -1,5 +1,5 @@
 ---
-tags: type/web_clipping
+tags: type/🕸web_clipping
 aliases: 
 ---
 ---

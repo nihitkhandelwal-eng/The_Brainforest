@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: type/web_clipping
+tags: type/🕸web_clipping
 url: https://www.reddit.com/r/ObsidianMD/comments/u7kxdp/a_use_case_for_medical_school/
 date: 05-Jun-22
 author:

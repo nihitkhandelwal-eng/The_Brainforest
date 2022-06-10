@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: type/web_clipping
+tags: type/🕸web_clipping
 url: https://elizabethbutlermd.com/best-books-personal-knowledge-management-system/
 ---
 ---

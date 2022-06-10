@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: type/web_clipping
+tags: type/🕸web_clipping
 url: https://theprint.in/features/iqbal-bano-whose-voice-made-faizs-poem-hum-dekhenge-a-protest-anthem-for-all-time/405168/
 ---
 ---

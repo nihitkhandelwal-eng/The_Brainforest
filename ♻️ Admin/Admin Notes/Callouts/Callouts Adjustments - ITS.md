@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: type/web_clipping
+tags: type/🕸web_clipping
 url: https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md
 ---
 ---

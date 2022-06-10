@@ -1,5 +1,5 @@
 ---
-tags: type/web_clipping 
+tags: type/🕸web_clipping 
 aliases:
 cssclass: 
 url: https://feeei.substack.com/p/the-essence-of-the-zettelkasten-method?s=r
