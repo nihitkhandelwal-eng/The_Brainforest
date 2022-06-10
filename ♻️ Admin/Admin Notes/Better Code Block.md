@@ -1,5 +1,5 @@
 ---
-tags: type/admin 
+tags: type/🚸admin 
 aliases:
 cssclass: 
 date: 09-May-22
