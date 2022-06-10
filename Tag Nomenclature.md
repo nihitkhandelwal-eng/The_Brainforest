@@ -2,7 +2,7 @@ Opinion is something that I have little knowledge about & I am actively looking 
 
 
 #status/❓question 
-#type/quote
+#type/🗯quote
 #status/🌲evergreen
 #status/🍃boat
 #status/🧹tidy

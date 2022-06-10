@@ -14,6 +14,6 @@ Profession:
 
 > Dissociation is an adaptive behaviour to a maladaptive situation  
 > \- Annemarie
-> #type/quote 
+> #type/🗯quote 
 
 - Not a maladaptive behaviour

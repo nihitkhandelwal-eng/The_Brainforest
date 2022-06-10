@@ -5,15 +5,15 @@ tags: placeholder/review
 ---
 > Meditation is deceptively simple, but extraordinarily profound  
 > \- [[Sam Harris]]
-> #type/quote 
+> #type/🗯quote 
 
 > It's almost impossible to exaggerate how deep, interesting & transformative, this simple practice of paying close attention to your experience can become. 
 > \- [[Sam Harris]]
-> #type/quote 
+> #type/🗯quote 
 
 > The purpose of meditation isn’t merely to de-stress, or to sleep better, or to learn to be a little less neurotic. The purpose is to radically transform your sense of who and what you are. 
 > \- Sam Harris
-> #type/quote 
+> #type/🗯quote 
 
 
 ---
