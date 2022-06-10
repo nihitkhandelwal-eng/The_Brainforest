@@ -1,6 +1,6 @@
 ---
 aliases: [Better Call Saul]
-tags: type/🎥show
+tags: type/🎬movie-show/🎥show
 cssclass:
 ---
 ## Season 1
