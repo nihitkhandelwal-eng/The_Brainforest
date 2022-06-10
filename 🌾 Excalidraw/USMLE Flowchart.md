@@ -1,6 +1,6 @@
 ---
 excalidraw-plugin: parsed
-tags: [excalidraw]
+tags: excalidraw, excalidraw/✏
 ---
 # Text Elements
 Coming soon... ^9DGzOrdx
