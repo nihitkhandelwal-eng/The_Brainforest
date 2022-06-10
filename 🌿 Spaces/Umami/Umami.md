@@ -20,11 +20,7 @@ Information is all around us.
 With enough knowledge, experience, and "connecting-the-dots" that comes from living; we form patterns of insights, heuristics, and helpful models of the world. The better we get, the more complex patterns we are able to chunk into bite size bits that we can act upon. 
 
 Pattern recognition alone doesn’t make us wise, but it gets us closer to wisdom. It opens the door to acting with more of that cumulative **umami** we might call wisdom.
-
 All from making sense, over time of countless bits of information.
 
----
-
-See also:
 
 
