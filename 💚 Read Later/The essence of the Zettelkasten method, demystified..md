@@ -120,7 +120,7 @@ Here’s an example of an idea branching out in every direction, each answer cre
                     
                     -   EAST: Can Ontario ramp up its lumber production/stewardship to create jobs and provide local material for wood constructed buildings?
                         
-        -   EAST: Nomads and #vanlife live on the road. How do nomads and van life function? Can one be on the move and still be afforded stability?
+        -   EAST: Nomads and `#vanlife` live on the road. How do nomads and van life function? Can one be on the move and still be afforded stability?
             
         -   EAST: What kind of cultural values are hindering us from providing housing for all?
             
