@@ -2,13 +2,9 @@
 tags: type/admin 
 aliases:
 cssclass: 
----
-
-###### Metadata
-date:: 09-May-22
-author:: stargrey
-url:: https://github.com/stargrey/obsidian-better-codeblock
-
+date: 09-May-22
+author: stargrey
+url: https://github.com/stargrey/obsidian-better-codeblock
 ---
 
 ### Syntax

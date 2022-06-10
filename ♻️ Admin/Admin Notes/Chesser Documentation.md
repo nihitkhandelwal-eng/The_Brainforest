@@ -3,7 +3,7 @@ tags: type/web_clipping, type/admin
 aliases:
 cssclass: 
 date: 09-May-22
-author: liamcain
+author: liam cain
 url: https://github.com/SilentVoid13/Chesser
 ---
 
