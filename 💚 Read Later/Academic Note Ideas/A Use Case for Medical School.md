@@ -13,7 +13,7 @@ First, this is what my setup looks like:
 
 [![r/ObsidianMD - A Use Case for Medical School](https://preview.redd.it/hnxbk0wezku81.png?width=1915&format=png&auto=webp&s=4c96ba20e2d263ab280b0ecd69e20d88cccaf49a)](https://preview.redd.it/hnxbk0wezku81.png?width=1915&format=png&auto=webp&s=4c96ba20e2d263ab280b0ecd69e20d88cccaf49a)
 
-It's simple enough, I have a local graph and search bar on the right side. Note that nodes have different colors based on their tags. I usually tag something as #dz (for disease), or #tx (for treatments/drugs), or something like that.
+It's simple enough, I have a local graph and search bar on the right side. Note that nodes have different colors based on their tags. I usually tag something as `#dz` (for disease), or `#tx` (for treatments/drugs), or something like that.
 
 Here's an example of one of my notes; this is my page on Gout.
 
