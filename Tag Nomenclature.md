@@ -9,7 +9,7 @@ Opinion is something that I have little knowledge about & I am actively looking 
 #status/🔓opinion
 #status/📌put-a-pin-on-that
 #status/🃏ankify
-#status/📰to-translate
+#type/🎵music/📰to-translate
 #type/🎵music/📄translated
 
 

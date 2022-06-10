@@ -1,6 +1,6 @@
 ---
 aliases: [Bas Mujh Par Ye Ehsan Tumhara Ho Jaye]
-tags: status/📰to-translate, type/🎵music/🎶poem 
+tags: type/🎵music/📰to-translate, type/🎵music/🎶poem 
 cssclass:
 Lyricist: 
 Singer:
