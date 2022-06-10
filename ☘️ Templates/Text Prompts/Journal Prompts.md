@@ -1,10 +1,9 @@
-# Daily Prompts
-## Morning pages
+### Morning pages
 1. How was sleep?
 1. How do I feel?
 1. Empty your mind , write down anything that is in the head, Is anything bugging me?
 
-## Morning Mindset
+### Morning Mindset
 1. One thing I can get excited about today is...
 2. If one word / phrase could describe the kind of person I want to be today, then that is...
 3. A situation that might stress me out or trip me up today could be... & the way that my best self would deal with that is...
