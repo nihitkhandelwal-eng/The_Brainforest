@@ -89,18 +89,19 @@ cssclass:
 59. Smarter Markdown Hotkeys
 60. Snippetor
 61. Supercharged Links
-62. Text Toolbar
-63. Timeline
-64. Timelines
-65. Todoist Link
-66. Todoist Text
-67. Todoist Plugin
-68. Topic Linking
-69. Vale
-70. Vantage → Advanced Search Builder
-71. Various Complements
-72. Waypoint ↑ (recommended by Ashley & Ben)
-73. Wordsprint
+62. Task Progress Bar
+63. Text Toolbar
+64. Timeline
+65. Timelines
+66. Todoist Link
+67. Todoist Text
+68. Todoist Plugin
+69. Topic Linking
+70. Vale
+71. Vantage → Advanced Search Builder
+72. Various Complements
+73. Waypoint ↑ (recommended by Ashley & Ben)
+74. Wordsprint
 
 ---
 
