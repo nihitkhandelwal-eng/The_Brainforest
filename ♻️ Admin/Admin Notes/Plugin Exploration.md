@@ -59,50 +59,51 @@ cssclass:
 28. Obsidian JTab
 29. Obsidian Leaflet
 30. Obsidian Link Converter
-31. Obsidian Memos
-32. Obsidian Markbase (Publish)
-33. Obsidian Markmind
-34. Obsidian Sequence Hotkeys
-35. Obsidian State Switcher
-36. Obsidian to Anki
-37. Obsidian Tweaks
-38. Obsidian Share to Notion
-39. Obsidian42 Text Transporter
-40. Obsius Publish
-41. Omnisearch
-42. Ozan's Image in Editor Plugin
-43. Paste Image Rename
-44. PDF Highlights
-45. Persistent Graph
-46. Quiet Outline 
-47. Reading Time
-48. Read It Later
-49. Release Timeline
-50. Review
-51. Rewarder
-52. Search on Internet
-53. Sekund
-54. Shortcut Launcher
-55. Sidekick
-56. Smart Random Note
-57. Random Note
-58. Smart Typography
-59. Smarter Markdown Hotkeys
-60. Snippetor
-61. Supercharged Links
-62. Task Progress Bar
-63. Text Toolbar
-64. Timeline
-65. Timelines
-66. Todoist Link
-67. Todoist Text
-68. Todoist Plugin
-69. Topic Linking
-70. Vale
-71. Vantage → Advanced Search Builder
-72. Various Complements
-73. Waypoint ↑ (recommended by Ashley & Ben)
-74. Wordsprint
+31. Obsidian List Callouts
+32. Obsidian Memos
+33. Obsidian Markbase (Publish)
+34. Obsidian Markmind
+35. Obsidian Sequence Hotkeys
+36. Obsidian State Switcher
+37. Obsidian to Anki
+38. Obsidian Tweaks
+39. Obsidian Share to Notion
+40. Obsidian42 Text Transporter
+41. Obsius Publish
+42. Omnisearch
+43. Ozan's Image in Editor Plugin
+44. Paste Image Rename
+45. PDF Highlights
+46. Persistent Graph
+47. Quiet Outline 
+48. Reading Time
+49. Read It Later
+50. Release Timeline
+51. Review
+52. Rewarder
+53. Search on Internet
+54. Sekund
+55. Shortcut Launcher
+56. Sidekick
+57. Smart Random Note
+58. Random Note
+59. Smart Typography
+60. Smarter Markdown Hotkeys
+61. Snippetor
+62. Supercharged Links
+63. Task Progress Bar
+64. Text Toolbar
+65. Timeline
+66. Timelines
+67. Todoist Link
+68. Todoist Text
+69. Todoist Plugin
+70. Topic Linking
+71. Vale
+72. Vantage → Advanced Search Builder
+73. Various Complements
+74. Waypoint ↑ (recommended by Ashley & Ben)
+75. Wordsprint
 
 ---
 
