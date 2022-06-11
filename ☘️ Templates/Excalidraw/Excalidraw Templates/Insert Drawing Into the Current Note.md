@@ -9,7 +9,7 @@
   ea.setTheme(1); //set Theme to dark
   await ea.create({
     filename : title,
-    foldername : folder,
+    foldername : "🌿 Spaces/Excalidraw",
     templatePath: '☘️ Templates/Excalidraw/Blank Slate Sketch.md', 
     onNewPane : true
   });
