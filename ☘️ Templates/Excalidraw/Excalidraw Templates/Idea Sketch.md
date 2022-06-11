@@ -4,7 +4,7 @@
   await ea.create({
   filename : Idea → tp.date.now("DD-MMM HH'mm"),
   foldername :"🌿 Spaces/Excalidraw",
-  templatePath:"☘️ Templates/Excalidraw/Input Drawings/Blank Slate Template.md",
+  templatePath:"☘️ Templates/Excalidraw/Idea Sketch.md",
   onNewPane : true
   });
   %>
