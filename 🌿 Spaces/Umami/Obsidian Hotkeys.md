@@ -133,8 +133,7 @@ cssclass:
 - Excalidraw. Insert link to file → Alt + Shift + K 
 - Excalidraw. Toggle between excalidraw & markdown mode → Alt + Shift + M 
 - Excalidraw. Open an existing drawing - In a new pane → Alt + Shift + O 
-- Excalidraw: Insert image from the vault → Alt + Shift + I  
-- Excalidraw: Search for text in drawing → Alt + S 
+- Excalidraw: Insert image from the vault → Alt + Shift + I
 - Excalidraw: Toggle property-panel tray-mode → Alt + Shift + T 
 - Excalidraw: Transclude (embed) a drawing → Ctrl+Alt+Shift+D  
 - Excalidraw: (Script) Downloaded/Add Next Step in Process → Alt + Shift + →  
