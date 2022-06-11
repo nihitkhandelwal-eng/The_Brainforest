@@ -5,6 +5,9 @@ switch(choice) {
 	case "Blank Slate":
 		output = await tp.file.include("[[Blank Slate Sketch]]")
 		break;
+	case "Idea Sketch":
+		output = await tp.file.include("[[Idea Sketch]]")
+		break;
 	case "Embed a Drawing Here":
 		output = await tp.file.include("[[Insert Drawing Into the Current Note]]")
 		break;
