@@ -10,7 +10,7 @@
   await ea.create({
     filename : title,
     foldername : folder,
-    templatePath: '☘️ Templates/Excalidraw/Excalidraw Templates/Blank Slate.md', 
+    templatePath: '☘️ Templates/Excalidraw/Blank Slate Sketch.md', 
     onNewPane : true
   });
 %>
