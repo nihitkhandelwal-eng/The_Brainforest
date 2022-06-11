@@ -109,11 +109,11 @@ cssclass:
 - Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
 ### Shortcut Launcher
-- Get This Done → Ctrl + G
-- I Need Help →
-- Pull From Github →
-- Push To Github →
-- Shoot GIF →
+- Get This Done → Alt + G
+- I Need Help → Alt + H
+- Pull From Github → Ctrl + ↓
+- Push To Github → Ctrl + ↑
+- Shoot GIF → Ctrl + Alt + G
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
