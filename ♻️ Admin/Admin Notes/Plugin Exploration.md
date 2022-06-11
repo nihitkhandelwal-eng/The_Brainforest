@@ -20,13 +20,14 @@ cssclass:
 9. Map View
 10. Math Plugins (In general)
 11. Mind Map
-12. Obsidian Big Calendar
-13. Obsidian Camera
-14. Obsidian Charts
-15. Obsidian Raindrop
-16. Style Settings
-17. Task Plugins
-18. Tracker
+12. Novel Word Count
+13. Obsidian Big Calendar
+14. Obsidian Camera
+15. Obsidian Charts
+16. Obsidian Raindrop
+17. Style Settings
+18. Task Plugins
+19. Tracker
 
 ### Plugins To Explore
 1. Activity History
