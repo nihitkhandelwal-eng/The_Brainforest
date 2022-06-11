@@ -2,37 +2,6 @@
 excalidraw-plugin: parsed
 tags: excalidraw
 ---
-# Metadata
-Medicine
-Cardiovascular
-• Aortic Dissection
-15 #
-#D7 X 19
-1 unfilled slot
-• Etiology and Pathophysiology
-• most common location? Ascending Aorta (Stanford A) > Descending Aorta distal to subclavian vessels
-(Stanford B)
-Risk Factors
-acquired
-• HTN
-• Cocaine Use
-• Trauma (deceleration injury)
-congenital
-• Connective tissue disease (marfans, ehlers danlos)
-• Bicuspid aortic valve
-• Coarctation of the aorta
-best first test(s)? X-ray and ECG
-●
-gold standard? CT Angiogram
-• next best if contraindications? MRA
-• in an unstable patient? TEE
-#RR Chart Review
-Suspected aortic dissection
-Clinical Presentation
-Diagnosis
-• algorithm
-Diagnostic approach for suspected aortic dissection
-X
 
 # Text Elements
 %%
