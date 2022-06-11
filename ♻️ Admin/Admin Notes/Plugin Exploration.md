@@ -23,9 +23,10 @@ cssclass:
 12. Obsidian Big Calendar
 13. Obsidian Camera
 14. Obsidian Charts
-15. Style Settings
-16. Task Plugins
-17. Tracker
+15. Obsidian Raindrop
+16. Style Settings
+17. Task Plugins
+18. Tracker
 
 ### Plugins To Explore
 1. Activity History
