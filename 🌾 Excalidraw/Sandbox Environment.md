@@ -2,6 +2,24 @@
 excalidraw-plugin: parsed
 tags: excalidraw
 ---
+# Metadata
+Nihit Khandelwal 1 year ago (edited)
+I know you have been hearing this from everyone for a long time & I don't want to reduce my appreciation for you to just
+the indian idol. But I just can't help it
+Binge watching anything Youtube has to offer on Amit Sana.
+Watching & listening to you is the most vivid memories of my childhood i can recollect, I was 5 years old during season 1 &
+I cried for hours after the finale and even today i get emotional on listening to "chal diye"
+The way you smiled during singing or whenever talking to the judges or anyone else, like I said, It is one of the most
+beautiful memories of my childhood and i will cherish that forever.
+So Thank you for that!!!
+Show less
+12
+REPLY
+Hide reply
+Amit Sana
+23 hours ago
+Thank you for this beautiful msg my friend. My apologies for reading it after an year. I am and will be forever
+greatful for this love and kidness that I got from you. Love and Best wishes
 # Text Elements
 [[Mama's Parenting Session]] ^7ea292vD
 
@@ -114,98 +132,18 @@ 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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
-
-74L4gGLRgBuwCwgA
+gng6CQACwgA=
 ```
 %%
