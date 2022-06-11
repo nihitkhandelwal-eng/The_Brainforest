@@ -3,9 +3,10 @@ excalidraw-plugin: parsed
 tags: excalidraw, excalidraw/🖊sketch 
 ---
 # Text Elements
-💡 ^oEEgrDEw
-
- ^QmWX1QdD
+<%*
+const title = await tp.system.prompt("New Idea Sketch?"); 
+await tp.file.rename(`${title}`); 
+%>
 
 #status/💡idea ^rUihcDQU
 
