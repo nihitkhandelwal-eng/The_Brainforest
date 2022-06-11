@@ -8,6 +8,8 @@ const title = await tp.system.prompt("New Idea Sketch?");
 await tp.file.rename(`${title}`); 
 %>
 
+<% await tp.file.move("/🌾 Excalidraw/" + tp.file.title) %>
+
 #status/💡idea ^rUihcDQU
 
 %%
