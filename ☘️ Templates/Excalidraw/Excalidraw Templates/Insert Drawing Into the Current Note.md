@@ -1,7 +1,7 @@
 <%*
   const defaultTitle = tp.date.now("HH'mm")+' '+tp.file.title;
   const title = await tp.system.prompt("Title of the drawing?", defaultTitle);
-  const folder = "🌿 Spaces/Excalidraw";
+  const folder = "🌾 Excalidraw";
   const transcludePath = (folder== '/' ? '' : folder + '/') + title;
   tR = '![['+transcludePath+']]';
   const ea = ExcalidrawAutomate;
