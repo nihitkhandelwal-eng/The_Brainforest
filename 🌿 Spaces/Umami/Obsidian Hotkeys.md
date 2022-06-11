@@ -108,6 +108,12 @@ cssclass:
 - Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
 - Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
+### Shortcut Launcher
+- Get This Done → Ctrl + G
+- I Need Help →
+- Pull From Github →
+- Push To Github →
+- Shoot GIF →
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
