@@ -25,9 +25,10 @@ cssclass:
 14. Obsidian Camera
 15. Obsidian Charts
 16. Obsidian Raindrop
-17. Style Settings
-18. Task Plugins
-19. Tracker
+17. Pixr
+18. Style Settings
+19. Task Plugins
+20. Tracker
 
 ### Plugins To Explore
 1. Activity History
