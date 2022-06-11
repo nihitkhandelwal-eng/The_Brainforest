@@ -1,5 +1,5 @@
 <%*
-const choice = await tp.system.suggester(["Medical Note", "Simple Note", "Empty Note", "Book", "MOC", "Movie / Show", "Music", "People"], ["Medical Note", "Simple Note", "Empty Note", "Book", "MOC", "Movie / Show", "Music", "People"]);
+const choice = await tp.system.suggester(["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People"], ["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People"]);
 let output = ""
 switch(choice) {
     case "Medical Note":
@@ -10,6 +10,9 @@ switch(choice) {
 		break;
     case "Empty Note":
 	   output = await tp.file.include("[[Empty Note]]")
+	   break;
+   case "Excalidraw Sketch":
+	   output = await tp.file.include("[[-Meta Excalidraw]]")
 	   break;
     case "Book":
 		output = await tp.file.include("[[Book Template]]")
