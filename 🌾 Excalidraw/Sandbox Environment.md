@@ -2,8 +2,43 @@
 excalidraw-plugin: parsed
 tags: excalidraw
 ---
+# Metadata
+Medicine
+Cardiovascular
+• Aortic Dissection
+15 #
+#D7 X 19
+1 unfilled slot
+• Etiology and Pathophysiology
+• most common location? Ascending Aorta (Stanford A) > Descending Aorta distal to subclavian vessels
+(Stanford B)
+Risk Factors
+acquired
+• HTN
+• Cocaine Use
+• Trauma (deceleration injury)
+congenital
+• Connective tissue disease (marfans, ehlers danlos)
+• Bicuspid aortic valve
+• Coarctation of the aorta
+best first test(s)? X-ray and ECG
+●
+gold standard? CT Angiogram
+• next best if contraindications? MRA
+• in an unstable patient? TEE
+#RR Chart Review
+Suspected aortic dissection
+Clinical Presentation
+Diagnosis
+• algorithm
+Diagnostic approach for suspected aortic dissection
+X
 
 # Text Elements
+
+# Embedded files
+d8bc22b3b2e9fd01d860e17fba936fac3df6fe09: [[💚 Read Later/Academic Note Ideas/0asj1kmk6lj71.png]]
+
 %%
 # Drawing
 ```compressed-json
@@ -65,46 +100,32 @@ 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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
+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
 
-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
-
-Sdk4l5AbQiI6oEFjHGNrw5wBvtxPiQU9uQDDiAA=
+DiAA
 ```
 %%
