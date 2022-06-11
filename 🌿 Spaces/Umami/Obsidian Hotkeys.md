@@ -101,6 +101,14 @@ cssclass:
 - Text Format: Capitalize All Words In Selected Text → Alt + A 
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A
 
+### Shortcut Launcher
+- Get This Done → Alt + G
+- I Need Help → Alt + H
+- Pull From Github → Ctrl + ↓
+- Push To Github → Ctrl + ↑
+- Shoot GIF → Ctrl + Alt + G
+
+
 #status/🃏ankify ↓
 - Media Extended: Get Current Timestamp of Recording → Alt + Shift +R
 - Media Extended: Get timestamp from player → Ctrl + T
@@ -108,12 +116,6 @@ cssclass:
 - Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
 - Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
-### Shortcut Launcher
-- Get This Done → Alt + G
-- I Need Help → Alt + H
-- Pull From Github → Ctrl + ↓
-- Push To Github → Ctrl + ↑
-- Shoot GIF → Ctrl + Alt + G
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
