@@ -1,9 +1,9 @@
 <%*
-const choice = await tp.system.suggester(["Blank Slate", "Embed a Drawing Here"], ["Blank Slate", "Embed a Drawing Here"]);
+const choice = await tp.system.suggester(["Blank Slate", "Idea Sketch", "Embed a Drawing Here"], ["Blank Slate", "Idea Sketch", "Embed a Drawing Here"]);
 let output = ""
 switch(choice) {
 	case "Blank Slate":
-		output = await tp.file.include("[[☘️ Templates/Excalidraw/☘️ Templates/Excalidraw/☘️ Templates/Excalidraw/Blank Slate Template]]")
+		output = await tp.file.include("[[Blank Slate Sketch]]")
 		break;
 	case "Embed a Drawing Here":
 		output = await tp.file.include("[[Insert Drawing Into the Current Note]]")
