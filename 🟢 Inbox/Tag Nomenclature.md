@@ -48,7 +48,12 @@ cssclass:
 
 #type 
 - These are relatively straightforward & won't change much
-- 
+- #type/⌘MOC will be added for MOC's
+- #type/🎬entertainment → #type/🎬entertainment/🎥show  | #type/🎬entertainment/📽movie
+	- These will be added to any movie/show reference
+- #type/🎯goal is for goal management
+	- I have categorized them into #type/🎯goal/low_priority | #type/🎯goal/medium_priority  | #type/🎯goal/mission_critical  | #type/🎯goal/up_next 
+	- 
 
  
 #type/🗯quote
