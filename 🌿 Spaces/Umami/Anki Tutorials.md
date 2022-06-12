@@ -1,10 +1,10 @@
 ---
 aliases:
-tags: 
+tags: status/1️⃣stage-1 
 cssclass:
 ---
 
- 
+ - [ ] create an anki MOC #action/✔todo  
 ### How to use Anki
 - Do your cards **every single day**
 	- Make it priority one
