@@ -1,6 +1,6 @@
 ---
-cards:deck::
-tags: 
+cards-deck: My Hotkeys::iPad
+tags: Hotkeys::
 ---
 
 
