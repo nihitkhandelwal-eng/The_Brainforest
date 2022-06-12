@@ -39,10 +39,17 @@ cssclass:
 - My Abbreviations → @@
 	- General → ;general
 	- Personal → ;personal
-		- 
+		- Emails → ;mymails 
 	- Date/Time Variable → ;date 
 	- Symbols → ;symbols 
+		- Arrows → ;arrow 
+		- Math → ;math 
+		- Greek → ;greek 
+		- Currency → ;currency 
 	- Obsidian → ;obsidian 
+		- Graph → ;graph 
+		- Obsidian Prefixes → ;prefix 
+		- YAML → ;yaml
 	- Flow Launcher → ;flow
 	- Marvin → ;marvin 
 	- Shell Commands → ;shell 
