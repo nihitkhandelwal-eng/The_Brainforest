@@ -1,4 +1,11 @@
-
+---
+aliases: [Isn't it all what I asked for]
+tags: type/🎵music/🎶poem 
+cssclass:
+Lyricist: 
+Singer:
+Composer:
+---
 
 >Is it me or my aching stomach
 That's burning?
