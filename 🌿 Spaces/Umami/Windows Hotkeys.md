@@ -36,8 +36,9 @@ cssclass:
 
 
 ### Atext
-- All Abbreviations → @@
-- 
+- My Abbreviations → @@
+- Not My Abbreviations → ::@@
+- Not My Abbreviations > Emoji → ::emoji
 
 ### Flow Launcher
 - Browser Bookmarks → bookmarks
