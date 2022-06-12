@@ -39,9 +39,11 @@ cssclass:
 
 
 ### Notes App
-- Quick Note → Globe + Q
+- Quick Note → Globe+Q
 #status/🃏ankify ↓
 - Search All Notes → Option+Command+F
+- New Note → Cmd+N
+- Close Quick Note Modal → Globe+Q
 ---
 
 Related:

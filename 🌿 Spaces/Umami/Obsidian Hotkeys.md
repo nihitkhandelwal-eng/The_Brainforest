@@ -100,6 +100,8 @@ cssclass:
 - Show context menu under cursor → Ctrl+\ 
 - Text Format: Capitalize All Words In Selected Text → Alt + A 
 - Text Format: UPPERCASE all words in selected text → Alt + Shift + A
+- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
+- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
 ### Shortcut Launcher
 - Get This Done → Alt + G
@@ -109,10 +111,6 @@ cssclass:
 - Shoot GIF → Ctrl + Alt + G
 
 
-#status/🃏ankify ↓
-
-- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
-- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 ### Media Extended
 - Media Extended: Get Current Timestamp of Recording → Alt + Shift +R
 - Media Extended: Get timestamp from player → Ctrl + T
@@ -132,7 +130,6 @@ cssclass:
 	- Starred Mode → *
 
 
-#status/🃏ankify ↑
 
 ### Excalidraw 
 - Excalidraw. Convert empty note to Excalidraw Drawing → Alt + Shift + X 
