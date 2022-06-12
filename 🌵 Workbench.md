@@ -1,6 +1,6 @@
 ---
 cards-deck: My Deck::Anki
-tags: 
+tags: Hotkeys::Anki
 ---
 
 
