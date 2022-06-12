@@ -4,15 +4,20 @@ tags:
 cssclass: 
 ---
 
+- [ ] Write it in more detail as the [[LYT Workshop 8]] progresses on
+
+
 #action 
 - Actionable things I can do on a note
 - #action/✔todo is straightforward but this will evolve once I explore [[Plugin Exploration#^b3d766|Task Based Plugins]] 
-- 
+- #action/🃏ankify is for anything which needs to be added to anki
+- I am yet to think about #action/❓question | #action/📌put-a-pin-on-that  | #action/🧹tidy 
 
 
 #excalidraw | #excalidraw/🖊sketch 
 - Every excalidraw file is tagged with `#excalidraw`   
 - Every idea that I have expressed in excalidraw is tagged with `#excalidraw/🖊sketch`
+
 
  #journal | #journal/highlight
  - The tag `#journal` in itself is not something I have used yet, might use it later at some point
@@ -28,6 +33,7 @@ cssclass:
 #placeholder
 - I have a lot of placeholder tags, this will be sorted out once the [[LYT Workshop 8]] is done
 
+
 #status
 - This needs to be written well
 - I will be making changes as the workshop progresses on
@@ -40,16 +46,12 @@ cssclass:
 
 
 
+#type 
+- These are relatively straightforward & won't change much
+- 
 
-
-#action/❓question 
+ 
 #type/🗯quote
-#action/🧹tidy
-
-
-
-#action/📌put-a-pin-on-that
-#action/🃏ankify
 #type/🎵music/📰to-translate
 #type/🎵music/📄translated
 
