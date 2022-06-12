@@ -56,6 +56,8 @@ cssclass:
 		- Underscore Commands → ;underscore
 	- Shell Commands → ;shell 
 	- Anki → ;anki 
+		- Need to Understand → ;NTU 
+		- Add to Notes → ;ATN
 - Not My Abbreviations → ::@@
 	- Not My Abbreviations > Emoji → ::emoji
 
