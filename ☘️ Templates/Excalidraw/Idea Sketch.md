@@ -1,6 +1,6 @@
 ---
 excalidraw-plugin: parsed
-tags: excalidraw, excalidraw/🖊sketch 
+tags: excalidraw/🖊sketch 
 ---
 
 <%*
