@@ -1,8 +1,8 @@
 ---
-aliases: null
-tags: [ status/🍃boat ]
+aliases: 
+tags: status/1️⃣stage-0 
 ---
-# Skill Tree Design for Games
+
 -   Based on the desired goal, we can have specific skills with specific requirements on how to earn them & this could show the player a clear path to achieve their goal
 -   In the skill tree at the bottom are the highest powers possible & that is desirable to any player
 -   Each skill can be names according to a goal & a skill tree can be named to a broader goal
