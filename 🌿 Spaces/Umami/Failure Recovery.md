@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: placeholder/review 
+tags: status/stage-1 
 ---
 # Failure Recovery
 -   Failure is inevitable & we cannot ignore it but there should be something to hang on after failure.

@@ -1,6 +1,6 @@
 ---
 aliases: [undistracted attention]
-tags: placeholder/review 
+tags: status/stage-1 
 ---
 ---
 - It is not so much a technique of meditation but a quality of the mind itself.

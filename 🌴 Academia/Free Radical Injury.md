@@ -2,4 +2,4 @@ What is reperfusion therapy & what to do in case of an artery blockade, unblocki
 
 
 
-- [ ] Create a template for doubts #status/action/✔todo 
+- [ ] Create a template for doubts #action/✔todo 
