@@ -1,6 +1,6 @@
 ---
 aliases: [Muskura Kar Mujhe Yun Na]
-tags: type/🎵music/📰to-translate, type/🎵music/🎶poem  
+tags: action/📰to-translate, type/🎵music/🎶poem  
 cssclass:
 Lyricist: 
 Singer:

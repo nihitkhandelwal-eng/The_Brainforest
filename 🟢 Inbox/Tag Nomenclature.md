@@ -11,6 +11,7 @@ cssclass:
 - Actionable things I can do on a note
 - #action/✔todo is straightforward but this will evolve once I explore [[Plugin Exploration#^b3d766|Task Based Plugins]] 
 - #action/🃏ankify is for anything which needs to be added to anki
+- #action/📰to-translate is primarily for music pieces whose translation I need to add.
 - I am yet to think about #action/❓question | #action/📌put-a-pin-on-that  | #action/🧹tidy 
 
 
@@ -49,15 +50,19 @@ cssclass:
 #type 
 - These are relatively straightforward & won't change much
 - #type/⌘MOC will be added for MOC's
-- #type/🎬entertainment → #type/🎬entertainment/🎥show  | #type/🎬entertainment/📽movie
+- #type/🎬entertainment is a generic tag for everything entertainment, it is further divided into → #type/🎬entertainment/🎥show  | #type/🎬entertainment/📽movie
 	- These will be added to any movie/show reference
 - #type/🎯goal is for goal management
 	- I have categorized them into #type/🎯goal/low_priority | #type/🎯goal/medium_priority  | #type/🎯goal/mission_critical  | #type/🎯goal/up_next 
-	- 
+- #type/🎵music is a generic tag for everything music, it is further divided into → #type/🎵music/🎶poem | #type/🎵music/🎧qawwali 
+	- #type/🎵music/📄translated is more of a tracker tag for pieces of music that have been translated 
+- #type/👤people is everything people & right now it only has #type/👤people/😍family & #type/👤people/😎friends 
+- #type/📚book is everything book related
+- #type/🕸web_clipping is automatically applied to anything saved from the web from the clipper or [[Windows Hotkeys#^61b5f5|markdownload extension]] 
 
  
 #type/🗯quote
-#type/🎵music/📰to-translate
+#action/📰to-translate
 #type/🎵music/📄translated
 
 

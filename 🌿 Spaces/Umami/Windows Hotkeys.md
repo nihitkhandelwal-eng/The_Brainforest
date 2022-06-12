@@ -115,7 +115,7 @@ cssclass:
 	- Generate & copy a new random password to the clipboard → Ctrl+Shift+9
 - Dark Reader → Ctrl+Shift+L
 - Activate Fleeting Notes → Ctrl+Shift+E
-- Markdownload
+- Markdownload ^61b5f5
 	- Activate the extension → Alt+Shift+M
 	- Copy current tab as markdown to the clipboard → Alt+Shift+C
 - Activate Obsidian Clipper → Alt+Shift+O
