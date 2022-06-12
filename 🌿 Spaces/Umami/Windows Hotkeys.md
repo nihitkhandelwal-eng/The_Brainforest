@@ -92,11 +92,6 @@ cssclass:
 	- 
 - Windows Settings → control_panel
 
----
-Related:
-
-
-
 
 ### Chrome Extensions
 - Bitwarden
