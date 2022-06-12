@@ -5,24 +5,24 @@ tags: Hotkeys::Anki
 
 
 ### My Categorization
-- Flag for adding to notes → Ctrl+7
+- Flag for adding to notes → Ctrl+7 ^1655004042624
 
 ### Better Search
-- Tag & deck popover → xx or all:
-- Date range dialog for added → dadded
-- Date range dialog for edited → dedited
-- Date range dialog for introduced → dintroduced
-- Date range dialog for rated → drated
-- Modifier for insert current text only → Ctrl
-- Modifier for Negate → Alt
-- Modifier for overriding autosearch default, i.e. to insert OR in between queries → Shift
+- Tag & deck popover → xx or all: ^1655004042637
+- Date range dialog for added → dadded ^1655004042650
+- Date range dialog for edited → dedited ^1655004042663
+- Date range dialog for introduced → dintroduced ^1655004042677
+- Date range dialog for rated → drated ^1655004042689
+- Modifier for insert current text only → Ctrl ^1655004042700
+- Modifier for Negate → Alt ^1655004042714
+- Modifier for overriding autosearch default, i.e. to insert OR in between queries → Shift ^1655004042729
 
 
 ### Extended Tag Add/Edit Dialog
-- Show filter dialog to add single tag → Ctrl+Alt+e
+- Show filter dialog to add single tag → Ctrl+Alt+e ^1655004042743
 	- for both editor & in "tag lines dialog"
-- Open tag lines dialog → Ctrl+Alt+t
+- Open tag lines dialog → Ctrl+Alt+t ^1655004042757
 	- for both editor & from reviewer
-- Insert Additional Line in "tag lines dialog" → Ctrl+Alt+l
-- Search browser from tag in "tag lines dialog" → Ctrl+Alt+s
+- Insert Additional Line in "tag lines dialog" → Ctrl+Alt+l ^1655004042770
+- Search browser from tag in "tag lines dialog" → Ctrl+Alt+s ^1655004042784
 
