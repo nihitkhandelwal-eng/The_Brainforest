@@ -1,10 +1,10 @@
-Vihaan
+---
+tags:
+aliases:
+cssclass: 
+---
 
-It takes a village to raise a child.
-At GDGPS, we believe in traditions. 
-Leadership and learning are core to our life.
 Each child is unique. Education for lifetime.
-
 First 6 year max brain development happens.
 Reflect and Act!
 Resource person.
