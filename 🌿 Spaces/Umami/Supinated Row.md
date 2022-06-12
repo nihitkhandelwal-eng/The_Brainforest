@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: placeholder/on/workout 
+tags: placeholder/on/workout, status/1️⃣stage-0  
 ---
 
 #### Theory 
@@ -8,6 +8,6 @@ tags: placeholder/on/workout
 - Primary Muscle Involved → Latissimus 
 - In supinated grip, pull towards umbilicus
 
-See also:
+
 
 
