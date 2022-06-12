@@ -34,8 +34,6 @@ cssclass:
 
 #action/❓question 
 #type/🗯quote
-#status/🌲evergreen
-#status/🍃boat
 #action/🧹tidy
 
 #status/🔓opinion
