@@ -29,15 +29,15 @@ cssclass:
 	- `#status/1️⃣stage-1` will be added to all
 	- If the note is mature, I will replace it with `#status/1️⃣stage-2` 
 	- For now, this will be it
-- I have other tags like `#status/🌲evergreen` | `#status/🍃boat` | `#status/💭think` | `#status/🔓opinion`     
+- I have other tags like #status/🌲evergreen | #status/🍃boat | #status/💭think | #status/🔓opinion     
+	- Opinion is something that I have little knowledge about & I am actively looking for knowledge in that topic
 
 
 #action/❓question 
 #type/🗯quote
 #action/🧹tidy
 
-#status/🔓opinion
-- Opinion is something that I have little knowledge about & I am actively looking for knowledge in that topic
+
 
 #action/📌put-a-pin-on-that
 #action/🃏ankify
