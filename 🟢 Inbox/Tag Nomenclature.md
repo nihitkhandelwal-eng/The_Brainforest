@@ -39,7 +39,7 @@ cssclass:
 - This needs to be written well
 - I will be making changes as the workshop progresses on
 - Right now, I have created the tags #status/1️⃣stage-0 , #status/1️⃣stage-1 & #status/1️⃣stage-2 
-	- `#status/1️⃣stage-0` 
+	- `#status/1️⃣stage-0` will be for inbox items 
 	- `#status/1️⃣stage-1` will be added to all
 	- If the note is mature, I will replace it with `#status/1️⃣stage-2` 
 	- For now, this will be it
