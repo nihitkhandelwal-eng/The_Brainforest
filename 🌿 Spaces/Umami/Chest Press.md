@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: placeholder/on/workout 
+tags: placeholder/on/workout, status/1️⃣stage-0  
 ---
 ---
 
@@ -17,13 +17,6 @@ tags: placeholder/on/workout
 
 
 ![[TRX Chest Press.jpg|]]
-
----
-
-See also:
-
-
-
 
 
 ### Neutral Grip

@@ -1,8 +1,9 @@
 
 ---
 aliases:
-tags: 
+tags: status/1️⃣stage-0 
 ---
+
 > Hobby is an activity that one pursues for fun and pleasure, whereas interest is a broader area.
 
 > One may not play football but watch and read a lot about the sport as his interest lies in it

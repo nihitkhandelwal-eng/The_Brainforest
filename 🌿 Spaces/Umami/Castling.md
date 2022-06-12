@@ -1,5 +1,5 @@
 ---
-tags: placeholder/on/chess  
+tags: placeholder/on/chess, status/1️⃣stage-1   
 aliases:
 cssclass:
 ---
