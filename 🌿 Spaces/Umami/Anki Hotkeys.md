@@ -33,6 +33,8 @@ Toggle side panel → Shift+A
 - Tag with Edit_Later & Suspend Card → Shift+E
 - Tag with Need_to_Understand Suspend Card → Shift+U
 
+### My Categorization
+
 
 #status/🃏ankify ↓
 ### Better Search
