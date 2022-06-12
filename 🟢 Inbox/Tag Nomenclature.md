@@ -25,6 +25,8 @@ cssclass:
 #status
 - This needs to be written well
 - I will be making changes as the workshop progresses on
+- Right now, I have created the tags #status/1️⃣stage-1 & #status/1️⃣stage-2 
+	- `#status/1️⃣stage-1` will be added to all
 
 
 #action/❓question 
