@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-cssclass: dfdf
+cssclass: 
 ---
 
 ![[Ashley's Query for Weekly Notes.png|700]]
