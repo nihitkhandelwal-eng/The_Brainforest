@@ -8,8 +8,9 @@ cssclass:
 - Every excalidraw file is tagged with `#excalidraw`   
 - Every idea that I have expressed in excalidraw is tagged with `#excalidraw/🖊sketch`
 
- 
-- #journal/highlight
+ #journal | #journal/highlight
+ - The tag `#journal` in itself is not something I have used yet, might use it later at some point
+ - 
 - #journal/happy
 	- #journal/funny
 	- #journal/proud
