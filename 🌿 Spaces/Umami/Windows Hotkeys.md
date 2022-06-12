@@ -53,7 +53,7 @@ cssclass:
 	- Flow Launcher → ;flow
 		- Web Searches → ;web
 	- Marvin → ;marvin 
-		- Underscore Commands → _underscore
+		- Underscore Commands → ;underscore
 	- Shell Commands → ;shell 
 	- Anki → ;anki 
 - Not My Abbreviations → ::@@
