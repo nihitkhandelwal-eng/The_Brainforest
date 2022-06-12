@@ -4,7 +4,7 @@ tags:
 cssclass: 
 ---
 
-- [ ] Write it in more detail as the [[LYT Workshop 8]] progresses on
+- [ ] Write it in more detail as the [[LYT Workshop 8]] progresses on #action/✔todo 
 
 
 #action 
