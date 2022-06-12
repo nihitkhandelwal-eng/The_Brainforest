@@ -1,5 +1,5 @@
 ---
-tags: type/🎵music/🎶poem,
+tags: type/🎵music/🎶poem 
 aliases: null
 ---
 
