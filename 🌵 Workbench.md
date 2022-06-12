@@ -1,8 +1,7 @@
 ---
 cards-deck: My Deck::Obsidian
-tags: Hotkeys::Obsidian::Media_Extended
+tags: Hotkeys::Obsidian
 ---
-### Media Extended
-- Media Extended: Get Current Timestamp of Recording → Alt + Shift +R ^1655006749374
-- Media Extended: Get timestamp from player → Ctrl + T ^1655006749382
-- Media Extended: Open Media from Link → Ctrl + Shift + M ^1655006749392
+
+- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S ^1655006805137
+- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D ^1655006805144
