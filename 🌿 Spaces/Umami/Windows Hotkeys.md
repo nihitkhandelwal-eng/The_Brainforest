@@ -37,8 +37,17 @@ cssclass:
 
 ### Atext
 - My Abbreviations → @@
+	- General → ;general
+	- Personal → ;personal
+	- Date/Time Variable → ;date 
+	- Symbols → ;symbols 
+	- Obsidian → ;obsidian 
+	- Flow Launcher → ;flow
+	- Marvin → ;marvin 
+	- Shell Commands → ;shell 
+	- Anki → ;anki 
 - Not My Abbreviations → ::@@
-- Not My Abbreviations > Emoji → ::emoji
+	- Not My Abbreviations > Emoji → ::emoji
 
 ### Flow Launcher
 - Browser Bookmarks → bookmarks
