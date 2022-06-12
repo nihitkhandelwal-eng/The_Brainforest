@@ -50,7 +50,7 @@ cssclass:
 
 #type 
 - These are relatively straightforward & won't change much
-- #type/⌘MOC will be added for MOC's
+- #type/⌘MOC  will be added for MOC's
 - #type/🎬entertainment is a generic tag for everything entertainment, it is further divided into → #type/🎬entertainment/🎥show  | #type/🎬entertainment/📽movie
 	- These will be added to any movie/show reference
 - #type/🎯goal is for goal management
