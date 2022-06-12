@@ -5,6 +5,8 @@ cssclass:
 ---
 
 #action 
+- Actionable things I can do on a note
+- #action/✔todo is straightforward but this will evolve once I explore [[Plugin Exploration#^b3d766|Task Based Plugins]] 
 
 
 #excalidraw | #excalidraw/🖊sketch 

@@ -27,7 +27,7 @@ cssclass:
 16. Obsidian Raindrop
 17. Pixr
 18. Style Settings
-19. Task Plugins
+19. Task Plugins ^b3d766
 20. Tracker
 
 ### Plugins To Explore
