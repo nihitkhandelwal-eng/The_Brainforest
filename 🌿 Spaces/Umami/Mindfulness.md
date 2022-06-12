@@ -1,6 +1,6 @@
 ---
 aliases: [undistracted attention]
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 ---
 - It is not so much a technique of meditation but a quality of the mind itself.

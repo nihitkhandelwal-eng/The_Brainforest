@@ -1,6 +1,6 @@
 ---
 aliases: [meditating]
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 ---
 > Meditation is deceptively simple, but extraordinarily profound  

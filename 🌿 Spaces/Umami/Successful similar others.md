@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 
 -   If a person feels that they can achieve their goal then, it is much more likely that he/she will stick with it

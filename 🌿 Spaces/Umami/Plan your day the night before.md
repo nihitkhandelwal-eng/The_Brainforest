@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 
 -   You'll be a lot more focused because you will already know what’s on the agenda.

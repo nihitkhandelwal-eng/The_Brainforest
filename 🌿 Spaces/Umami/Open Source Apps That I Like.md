@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 ---
 Some of these are open source, some are not, but all are interesting.
