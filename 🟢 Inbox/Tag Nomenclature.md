@@ -63,3 +63,4 @@ cssclass:
 - #type/🗯quote is for quotes. Let's see if I start liking them
 - #type/🚸admin is for anything obsidian, marvin & notion related, i.e. me managing my systems
 
+
