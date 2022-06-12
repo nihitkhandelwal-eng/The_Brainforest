@@ -1,25 +1,18 @@
 ---
 cards-deck: My Deck::Obsidian
-tags: Hotkeys::Obsdian
+tags: Hotkeys::Obsdian::Quick_Switcher
 ---
 
-- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
-- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
-### Media Extended
-- Media Extended: Get Current Timestamp of Recording → Alt + Shift +R
-- Media Extended: Get timestamp from player → Ctrl + T
-- Media Extended: Open Media from Link → Ctrl + Shift + M
-
 ### Quick Switcher
-- Quick Switcher++: Open → Ctrl+O 
-- Quick Switcher++: Open in Editor Mode → Alt+%
-- Quick Switcher++: Open in Related Items Mode → Alt+~
+- Quick Switcher++: Open → Ctrl+O  ^1655005378757
+- Quick Switcher++: Open in Editor Mode → Alt+% ^1655005378768
+- Quick Switcher++: Open in Related Items Mode → Alt+~ ^1655005378777
 
 #### Triggers
-- Heading Mode → #
-- Symbol Navigation → @
-- Command Mode → >
-- Related Mode → ~
-- Editor Mode → %
-- Workspace Mode → +
-- Starred Mode → *
+- Heading Mode → # ^1655005378787
+- Symbol Navigation → @ ^1655005378796
+- Command Mode → > ^1655005378805
+- Related Mode → ~ ^1655005378816
+- Editor Mode → % ^1655005378825
+- Workspace Mode → + ^1655005378834
+- Starred Mode → * ^1655005378844
