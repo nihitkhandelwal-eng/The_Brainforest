@@ -89,7 +89,6 @@ cssclass:
 	- Obsidian Forum → forum
 	- IMDB → imdb
 	- Pexels → pexel
-	- 
 - Windows Settings → control_panel
 
 
