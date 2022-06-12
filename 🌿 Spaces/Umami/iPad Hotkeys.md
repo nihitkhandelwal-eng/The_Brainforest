@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: on/hotkeys, on/iPad
+tags: placeholder/on/hotkeys, placeholder/on/iPad
 cssclass:
 ---
 

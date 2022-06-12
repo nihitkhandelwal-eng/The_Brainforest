@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: on/hotkeys, on/obsidian 
+tags: placeholder/on/hotkeys, placeholder/on/obsidian 
 cssclass:
 ---
 

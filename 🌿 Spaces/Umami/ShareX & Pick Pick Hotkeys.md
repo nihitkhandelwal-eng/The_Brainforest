@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: on/hotkeys 
+tags: placeholder/on/hotkeys 
 cssclass:
 ---
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: on/habits
+tags: placeholder/on/habits
 ---
 # Make Learning Part of Your Identity
 -   You can feel the difference between "I run twice a week" and "I’m a runner"

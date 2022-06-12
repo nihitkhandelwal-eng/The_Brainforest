@@ -32,7 +32,7 @@ We need to recognize there are many different and joyful ways to think. It's tim
 *I want to...*
 - Use my imagination | Train the mind | Practice mindfulness
 	- [[Mind Palaces]] — Mnemonic device
-	- [[Mind Training]] — Imagination Practices #on/mind/training
+	- [[Mind Training]] — Imagination Practices #placeholder/on/mind/training
 	- [[Mindfulness Practice]]
 - Think critically | Think analytically
 	- [[Thought Unpacking]]
