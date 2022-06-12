@@ -37,6 +37,7 @@ cssclass:
 
 ### Atext
 - All Abbreviations → @@
+- 
 
 ### Flow Launcher
 - Browser Bookmarks → bookmarks
