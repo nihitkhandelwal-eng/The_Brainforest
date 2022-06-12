@@ -22,7 +22,9 @@ cssclass:
 #placeholder
 - I have a lot of placeholder tags, this will be sorted out once the workshop is done
 
-#status 
+#status
+- This needs to be written well
+- I will be making changes as the workshop progresses on
 
 
 #action/❓question 
