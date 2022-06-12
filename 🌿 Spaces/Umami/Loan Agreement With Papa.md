@@ -1,6 +1,6 @@
 ---
 aliases: [The Great Loan Sanctioning]
-tags:
+tags: status/1️⃣stage-2 
 cssclass: 
 ---
 

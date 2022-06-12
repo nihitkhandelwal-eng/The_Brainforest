@@ -8,4 +8,3 @@ Once we have a relationship with any bit of information, consciously or subconsc
 
 Said another way: Information that crosses our attentional filter becomes knowledge.
 
----

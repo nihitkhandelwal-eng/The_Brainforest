@@ -1,5 +1,5 @@
 ---
-tags:
+tags: status/1️⃣stage-1 
 aliases:
 cssclass: 
 ---
