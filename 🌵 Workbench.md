@@ -1,6 +1,6 @@
 ---
 cards-deck: My Hotkeys::iPad
-tags: Hotkeys::
+tags: Hotkeys::iPad::Notes_App, Hotkeys
 ---
 
 
