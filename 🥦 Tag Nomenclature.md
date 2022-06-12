@@ -15,9 +15,9 @@ cssclass:
 - I am yet to think about #action/❓question | #action/📌put-a-pin-on-that  | #action/🧹tidy 
 
 
-#excalidraw | #excalidraw/🖊sketch 
+#excalidraw 
 - Every excalidraw file is tagged with `#excalidraw`   
-- Every idea that I have expressed in excalidraw is tagged with `#excalidraw/🖊sketch`
+- Every idea that I have expressed in excalidraw is tagged with #excalidraw/🖊sketch 
 
 
  #journal | #journal/highlight
