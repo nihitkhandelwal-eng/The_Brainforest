@@ -33,10 +33,13 @@ Toggle side panel → Shift+A
 - Tag with Edit_Later & Suspend Card → Shift+E
 - Tag with Need_to_Understand Suspend Card → Shift+U
 
-### My Categorization
-
 
 #status/🃏ankify ↓
+
+### My Categorization
+- Flag for adding to notes → Ctrl+7
+- 
+
 ### Better Search
 - Tag & deck popover → xx or all:
 - Date range dialog for added → dadded
