@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: status/🍃boat
+tags: status/🍃boat, status/1️⃣stage-1 
 ---
 
 ---

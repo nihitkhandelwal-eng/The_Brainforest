@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: 
+tags: status/1️⃣stage-1 
 ---
 ---
 > Interest is nothing but “value for values” and hobby is nothing but “diversion in difficulty”.

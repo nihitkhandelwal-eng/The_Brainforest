@@ -15,7 +15,6 @@ cssclass:
 - You may be interested a lot in football but still do not play it on the ground actively. This means you read a lot about football and also watch it on TV and stadiums as you are interested in the sport. 
 	- Similarly, you are not yourself a politician but you are interested in politics and watch political news and current affairs programs on TV avidly.
 
-See also:
 
 
 

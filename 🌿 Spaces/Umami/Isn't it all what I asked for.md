@@ -1,8 +1,4 @@
----
-tags: type/🎵music/🎶poem 
-aliases:
-cssclass: 
----
+
 
 >Is it me or my aching stomach
 That's burning?

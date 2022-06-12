@@ -2,7 +2,7 @@
 aliases: 
 tags: status/1️⃣stage-1 
 ---
-# How to Take Notes - 80-20 Method
+
 -   Q1. If I only had 10 minutes to study this topic, what is the best use of my time?
     -   Introduction to the topic & a rough outline of the topic
         -   Make the outline, establish hierarchy using headers

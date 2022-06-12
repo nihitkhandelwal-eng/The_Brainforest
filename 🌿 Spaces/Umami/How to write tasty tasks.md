@@ -1,8 +1,8 @@
 ---
 aliases: null
-tags: [ status/🍃boat ]
+tags: status/🍃boat, status/1️⃣stage-1 
 ---
-# How to Write Tasty Tasks
+
 -   Start with a verb
 -   Use specific words
 -   Keep it short (should be completed within 25 minutes to 50 minutes)
