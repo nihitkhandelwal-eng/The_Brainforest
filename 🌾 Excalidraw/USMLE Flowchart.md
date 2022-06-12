@@ -1,6 +1,6 @@
 ---
 excalidraw-plugin: parsed
-tags: excalidraw
+tags: excalidraw, excalidraw/🧻blank
 ---
 # Text Elements
 Coming Soon... ^vflsZJBT
