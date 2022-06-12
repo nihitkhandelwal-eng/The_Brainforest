@@ -24,11 +24,12 @@ cssclass:
 13. Obsidian Big Calendar
 14. Obsidian Camera
 15. Obsidian Charts
-16. Obsidian Raindrop
-17. Pixr
-18. Style Settings
-19. Task Plugins ^b3d766
-20. Tracker
+16. Obsidian Meta Bind
+17. Obsidian Raindrop
+18. Pixr
+19. Style Settings
+20. Task Plugins ^b3d766
+21. Tracker
 
 ### Plugins To Explore
 1. Activity History
