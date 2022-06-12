@@ -34,8 +34,6 @@ Toggle side panel → Shift+A
 - Tag with Need_to_Understand Suspend Card → Shift+U
 
 
-#status/🃏ankify ↓
-
 ### My Categorization
 - Flag for adding to notes → Ctrl+7
 
