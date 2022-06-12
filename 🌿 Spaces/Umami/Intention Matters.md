@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: status/stage-1 
+tags: status/1️⃣stage-1 
 ---
 # Intention Matters
 -   The words you choose to describe something might & will affect the way to approach it. To be intentional about doing something, you need to be specific about your intentionality.
