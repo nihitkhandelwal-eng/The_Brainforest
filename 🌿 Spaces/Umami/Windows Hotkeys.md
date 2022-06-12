@@ -51,7 +51,9 @@ cssclass:
 		- Obsidian Prefixes → ;prefix 
 		- YAML → ;yaml
 	- Flow Launcher → ;flow
+		- Web Searches → ;web
 	- Marvin → ;marvin 
+		- Underscore Commands → _underscore
 	- Shell Commands → ;shell 
 	- Anki → ;anki 
 - Not My Abbreviations → ::@@
