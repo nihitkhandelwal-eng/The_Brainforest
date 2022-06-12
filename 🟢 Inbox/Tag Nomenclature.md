@@ -19,10 +19,10 @@ cssclass:
 	- #journal/euphoric → #journal/musical
 
 
-#placeholder/on 
-- 
+#placeholder
+- I have a lot of placeholder tags, this will be sorted out once the workshop is done
 
-
+#status 
 
 
 #status/❓question 
