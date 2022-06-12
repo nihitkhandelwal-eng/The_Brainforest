@@ -1,5 +1,7 @@
 ---
-
+cards:deck::
+tags: 
+---
 
 
 - Search All Notes → Option+Command+F
