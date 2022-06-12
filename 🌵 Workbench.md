@@ -1,5 +1,5 @@
 ---
-cards-deck: My Deck
+cards-deck: My Deck::Anki
 ---
 
 ### My Categorization
