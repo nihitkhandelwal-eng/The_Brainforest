@@ -4,8 +4,6 @@ tags: Hotkeys::Anki
 ---
 
 
-### My Categorization
-- Flag for adding to notes → Ctrl+7 ^1655004042624
 
 ### Better Search
 - Tag & deck popover → xx or all: ^1655004042637
