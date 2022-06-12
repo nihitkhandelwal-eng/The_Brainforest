@@ -1,6 +1,6 @@
 ---
 aliases:
-tags: placeholder/on/stretching, placeholder/on/workout 
+tags: placeholder/on/stretching, placeholder/on/workout, status/1️⃣stage-1  
 ---
 
 ---
