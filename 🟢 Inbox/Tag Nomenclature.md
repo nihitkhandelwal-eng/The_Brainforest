@@ -10,9 +10,9 @@ cssclass:
 
  #journal | #journal/highlight
  - The tag `#journal` in itself is not something I have used yet, might use it later at some point
- - 
-- #journal/happy
-	- #journal/funny
+ - `#journal/highlight` is used when I want to highlight any daily note on the calendar with a star
+ - Journal tags based on primary feel of the day
+ - #journal/happy → #journal/funny
 	- #journal/proud
 	- #journal/confident
 	- #journal/optimistic
