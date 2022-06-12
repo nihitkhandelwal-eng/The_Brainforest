@@ -39,6 +39,7 @@ cssclass:
 - My Abbreviations → @@
 	- General → ;general
 	- Personal → ;personal
+		- 
 	- Date/Time Variable → ;date 
 	- Symbols → ;symbols 
 	- Obsidian → ;obsidian 
