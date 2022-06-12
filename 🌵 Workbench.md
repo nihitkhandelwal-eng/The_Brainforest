@@ -1,18 +1,8 @@
 ---
 cards-deck: My Deck::Obsidian
-tags: Hotkeys::Obsidian::Quick_Switcher
+tags: Hotkeys::Obsidian::Media_Extended
 ---
-
-### Quick Switcher
-- Quick Switcher++: Open → Ctrl+O  ^1655005378757
-- Quick Switcher++: Open in Editor Mode → Alt+% ^1655005378768
-- Quick Switcher++: Open in Related Items Mode → Alt+~ ^1655005378777
-
-#### Triggers
-- Heading Mode → # ^1655005378787
-- Symbol Navigation → @ ^1655005378796
-- Command Mode → > ^1655005378805
-- Related Mode → ~ ^1655005378816
-- Editor Mode → % ^1655005378825
-- Workspace Mode → + ^1655005378834
-- Starred Mode → * ^1655005378844
+### Media Extended
+- Media Extended: Get Current Timestamp of Recording → Alt + Shift +R ^1655006749374
+- Media Extended: Get timestamp from player → Ctrl + T ^1655006749382
+- Media Extended: Open Media from Link → Ctrl + Shift + M ^1655006749392
