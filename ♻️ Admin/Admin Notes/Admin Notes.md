@@ -1,3 +1,3 @@
 #type/🚸admin
 
-- [ ] Create an admin notes MOC here #status/✔todo 
+- [ ] Create an admin notes MOC here #status/action/✔todo 

@@ -13,10 +13,10 @@ Opinion is something that I have little knowledge about & I am actively looking 
 #type/🗯quote
 #status/🌲evergreen
 #status/🍃boat
-#status/🧹tidy
+#status/action/🧹tidy
 #status/🔓opinion
-#status/📌put-a-pin-on-that
-#status/🃏ankify
+#status/action/📌put-a-pin-on-that
+#status/action/🃏ankify
 #type/🎵music/📰to-translate
 #type/🎵music/📄translated
 
