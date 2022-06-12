@@ -1,5 +1,5 @@
 ---
-cards-deck: My Hotkeys::iPad
-tags: Hotkeys::iPad::Notes_App, Hotkeys
+cards-deck: My Hotkeys::Windows
+tags: Hotkeys::Windows::OBS, Hotkeys
 ---
 
