@@ -59,14 +59,6 @@ cssclass:
 - #type/👤people is everything people & right now it only has #type/👤people/😍family & #type/👤people/😎friends 
 - #type/📚book is everything book related
 - #type/🕸web_clipping is automatically applied to anything saved from the web from the clipper or [[Windows Hotkeys#^61b5f5|markdownload extension]] 
-- #typ
+- #type/🗯quote is for quotes. Let's see if I start liking them
+- #type/🚸admin is for anything obsidian, marvin & notion related, i.e. me managing my systems
 
- 
-#type/🗯quote
-#action/📰to-translate
-#type/🎵music/📄translated
-
-
-#placeholder
-
----
