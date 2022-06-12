@@ -5,10 +5,6 @@ cssclass:
 ---
 ---
 
-```dataview
-List 
-from #MOC
-```
 
 
 
