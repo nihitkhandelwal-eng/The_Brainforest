@@ -1,9 +1,13 @@
 ---
-tags: type/🎵music/🎶poem  
-aliases: null
+aliases: [We would have laughed a lot together]
+tags: type/🎵music/🎶poem 
+cssclass:
+Lyricist: 
+Singer:
+Composer:
 ---
 
----
+
 You are that Wind Of May
 Warm, comfortable and I can breath you all day
 You are that beautiful moon of July
@@ -26,5 +30,9 @@ We would have laughed a lot together.
 \- [[Shivansh]]
 
 See also:
+
+
+
+
 
 
