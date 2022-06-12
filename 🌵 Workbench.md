@@ -1,5 +1,30 @@
 ---
 cards-deck: My Hotkeys::Windows
-tags: Hotkeys::Windows::Windows_Apps, Hotkeys
+tags: Hotkeys::Windows::aText, Hotkeys
 ---
 
+### Atext
+- My Abbreviations → @@
+	- General → ;general
+	- Personal → ;personal
+		- Emails → ;mymails 
+	- Date/Time Variable → ;date 
+	- Symbols → ;symbols 
+		- Arrows → ;arrow 
+		- Math → ;math 
+		- Greek → ;greek 
+		- Currency → ;currency 
+	- Obsidian → ;obsidian 
+		- Graph → ;graph 
+		- Obsidian Prefixes → ;prefix 
+		- YAML → ;yaml
+	- Flow Launcher → ;flow
+		- Web Searches → ;web
+	- Marvin → ;marvin 
+		- Underscore Commands → ;underscore
+	- Shell Commands → ;shell 
+	- Anki → ;anki 
+		- Need to Understand → ;NTU 
+		- Add to Notes → ;ATN
+- Not My Abbreviations → ::@@
+	- Not My Abbreviations > Emoji → ::emoji
