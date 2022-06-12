@@ -111,14 +111,12 @@ cssclass:
 
 #status/🃏ankify ↓
 
+- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
+- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 ### Media Extended
 - Media Extended: Get Current Timestamp of Recording → Alt + Shift +R
 - Media Extended: Get timestamp from player → Ctrl + T
 - Media Extended: Open Media from Link → Ctrl + Shift + M
-
-- Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
-- Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
-
 
 ### Quick Switcher
 - Quick Switcher++: Open → Ctrl+O 
