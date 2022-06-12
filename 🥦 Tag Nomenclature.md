@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Tag Nomenclature, Tag Taxonomy]
 tags: 
 cssclass: 
 ---
