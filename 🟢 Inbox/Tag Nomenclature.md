@@ -7,6 +7,7 @@ cssclass:
 #action 
 - Actionable things I can do on a note
 - #action/✔todo is straightforward but this will evolve once I explore [[Plugin Exploration#^b3d766|Task Based Plugins]] 
+- 
 
 
 #excalidraw | #excalidraw/🖊sketch 
@@ -25,7 +26,7 @@ cssclass:
 
 
 #placeholder
-- I have a lot of placeholder tags, this will be sorted out once the workshop is done
+- I have a lot of placeholder tags, this will be sorted out once the [[LYT Workshop 8]] is done
 
 #status
 - This needs to be written well
