@@ -36,11 +36,6 @@ cssclass:
 - Create a New Sticky Note → Alt+Shift+S
 
 
-### OBS
-- Start Recording → F12
-- Stop Recording → F10
-- Pause/Unpause Recording → F11
-
 ### Atext
 - All Abbreviations → @@
 
@@ -110,6 +105,9 @@ cssclass:
 - Activate Volume Master Extension → Alt+↑
 
 ### OBS
+- Start Recording → F12
+- Stop Recording → F10
+- Pause/Unpause Recording → F11
 - Switch to Only Display → Ctrl+Alt+Shift+1
 - Switch to Only Webcam → Ctrl+Alt+Shift+2
 - Switch to Only Lapcam → Ctrl+Alt+Shift+3
