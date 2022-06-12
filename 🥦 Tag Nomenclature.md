@@ -16,7 +16,8 @@ cssclass:
 
 
 #excalidraw 
-- Every excalidraw file is tagged with `#excalidraw`   
+- Every excalidraw file is tagged with `#excalidraw`
+- All blank excalidraw files i.e. potential drawings are tagged with #excalidraw/🧻blank 
 - Every idea that I have expressed in excalidraw is tagged with #excalidraw/🖊sketch 
 
 
