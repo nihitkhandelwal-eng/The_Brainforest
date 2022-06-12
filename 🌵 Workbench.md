@@ -1,6 +1,6 @@
 ---
 cards-deck: My Deck::Obsidian
-tags: Hotkeys::Obsdian::Quick_Switcher
+tags: Hotkeys::Obsidian::Quick_Switcher
 ---
 
 ### Quick Switcher
