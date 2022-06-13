@@ -110,4 +110,6 @@ cssclass:
 76. Wordsprint
 
 ---
-
+### Plugin Updates I Am Looking For
+1. Toggl Track
+2. Obsidian_to_Anki
