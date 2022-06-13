@@ -161,12 +161,6 @@ cssclass:
 - Obsidian Tweaks: Toggle bold → Ctrl+B 
 
 
-
-
----
-
-Related:
-
 ### Periodic Notes
 - Periodic Notes: Open previous monthly note → Alt+, 
 - Periodic Notes: Open previous quarterly note → Alt+; 
