@@ -174,8 +174,8 @@ cssclass:
 
 ### QuickAdd
 - QuickAdd: Toggl Manager → Alt + F12
-- QuickAdd: Quick Capture → Ctrl + Shift + D
 - QuickAdd: Connect-Consume-Cerebrate → Ctrl+Shift+C
+- QuickAdd: Quick Capture → Ctrl + Shift + D
 - QuickAdd: Workbench → Ctrl + Shift + X
 - QuickAdd: Journal → Ctrl + Shift + J
 - QuickAdd: Run QuickAdd → Ctrl + Q
