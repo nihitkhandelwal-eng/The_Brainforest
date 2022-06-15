@@ -50,15 +50,19 @@ Quick Note: Be kind to yourself...
 	- Part of Co-x3 these days. 
 	- Very much into the PKM space
 - What teachers/role models made an impact on you?
+	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students
+- What were your impactful experiences?
 	- I can mostly think of negative impactful experience.
 		- Relationships went wrong
-	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students
-	- 
-- 
 
 ### I grew & developed skills
-- I am a very good teacher, I think.
-- I am an honest person, will not betray, I  
+- What skills did you develop?
+	- I am a very good teacher, I think.
+	- I am an honest person, will not betray.
+	- I am a very genuine person
+	- I have a really good sense of humor
+	- I have a good sense of music
+	- I am really good at talking people into rational things.  
 - I have had 1 pivotal point in my life & I am really happy about it.
 - Really interested in technology
 
