@@ -17,12 +17,15 @@ Quick Note: Be kind to yourself...
 	- First memory would be dressing up as "a madrasi" in a fancy dress in school
 - What was your family dynamic?
 	- It was very pleasant, both my parents are & were very supportive. Nothing dramatic.
-- Where did you go to high school?
+- Where did you go to high school? How was your experience? Who were your friends?
 	- Sikar & partially in Jaipur
-- How was your experience? Who were your friends?
-	- df
+	- It was kind of a dramatic experience, I was never without a girlfriend during my grade 6th-10th
+	- Sharad & Atul were my good friends.
+	- In NMS, I had good friendship with Avi Jain
 - Are you still friends with any of them? Why or Why not?
-	- df
+	- Not in touch with Atul since class 10th
+	- I talk to sharad once or twice a year but nothing like friends, more like acquaintances
+	- Not in touch with Avi since I left NMS
 - How did you rebel?
 
 
