@@ -16,7 +16,7 @@ Quick Note: Be kind to yourself...
 - What was your first memory?
 	- First memory would be dressing up as "a madrasi" in a fancy dress in school
 - What was your family dynamic?
-	- Family dynamic → It was very pleasant, both my parents are & were very supportive. Nothing dramatic.
+	- It was very pleasant, both my parents are & were very supportive. Nothing dramatic.
 - Where did you go to high school?
 	- Sikar & partially in Jaipur
 - How was your experience? Who were your friends?
