@@ -85,9 +85,10 @@ Related:
 
 
 ## My Spark List
-### Things I like to do
-- Like to play video games, watch better call saul, love to have nice conversations in small groups, love playing with Aanya & Vihaan
-- Very much fascinated by Better Call Saul.
+- Things I like to do
+	- Like to play video games, watch better call saul, love to have nice conversations in small groups, love playing with Aanya & Vihaan
+- Films I am fascinated by
+	- Very much fascinated by Better Call Saul.
 - Topics I am interested in..
 	- Biology
 	- Technology
