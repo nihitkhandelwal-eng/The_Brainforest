@@ -64,8 +64,8 @@ Quick Note: Be kind to yourself...
 - What values did you pick up?  
 	- I am an honest person, will not betray.
 	- I am a very genuine person
-- How many pivots have you had?
-	- I have had 1 pivotal point in my life & I am really happy about it.
+- **How many pivots have you had?**
+	- **I have had 1 pivotal point in my life & I am really happy about it.**
 	- It's weird to say this now, but these days I am glad that it happened.
 - What interests did you have since a young age?
 	- Really interested in technology
@@ -74,8 +74,9 @@ Quick Note: Be kind to yourself...
 
 
 ### And Now...
-Living in gurgaon, with Mami, sitting on a wonderful chair which Mama brought because I am apparently a prince with high needs.
-Trying to regain my lean forward thinking mindset, which I am sure was a reality
+- Living in gurgaon, with Mami & the kids, sitting on a wonderful chair which Mama brought because I am apparently a prince with high needs.
+- It's very nice here
+- **Trying to regain my lean forward thinking mindset, which I am sure was a reality.**
 
 
 ---
