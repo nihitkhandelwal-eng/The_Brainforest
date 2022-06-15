@@ -110,9 +110,12 @@ Related:
 	- I am mostly asking is this rational
 - Thoughts that keep me up at night
 	- Studying, doing anything productive fills me up lately
-- I don't want to 
+- Experiences I've had that fill me up
+	- I don't want to write about them
 - Fun facts about me that I am proud of
+	- I will have to #status/💭think about that
 - Random words & things that resonate
+	- 
 - My 10 Book Titles
 	- Objectivity is the one tool you need
 	- Why do you need to be rational
