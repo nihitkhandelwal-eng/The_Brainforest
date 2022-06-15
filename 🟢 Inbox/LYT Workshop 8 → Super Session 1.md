@@ -58,11 +58,12 @@ Quick Note: Be kind to yourself...
 ### I grew & developed skills
 - What skills did you develop?
 	- I am a very good teacher, I think.
-	- I am an honest person, will not betray.
-	- I am a very genuine person
 	- I have a really good sense of humor
 	- I have a good sense of music
-	- I am really good at talking people into rational things.  
+	- I am really good at talking people into rational things.
+- What values did you pick up?  
+	- I am an honest person, will not betray.
+	- I am a very genuine person
 - I have had 1 pivotal point in my life & I am really happy about it.
 - Really interested in technology
 
