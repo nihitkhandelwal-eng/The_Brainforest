@@ -86,7 +86,7 @@ Hamilton Anxiety → 23 → Mild
 ###### Early Childhood (0-8) 
 - Moma went to mumbai at around 5 years of age & came back at around 7
 	- I don't specifically remember this time but my chachi tells me about my childhood & that's how I know that I used to someone who is very ziddi
-	- I used to be a very rigid & angry kid while I was growing up (specifically up to the age around 8), my mother was in Mumbai at that time completing her post graduate studies & I just recall everyone saying in the family to one another that once she comes, he will behave properly.[^2]
+	- I used to be a very rigid & angry kid while I was growing up (specifically up to the age around 8), my mother was in Mumbai at that time completing her post graduate studies & I just recall everyone saying in the family to one another that once she comes, he will behave properly.[^2] ^aa3ae0
 	- I used to be a very cry baby & would blame others (ziddi batate hai sab mera bachpan).
 	- Aisa attitude tha ki main kyun aage hoge baat karoon
 ###### Late Childhood (8 & above)

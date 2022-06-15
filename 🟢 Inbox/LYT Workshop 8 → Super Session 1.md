@@ -26,20 +26,34 @@ Quick Note: Be kind to yourself...
 	- Not in touch with Atul since class 10th
 	- I talk to sharad once or twice a year but nothing like friends, more like acquaintances
 	- Not in touch with Avi since I left NMS
+	- I haven't been proactive in maintaining my friendships, so I think it is mostly on me.
 - How did you rebel?
+	- I was a [[Session 1#^aa3ae0|very angry kid]] as I have described in my first therapy session 
+	- I also asked a lot of questions as an act of rebellion
 
 
 ### I went on a journey
-- Did you go to college? 
+- Where did you go to college? What did you choose to study? 
+	- I went to Jodhpur, it was not in my hand, I got a rank based on which I got the college.
+	- I chose to study medicine because I think I was very much biased by my surroundings & the success that my parents enjoyed, they worked very hard for it but to me then, it was not something that I thought of.
 - Where have you lived?
 	- Sikar, Jaipur, Jodhpur & Gurgaon
 - How did each place shaped you?
+	- Sikar made me kind of reserved & not wanting to go out at all
+	- Jaipur exposed me to the real world
+	- Jodhpur is something I am not sure about, I don't think I learnt anything of value there
+	- Gurgaon is shaping me to be more like actual me, because I don’t have to worry about anyone here. 
 
 
 ### I Met People & Did things?
-- Part of Co-x3 these days. Very much into the PKM space
-- I can mostly think of negative impactful experience.
-	- Relationships went wrong
+- What notable group or activities were you part of?
+	- Part of Co-x3 these days. 
+	- Very much into the PKM space
+- What teachers/role models made an impact on you?
+	- I can mostly think of negative impactful experience.
+		- Relationships went wrong
+	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students
+	- 
 - 
 
 ### I grew & developed skills
