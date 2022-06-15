@@ -4,7 +4,6 @@ tags:
 cssclass:
 ---
 
-
 ## My Unique Perspective
 Your evolution from birth to now
 Quick Note: Be kind to yourself...
