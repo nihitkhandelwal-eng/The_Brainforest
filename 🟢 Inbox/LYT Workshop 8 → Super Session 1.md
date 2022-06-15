@@ -10,11 +10,11 @@ Quick Note: Be kind to yourself...
 
 ### In the Beginning
 - Where were you born?
-	- I was born in Sikar
+	- I was born in Sikar at Dr Rajkumari Bhargav's Place
 - Where did you grow up?
-	- Grew up in sikar for the majority part of my life
+	- Sikar
 - What was your first memory?
-	- First memory would be dressing up as "Ram" in a fancy dress in school
+	- First memory would be dressing up as "a madrasi" in a fancy dress in school
 - What was your family dynamic?
 	- Family dynamic → It was very pleasant, both my parents are & were very supportive. Nothing dramatic.
 - Where did you go to high school?
