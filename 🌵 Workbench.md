@@ -1,9 +1,5 @@
 
-Doctor
-Singer
-Chef
-Dancer
-Super Awesome
+Doctor Singer Chef Dancer Super Awesome
 
 
 ```wordcloud
