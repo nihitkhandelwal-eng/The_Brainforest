@@ -5,7 +5,7 @@ cssclass:
 ---
 
 
-## Your Unique Journey
+## My Unique Perspective
 Your evolution from birth to now
 Quick Note: Be kind to yourself...
 
@@ -57,7 +57,7 @@ Related:
 
 
 
-## Spark List
+## My Spark List
 ### Things I like to do
 - Like to play video games, watch better call saul, love to have nice conversations in small groups, love playing with Aanya & Vihaan
 - Very much fascinated by Better Call Saul.
