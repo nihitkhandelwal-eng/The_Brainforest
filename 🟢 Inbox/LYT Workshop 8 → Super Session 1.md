@@ -64,8 +64,13 @@ Quick Note: Be kind to yourself...
 - What values did you pick up?  
 	- I am an honest person, will not betray.
 	- I am a very genuine person
-- I have had 1 pivotal point in my life & I am really happy about it.
-- Really interested in technology
+- How many pivots have you had?
+	- I have had 1 pivotal point in my life & I am really happy about it.
+	- It's weird to say this now, but these days I am glad that it happened.
+- What interests did you have since a young age?
+	- Really interested in technology
+	- Science
+	- Psychology
 
 
 ### And Now...
