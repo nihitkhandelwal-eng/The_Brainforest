@@ -106,9 +106,10 @@ Related:
 	- Home post breakup
 	- Gurgaon
 	- Nihit 3.0
-- I am mostly asking is this rational
+- Questions I am asking?
+	- I am mostly asking is this rational
 - Thoughts that keep me up at night
-- Studying, doing anything productive fills me up lately
+	- Studying, doing anything productive fills me up lately
 - I don't want to 
 - Fun facts about me that I am proud of
 - Random words & things that resonate
