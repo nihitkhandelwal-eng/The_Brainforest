@@ -89,6 +89,9 @@ Related:
 	- Like to play video games, watch better call saul, love to have nice conversations in small groups, love playing with Aanya & Vihaan
 - Films I am fascinated by
 	- Very much fascinated by Better Call Saul.
+	- Boss Baby
+	- Shawshank Redemption
+	- The Martian
 - Topics I am interested in..
 	- Biology
 	- Technology
