@@ -162,3 +162,4 @@ We are in the age of information abundance & this is something we should tread l
 ```
 
 ## Workshop Syllabus
+![[LYT Workshop Syllabus.png|1000]]
