@@ -135,3 +135,8 @@ cssclass:
 - Switch to Only Lapcam → Ctrl+Alt+Shift+3
 - Switch to Webcam Scenes → Ctrl+Numpad Keys
 - Switch to Lapcam Scenes → Ctrl+Alt+Numpad Keys
+
+
+### OneNote
+- New Page at the very bottom → Ctrl+N
+- N 
