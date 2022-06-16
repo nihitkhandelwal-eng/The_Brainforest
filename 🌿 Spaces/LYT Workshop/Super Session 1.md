@@ -79,10 +79,6 @@ cssclass:
 - **Trying to regain my lean forward thinking mindset, which I am sure was a reality.**
 
 
----
-Related:
-
-
 
 ## My Spark List
 - Things I like to do
