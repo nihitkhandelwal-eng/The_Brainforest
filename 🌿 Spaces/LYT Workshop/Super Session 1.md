@@ -141,4 +141,8 @@ This didn't start with us, we are just continuing it.
 + 1544
 + Theater of Memory by Guilio Camillo
 + Francis Yates wrote a book called "The Art of Memory" in 1966 referencing theater of memory
+
++ 63 BCE
++ Cicero denounces Catiline (for over an hour)
++ In rome cicero gave a speech for more than an hour
 ```
