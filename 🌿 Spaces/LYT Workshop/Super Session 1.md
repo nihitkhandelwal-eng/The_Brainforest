@@ -130,7 +130,7 @@ This didn't start with us, we are just continuing it.
 
 ```timeline
 
-+ 100 years ago
++ 1890 
 + Sherlock Holmes' Mind Palace
 + Sir Arthur Conan Doyle comes up with a character who is an expert in managing knowledge. A way to swim better in the pool of information
 
@@ -145,4 +145,15 @@ This didn't start with us, we are just continuing it.
 + 63 BCE
 + Cicero denounces Catiline (for over an hour)
 + In rome cicero gave a speech for more than an hour
+
++ 1755 BCE
++ The Code of Hamurabi
++ Babylonian legal text
+
++ 2000 BCE
++ Chinese anatomical atlas of the human body
++ This is the first anatomical atlas of the human body that we know of...
+
++ 37k-20k BCE
++ Lascaux Cave Paintings in France
 ```
