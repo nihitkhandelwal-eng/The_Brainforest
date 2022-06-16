@@ -166,3 +166,12 @@ We are in the age of information abundance & this is something we should tread l
 + These paintings were not made by the same artist in the same sitting, some changes in them are over 5000 years apart
 ```
 
+
+## ENCODE
+- As babies, our sense of the world was without edges, there was no "you" or "I". 
+  Everything was everywhere, all at once.
+- Overtime, we noticed that there was "us" & "something around us"
+	- There was an Inhale & an Exhale.
+	- We had an Encounter & we made an Expression
+	- So, our world grew
+- 
