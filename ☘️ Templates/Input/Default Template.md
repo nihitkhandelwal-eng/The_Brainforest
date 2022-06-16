@@ -6,9 +6,6 @@ cssclass:
 
 <%tp.file.cursor(0)%>
 
----
-Related:
-
 <%*
   let title = tp.file.title
   if (title.startsWith("Untitled")) {
