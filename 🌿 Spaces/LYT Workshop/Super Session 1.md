@@ -130,7 +130,15 @@ This didn't start with us, we are just continuing it.
 
 ```timeline
 
-+ Date/Time (use <br> to get line break)
-+ Title
-+ Describe
++ 100 years ago
++ Sherlock Holmes' Mind Palace
++ Sir Arthur Conan Doyle comes up with a character who is an expert in managing knowledge. A way to swim better in the pool of information
+
++ 1846
++ The Temple of Time
++ Emma Willard made a cool map called the temple of time to track history in different domains
+
++ 1544
++ Theater of Memory by Guilio Camillo
++ Francis Yates wrote a book called "The Art of Memory" in 1966 referencing theater of memory
 ```
