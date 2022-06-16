@@ -129,16 +129,8 @@ cssclass:
 This didn't start with us, we are just continuing it.
 
 ```timeline
+
 + Date/Time (use <br> to get line break)
 + Title
 + Describe
 ```
-
-```timeline
-[line-5, body-4, active-color-interactive-accent-hover]
-
-+
-+
-+
-```
-
