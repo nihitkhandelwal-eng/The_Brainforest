@@ -110,8 +110,14 @@ cssclass:
 	- I don't want to write about them
 - Fun facts about me that I am proud of
 	- I will have to #status/💭think about that
-- Random words & things that resonate
-	- 
+- Random words & things that I resonate with
+	- Rationality
+	- Objectivity
+	- Thinking
+	- Knowledge
+	- Introversion
+	- Solitude
+	- Intelligence
 - My 10 Book Titles
 	- Objectivity is the one tool you need
 	- Why do you need to be rational
