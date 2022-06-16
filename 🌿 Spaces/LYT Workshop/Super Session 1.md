@@ -126,7 +126,7 @@ cssclass:
 
 
 ## History of Knowledge Management
-This didn't start with us, we are just continuing it.
+This didn't start with us, we are just continuing the story.
 
 ```timeline
 
@@ -156,4 +156,5 @@ This didn't start with us, we are just continuing it.
 
 + 37k-20k BCE
 + Lascaux Cave Paintings in France
++ These paintings were not made by the same artist in the same sitting, some changes in them are over 5000 years apart
 ```
