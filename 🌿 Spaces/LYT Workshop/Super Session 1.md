@@ -176,4 +176,5 @@ We are in the age of information abundance & this is something we should tread l
 	- So, our world grew
 	- ![[Screenshot 2022-06-17 at 04.01.20.png|700]]
 - So we encountered something, thought about it & then expressed ourselves.
-	- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition
+	- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition. 
+	- But good habits can go bad, if we are not acting intuitively, instinctivally but reactively, then this world of ours shrinks
