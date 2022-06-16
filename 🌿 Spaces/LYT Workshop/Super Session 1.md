@@ -123,3 +123,8 @@ cssclass:
 	- Why do you need to be rational
 	- How to be rational because it is rational to be so.
 	- How do kids think & how to talk to them
+
+
+## History of Knowledge Management
+This didn't start with us, we are just continuing it.
+
