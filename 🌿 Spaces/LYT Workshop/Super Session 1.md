@@ -126,6 +126,9 @@ cssclass:
 
 
 ## Overview of PKM
+
+^5d5986
+
 This didn't start with us, we are just continuing the story.
 We are in the age of information abundance & this is something we should tread lightly.
 
@@ -161,4 +164,3 @@ We are in the age of information abundance & this is something we should tread l
 + These paintings were not made by the same artist in the same sitting, some changes in them are over 5000 years apart
 ```
 
-See also → [[Workshop Syllabus]]

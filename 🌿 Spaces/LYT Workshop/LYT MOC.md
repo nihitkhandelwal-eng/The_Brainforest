@@ -14,5 +14,7 @@ cssclass:
 
 
 ### Notes
+[[Workshop Syllabus]]
+
 [[Super Session 1]]
 [[Sense Making Session 1]]
