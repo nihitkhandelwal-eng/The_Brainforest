@@ -175,4 +175,5 @@ We are in the age of information abundance & this is something we should tread l
 	- We had an Encounter & we made an Expression
 	- So, our world grew
 	- ![[Screenshot 2022-06-17 at 04.01.20.png|700]]
-- 
+- So we encountered something, thought about it & then expressed ourselves.
+	- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition
