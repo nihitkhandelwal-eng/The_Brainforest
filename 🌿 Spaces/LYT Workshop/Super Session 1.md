@@ -174,4 +174,5 @@ We are in the age of information abundance & this is something we should tread l
 	- There was an Inhale & an Exhale.
 	- We had an Encounter & we made an Expression
 	- So, our world grew
+	- ![[Screenshot 2022-06-17 at 04.01.20.png|700]]
 - 
