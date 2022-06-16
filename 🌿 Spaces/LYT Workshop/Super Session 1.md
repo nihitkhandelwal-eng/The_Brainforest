@@ -125,7 +125,7 @@ cssclass:
 	- How do kids think & how to talk to them
 
 
-## History of Knowledge Management
+## Overview of PKM
 This didn't start with us, we are just continuing the story.
 We are in the age of information abundance & this is something we should tread lightly.
 
