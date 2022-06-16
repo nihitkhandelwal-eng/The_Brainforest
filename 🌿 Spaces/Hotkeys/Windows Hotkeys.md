@@ -142,3 +142,4 @@ cssclass:
 - Add a new page under current page at same level of indentation → Ctrl + Alt + N
 - Add a new subpage under current page at same level of indentation → Ctrl + Alt + Shift + N
 - Apply, mark, or clear To Do tag → Ctrl + 1 
+- 
