@@ -4,6 +4,8 @@ tags: LYT_Workshop
 cssclass: 
 ---
 
+
+
 ![[Screenshot 2022-06-17 at 16.05.43.png|700]]
 
 - Things I like to do
@@ -45,9 +47,11 @@ cssclass:
 	- Solitude
 	- Intelligence
 - My 10 Book Titles
-	- Objectivity is the one tool you need
-	- Why do you need to be rational
-	- How to be rational because it is rational to be so.
-	- How do kids think & how to talk to them
+	1. 1. Use sparks to light a fire in your mind. 
+	2. Then start with the subtitles, ususually starting with "How".
+		- Objectivity is the one tool you need
+		- Why do you need to be rational
+		- How to be rational because it is rational to be so.
+		- How do kids think & how to talk to them
 
 
