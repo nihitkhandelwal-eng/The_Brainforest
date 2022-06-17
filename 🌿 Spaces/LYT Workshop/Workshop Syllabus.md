@@ -11,7 +11,7 @@ cssclass:
 ### Week 1
 - Events
 	- [[Super Session 1]]
-	- [[Signal vs Noise]]
+	- [[Signal vs Noise|Sensemaking Session 1]]
 	- Eleanor Konik's Session 1
 	- Sana Ahmed's Session 1
 	- Bianca Pereira's Session 1
