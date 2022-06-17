@@ -67,7 +67,8 @@ cssclass:
 	- I am a very good teacher, I think.
 	- I have a really good sense of humor
 	- I have a good sense of music
-	- I am really good at talking people into rational things.
+	- I am really good at talking people into rational things. ^207c9f
+	- I switched my life from a not so rational person to someone who is [[#^207c9f|good at talking people into rational things]]
 - What values did you pick up?  
 	- I am an honest person, will not betray.
 	- I am a very genuine person
