@@ -8,7 +8,7 @@ cssclass:
 
 ### Week 1
 - [[Super Session 1#^5d5986|Overview of PKM]]
-- Sensemaking Loop & ENCODE
+- [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[Super Session 1#My Unique Perspective|Your Unique Journey]]
 - [[Super Session 1#^b84eab|Your Spark List]]
 - Idea Emergence
