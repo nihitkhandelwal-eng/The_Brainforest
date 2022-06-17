@@ -37,7 +37,6 @@ cssclass:
 
 
 ### I went on a journey
-
 ^9ece07
 
 - Where did you go to college? What did you choose to study? 
