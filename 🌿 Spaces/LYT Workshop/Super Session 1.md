@@ -174,7 +174,7 @@ We are in the age of information abundance & this is something we should tread l
 	- There was an Inhale & an Exhale.
 	- We had an Encounter & we made an Expression
 	- So, our world grew
-	  
+	  ![[IMG_2503.png|700]]
 - So we encountered something, thought about it & then expressed ourselves.
 	- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition. 
 	  ![[IMG_2504.png|700]]
