@@ -33,6 +33,7 @@ cssclass:
 	- Studying, doing anything productive fills me up lately
 - Experiences I've had that fill me up
 	- I don't want to write about them
+	- Talking sense to someone
 - Fun facts about me that I am proud of
 	- I will have to #status/💭think about that
 - Random words & things that I resonate with
