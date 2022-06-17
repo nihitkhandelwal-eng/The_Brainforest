@@ -12,6 +12,7 @@ cssclass:
 - Events
 	- [[Super Session 1]]
 	- [[Signal vs Noise|Sensemaking Session 1]]
+		- [[I Want To Make Notes Because]]
 	- Eleanor Konik's Session 1
 	- Sana Ahmed's Session 1
 	- Bianca Pereira's Session 1
