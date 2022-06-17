@@ -36,6 +36,9 @@ cssclass: img-grid
 
 
 ### I went on a journey
+
+^9ece07
+
 - Where did you go to college? What did you choose to study? 
 	- I went to Jodhpur, it was not in my hand, I got a rank based on which I got the college.
 	- I chose to study medicine because I think I was very much biased by my surroundings & the success that my parents enjoyed, they worked very hard for it but to me then, it was not something that I thought of.
@@ -192,9 +195,9 @@ We are in the age of information abundance & this is something we should tread l
 - This is the cycle that is shaping our unique perspective & if we understand what's happening in the loop, we can troubleshoot & we can improve, otherwise we are shooting in the dark.
   ![[IMG_2509.jpeg|700]] This is driven by![[IMG_2510.jpeg|700]]
 - Now we will try to tear them apart, just so that we can troubleshoot them.
-  ![[IMG_2511.jpeg|700]]
+  ![[IMG_2511.jpeg|700]] [[#^58302d|In The Beginning]]
+ 
   ![[Screenshot 2022-06-17 at 14.47.05.png|700]]
-	- [[#^58302d|In The Beginning]]
-	- 
+  [[#^9ece07|I Went On A Journey]]
 
 
