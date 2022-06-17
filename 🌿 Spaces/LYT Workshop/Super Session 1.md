@@ -193,6 +193,7 @@ We are in the age of information abundance & this is something we should tread l
   ![[IMG_2509.jpeg|700]] This is driven by![[IMG_2510.jpeg|700]]
 - Now we will try to tear them apart, just so that we can troubleshoot them.
   ![[IMG_2511.jpeg|700]]
-	- [[#^58302d|Next >>]]
+	- [[#^58302d|In The Beginning]]
+	- 
 
 
