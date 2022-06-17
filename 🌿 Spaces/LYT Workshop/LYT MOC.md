@@ -17,4 +17,4 @@ cssclass:
 [[Workshop Syllabus]]
 
 [[Super Session 1]]
-[[Sense Making Session 1]]
+[[Signal vs Noise]]
