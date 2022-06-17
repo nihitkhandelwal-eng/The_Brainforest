@@ -9,6 +9,9 @@ cssclass:
 ![[LYT Workshop Syllabus.png|1000]]
 
 ### Week 1
+- Events
+	- [[Super Session 1]]
+	- [[Sense Making Session 1]]
 - [[Super Session 1#^5d5986|Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[Super Session 1#My Unique Perspective|Your Unique Journey]]
