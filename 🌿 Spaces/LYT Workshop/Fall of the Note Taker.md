@@ -16,6 +16,8 @@ Nick mentions that this transformation came because of convergence of 4 distinct
 
 In knowledge terms this is the beginning of a new age, "The Age of the Linked Note"
 
+But a basic question to answer before we think about "how?", [[I Want To Make Notes Because|Why is it that I want to take notes?]]
+
 
 
 
