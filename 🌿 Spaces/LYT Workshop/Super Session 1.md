@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: LYT_Workshop 
-cssclass: img-grid
+cssclass: 
 ---
 
 ## My Unique Perspective
