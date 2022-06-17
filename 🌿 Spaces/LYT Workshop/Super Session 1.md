@@ -175,8 +175,9 @@ We are in the age of information abundance & this is something we should tread l
 	- We had an Encounter & we made an Expression
 	- So, our world grew
 	  ![[IMG_2503.png|700]]
+- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition. 
 - So we encountered something, thought about it & then expressed ourselves.
-	- But we cannot stop everytime to think about every little thing, so we developed **habits**, intuition. 
-	  ![[IMG_2504.png|700]]
-	- But good habits can go bad, if we are not acting intuitively, instinctivally but reactively, then this world of ours shrinks
-	  [[IMG_2505.png|600]]
+- But good habits can go bad, if we are not acting intuitively, instinctivally but reactively, then this world of ours shrinks
+	- We can then lose our agency & become vulnerable to the talking points of other people
+	  ![[IMG_2505.png|700]]
+  ![[IMG_2504.png|700]]
