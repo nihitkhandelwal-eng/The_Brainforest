@@ -54,7 +54,7 @@ const wrapLineLen = Math.floor(settings["Wrap text at (number of characters)"].v
 const fixWidth = settings["Fix width"];
 
 const textPadding = 10;
-const text = await utils.inputPrompt("What's The Next Step?");
+const text = await utils.inputPrompt("Text?");
 const elements = ea.getViewSelectedElements();
 const isFirst = (!elements || elements.length === 0);
 
