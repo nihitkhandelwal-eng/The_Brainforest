@@ -52,6 +52,10 @@ cssclass:
 Guidelines for writing it.
 1. 1. Use sparks to light a fire in your mind. 
 2. Then start with the subtitles, ususually starting with "How".
+3. Some subtitle "How" prompts:
+	- How NOUN is GOOD & how to VERB it.
+	- How to VERB SOMETHING because of BENEFITS
+		- eg: how to use metaphors more often because they are both more fun & more powerful
 
 - Objectivity is the one tool you need
 - Why do you need to be rational
