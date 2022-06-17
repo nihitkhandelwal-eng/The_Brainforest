@@ -5,8 +5,9 @@ cssclass:
 ---
 
 ## My Unique Perspective
+> [!note] Quick Note
 > Your evolution from birth to now
- Quick Note: Be kind to yourself...
+> Be kind to yourself...
 
 ### In the Beginning
 ^58302d
