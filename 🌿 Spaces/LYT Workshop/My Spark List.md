@@ -4,7 +4,7 @@ tags: LYT_Workshop
 cssclass: 
 ---
 
-^b84eab
+![[Screenshot 2022-06-17 at 16.05.43.png|700]]
 
 - Things I like to do
 	- Like to play video games, watch better call saul, love to have nice conversations in small groups, love playing with Aanya & Vihaan
