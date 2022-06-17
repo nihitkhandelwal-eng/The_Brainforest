@@ -168,6 +168,7 @@ We are in the age of information abundance & this is something we should tread l
 
 
 ## ENCODE
+![[IMG_2508.jpeg|700]]
 - As babies, our sense of the world was without edges, there was no "you" or "I". 
   Everything was everywhere, all at once.
 - Overtime, we noticed that there was "us" & "something around us"
@@ -192,7 +193,7 @@ We are in the age of information abundance & this is something we should tread l
 
 ![[IMG_2507.jpeg|700]]
 
-![[IMG_2508.jpeg|700]]
+
 
 ![[IMG_2509.jpeg|700]]
 
