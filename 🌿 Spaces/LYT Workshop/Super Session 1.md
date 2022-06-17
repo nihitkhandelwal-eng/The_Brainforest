@@ -183,3 +183,7 @@ We are in the age of information abundance & this is something we should tread l
 
 - We can then lose our agency & become vulnerable to the talking points of other people. So how do we get that back?
   ![[IMG_2506.png|700]]
+
+## The Sensemaking Loop
+- Sometimes we get stuck in our own thinking & then this loop is short-circuited
+- This is the cycle that is shaping our unique perspective & if we understand what's happening in the loop, we can troubleshoot & we can improve, otherwise we are shooting in the dark. 
