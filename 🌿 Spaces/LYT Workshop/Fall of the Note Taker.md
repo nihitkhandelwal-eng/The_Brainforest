@@ -24,4 +24,4 @@ But a basic question to answer before we think about "how?", [[I Want To Make No
 
 
 ### We Fixated On Collecting Junk
-Collecting can be addictive. It can give us the illusion that 
+Collecting can be addictive. It can give us the illusion that we are making progress. This is the Collector's Fallacy.
