@@ -11,7 +11,7 @@ cssclass:
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[Super Session 1#My Unique Perspective|Your Unique Journey]]
 - [[Super Session 1#^b84eab|Your Spark List]]
-- Idea Emergence
+- [[Idea Emergence]]
 - PKM Planet Personality Snapshot
 
 ### Week 2
