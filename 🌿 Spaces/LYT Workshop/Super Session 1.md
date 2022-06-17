@@ -188,7 +188,7 @@ We are in the age of information abundance & this is something we should tread l
 - Sometimes we get stuck in our own thinking & then this loop is short-circuited
 - This is the cycle that is shaping our unique perspective & if we understand what's happening in the loop, we can troubleshoot & we can improve, otherwise we are shooting in the dark.
   ![[IMG_2509.jpeg|700]] This is driven by![[IMG_2510.jpeg|700]]
-
+- 
 
 
 
