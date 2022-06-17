@@ -14,6 +14,8 @@ Nick mentions that this transformation came because of convergence of 4 distinct
 3. Atomic Notes
 4. Linked Notes
 
+In knowledge terms this is the beginning of a new age, "The Age of the Linked Note"
+
 
 
 
