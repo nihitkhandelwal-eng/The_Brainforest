@@ -9,6 +9,8 @@ cssclass:
  Quick Note: Be kind to yourself...
 
 ### In the Beginning
+^58302d
+
 - Where were you born?
 	- I was born in Sikar at Dr Rajkumari Bhargav's Place
 - Where did you grow up?
@@ -190,6 +192,6 @@ We are in the age of information abundance & this is something we should tread l
   ![[IMG_2509.jpeg|700]] This is driven by![[IMG_2510.jpeg|700]]
 - Now we will try to tear them apart, just so that we can troubleshoot them.
   ![[IMG_2511.jpeg|700]]
-
+	- [[#^58302d|Next >>]]
 
 
