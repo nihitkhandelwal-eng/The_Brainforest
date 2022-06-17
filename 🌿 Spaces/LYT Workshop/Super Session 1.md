@@ -190,3 +190,5 @@ We are in the age of information abundance & this is something we should tread l
   ![[IMG_2509.jpeg|700]]![[IMG_2510.jpeg|700]]
 
 
+
+
