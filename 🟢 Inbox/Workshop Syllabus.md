@@ -4,6 +4,8 @@ tags:
 cssclass: 
 ---
 
+[[LYT MOC]]
+
 ![[LYT Workshop Syllabus.png|1000]]
 
 ### Week 1
