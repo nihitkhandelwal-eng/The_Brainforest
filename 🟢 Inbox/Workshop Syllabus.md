@@ -14,7 +14,7 @@ cssclass:
 - [[Super Session 1#My Unique Perspective|Your Unique Journey]]
 - [[Super Session 1#^b84eab|Your Spark List]]
 - [[Idea Emergence]]
-- PKM Planet Personality Snapshot
+- [[PKM Planet Personality Snapshot]]
 
 ### Week 2
 - Note-making
