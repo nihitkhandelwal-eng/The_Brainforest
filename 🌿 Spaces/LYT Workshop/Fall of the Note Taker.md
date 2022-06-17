@@ -23,3 +23,5 @@ But a basic question to answer before we think about "how?", [[I Want To Make No
 
 
 
+### We Fixated On Collecting Junk
+Collecting can be addictive. It can give us the illusion that 
