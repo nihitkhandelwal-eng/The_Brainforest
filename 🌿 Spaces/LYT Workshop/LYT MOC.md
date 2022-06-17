@@ -15,6 +15,3 @@ cssclass:
 
 ## Notes
 [[Workshop Syllabus]]
-
-[[Super Session 1]]
-[[Signal vs Noise]]
