@@ -19,9 +19,5 @@ In knowledge terms this is the beginning of a new age, "The Age of the Linked No
 But a basic question to answer before we think about "how?", [[I Want To Make Notes Because|Why is it that I want to take notes?]]
 
 
-
-
-
-
 ### We Fixated On Collecting Junk
 Collecting can be addictive. It can give us the illusion that we are making progress. This is the Collector's Fallacy.
