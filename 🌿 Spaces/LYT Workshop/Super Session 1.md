@@ -6,7 +6,7 @@ cssclass:
 
 ### What a Blast
 
-We started with the [[Overview of PKM]] to then learn about the [[ENCODE Framework]] & [[The Sensemaking Loop]] which then connects to [[My Unique Perspective]] & [[My Spark List]]
+We started with the [[Overview of PKM]] to then learn about the [[ENCODE Framework]] & [[The Sensemaking Loop]] which then connects to [[My Unique Journey]] & [[My Spark List]]
 
 ---
 

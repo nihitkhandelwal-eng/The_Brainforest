@@ -48,6 +48,7 @@ cssclass:
 - Intelligence
 
 ### My 10 Book Titles
+- [ ] #status/💭think  write all 10 #action/✔todo 
 
 Guidelines for writing it.
 1. 1. Use sparks to light a fire in your mind. 

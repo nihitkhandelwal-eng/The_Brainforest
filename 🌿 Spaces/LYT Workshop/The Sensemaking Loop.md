@@ -11,6 +11,6 @@ cssclass:
   
  This is driven by![[IMG_2510.jpeg|700]]
 - Now we will try to tear them apart, just so that we can troubleshoot them. 
-	- [[My Unique Perspective]] ![[IMG_2511.jpeg|700]]
+	- [[My Unique Journey]] ![[IMG_2511.jpeg|700]]
 	- [[My Spark List]] ![[Screenshot 2022-06-17 at 16.05.43.png|700]]
 

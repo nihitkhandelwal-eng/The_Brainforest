@@ -8,6 +8,8 @@ cssclass:
 > Your evolution from birth to now
 > Be kind to yourself...
 
+> My Unique Journey + My Spark List = My Unique Perspective
+
 ### In the Beginning
 ^58302d
 
