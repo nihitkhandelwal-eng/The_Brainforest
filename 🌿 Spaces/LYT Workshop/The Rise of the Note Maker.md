@@ -11,6 +11,6 @@ We should build notes that grow in value over time & not fall in the trap of "sh
 
 
 ### Linking is Thinking
-
+Linking is different from categorizing
 
 
