@@ -28,7 +28,7 @@ cssclass:
 	- Bianca Pereira's Session 1
 	- Rok Sanda's Session 1
 - Unit 1
-	- 
+	- [[Fall of the Note Taker]]
 - [[Super Session 1#^5d5986|Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[Super Session 1#My Unique Perspective|Your Unique Journey]]
