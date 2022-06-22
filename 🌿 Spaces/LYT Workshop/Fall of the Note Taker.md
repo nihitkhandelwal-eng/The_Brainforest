@@ -7,7 +7,6 @@ cssclass:
 See also [[The Age of the Linked Note]]
 Contrast with [[The Rise of the Note Maker]]
 
-
 ### We Fixated On Collecting Junk
 Collecting can be addictive. It can give us the illusion that we are making progress. This is the Collector's Fallacy.
 

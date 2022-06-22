@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Why do I want to take notes?]
 tags: LYT_Workshop  
 cssclass:
 ---
