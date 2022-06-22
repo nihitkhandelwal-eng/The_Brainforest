@@ -6,6 +6,9 @@ cssclass:
 
 I don't want my knowledge experiences to fade out after a few months, instead I want them to give me the ability to use my knowledge in daily conversations & knowledge work.
 
+So that I can ...
+- Make sense out of experiences.
+- Reference past thoughts & insights as I write new ones.
 
 
 
