@@ -7,12 +7,14 @@ cssclass:
 Contrast with [[The Rise of the Note Maker]]
 ### The Age of the Linked Note
 Note taking is not a new thing, but with the improvement in technology...
-A note can now grow and evolve with other notes to form a living system.
+A note can now grow and evolve with other notes to form a living system of related thoughts that you can nurture throughout lifetime.
 
 Nick mentions that this transformation came because of convergence of 4 distinct elements
-1. Fast Notes
+1. Fast Notes 
+	- Evernote was the first one to do so
 2. Free Notes
 3. Atomic Notes
+	- This was proposed by [[Andy Matuschak]]
 4. Linked Notes
 
 In knowledge terms this is the beginning of a new age, "The Age of the Linked Note"
