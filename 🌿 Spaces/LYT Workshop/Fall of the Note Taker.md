@@ -20,7 +20,7 @@ Nick mentions that this transformation came because of convergence of 4 distinct
 Notes should be able to live in multiple places at once, just like how we think, where many things are triggering the same idea. 
 Folders tend to be restricting here. 
 
-In knowledge terms this is the beginning of a new age, "The Age of the Linked Note"
+> In knowledge terms this is the beginning of a new age, "The Age of the Linked Note"
 
 But a basic question to answer before we think about "how?", [[I Want To Make Notes Because|Why is it that I want to take notes?]]
 
