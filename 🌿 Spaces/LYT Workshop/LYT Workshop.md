@@ -30,6 +30,7 @@ cssclass:
 	- Rok Sanda's Session 1
 - Unit 1
 	- [[Fall of the Note Taker]]
+	- [[The Rise of the Note Maker]]
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[My Unique Journey]]
