@@ -11,4 +11,12 @@ So that I can ...
 - Reference past thoughts & insights as I write new ones.
 
 
+### My Digital Library
+- It should be a joy to use.
+- It shouldn't cause me anxiety because I have not paid attention to it in 3 days.
+- It should be a place of calm & serenity.
+- A place where I have a sense of control.
+- Where I can develop ideas & revisit past memories. 
+
+
 
