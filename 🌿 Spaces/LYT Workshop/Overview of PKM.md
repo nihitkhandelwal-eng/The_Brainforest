@@ -4,8 +4,6 @@ tags: LYT_Workshop
 cssclass: 
 ---
 
-^5d5986
-
 This didn't start with us, we are just continuing the story.
 We are in the age of information abundance & this is something we should tread lightly.
 
