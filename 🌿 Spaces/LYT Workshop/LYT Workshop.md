@@ -13,9 +13,6 @@ cssclass:
 [Curriculum Checklist](https://forum.linkingyourthinking.com/t/curriculum-checklist/7982)
 
 
-## Notes
-[[Workshop Syllabus]]
-
 
 ## Workshop Syllabus
 
