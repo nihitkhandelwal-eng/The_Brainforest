@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [LYT MOC]
 tags: LYT_Workshop 
 cssclass:
 ---
