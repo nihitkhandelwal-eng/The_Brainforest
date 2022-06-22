@@ -31,8 +31,8 @@ cssclass:
 	- [[Fall of the Note Taker]]
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
-- [[Super Session 1#My Unique Perspective|Your Unique Journey]]
-- [[Super Session 1#^b84eab|Your Spark List]]
+- [[My Unique Journey]]
+- [[My Spark List]]
 - [[Idea Emergence]]
 - [[PKM Planet Personality Snapshot]] & [[The PKM Planet]]
 
