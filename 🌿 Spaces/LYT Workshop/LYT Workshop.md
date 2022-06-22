@@ -28,6 +28,7 @@ cssclass:
 	- Bianca Pereira's Session 1
 	- Rok Sanda's Session 1
 - [Unit 1](https://forum.linkingyourthinking.com/t/unit-1-map-of-content/7847)
+	- [[The Age of the Linked Note]]
 	- [[Fall of the Note Taker]]
 	- [[The Rise of the Note Maker]]
 - [[Overview of PKM]]
