@@ -6,6 +6,8 @@ cssclass:
 
 [[The Folder Rebellion]]
 
+- These are just notes but primarily have links to other notes.
+
 ![[The Folder Rebellion#^6fec1c]]
 
 ![[The Folder Rebellion#^74a4f2]]
