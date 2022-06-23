@@ -11,6 +11,7 @@ cssclass:
 
 > Divergence is when things become unique
 > Convergence is when things become unified
+Emergence is a mixture of both
 
 
 > Emergence is where seemingly random things become "greater systems". The whole become the sum of it's parts.
@@ -20,9 +21,9 @@ cssclass:
 > Various cells come together to form new organism as a whole, so that you have hearts diverging in quality from lungs yet converging as parts of a greater circulatory & respiratory system.
 
 
-Emergence is a mixture of both
 
 ### Emergence Level 1
+- 
 	![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
 	![[IMG_2515.jpeg|700]]
@@ -42,4 +43,3 @@ Emergence is a mixture of both
 
 
 
-\
