@@ -80,6 +80,8 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 ---
 
 ### Comparison with living systems
+Hierarchically organized linked notes emerge into a living system.
+
 | Level | Note organization | Biologic metaphor |
 |-------|-------------------|-------------------|
 | 1     | atomic notes      | cell              |
