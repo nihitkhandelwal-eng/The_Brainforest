@@ -17,6 +17,8 @@ Making quality notes + Consistency + Time = Evolving & Contributing Library of i
 
 
 ### Linking is Thinking
+Link is a relationship & when you relate 2 notes, it forces an unspoken conversation in our mind. "How, Why, In What Way are these note related?"
+
 Linking is different from categorizing
 
 
