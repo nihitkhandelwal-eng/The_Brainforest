@@ -11,4 +11,6 @@ Thinking in terms of systems, folders are can be classified as **rigid, linear &
 
 The Zettlekasten method provided an alternative but in doing so, it completely abolished folders & as rigid as they are, we crave structure.
 
+If we throw away the dogma surrounding the Zettelkasten method i.e. strict atomic notes. Perhaps, folders can be helpful & not only this, but higher order notes that give us the structure we crave.
+
 
