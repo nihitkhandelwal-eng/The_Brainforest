@@ -8,7 +8,12 @@ See also [[The Age of the Linked Note]]
 Contrast with [[The Rise of the Note Maker]]
 
 ### Guilt Free Ideation Chamber
+We gave up the inherent joy of thinking as it's own reward.
+We stripped away the soul of inquiry & replaced it with this soulless efficiency. 
 
+> Just because we can track every second of our days, absolutely does not mean that we should.
+
+We can choose to be led by the *carrot of curiosity* as opposed to the *stick of nevery ending todo's*
 
 
 ### We Fixated On Collecting Junk
