@@ -51,8 +51,9 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 	![[IMG_2516.jpeg|700]]
 ### Emergence Level 4
 - At this point you are linking higher order notes. MOC's are linked to MOC's.
+	- So at emergence level 4, MOC's can talk to each other to create something unique & seamless.
 - Instead of having living system like zettelkasten, now we have living ecosystems.
-- This allows you to fly around your note library rapidly & organically. Getting unforced behaviour driven spaced repetition
+- This allows you to fly around your note library rapidly & organically. Getting unforced behaviour driven spaced repetition.
 - Nick says that this is a superior method of memory retention versus the anki's version of "rote like spaced repetition". #action/📌put-a-pin-on-that 
 
 > [!abstract] Systems Perspective
@@ -60,6 +61,7 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 	![[IMG_2517.jpeg|700]]
 ### Emergence Level 5
+- 
 
 
 	![[IMG_2518.jpeg|700]]
