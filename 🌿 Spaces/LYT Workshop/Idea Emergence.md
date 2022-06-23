@@ -79,6 +79,16 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 ---
 
+### Comparison with living systems
+| Level | Note organization | Biologic metaphor |
+|-------|-------------------|-------------------|
+| 1     | atomic notes      | cell              |
+| 2     | linked notes      | organ             |
+| 3     | MOCs              | organism          |
+| 4     | linked MOCs       | ecosystem         |
+| 5     | Home note         | Gaia              |
+
+
 ### Emergence PDF 
 ![[LYT Idea Emergence – One full image.pdf]]
 
