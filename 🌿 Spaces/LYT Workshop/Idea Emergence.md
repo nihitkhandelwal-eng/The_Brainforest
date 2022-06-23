@@ -13,17 +13,17 @@ cssclass:
 > Convergence is when things become unified
 
 ### Diagrams & Visual Representation
-- Emergence Level 1
+![[LYT Idea Emergence – One full image.pdf]]
+### Emergence Level 1
 	![[IMG_2514.jpeg|700]]
-- Emergence Level 2
+### Emergence Level 2
 	![[IMG_2515.jpeg|700]]
-- Emergence Level 3
+### Emergence Level 3
 	![[IMG_2516.jpeg|700]]
-- Emergence Level 4
+### Emergence Level 4
 	![[IMG_2517.jpeg|700]]
-- Emergence Level 5
+### Emergence Level 5
 
 
 	![[IMG_2518.jpeg|700]]
 
-![[LYT Idea Emergence – One full image.pdf]]
