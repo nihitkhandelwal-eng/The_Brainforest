@@ -84,7 +84,7 @@ Hierarchically organized linked notes emerge into a living system.
 
 | Level | Note organization | Biologic metaphor | Brain metaphor |
 | ----- | ----------------- | ----------------- | -------------- |
-| 1     | atomic notes      | cell              |                |
+| 1     | atomic notes      | cell              | Development of a simple brain                |
 | 2     | linked notes      | organ             |                |
 | 3     | MOCs              | organism          |                |
 | 4     | linked MOCs       | ecosystem         |                |
