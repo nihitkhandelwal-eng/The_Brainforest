@@ -37,5 +37,9 @@ Emergence is a mixture of both
 
 ---
 
-### Emergence PDF
+### Emergence PDF 
 ![[LYT Idea Emergence – One full image.pdf]]
+
+
+
+\
