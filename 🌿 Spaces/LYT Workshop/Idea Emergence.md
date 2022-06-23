@@ -24,8 +24,10 @@ cssclass:
 Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 ### Emergence Level 1
-- 
-	![[IMG_2514.jpeg|700]]
+- We start from the **nothingness of fleeting thoughts** to the **somethingness of an externalized note**
+- This is the *Primordial Idea Soup*
+	- Ranging from memories, ideas, interactions, thoughts to any thing you come across
+		![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
 	![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
