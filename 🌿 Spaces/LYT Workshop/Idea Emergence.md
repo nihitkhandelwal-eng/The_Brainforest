@@ -6,8 +6,8 @@ cssclass:
 
 ![[IMG_2513.jpeg|700]]
 
-Emergence refers to formation of collected behavior
-What parts of systems do together that they wouldn't do by themselves?
+- Emergence refers to formation of collected behavior
+- What parts of systems do together that they wouldn't do by themselves?
 
 ### Diagrams & Visual Representation
 - Emergence Level 1
