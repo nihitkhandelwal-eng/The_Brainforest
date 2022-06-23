@@ -5,6 +5,11 @@ cssclass:
 ---
 
 ![[IMG_2513.jpeg|700]]
+
+Emergence refers to formation of collected behavior
+What parts of systems do together that they wouldn't do by themselves?
+
+### Diagrams & Visual Representation
 - Emergence Level 1
 	![[IMG_2514.jpeg|700]]
 - Emergence Level 2
@@ -14,8 +19,8 @@ cssclass:
 - Emergence Level 4
 	![[IMG_2517.jpeg|700]]
 - Emergence Level 5
-	![[IMG_2518.jpeg|700]]
 
-### Diagrams & Visual Representation
+
+	![[IMG_2518.jpeg|700]]
 
 ![[LYT Idea Emergence – One full image.pdf]]
