@@ -51,7 +51,7 @@ cssclass:
 - The 7 C's of Note Making
 
 ### Week 3
-- Thought Collisions
+- [[Thought Collisions]]
 - Mental Squeeze Points
 - Maps of Content
 - Idea Acceleration
