@@ -50,6 +50,13 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 	![[IMG_2516.jpeg|700]]
 ### Emergence Level 4
+- At this point you are linking higher order notes. MOC's are linked to MOC's.
+- Instead of having living system like zettelkasten, now we have living ecosystems.
+- This allows you to fly around your note library rapidly & organically. Getting unforced behaviour driven spaced repetition
+
+> [!abstract] Systems Perspective
+> Less divergence happens here, but plenty of convergence does.
+
 	![[IMG_2517.jpeg|700]]
 ### Emergence Level 5
 
