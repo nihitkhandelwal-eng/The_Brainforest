@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Adaptation of Digital Zettlekasten]
 tags: LYT_Workshop 
 cssclass:
 ---
@@ -7,5 +7,5 @@ cssclass:
 [[The Folder Rebellion]]
 
 
-### Higher Order Notes
+
 
