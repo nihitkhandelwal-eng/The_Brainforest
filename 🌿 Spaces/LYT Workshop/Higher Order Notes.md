@@ -1,5 +1,5 @@
 ---
-aliases: [Adaptation of Digital Zettlekasten]
+aliases: [Adaptation of Digital Zettlekasten, MOC, Maps Of Contents, Maps Of Content]
 tags: LYT_Workshop 
 cssclass:
 ---
@@ -25,3 +25,4 @@ cssclass:
 - They can help you to overcome [[Mental Squeeze Points]].
 - The more profound power of MOC's is that they can be used as rapid ideation chambers.
 - MOC's are ideation accelerators.
+- Higher order notes like MOC's can be used for navigational purposes, hence the name "map"
