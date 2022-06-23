@@ -34,9 +34,8 @@ Your note-making gives you something priceless. OPTIONS
 You possibly can get an option to pivot in your profession or change careers.
 
 
-> Not all who wander are lost. 
-> <cite> — J.R.R. Tolkien </cite>
-> #type/🗯quote 
+> Not all who wander are lost.  #type/🗯quote 
+> <cite> — J.R.R. Tolkien </cite> 
 
 
 
