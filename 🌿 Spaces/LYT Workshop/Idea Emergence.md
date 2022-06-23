@@ -61,7 +61,18 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 	![[IMG_2517.jpeg|700]]
 ### Emergence Level 5
-- 
+- This is your Home Note
+- It consolidates new higher order notes with older, more mature higher order notes.
+- **All roads lead to home.**
+
+- The home note is the beginning & the end.
+	- It is a launchpad & a homebase. 
+	- It is a fixed point in the sky
+
+> [!abstract] Systems Perspective
+> The home note is all about convergence.
+> - It allows for top down "Convergent" thinking like navigating & deliberate creating.
+> - It also allows for bottom-up "Convergent" thinking by consolidating new forms of emergence. 
 
 
 	![[IMG_2518.jpeg|700]]
