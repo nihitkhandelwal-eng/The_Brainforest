@@ -28,6 +28,8 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 - This is the *Primordial Idea Soup*
 	- Ranging from memories, ideas, interactions, thoughts to any thing you come across. Anything that is below the surface of anything concrete or anything externalized
 
+> [!abstract] Systems Perspective
+> Between convergence (things becoming unified) & divergence (things becoming unique). This is more about Divergence.
 
 
 		![[IMG_2514.jpeg|700]]
