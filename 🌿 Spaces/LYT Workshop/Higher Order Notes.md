@@ -21,3 +21,4 @@ cssclass:
 - [[Niklas Luhmann]] had index cards which served as higher order notes
 - [[Nick Milo]] came up with the term MOC's
 
+- They can help you to overcome [[Mental Squeeze Points]] 
