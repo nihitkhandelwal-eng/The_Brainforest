@@ -14,6 +14,7 @@ cssclass:
 
 
 > Emergence is where seemingly random things become "greater systems". The whole become the sum of it's parts.
+> It's interesting to note that emergence makes use of both convergence & divergence at the same time.
 
 
 Emergence is a mixture of both
