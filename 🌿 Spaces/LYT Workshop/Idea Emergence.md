@@ -45,6 +45,9 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 - The solution is to make [[Higher Order Notes]]  
 ![[Higher Order Notes#What do they help with]]
 
+> [!abstract] Systems Perspective
+> Massive emergence, convergence & divergence happen here.
+
 	![[IMG_2516.jpeg|700]]
 ### Emergence Level 4
 	![[IMG_2517.jpeg|700]]
