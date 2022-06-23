@@ -13,6 +13,9 @@ cssclass:
 > Convergence is when things become unified
 
 
+> Emergence is where seemingly random things become "greater systems". The whole become the sum of it's parts.
+
+
 Emergence is a mixture of both
 
 ### Emergence Level 1
