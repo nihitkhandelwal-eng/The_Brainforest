@@ -33,7 +33,7 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 ![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
-- Once you link 2 notes
+- Once you link 2 notes, **direct relationships are formed**. This is the very basic concept of zettlekasten.
 
 	![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
