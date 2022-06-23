@@ -23,3 +23,22 @@ Your mind then experiences a marked increase in [[Thought Collisions]] & through
 Linking is different from categorizing
 
 
+### Curiosity Builds Real Value
+If something interests you, it's not a waste of time to develop your ideas on it.
+
+The world changes pretty fast & if you are not evolving, not expanding your set of skills, you will become obsolete.
+
+> You never know when the next pandemic hits & wipes out your job. 
+
+Your note-making gives you something priceless. OPTIONS
+You possibly can get an option to pivot in your profession or change careers.
+
+
+> Not all who wander are lost. 
+> <cite> — J.R.R. Tolkien </cite>
+> #type/🗯quote 
+
+
+
+
+
