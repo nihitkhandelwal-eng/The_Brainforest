@@ -28,11 +28,14 @@ cssclass:
 	- Bianca Pereira's Session 1
 	- Rok Sanda's Session 1
 - [Unit 1](https://forum.linkingyourthinking.com/t/unit-1-map-of-content/7847)
-	- 
-	- [[The Age of the Linked Note]]
-	- [[I Want To Make Notes Because|Why do I want to take notes?]]
-	- [[Fall of the Note Taker]]
-	- [[The Rise of the Note Maker]]
+	- 1a
+		- [[The Age of the Linked Note]]
+		- [[I Want To Make Notes Because|Why do I want to take notes?]]
+		- [[Fall of the Note Taker]]
+		- [[The Rise of the Note Maker]]
+	- 1b
+	- 1c
+	- 1d
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[My Unique Journey]]
