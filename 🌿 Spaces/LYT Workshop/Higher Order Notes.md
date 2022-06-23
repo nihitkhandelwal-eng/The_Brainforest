@@ -6,7 +6,6 @@ cssclass:
 
 [[The Folder Rebellion]]
 
-
 ### Why are they necessary?
 
 ![[The Folder Rebellion#^6fec1c]]
