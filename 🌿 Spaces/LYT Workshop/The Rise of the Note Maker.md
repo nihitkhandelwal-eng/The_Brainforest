@@ -13,6 +13,8 @@ We should build notes that grow in value over time & not fall in the trap of "sh
 
 > No sane person looks at an account with compound interest & asks, "could you stop it from compounding please?"
 
+Making quality notes + Consistency + Time = Evolving & Contributing Library of insights that you take with you throughout life.
+
 
 ### Linking is Thinking
 Linking is different from categorizing
