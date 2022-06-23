@@ -34,6 +34,7 @@ cssclass:
 		- [[Fall of the Note Taker]]
 		- [[The Rise of the Note Maker]]
 	- 1b
+		- [[Adaptation of Digital Zettlekasten]]
 	- 1c
 	- 1d
 - [[Overview of PKM]]
