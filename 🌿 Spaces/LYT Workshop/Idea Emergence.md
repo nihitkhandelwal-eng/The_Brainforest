@@ -82,13 +82,13 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 ### Comparison with living systems
 Hierarchically organized linked notes emerge into a living system.
 
-| Level | Note organization | Biologic metaphor | Brain metaphor |
-| ----- | ----------------- | ----------------- | -------------- |
-| 1     | atomic notes      | cell              | Development of a simple brain                |
-| 2     | linked notes      | organ             |                |
-| 3     | MOCs              | organism          |                |
-| 4     | linked MOCs       | ecosystem         |                |
-| 5     | Home note         | Gaia              |                |
+| Level | Note organization | Biologic metaphor | Brain metaphor                |
+| ----- | ----------------- | ----------------- | ----------------------------- |
+| 1     | atomic notes      | Cell              | Development of a simple brain |
+| 2     | linked notes      | Organ             | Working memory                |
+| 3     | MOCs              | Organism          | Hippocampus                   |
+| 4     | linked MOCs       | Ecosystem         | Corpus Callosum               |
+| 5     | Home note         | Gaia              | Prefrontal Cortex             |
 
 
 ### Comparison with brain development
