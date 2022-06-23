@@ -90,8 +90,12 @@ Hierarchically organized linked notes emerge into a living system.
 | 4     | linked MOCs       | Ecosystem         | Corpus Callosum               |
 | 5     | Home note         | Gaia              | Prefrontal Cortex             |
 
+- The idea of a **simple brain** is the ability to take a stimulus & make a response i.e. an idea or a note.
+- The **working memory** is the amount of the linked network of notes that can be retained at any given moment. We are limited to a few nodes and a few possible connections at a time by which to navigate this network. We will need a *long term memory or hippocampus* to be able to see beyond a few nodes worth of information at a time.
+- The **Hippocampus** being developed gives us a powerful long term memory and really enables much more complex problem solving as more and more systems and algorithms may be stored in long term memory – truly creating the opportunity for massive idea acceleration to take place.
+- The **Corpus Callosum** allows us to move with lightning fast speed from Top-Down Processing to Bottom-Up Processing and Back Again in a Flash of Insight traversing Up and Down Levels of Abstraction to Concrete Details as Needed. Here, once we are sufficiently warmed up, we also begin to see Quantum Effects – Huge Leaps in Insight.
 
-### Comparison with brain development
+The Pre-Frontal Cortex Gives us the ability to Execute plans as Needed. Whereas prior to this structure being in place we were still a little more driven by Stimulus and Response as opposed to strong intention and pre-planning. We can accelerate a plan from Zero to 60 mph in 2 to 3 seconds. Whereas before, we would really have to let things warm up a lot before we could accelerate to these kinds of speeds and beyond.
 
 
 ### Emergence PDF 
