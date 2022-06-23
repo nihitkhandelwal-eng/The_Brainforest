@@ -19,8 +19,9 @@ cssclass:
 - These are just notes but primarily have links to other notes.
 - [[Niklas Luhmann]] had index cards which served as higher order notes
 - [[Nick Milo]] came up with the term MOC's
+- All you need to do is assemble links to a broad category of notes into a MOC note.
 
 ### What do they help with?
-- They can help you to overcome [[Mental Squeeze Points]] 
-- They can be used as rapid ideation chambers
-- MOC's are ideation accelerators
+- They can help you to overcome [[Mental Squeeze Points]].
+- The more profound power of MOC's is that they can be used as rapid ideation chambers.
+- MOC's are ideation accelerators.
