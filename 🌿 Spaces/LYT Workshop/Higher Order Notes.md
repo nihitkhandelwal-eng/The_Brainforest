@@ -20,4 +20,7 @@ cssclass:
 - [[Niklas Luhmann]] had index cards which served as higher order notes
 - [[Nick Milo]] came up with the term MOC's
 
+### What do they help with?
 - They can help you to overcome [[Mental Squeeze Points]] 
+- They can be used as rapid ideation chambers
+- MOC's are ideation accelerators
