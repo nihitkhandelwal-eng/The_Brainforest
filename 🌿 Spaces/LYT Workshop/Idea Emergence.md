@@ -9,8 +9,8 @@ cssclass:
 - Emergence refers to formation of collected behavior
 - What parts of systems do together that they wouldn't do by themselves?
 
-Divergence is when things become unique
-Convergence is when things become unified
+> Divergence is when things become unique
+> Convergence is when things become unified
 
 ### Diagrams & Visual Representation
 - Emergence Level 1
