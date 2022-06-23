@@ -35,7 +35,10 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 ### Emergence Level 2
 - Once you link 2 notes, **direct relationships are formed**. This is the very basic concept of zettlekasten.
 
-	![[IMG_2515.jpeg|700]]
+> [!abstract] Systems Perspective
+> At this level, there is still more divergence than convergence.
+
+![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
 	![[IMG_2516.jpeg|700]]
 ### Emergence Level 4
