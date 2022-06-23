@@ -16,5 +16,6 @@ cssclass:
 - Emergence Level 5
 	![[IMG_2518.jpeg|700]]
 
+### Diagrams & Visual Representation
 
 ![[LYT Idea Emergence – One full image.pdf]]
