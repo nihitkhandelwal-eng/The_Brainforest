@@ -12,8 +12,9 @@ cssclass:
 > Divergence is when things become unique
 > Convergence is when things become unified
 
-### Diagrams & Visual Representation
-![[LYT Idea Emergence – One full image.pdf]]
+
+Emergence is a mixture of both
+
 ### Emergence Level 1
 	![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
@@ -27,3 +28,7 @@ cssclass:
 
 	![[IMG_2518.jpeg|700]]
 
+---
+
+### Emergence PDF
+![[LYT Idea Emergence – One full image.pdf]]
