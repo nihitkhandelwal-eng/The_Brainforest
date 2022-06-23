@@ -34,14 +34,16 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 ![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
 - Once you link 2 notes, **direct relationships are formed**. This is the very basic concept of zettlekasten.
-- As the connections grow, the system starts to come alive. The beauty of the direct link is that bigger ideas start to emerge organically. There is however still a lack of clear perspective
-- The limitation right now is that you're always at eye-level with your notes, like you are on the ground in the forest. A bird's eye view is always helpful.
+- As the connections grow, the system starts to come alive, naturally evolving itself. The beauty of the direct link is that bigger ideas start to emerge organically. There is however still a lack of clear perspective.
+- The limitation right now is that you're always at eye-level with your notes, like you are on the ground floor in the forest. A bird's eye view is always helpful.
 
 > [!abstract] Systems Perspective
 > At this level, there is still more divergence than convergence.
 
 ![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
+- The solution is to make [[Higher Order Notes]] 
+
 	![[IMG_2516.jpeg|700]]
 ### Emergence Level 4
 	![[IMG_2517.jpeg|700]]
