@@ -4,6 +4,8 @@ tags: LYT_Workshop
 cssclass:
 ---
 
+[[The Rise of the Note Maker]]
+
 I don't want my knowledge experiences to fade out after a few months, instead I want them to give me the ability to use my knowledge in daily conversations & knowledge work.
 
 So that I can ...
@@ -17,6 +19,8 @@ So that I can ...
 - It should be a place of calm & serenity.
 - A place where I have a sense of control.
 - Where I can develop ideas & revisit past memories. 
+
+
 
 
 
