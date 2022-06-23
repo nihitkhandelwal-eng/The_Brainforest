@@ -31,9 +31,10 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 > [!abstract] Systems Perspective
 > Between convergence (things becoming unified) & divergence (things becoming unique). This is more about Divergence.
 
-
 		![[IMG_2514.jpeg|700]]
 ### Emergence Level 2
+- 
+
 	![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
 	![[IMG_2516.jpeg|700]]
