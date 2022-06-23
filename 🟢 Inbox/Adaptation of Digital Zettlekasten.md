@@ -13,4 +13,5 @@ The Zettlekasten method provided an alternative but in doing so, it completely a
 
 If we throw away the dogma surrounding the Zettelkasten method i.e. strict atomic notes. Perhaps, folders can be helpful & not only this, but higher order notes that give us the structure we crave.
 
+But, instead of using rigid folder only structures, we have the ability to use flexible fluid frameworks.
 
