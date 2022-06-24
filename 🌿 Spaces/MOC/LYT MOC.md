@@ -1,6 +1,6 @@
 ---
 aliases:
-tags:
+tags: type/⌘MOC 
 cssclass:
 ---
 
