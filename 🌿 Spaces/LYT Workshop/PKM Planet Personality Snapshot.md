@@ -23,5 +23,7 @@ cssclass:
 
 ## PKM Indices
 
-| Dates | Collection | Ideation | Churn | Production | Emergence | 
-| ----- | ---------- | -------- | ----- | ---------- | --------- |
+| Dates     | Collection | Ideation | Churn | Production | Emergence |
+| --------- | ---------- | -------- | ----- | ---------- | --------- |
+| 17-06-22  |            |          |       |            |           |
+| 24-Jun-22 | 34         | -6       | 8     | 40         | 4.05          |
