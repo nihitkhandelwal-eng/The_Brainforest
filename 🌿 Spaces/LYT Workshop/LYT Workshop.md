@@ -11,8 +11,6 @@ cssclass:
 [Curriculum Map](https://forum.linkingyourthinking.com/t/curriculum-map/7983)
 [Curriculum Checklist](https://forum.linkingyourthinking.com/t/curriculum-checklist/7982)
 
-
-
 ## Workshop Syllabus
 
 ![[LYT Workshop Syllabus.png|1000]]
