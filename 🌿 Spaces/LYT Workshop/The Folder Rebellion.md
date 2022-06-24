@@ -23,3 +23,5 @@ If you always think with “folders first”…
 
 A “folders first” approach encourages rigid thinking.
 
+> If **folders** can stop hogging all the attention and make room for **links** and **tags**, they can form an unbeatable trio…the best trio since Harry, Ron, and Hermione…the most balanced trio since rock, paper, scissors.
+
