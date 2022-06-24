@@ -58,7 +58,7 @@ cssclass:
 	- I have categorized them into #type/🎯goal/low_priority | #type/🎯goal/medium_priority  | #type/🎯goal/mission_critical  | #type/🎯goal/up_next 
 - #type/🎵music is a generic tag for everything music, it is further divided into → #type/🎵music/🎶poem | #type/🎵music/🎧qawwali 
 	- #type/🎵music/📄translated is more of a tracker tag for pieces of music that have been translated 
-- #type/👤people is everything people & right now it only has #type/👤people/😍family & #type/👤people/😎friends 
+- #type/👤people is everything people & right now it only has #type/👤people/😍family & #type/👤people/😎friend 
 - #type/📚book is everything book related
 - #type/🕸web_clipping is automatically applied to anything saved from the web from the clipper or [[Windows Hotkeys#^61b5f5|markdownload extension]] 
 - #type/🗯quote is for quotes. Let's see if I start liking them
