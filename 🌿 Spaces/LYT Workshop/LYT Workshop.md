@@ -38,6 +38,7 @@ cssclass:
 		- [[Fluid Frameworks]]
 	- 1c
 		- [[Relationship Between Notes]]
+		- [[My PKM Folders]]
 	- 1d
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
