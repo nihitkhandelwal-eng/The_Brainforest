@@ -14,7 +14,6 @@ If we throw away the dogma surrounding the Zettelkasten method i.e. strict atomi
 
 But, instead of using rigid folder only structures, we have the ability to use flexible fluid frameworks.
 
-
 ### Folders have their benefits
 If you always think with “folders first”…
 -   You will discourage your ability to think connectively.
