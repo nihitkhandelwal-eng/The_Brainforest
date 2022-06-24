@@ -29,5 +29,8 @@ cssclass:
 
 
 ### Building relationships with MOC's
+
+^93e8cf
+
 - Using MOC's is like having your own warehouses full of workbenches, where each workbench contains a selection of highly curated index cards for you to engage with.
 - The notes linked inside an MOC have basically "shadow-cloned" themselves, i.e. maning they can essentially be in multiple parties simultaneously, interacting & developing complexity from each party at the same time.
