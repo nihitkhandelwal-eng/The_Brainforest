@@ -39,6 +39,8 @@ cssclass:
 	- 1c
 		- [[Relationship Between Notes]]
 		- [[My PKM Folders]]
+		- [[🥦 Tag Nomenclature|My PKM Tags]]
+		- 
 	- 1d
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
