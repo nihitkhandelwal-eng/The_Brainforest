@@ -8,7 +8,8 @@ cssclass:
 
 
 
-### My Assessment Report for [[17-Jun-22]] 
+### Assessment Reports 
+- Took the test on [[17-Jun-22]] 
 - [Full Report](https://www.guidedtrack.com/programs/2tg920z/run?FirstName=Nihit&LastName=Khandelwal&DRIVER_memory=18&DRIVER_idea=34&DRIVER_output=32&DRIVER_productivity=24&DRIVER_improvement=39&DRIVER_relationship=14&STYLE_topdown=5&STYLE_bottomup=5)
 ![[My Thinking Style Tendencies.png|700]]
 
