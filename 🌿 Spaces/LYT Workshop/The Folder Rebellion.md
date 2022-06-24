@@ -25,3 +25,9 @@ A “folders first” approach encourages rigid thinking.
 
 > If **folders** can stop hogging all the attention and make room for **links** and **tags**, they can form an unbeatable trio…the best trio since Harry, Ron, and Hermione…the most balanced trio since rock, paper, scissors.
 
+- Abolishing folders completely is an over-correction, a knee-jerk reaction, a rebellion against the parents of our digital upbringing.
+- There are many ways to use folders, but the best way to add new ones is to allow their need to emerge slowly through using your system.
+
+> Structure has to be earned!
+
+If you find yourself thinking more than once that, “a folder would be perfect here,” then that’s your cue to try one out, and see if it can earn a long-term role.
