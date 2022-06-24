@@ -42,6 +42,7 @@ cssclass:
 		- [[🥦 Tag Nomenclature|My PKM Tags]]
 		- [[Higher Order Notes#^93e8cf|Building Relationships With MOC's]]
 	- 1d
+		- [[PKM Planet Personality Snapshot]]
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
 - [[My Unique Journey]]
