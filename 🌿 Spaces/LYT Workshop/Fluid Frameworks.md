@@ -21,6 +21,4 @@ Nick describes fluid frameworks as: (in the context of MOC)
 10.  **Fluid**: Like water, MOCs can form to the changing shape of your needs.
 
 
-> Fluid frameworks are a non-essential supporting structures.
-
-
+> Fluid frameworks are a non-essential supporting structures. Whereas, a typical framework, like a folder, is an essential supporting structure. If that folder is deleted, so is the content within it. That's not the case with fluid frameworks
