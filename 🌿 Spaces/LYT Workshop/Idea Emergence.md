@@ -42,7 +42,7 @@ Now, we will explore how idea emergence reveals itself in our link-based notes.
 
 ![[IMG_2515.jpeg|700]]
 ### Emergence Level 3
-- The solution is to make [[Higher Order Notes]]  
+- The solution is to make [[Higher Order Notes]]   
 ![[Higher Order Notes#What do they help with]]
 
 > [!abstract] Systems Perspective
