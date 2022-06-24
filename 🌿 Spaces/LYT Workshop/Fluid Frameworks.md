@@ -22,3 +22,12 @@ Nick describes fluid frameworks as: (in the context of MOC)
 
 
 > Fluid frameworks are a non-essential supporting structures. Whereas, a typical framework, like a folder, is an essential supporting structure. If that folder is deleted, so is the content within it. That's not the case with fluid frameworks
+
+
+| Note organization                | Phase metaphor | Character |
+| -------------------------------- | -------------- | --------- |
+| folders                          | solid          | rigid     |
+| higher-order links (MOCs)        | liquid         | fluid     |
+| first-order links (Zettelkasten) | gas            | chaotic   |
+
+Fluid frameworks are notable to me because they occupy the creative space in the range of organizational choices for notes — on the boundary between order and chaos. 
