@@ -37,6 +37,7 @@ cssclass:
 		- [[Idea Emergence]]
 		- [[Fluid Frameworks]]
 	- 1c
+		- [[Rename This Note]]
 	- 1d
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
