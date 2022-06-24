@@ -5,6 +5,8 @@ cssclass:
 ---
 
 ### Folders I would like to use
+- ☘️ Templates
+- ♻️ Admin
 ### Folders I don't want to use
 ### Folders I have questions about
 
