@@ -25,5 +25,5 @@ cssclass:
 
 | Dates     | Collection | Ideation | Churn | Production | Emergence |
 | --------- | ---------- | -------- | ----- | ---------- | --------- |
-| 17-06-22  | -6         | 28       | -8    | 10         | -4.95          |
+| [[PKM Planet Personality Snapshot#Take 1|17-06-22]]  | -6         | 28       | -8    | 10         | -4.95          |
 | 24-Jun-22 | 34         | -6       | 8     | 40         | 4.05      |
