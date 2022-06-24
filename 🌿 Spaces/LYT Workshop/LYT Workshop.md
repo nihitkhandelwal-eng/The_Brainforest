@@ -40,7 +40,7 @@ cssclass:
 		- [[Relationship Between Notes]]
 		- [[My PKM Folders]]
 		- [[🥦 Tag Nomenclature|My PKM Tags]]
-		- 
+		- [[Building relationships with MOC's]]
 	- 1d
 - [[Overview of PKM]]
 - [[The Sensemaking Loop]] & [[ENCODE Framework]]
