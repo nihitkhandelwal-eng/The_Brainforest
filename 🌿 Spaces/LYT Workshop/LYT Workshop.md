@@ -37,7 +37,7 @@ cssclass:
 		- [[The Folder Rebellion]]
 		- [[Higher Order Notes]]
 		- [[Idea Emergence]]
-		- 
+		- [[Fluid Frameworks]]
 	- 1c
 	- 1d
 - [[Overview of PKM]]
