@@ -53,7 +53,7 @@ cssclass:
 
 ### Week 3
 - [[Thought Collisions]]
-- Mental Squeeze Points
+- [[Mental Squeeze Points]]
 - Maps of Content
 - Idea Acceleration
 - The 11 C's of Map-Making
