@@ -6,7 +6,7 @@ cssclass:
 
 - [ ] Write it in more detail as the [[LYT Workshop 8]] progresses on #action/✔todo 
 
-
+### Action
 #action 
 - Actionable things I can do on a note
 - #action/✔todo is straightforward but this will evolve once I explore [[Plugin Exploration#^b3d766|Task Based Plugins]] 
@@ -15,12 +15,13 @@ cssclass:
 - I am yet to think about #action/❓question | #action/📌put-a-pin-on-that  | #action/🧹tidy 
 
 
+### Excalidraw
 #excalidraw 
 - Every excalidraw file is tagged with `#excalidraw`
 - All blank excalidraw files i.e. potential drawings are tagged with #excalidraw/🧻blank 
 - Every idea that I have expressed in excalidraw is tagged with #excalidraw/🖊sketch 
 
-
+### Journal
  #journal
  - The tag `#journal` in itself is not something I have used yet, might use it later at some point
  - #journal/highlight is used when I want to highlight any daily note on the calendar with a star
@@ -32,10 +33,11 @@ cssclass:
 	- #journal/euphoric → #journal/musical
 
 
+### Placeholder
 #placeholder
 - I have a lot of placeholder tags, this will be sorted out once the [[LYT Workshop 8]] is done
 
-
+### Status
 #status
 - This needs to be written well
 - I will be making changes as the workshop progresses on
@@ -48,7 +50,7 @@ cssclass:
 	- Opinion is something that I have little knowledge about & I am actively looking for knowledge in that topic
 
 
-
+### Type
 #type 
 - These are relatively straightforward & won't change much
 - #type/⌘MOC  will be added for MOC's
