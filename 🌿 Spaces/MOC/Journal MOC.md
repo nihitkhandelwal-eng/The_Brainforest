@@ -1,1 +1,11 @@
-#type/⌘MOC 
+---
+aliases:
+tags: type/⌘MOC 
+cssclass:
+---
+
+
+
+
+
+
