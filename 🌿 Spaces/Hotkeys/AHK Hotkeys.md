@@ -8,7 +8,3 @@ cssclass:
 - Activate Obsidian → Alt + O 
 - Run Quick Add → Ctrl + q
 
----
-Related:
-
-

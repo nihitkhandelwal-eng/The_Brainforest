@@ -57,7 +57,3 @@ Toggle side panel → Shift+A
 - Search browser from tag in "tag lines dialog" → Ctrl+Alt+s
 
 
----
-Related:
-
-

@@ -14,6 +14,3 @@ cssclass:
 - Refresh page → Ctrl + R
 - Search within a webpage → Ctrl + F
 
----
-
-Related:
