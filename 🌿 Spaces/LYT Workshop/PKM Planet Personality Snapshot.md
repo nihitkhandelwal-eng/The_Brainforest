@@ -6,7 +6,6 @@ cssclass:
 
 [Here is the link to retake the test](https://www.guidedtrack.com/programs/hs1xln0/run)
 
-
 ## Assessment Reports
 ### Take 1
 - Took the test on [[17-Jun-22]] 
@@ -20,3 +19,8 @@ cssclass:
 - Took the test on [[24-Jun-22]]
 - [Full Report](https://www.guidedtrack.com/programs/2tg920z/run?FirstName=Nihit&LastName=Khandelwal&DRIVER_memory=21&DRIVER_idea=17&DRIVER_output=24&DRIVER_productivity=45&DRIVER_improvement=32&DRIVER_relationship=14&STYLE_topdown=5&STYLE_bottomup=5)
 
+
+
+## PKM Indices
+
+| 17-06-22
