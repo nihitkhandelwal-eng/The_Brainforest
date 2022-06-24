@@ -1,5 +1,5 @@
 ---
-aliases: [Tag Nomenclature, Tag Taxonomy]
+aliases: [Tag Nomenclature, Tag Taxonomy, My PKM Tags]
 tags: 
 cssclass: 
 ---
