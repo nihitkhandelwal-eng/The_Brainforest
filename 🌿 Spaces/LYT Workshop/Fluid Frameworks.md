@@ -21,4 +21,6 @@ Nick describes fluid frameworks as: (in the context of MOC)
 10.  **Fluid**: Like water, MOCs can form to the changing shape of your needs.
 
 
+> Fluid frameworks are a non-essential supporting structures.
+
 
