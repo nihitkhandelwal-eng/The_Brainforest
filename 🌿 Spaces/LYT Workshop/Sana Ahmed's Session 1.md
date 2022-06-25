@@ -46,8 +46,13 @@ All of this represents your story & it is a very authentic place that you are co
 	- scientific
 	- rational
 	- techy
-### Niche topics - Notemaking
-#### Niche of One
+
+### Niche of One
+It's the place that attracts like minded people, it is really great for personal branding, not necessarily for business.
+You really need a niche if you want to offer anything, the idea of "niche of one" is a little bit broader than "niche".
+
+This is basically you building niche around yourself.
+
 
 ### The storytelling happening between your notes
 
