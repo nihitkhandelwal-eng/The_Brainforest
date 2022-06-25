@@ -32,7 +32,6 @@ Can you make note relationships between them?
 	- Mental Health
 	- Human Nature
 	- Child Psychology
-	- Relationship
 3. PKM
 	- Knowledge 
 	- Lifelong Learner
