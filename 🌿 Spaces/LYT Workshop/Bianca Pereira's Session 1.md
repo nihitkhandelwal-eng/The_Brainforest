@@ -39,6 +39,17 @@ When do I encounter *my own thoughts?*
 
 
 
-
+### What is Agile Note Making
 
 ![[Screenshot 2022-06-25 at 19.50.47.png|700]]
+
+1. It is Exploratory
+	- There is no one right way, you need to explore them on your own.
+	- **Let Ideas Be Born** as you encounter them. (eg: in the shower.
+2. It is Iterative
+	- We improve ideas on a *sprint*
+	- Take notes first & then think of improving them.
+	- Maybe choose a few ideas to improve every week.
+3. It is Practical
+	- **You need to define what is good enough** for a specific amount of time that you have.
+	- 
