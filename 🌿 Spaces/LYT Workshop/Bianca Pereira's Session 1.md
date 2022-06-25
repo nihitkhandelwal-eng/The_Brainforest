@@ -82,10 +82,10 @@ When do I encounter *my own thoughts?*
 
 
 
-
-
 ### Soup of Notes
 - No folders, no tags, no structure
 - Only ad links if they come "naturally"
 - Focus on creating [[Atomic Notes]]
 - Notice when you are "struggling"
+- [ ] Do this exercise for 2 weeks #action/✔todo 
+	- [ ] Add to Marvin
