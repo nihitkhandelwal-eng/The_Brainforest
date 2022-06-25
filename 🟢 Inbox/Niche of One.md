@@ -18,6 +18,9 @@ The goal/framework that organically ends up happening here is that **you start t
 
 
 Write down NO MORE than 4 topics that you want to be known for.
+What are the topics underneath them that make it up?
+Can you make note relationships between them?
+
 1. Rationality
 	- Objectivity
 	- Progressive Mindset
@@ -29,7 +32,7 @@ Write down NO MORE than 4 topics that you want to be known for.
 	- Knowledge 
 	- Lifelong Learner
 4. Gamification
-	- 
+	- Leveling Up
+	- Games
 
-What are the topics underneath them that make it up?
 
