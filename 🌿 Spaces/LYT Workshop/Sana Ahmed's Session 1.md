@@ -15,6 +15,9 @@ In this session we will cover the following topics of PKM for Content Creation a
 ### Main Law of Brand Building
 - It is to serve, serve you & your audience
 ### Authenticity - How do you want to stand out?
+What are you selling, is it your personality, your ideas, your stories, coaching, digital products?
+
+
 - How do you find your unique edge?
 ### Encountering YOU for Idea Emergence
 ### Niche topics - Notemaking
