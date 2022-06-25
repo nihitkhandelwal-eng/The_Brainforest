@@ -8,8 +8,7 @@ cssclass:
 - I want to share what I love with others who I love as well
 - Get my name out there.
 - I want to make money doing this.
-- It brings me accountability
-- 
+- It brings me accountability & better understanding of the things I write & think.
 
 
 
