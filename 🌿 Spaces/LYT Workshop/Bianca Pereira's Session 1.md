@@ -58,3 +58,6 @@ When do I encounter *my own thoughts?*
 ## The PKM Pyramid
 
 ![[IMG_2652.jpg|500]]
+
+### PKM Mindsets
+1. Follow the flow
