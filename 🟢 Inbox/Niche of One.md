@@ -19,9 +19,17 @@ The goal/framework that organically ends up happening here is that **you start t
 
 Write down NO MORE than 4 topics that you want to be known for.
 1. Rationality
+	- Objectivity
+	- Progressive Mindset
 2. Scientific Mindset & Scientific Curiosity
+	- Evidence Based Thinking
+	- Question Everything
+	- The Scientific Method
 3. PKM
+	- Knowledge 
+	- Lifelong Learner
 4. Gamification
+	- 
 
 What are the topics underneath them that make it up?
 
