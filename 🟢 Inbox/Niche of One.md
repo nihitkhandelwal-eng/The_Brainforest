@@ -47,3 +47,7 @@ Can you make note relationships between them?
 
 So, what started as [[My Unique Journey]] stems into 4 branches, which then stem out into multiple others & you essentially create a BRAINFOREST
 ![[Screenshot 2022-06-25 at 17.57.25.png|700]]
+
+### Anne's Perspective 
+- The stem is ABCD & then branches are ACD, ABD, BCD, ABD & so on.
+- You will have to go to the top of the tree to figure out what A is.
