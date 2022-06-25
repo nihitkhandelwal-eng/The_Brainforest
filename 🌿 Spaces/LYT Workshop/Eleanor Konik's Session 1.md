@@ -22,7 +22,7 @@ cssclass:
 
 
 
-- Take one of the things you encountered recently and consider: Why was this something you followed up on? How does it related to what you already knew & wondered about?
+- Take one of the things you encountered recently and consider: Why was this something you followed up on? How does it relate to what you already knew & wondered about?
 - Now make a note, phrased as a claim. Complete the sentence: "I learned that..."
 - Do it again, and try to figure out: how can I relate these two ideas? Force it a little, just to get in a repetition. 
 
