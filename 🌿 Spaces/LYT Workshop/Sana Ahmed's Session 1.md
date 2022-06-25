@@ -4,6 +4,13 @@ tags: LYT_Workshop
 cssclass:
 ---
 
+**Learning Objectives:**
+- Learning what it takes to build a brand
+- Finding your unique edge using Personal Philosophy
+- The concept of storytelling to develop relationships with notes
+- Using Idea Emergence to find niche topics
+- Using niche topics to build thought capital through ENCODE
+
 ### What is your goal for creating content or having a brand?
 - I want to share what I love with others who I love as well
 - Get my name out there.
@@ -51,14 +58,4 @@ All of this represents your story & it is a very authentic place that you are co
 ### Niche Topics
 I created a note called [[Niche of One]] on suggestion of Sana A. Ahmed
 
-### The storytelling happening between your notes
 
-
-
-
-**Learning Objectives:**
-- Learning what it takes to build a brand
-- Finding your unique edge using Personal Philosophy
-- The concept of storytelling to develop relationships with notes
-- Using Idea Emergence to find niche topics
-- Using niche topics to build thought capital through ENCODE
