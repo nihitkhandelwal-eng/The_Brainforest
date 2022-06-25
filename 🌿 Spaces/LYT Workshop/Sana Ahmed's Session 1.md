@@ -63,7 +63,9 @@ The goal/framework that organically ends up happening here is that **you start t
 
 Write down NO MORE than 4 topics that you want to be known for.
 1. Rationality
-2. 
+2. Scientific Mindset & Scientific Curiosity
+3. PKM
+4. 
 
 ### The storytelling happening between your notes
 
