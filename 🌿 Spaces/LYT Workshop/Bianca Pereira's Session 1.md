@@ -71,6 +71,7 @@ When do I encounter *my own thoughts?*
 	- It's hard to break down
 	- The solution is to create [[Atomic Notes]]
 		- **ONE IDEA PER NOTE**
+		- Atomic Notes free up ideas
 		- This helps us to create multiple arguments from one note
 		- One idea can be a part of multiple papers, presentations.
 3. df
