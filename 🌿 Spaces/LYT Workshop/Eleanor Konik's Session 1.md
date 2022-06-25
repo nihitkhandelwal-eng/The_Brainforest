@@ -26,4 +26,4 @@ cssclass:
 - Now make a note, phrased as a claim. Complete the sentence: "I learned that..."
 - Do it again, and try to figure out: how can I relate these two ideas? Force it a little, just to get in a repetition. 
 
-[[The Rise of Baby Panda]]
+I wrote quite a good note on  [[The Rise of Baby Panda]]
