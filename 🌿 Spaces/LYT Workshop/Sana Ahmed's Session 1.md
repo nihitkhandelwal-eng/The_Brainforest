@@ -37,9 +37,10 @@ These were not polished notes, I took them really quickly ..... [[My Unique Jour
  |  [[My Unique Journey#^09a0c9|I Grew & Developed Skills]]  |  [[My Unique Journey#^10bf43|And Now]]
 
 All of this represents your story & it is a very authentic place that you are coming from 
+### Personal Philosophy 
+
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
-### Personal Philosophy 
 
 
 
