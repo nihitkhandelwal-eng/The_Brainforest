@@ -17,6 +17,9 @@ In this session we will cover the following topics of PKM for Content Creation a
 ### Authenticity - How do you want to stand out?
 What are you selling, is it your personality, your ideas, your stories, coaching, digital products?
 
+What is your biggest barrier to branding yourself?
+- I don't think I have anything unique to sell
+- It sometimes feels manipulative
 
 - How do you find your unique edge?
 ### Encountering YOU for Idea Emergence
