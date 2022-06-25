@@ -17,7 +17,7 @@ In this session we will cover the following topics of PKM for Content Creation a
 - Encountering YOU for Idea Emergence
 - Niche topics - Notemaking
 - The storytelling happening between your notes
-- Personal Philosophy
+- Personal Philosophy 
 
 **Learning Objectives:**
 - Learning what it takes to build a brand
