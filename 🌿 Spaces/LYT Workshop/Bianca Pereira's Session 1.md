@@ -22,3 +22,8 @@ This is a [[Perfectionist Mindset]]
 **The Agile Method** → This proposes creating drops of ideas & you work with what you have & then we move that along the pipeline towards the research output. You keep doing it until a point that it can become a good waterfall.
 
 We break [[Perfectionist Mindset|Perfectionism]] by trying to do something very quickly, howsoever bad it is at the moment & then re-iterate & improve over that, this is really aligned with [[Idea Emergence]]
+
+
+### Research Encounters
+- Reading papers
+- 
