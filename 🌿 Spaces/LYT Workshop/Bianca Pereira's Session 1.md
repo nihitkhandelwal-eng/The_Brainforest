@@ -64,8 +64,6 @@ When do I encounter *my own thoughts?*
 
 
 
-
-
 ### Freewriting
 Write whatever comes to mind (Let your thoughts guide you). 
 Can't erase. Can't stop writing.
