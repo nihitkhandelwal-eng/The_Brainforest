@@ -40,13 +40,12 @@ All of this represents your story & it is a very authentic place that you are co
 ### Personal Philosophy 
 ![[Screenshot 2022-06-25 at 15.33.56.png|300]]
 
-#### I want to be known for being
-- edgy
-- funny
-- scientific
-- rational
-- techy
-- 
+- I want to be known for being
+	- edgy
+	- funny
+	- scientific
+	- rational
+	- techy
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
 
