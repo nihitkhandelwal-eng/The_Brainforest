@@ -49,9 +49,12 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 	- I felt that if she had a purpose walking on the shopping street, she might not get bored & will actually enjoy the process. So, I told her that baby panda ran away to a tree.
 	- Couple of things about baby panda
 		- He loves bamboo & he cannot differentiate between a bamboo tree & a normal tree.
-		- He speak the language bamboo, i.e. anything he doesn't know is bamboo to him.
+		- He speak the language bamboo, i.e. anything he doesn't know is bamboo to him. He is 4 months old & is learning new words every day.
 		- He loves eating, resting & dancing.
 		- Loves to climb on trees.
+	- Now, because the shopping place had 3 levels of roads & so, baby panda climbed on the tallest tree i.e. on 3rd level & all throughout the shopping marathon, while everyone was shopping, Aanya was looking for signs of baby panda. 
+	- It was raining, very cold, a walk of more than 4 kilometers but the smile & happiness after finding baby panda after 5 hours was something I am so proud of.
+	- I had to put baby panda on a bamboo tree on a rainy day for 5 hours so that everyone can have a good time including aanya.
 5. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it.
 	- She also mentioned a movie called "Harvey" (1950s), which I have added to my watchlist.
 6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
