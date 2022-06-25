@@ -25,10 +25,14 @@ Can you make note relationships between them?
 	- Objectivity
 	- Progressive Mindset
 	- Parenting
-2. Scientific Mindset & Scientific Curiosity
 	- Evidence Based Thinking
 	- Question Everything
 	- The Scientific Method
+2. Psychology & Psychiatry
+	- Mental Health
+	- Human Nature
+	- Child Psychology
+	- Relationship
 3. PKM
 	- Knowledge 
 	- Lifelong Learner
