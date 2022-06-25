@@ -22,7 +22,7 @@ cssclass:
 		- [[Signal vs Noise]]
 		- [[I Want To Make Notes Because]]
 	- [[Eleanor Konik's Session 1]]
-	- Sana Ahmed's Session 1
+	- [[Sana Ahmed's Session 1]]
 	- Bianca Pereira's Session 1
 	- Rok Sanda's Session 1
 - [Unit 1](https://forum.linkingyourthinking.com/t/unit-1-map-of-content/7847)
@@ -59,6 +59,7 @@ cssclass:
 - The 7 C's of Note Making
 
 ### Week 3
+- Events
 - [[Thought Collisions]]
 - [[Mental Squeeze Points]]
 - Maps of Content
@@ -66,6 +67,7 @@ cssclass:
 - The 11 C's of Map-Making
 
 ### Week 4
+- Events
 - Complete Your PKM System
 - Build Your Library
 - Build Your Home
