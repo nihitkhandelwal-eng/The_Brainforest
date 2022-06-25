@@ -51,6 +51,7 @@ cssclass:
 - [[PKM Planet Personality Snapshot]] & [[The PKM Planet]]
 
 ### Week 2
+- Events
 - Note-making
 - Idea Assets
 - Compounding Knowledge
