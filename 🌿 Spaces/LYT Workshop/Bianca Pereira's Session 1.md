@@ -70,3 +70,5 @@ When do I encounter *my own thoughts?*
 Write whatever comes to mind (Let your thoughts guide you). 
 Can't erase. Can't stop writing.
 
+![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]] & it was wonderful
+
