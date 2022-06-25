@@ -4,7 +4,7 @@ tags: LYT_Workshop
 cssclass:
 ---
 
-### Introduction to Agile Note Making
+
 > Research is using Critical Thinking for Knowledge Creation
 
 ![[Screenshot 2022-06-25 at 18.59.18.png|500]]
@@ -15,3 +15,8 @@ We are looking to complete a puzzle, but we don't know what we are looking for, 
 
 We also need to give structure but here is the catch, a perfectionist researcher will end up saying "I want to learn how to take notes in the proper way before I start". This is exactly who I am right now. But like Nick Milo said this on multiple occasions...    ![[The Folder Rebellion#^63632b]]
 
+### Introduction to Agile Note Making
+The Waterfall Method → This idea says that you only go to the next step when you have completely finished the first step. So all the other steps will die of starvation because you didn't move the flow of water into the other steps.
+This is a [[Perfectionist Mindset]]
+
+**The Agile Method** → This proposes creating drops of ideas & you work with what you have & then we move that along the pipeline towards the research output/
