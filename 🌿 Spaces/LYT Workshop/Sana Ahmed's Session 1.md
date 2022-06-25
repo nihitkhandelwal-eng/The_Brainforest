@@ -21,8 +21,12 @@ What is your biggest barrier to branding yourself?
 - I don't think I have anything unique to sell
 - It sometimes feels manipulative
 
+**Authenticity is your unique edge**
 - How do you find your unique edge?
+	- It is based on [[The Sensemaking Loop]]
+
 ### Encountering YOU for Idea Emergence
+
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
 ### Personal Philosophy 
