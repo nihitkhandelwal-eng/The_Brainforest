@@ -19,4 +19,6 @@ We also need to give structure but here is the catch, a perfectionist researcher
 The Waterfall Method → This idea says that you only go to the next step when you have completely finished the first step. So all the other steps will die of starvation because you didn't move the flow of water into the other steps.
 This is a [[Perfectionist Mindset]]
 
-**The Agile Method** → This proposes creating drops of ideas & you work with what you have & then we move that along the pipeline towards the research output/
+**The Agile Method** → This proposes creating drops of ideas & you work with what you have & then we move that along the pipeline towards the research output. You keep doing it until a point that it can become a good waterfall.
+
+We break [[Perfectionist Mindset|Perfectionism]] by trying to do something very quickly, howsoever bad it is at the moment & then re-iterate & improve over that, this is really aligned with [[Idea Emergence]]
