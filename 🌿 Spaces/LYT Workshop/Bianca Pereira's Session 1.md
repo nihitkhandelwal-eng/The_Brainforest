@@ -64,17 +64,19 @@ When do I encounter *my own thoughts?*
 	- Free writing  ^82c9fc
 		- Write whatever comes to mind (Let your thoughts guide you). 
 		- Can't erase. Can't stop writing.
-	- Sometimes there is nothing coming out of free writing but the idea is to keep doing it & let seredipity work it's way
+	- Sometimes there is nothing coming out of free writing but the idea is to keep doing it & let seredipity work it's way.
+		- We really need to embrace the idea of atomic notes so that ![[#^febd99]]
+			- While trying to [[#^0d0743|extract ideas from a document]] there will be moments where you will be like, "Ahh Well, I don't care about that" & some of them are "Well, I do want to explore them more later, so I want them to have their own notes"
 	- Using the app [Squibler](https://www.squibler.io/dangerous-writing-prompt-app)
 		- ![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]]
-2. Write Ideas, not Documents
+2. Write Ideas, not Documents ^0d0743
 	- The problem is that our ideas are trapped in a very complex argument. 
 	- It's hard to break down
 	- The solution is to create [[Atomic Notes]]
 		- **ONE IDEA PER NOTE**
 		- Atomic Notes free up ideas
 		- This helps us to create multiple arguments from one note
-		- One idea can be a part of multiple papers, presentations.
+		- One idea can be a part of multiple papers, presentations. ^febd99
 		- Go through your [[#^82c9fc|Free Writing]] & select paragraphs/ideas & use the note refactor to create a new note.
 3. df
 
