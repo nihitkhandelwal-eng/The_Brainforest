@@ -28,8 +28,8 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 		- Then we got into the whole lesson about why pandas are vulnerable & at one time were endangered.
 		- So, she understands the concept that, because humans are expanding, the natural habitats are reducing for animals & insects.
 		- Everytime she is scared of an ant, she says "Hey baby ant, it's okay, this was your home once, but can you please go outside in the grass?"
-		- 
 3. She sleeps better
+	- Hugs the panda very strongly & more important, wakes up while hugging it.
 4. While we were on the trip, we went to Shimla, the main attraction there is shopping & food. Aanya does not like shopping & has limited non-spicy taste in food, so I was trying to figure out how can I keep her calm & entertained, so that others can enjoy. Here came baby panda to rescue.
 	- I felt that if she had a purpose walking on the shopping street, she might not get bored & will actually enjoy the process. So, I told her that baby panda ran away to a tree.
 	- Couple of things about baby panda
