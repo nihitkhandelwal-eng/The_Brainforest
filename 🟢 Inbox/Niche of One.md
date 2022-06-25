@@ -43,3 +43,6 @@ Can you make note relationships between them?
 
 
 **Now, can you connect AB, AD or BC, CD & then ABC, ABD, ACD, BCD & eventually ABCD?**
+
+So, what started as [[My Unique Journey]] stems into 4 branches, which then stem out into multiple others & you essentially create a BRAINFOREST
+![[Screenshot 2022-06-25 at 17.55.17.png|700]]
