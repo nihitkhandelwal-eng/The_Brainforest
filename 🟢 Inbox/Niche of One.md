@@ -42,3 +42,4 @@ Can you make note relationships between them?
 	- How to hack yourself to enjoy what you do?
 
 
+**Now, can you connect AB, AD or BC, CD & then ABC, ABD, ACD, BCD & eventually ABCD?**
