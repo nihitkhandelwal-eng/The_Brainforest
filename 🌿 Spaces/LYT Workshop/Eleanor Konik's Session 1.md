@@ -31,7 +31,8 @@ I wrote quite a good note on  [[The Rise of Baby Panda]]
 ### How to Ignite the spark?
 If you want to get better at igniting the spark, the exercises will help.
 
-One I like to do as an exercise is look at the objects in my room, then state two facts: “I have 10 matching green pens next to my desk.” “My desk has two monitors.”
+> One I like to do as an exercise is look at the objects in my room, then state two facts: “I have 10 matching green pens next to my desk.” “My desk has two monitors.”
+> \- Eleanor Konik
 
 What insight might someone glean from that, if they were passing my by room and noticed?
 
