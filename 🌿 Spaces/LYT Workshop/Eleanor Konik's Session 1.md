@@ -26,3 +26,17 @@ cssclass:
 - Do it again, and try to figure out: how can I relate these two ideas? Force it a little, just to get in a repetition. 
 
 I wrote quite a good note on  [[The Rise of Baby Panda]]
+
+
+### How to Ignite the spark?
+If you want to get better at igniting the spark, the exercises will help.
+
+One I like to do as an exercise is look at the objects in my room, then state two facts: “I have 10 matching green pens next to my desk.” “My desk has two monitors.”
+
+What insight might someone glean from that, if they were passing my by room and noticed?
+
+It might not be true, but it might be reasonable to say, “Eleanor spends a lot of time writing at her desk.”
+
+After all, it’s not just a laptop in a dusty room, I have matching pens instead of just a random collection of whatever pens I picked up from events, so perhaps I bought them on purpose, which means I prioritize having that specific pen, which probably means I care about writing in a way that the average person doesn’t… Generally having two monitors instead of just one is associated with computer “power users” but since I have all those pens, I’m probably not a computer programmer or video editor… I’m probably a writer.
+
+Fact, fact, insight.
