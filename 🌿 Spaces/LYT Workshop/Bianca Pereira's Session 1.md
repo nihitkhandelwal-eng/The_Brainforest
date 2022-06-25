@@ -64,6 +64,7 @@ When do I encounter *my own thoughts?*
 	- Relevant exercise → Free writing
 		- Write whatever comes to mind (Let your thoughts guide you). 
 		- Can't erase. Can't stop writing.
+	- Sometimes there is nothing coming out of free writing but the idea is to keep doing it & let seredipity work it's way
 	- Using the app [Squibler](https://www.squibler.io/dangerous-writing-prompt-app)
 		- ![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]]
 2. Write Ideas, not Documents
