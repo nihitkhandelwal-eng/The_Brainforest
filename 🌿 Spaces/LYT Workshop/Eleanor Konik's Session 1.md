@@ -38,7 +38,7 @@ Baby panda was born out of sheer boredom, she was getting bored in the car ride 
 - Does this kind of upbringing have any negative consequences? [[#^64cc0a|Anne says this]]
 
 
-##### Analogies
+##### I learnt
 I have been thinking about this panda concept a lot. A bunch of analogies & references came to mind while doing that.
 1. Vihaan reminded me of the invisible friends episode from boss baby. That was an AHA moment. I didn't realize how much of a genius I was, I absolutely did not have any inspiration from boss baby. I came up with my own idea to do wonders for a kid.
 2. Giving her baby panda has it's psychological perks
@@ -65,13 +65,11 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 	- I had to put baby panda on a bamboo tree on a rainy day for 5 hours so that everyone can have a good time including aanya.
 5. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it. ^64cc0a
 	- She also mentioned a movie called "Harvey" (1950s), which I have added to my watchlist.
-6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
+6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead ^6zzogg
 	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
 
 
-
-
 ##### Similar thoughts
-This reminds me of the pets thing in gamification system that conrad designed & also religion.
+This reminds me of the pets thing in gamification system that conrad designed & also [[Eleanor Konik's Session 1#^6zzogg|religion]] about which I might wanna talk about more, but some other time.
 
 I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
