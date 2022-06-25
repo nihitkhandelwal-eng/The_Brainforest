@@ -12,14 +12,17 @@ cssclass:
 
 
 In this session we will cover the following topics of PKM for Content Creation and Branding:
-- Main Law of Brand Building
-	- It is to serve, serve you & your audience
-- Authenticity - How do you want to stand out?
-	- How do you find your unique edge?
-- Encountering YOU for Idea Emergence
-- Niche topics - Notemaking
-- The storytelling happening between your notes
-- Personal Philosophy 
+### Main Law of Brand Building
+- It is to serve, serve you & your audience
+### Authenticity - How do you want to stand out?
+- How do you find your unique edge?
+### Encountering YOU for Idea Emergence
+### Niche topics - Notemaking
+### The storytelling happening between your notes
+### Personal Philosophy 
+
+
+
 
 **Learning Objectives:**
 - Learning what it takes to build a brand
