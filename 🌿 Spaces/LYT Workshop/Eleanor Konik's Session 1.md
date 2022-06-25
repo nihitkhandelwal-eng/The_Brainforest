@@ -32,6 +32,12 @@ I came up with the concept of imaginary friends for aanya, like baby panda, baby
 
 Baby panda was born out of sheer boredom, she was getting bored in the car ride from gurgaon to chandigarh & to make things interesting, I created the cutest thing I could imagine. 
 
+##### I wonder
+- Kids of what age let go of such things, Vihaan is 11 & he participates in the conversation about baby panda but it is mostly for fun & for his sister.
+- What goes on in a kids mind when all of this is happening?
+- Does this i
+
+
 ##### Analogies
 I have been thinking about this panda concept a lot. A bunch of analogies & references came to mind while doing that.
 1. Vihaan reminded me of the invisible friends episode from boss baby. That was an AHA moment. I didn't realize how much of a genius I was, I absolutely did not have any inspiration from boss baby. I came up with my own idea to do wonders for a kid.
@@ -63,10 +69,9 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
 
 
-##### I wonder
 
 
 ##### Similar thoughts
 This reminds me of the pets thing in gamification system that conrad designed & also religion.
 
-I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
+I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be 
