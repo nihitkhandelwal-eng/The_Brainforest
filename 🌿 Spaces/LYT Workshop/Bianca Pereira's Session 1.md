@@ -13,5 +13,5 @@ Researchers are always swimming in a sea of uncertainity. So the job is to creat
 
 We are looking to complete a puzzle, but we don't know what we are looking for, so we need to look for possible pieces & see if they fit to create a puzzle.
 
-
+We also need to give structure but here is the catch, a perfectionist researcher will end up saying "I want to learn how to take notes in the proper way before I start". This is exactly who I am right now. But like Nick Milo said this on multiple occasions...    ![[The Folder Rebellion#^63632b]]
 

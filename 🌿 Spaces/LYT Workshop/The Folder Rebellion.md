@@ -29,4 +29,6 @@ A “folders first” approach encourages rigid thinking.
 
 > Structure has to be earned!
 
+^63632b
+
 If you find yourself thinking more than once that, “a folder would be perfect here,” then that’s your cue to try one out, and see if it can earn a long-term role.
