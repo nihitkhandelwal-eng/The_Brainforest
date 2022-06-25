@@ -48,6 +48,8 @@ All of this represents your story & it is a very authentic place that you are co
 	- techy
 
 ### Niche of One
+![[Screenshot 2022-06-25 at 17.28.09.png|300]]
+
 It's the place that attracts like minded people, it is really great for personal branding, not necessarily for business.
 You really need a niche if you want to offer anything, the idea of "niche of one" is a little bit broader than "niche".
 
