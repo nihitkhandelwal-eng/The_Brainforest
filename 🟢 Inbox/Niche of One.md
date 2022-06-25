@@ -18,7 +18,6 @@ Somebody who shares ideas. You use one piece of content to share one idea & you 
 
 The goal/framework that organically ends up happening here is that **you start to occupy the mind of a topic, but no more than 4 topics**
 
-
 Write down NO MORE than 4 topics that you want to be known for.
 What are the topics underneath them that make it up?
 Can you make note relationships between them?
