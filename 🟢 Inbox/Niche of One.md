@@ -24,6 +24,7 @@ Can you make note relationships between them?
 1. Rationality
 	- Objectivity
 	- Progressive Mindset
+	- Parenting
 2. Scientific Mindset & Scientific Curiosity
 	- Evidence Based Thinking
 	- Question Everything
@@ -31,8 +32,10 @@ Can you make note relationships between them?
 3. PKM
 	- Knowledge 
 	- Lifelong Learner
+	- Thinking
 4. Gamification
 	- Leveling Up
-	- Games
+	- Games for Life
+	- How to hack yourself to enjoy what you do?
 
 
