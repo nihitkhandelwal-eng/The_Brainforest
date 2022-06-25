@@ -45,9 +45,13 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 		- Everytime she is scared of an ant, she says "Hey baby ant, it's okay, this was your home once, but can you please go outside in the grass?"
 		- 
 3. She sleeps better
-4. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it.
+4. While we were on the trip, we went to Shimla, the main attraction there is shopping & food. Aanya does not like shopping & has limited non-spicy taste in food, so I was trying to figure out how can I keep her calm & entertained, so that others can enjoy. Here came baby panda to rescue.
+	- I felt that if she had a purpose walking on the shopping street, she might not get bored & will actually enjoy the process. So, I told her that baby panda ran away to a tree.
+	- Couple of things about baby panda
+		- He loves bamboo & he cannot differentiate between a bamboo tree & a normal tree
+5. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it.
 	- She also mentioned a movie called "Harvey" (1950s), which I have added to my watchlist.
-5. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
+6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
 	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
 
 This reminds me of the pets thing in gamification system that conrad designed & also religion.
