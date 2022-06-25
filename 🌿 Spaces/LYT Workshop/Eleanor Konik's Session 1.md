@@ -27,10 +27,12 @@ cssclass:
 - Do it again, and try to figure out: how can I relate these two ideas? Force it a little, just to get in a repetition. 
 
 
+#### The story
 I came up with the concept of imaginary friends for aanya, like baby panda, baby horsey, baby buffalo & baby puppy. This was all organic, I did not plan about doing it. I give her horsey rides, so horsey was born inside E-004. I created baby buffalo, because that seemed funny. Baby puppy was born because I want her not to be afraid of dogs & puppies, so giving her a pet might help.
 
 Baby panda was born out of sheer boredom, she was getting bored in the car ride from gurgaon to chandigarh & to make things interesting, I created the cutest thing I could imagine. 
 
+##### Analogies
 I have been thinking about this panda concept a lot. A bunch of analogies & references came to mind while doing that.
 1. Vihaan reminded me of the invisible friends episode from boss baby. That was an AHA moment. I didn't realize how much of a genius I was, I absolutely did not have any inspiration from boss baby. I came up with my own idea to do wonders for a kid.
 2. Giving her baby panda has it's psychological perks
@@ -60,6 +62,11 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
 	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
 
+
+##### I wonder
+
+
+##### Similar thoughts
 This reminds me of the pets thing in gamification system that conrad designed & also religion.
 
 I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
