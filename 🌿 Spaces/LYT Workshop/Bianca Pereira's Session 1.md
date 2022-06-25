@@ -61,3 +61,12 @@ When do I encounter *my own thoughts?*
 
 ### PKM Mindsets
 1. Follow the flow
+
+
+
+
+
+### Freewriting
+Write whatever comes to mind (Let your thoughts guide you). 
+Can't erase. Can't stop writing.
+
