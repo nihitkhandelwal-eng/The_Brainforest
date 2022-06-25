@@ -38,7 +38,7 @@ These were not polished notes, I took them really quickly ..... [[My Unique Jour
 
 All of this represents your story & it is a very authentic place that you are coming from 
 ### Personal Philosophy 
-
+![[Screenshot 2022-06-25 at 15.33.56.png|300]]
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
 
