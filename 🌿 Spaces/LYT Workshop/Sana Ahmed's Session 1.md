@@ -15,9 +15,9 @@ In this session we will cover the following topics of PKM for Content Creation a
 - Laws of Brand Building
 - Authenticity - How do you want to stand out?
 - Encountering YOU for Idea Emergence
-- Personal Philosophy
 - Niche topics - Notemaking
 - The storytelling happening between your notes
+- Personal Philosophy
 
 **Learning Objectives:**
 - Learning what it takes to build a brand
