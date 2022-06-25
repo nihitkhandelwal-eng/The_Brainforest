@@ -39,4 +39,6 @@ When do I encounter *my own thoughts?*
 
 
 
+
+
 ![[Screenshot 2022-06-25 at 19.50.47.png|700]]
