@@ -21,3 +21,5 @@ cssclass:
 7. Take Note!
 
 
+
+- Take one of the things you encountered recently and consider: Why was this
