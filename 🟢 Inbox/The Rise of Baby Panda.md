@@ -47,7 +47,7 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 
 
 ##### Similar thoughts
-This reminds me of the pets thing in gamification system that conrad designed & also [[Eleanor Konik's Session 1#^6zzogg|religion]] about which I might wanna talk about more, but some other time.
+This reminds me of the pets thing in gamification system that conrad designed & also [[^^6zzogg|religion]] about which I might wanna talk about more, but some other time.
 
 I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
 
