@@ -52,6 +52,9 @@ cssclass:
 
 
 ### I Met People & Did things?
+
+^a15e04
+
 - What notable group or activities were you part of?
 	- Part of Co-x3 these days. 
 	- Very much into the PKM space
@@ -62,6 +65,9 @@ cssclass:
 		- Relationships went wrong
 
 ### I grew & developed skills
+
+^09a0c9
+
 - What skills did you develop?
 	- I am a very good teacher, I think.
 	- I have a really good sense of humor
@@ -81,6 +87,9 @@ cssclass:
 
 
 ### And Now...
+
+^10bf43
+
 - Living in gurgaon, with Mami & the kids, sitting on a wonderful chair which Mama brought because I am apparently a prince with high needs.
 - It's very nice here
 - **Trying to regain my lean forward thinking mindset, which I am sure was a reality.**

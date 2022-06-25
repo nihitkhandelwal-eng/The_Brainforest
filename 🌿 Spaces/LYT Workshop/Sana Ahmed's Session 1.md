@@ -33,7 +33,8 @@ But it can be difficult for people who haven't done it for years.
 Encountering yourself as a means to uncovering who you are is a great way to begin, even if you feel that you are authentic.
 
 Revisit & develop on the notes from [[Super Session 1]] & connect them to tell the stories from here that you can tell to your audience that will make them want to connect with you. 
-These were not polished notes, I took them really quickly ..... [[My Unique Journey#^58302d|In The Beginning]]  |  [[My Unique Journey#^9ece07|I Went On A Journey]] |   
+These were not polished notes, I took them really quickly ..... [[My Unique Journey#^58302d|In The Beginning]]  |  [[My Unique Journey#^9ece07|I Went On A Journey]] |  [[My Unique Journey#^a15e04|I Met People & Did Things]]
+ |  [[My Unique Journey#^09a0c9|I Grew & Developed Skills]]  |  [[My Unique Journey#^10bf43|And Now]]
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
 ### Personal Philosophy 
