@@ -4,12 +4,6 @@ tags:
 cssclass: 
 ---
 
-I wrote a 1000 word story for myself while watching the recording, It's not relevant to the discussion here, it revolves around imaginary friends, pandas & kids. But this is a big thing for me, I really found the prompts very helpful!
-
-[details="Key Characters"]
-Aanya & Vihaan are my cousins. She is 5 & He is 11
-We went on a trip recently & that's where the story begins.
-[/details]
 
 #### The story
 I came up with the concept of imaginary friends for aanya, like baby panda, baby horsey, baby buffalo & baby puppy. This was all organic, I did not plan about doing it. I give her horsey rides, so horsey was born inside E-004 (our flat number). I created baby buffalo, because that seemed funny. Baby puppy was born because I want her not to be afraid of dogs & puppies, so giving her a pet might help.
