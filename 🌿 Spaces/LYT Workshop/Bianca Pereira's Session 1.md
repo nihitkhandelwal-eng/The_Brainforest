@@ -61,7 +61,7 @@ When do I encounter *my own thoughts?*
 
 ### PKM Mindsets
 1. Follow the flow
-	- Relevant exercise → Free writing
+	- Free writing  ^82c9fc
 		- Write whatever comes to mind (Let your thoughts guide you). 
 		- Can't erase. Can't stop writing.
 	- Sometimes there is nothing coming out of free writing but the idea is to keep doing it & let seredipity work it's way
@@ -75,6 +75,7 @@ When do I encounter *my own thoughts?*
 		- Atomic Notes free up ideas
 		- This helps us to create multiple arguments from one note
 		- One idea can be a part of multiple papers, presentations.
+		- Go through your [[#^82c9fc|Free Writing]] & select paragraphs/ideas & use the note refactor to create a new note.
 3. df
 
 
