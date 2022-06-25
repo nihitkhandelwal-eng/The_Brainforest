@@ -67,6 +67,13 @@ When do I encounter *my own thoughts?*
 	- Using the app [Squibler](https://www.squibler.io/dangerous-writing-prompt-app)
 		- ![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]]
 2. Write Ideas, not Documents
+	- The problem is that our ideas are trapped in a very complex argument. 
+	- It's hard to break down
+	- The solution is to create [[Atomic Notes]]
+		- **ONE IDEA PER NOTE**
+		- This helps us to create multiple arguments from one note
+		- One idea can be a part of multiple papers, presentations.
+3. df
 
 
 
