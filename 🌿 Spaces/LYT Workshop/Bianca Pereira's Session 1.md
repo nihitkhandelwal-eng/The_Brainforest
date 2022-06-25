@@ -87,7 +87,6 @@ When do I encounter *my own thoughts?*
 	- [ ] Add to Marvin
 
 
-
 ### Write in your own words
 What does this mean?
 
