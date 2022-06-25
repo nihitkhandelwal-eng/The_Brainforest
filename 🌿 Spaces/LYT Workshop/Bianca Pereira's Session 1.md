@@ -61,12 +61,15 @@ When do I encounter *my own thoughts?*
 
 ### PKM Mindsets
 1. Follow the flow
+	- Relevant exercise → Free writing
+		- Write whatever comes to mind (Let your thoughts guide you). 
+		- Can't erase. Can't stop writing.
+	- Using the app [Squibler](https://www.squibler.io/dangerous-writing-prompt-app)
+		- ![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]]
+2. Write Ideas, not Documents
 
 
 
-### Freewriting
-Write whatever comes to mind (Let your thoughts guide you). 
-Can't erase. Can't stop writing.
 
-![[25-Jun-22#The Most Dangerous Writing App|I wrote for 10 minutes]] 
+
 
