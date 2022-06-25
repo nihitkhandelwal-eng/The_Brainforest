@@ -44,6 +44,8 @@ All of this represents your story & it is a very authentic place that you are co
 - edgy
 - funny
 - scientific
+- rational
+- techy
 - 
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
