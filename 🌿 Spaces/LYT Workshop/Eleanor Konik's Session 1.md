@@ -22,4 +22,6 @@ cssclass:
 
 
 
-- Take one of the things you encountered recently and consider: Why was this
+- Take one of the things you encountered recently and consider 
+  Why was this something you followed up on?
+  How does it related to what you already knew & wondered about
