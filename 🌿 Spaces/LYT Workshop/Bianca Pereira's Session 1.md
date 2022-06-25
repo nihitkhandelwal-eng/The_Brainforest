@@ -85,3 +85,14 @@ When do I encounter *my own thoughts?*
 - Notice when you are "struggling"
 - [ ] Do this exercise for 2 weeks #action/✔todo 
 	- [ ] Add to Marvin
+
+
+
+### Write in your own words
+What does this mean?
+
+Write your own thoughts about what you read.
+What are your insights?
+What is it connected to?
+What does it actually mean?
+What did I understood from that?
