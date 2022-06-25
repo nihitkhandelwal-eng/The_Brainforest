@@ -45,6 +45,10 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 		- Everytime she is scared of an ant, she says "Hey baby ant, it's okay, this was your home once, but can you please go outside in the grass?"
 		- 
 3. She sleeps better
-4. I talked to Anne about it. 
+4. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it.
+5. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
+	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
 
-This reminds me of the pets thing in gamification system that conrad designed.
+This reminds me of the pets thing in gamification system that conrad designed & also religion
+
+I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
