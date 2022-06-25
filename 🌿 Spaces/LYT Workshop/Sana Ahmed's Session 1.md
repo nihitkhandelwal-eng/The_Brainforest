@@ -47,6 +47,8 @@ All of this represents your story & it is a very authentic place that you are co
 	- rational
 	- techy
 ### Niche topics - Notemaking
+#### Niche of One
+
 ### The storytelling happening between your notes
 
 
