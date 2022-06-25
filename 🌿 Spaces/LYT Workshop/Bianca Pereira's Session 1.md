@@ -25,5 +25,15 @@ We break [[Perfectionist Mindset|Perfectionism]] by trying to do something very 
 
 
 ### Research Encounters
+When do I encounter *my own thoughts?*
 - Reading papers
+- Analyzing the result of an experiment
+- While talking to research participants
+- While collaborating
+- In shower
+- On the toilet
+- LYT discussions
+- When something doesn't make sense
+- With Aanya
+- While explaining something to someone
 - 
