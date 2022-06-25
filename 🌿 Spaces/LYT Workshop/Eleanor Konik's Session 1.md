@@ -35,7 +35,7 @@ Baby panda was born out of sheer boredom, she was getting bored in the car ride 
 ##### I wonder
 - Kids of what age let go of such things, Vihaan is 11 & he participates in the conversation about baby panda but it is mostly for fun & for his sister.
 - What goes on in a kids mind when all of this is happening?
-- Does this i
+- Does this kind of upbringing have any negative consequences? [[#^64cc0a|Anne says this]]
 
 
 ##### Analogies
@@ -63,7 +63,7 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 	- Now, because the shopping place had 3 levels of roads & so, baby panda climbed on the tallest tree i.e. on 3rd level & all throughout the shopping marathon, while everyone was shopping, Aanya was looking for signs of baby panda. 
 	- It was raining, very cold, a walk of more than 4 kilometers but the smile & happiness after finding baby panda after 5 hours was something I am so proud of.
 	- I had to put baby panda on a bamboo tree on a rainy day for 5 hours so that everyone can have a good time including aanya.
-5. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it.
+5. I talked to Anne about it. I wanted to know if I was doing too much of this imaginary friend thing. She said "as long as she knows how to put the baby animals aside & has a sense of boundary, it's alright". She also mentioned that, kids know that it is not real, but because it gives them a secure feeling in a world that can get overwhleming, they subconsciously hang on to it. ^64cc0a
 	- She also mentioned a movie called "Harvey" (1950s), which I have added to my watchlist.
 6. If you are religious & are not comfortable with criticism/jokes about religion, please don't read ahead
 	- Out of 7 billion people in this world, a big majority is religious, they all have imaginary friends till they die. Some of them have multiple friends. Almost all of them get offended by anything critical of their friend & yet they laugh when a 4-6 year old kid does that. How pathetic!
@@ -74,4 +74,4 @@ I have been thinking about this panda concept a lot. A bunch of analogies & refe
 ##### Similar thoughts
 This reminds me of the pets thing in gamification system that conrad designed & also religion.
 
-I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be 
+I learned that if kids are exposed to anything in a good story format, they can not only learn from that but derive a good sense of entertainment from something most adults find silly. They are basically moulds & if given the right direction, the results can be astounding.
