@@ -22,7 +22,9 @@ cssclass:
 		- [[Signal vs Noise]]
 		- [[I Want To Make Notes Because]]
 	- [[Eleanor Konik's Session 1]]
+		- [[The Rise of Baby Panda]]
 	- [[Sana Ahmed's Session 1]]
+		- [[Niche of One]]
 	- Bianca Pereira's Session 1
 	- Rok Sanda's Session 1
 - [Unit 1](https://forum.linkingyourthinking.com/t/unit-1-map-of-content/7847)
