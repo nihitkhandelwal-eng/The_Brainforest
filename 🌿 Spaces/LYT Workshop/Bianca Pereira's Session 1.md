@@ -53,4 +53,4 @@ When do I encounter *my own thoughts?*
 3. It is Practical
 	- **You need to define what is good enough** for a specific amount of time that you have.
 	- Our research needs to be high quality but it needs to be done in the first place.
-	- 
+
