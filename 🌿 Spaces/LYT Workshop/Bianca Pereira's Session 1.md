@@ -36,4 +36,7 @@ When do I encounter *my own thoughts?*
 - When something doesn't make sense
 - With Aanya
 - While explaining something to someone
+
+
+
 - 
