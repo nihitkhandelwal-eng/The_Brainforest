@@ -55,7 +55,6 @@ When do I encounter *my own thoughts?*
 	- Our research needs to be high quality but it needs to be done in the first place.
 
 
-## The PKM Pyramid
 
 ![[IMG_2652.jpg|500]]
 
@@ -77,10 +76,7 @@ When do I encounter *my own thoughts?*
 		- Atomic Notes free up ideas
 		- This helps us to create multiple arguments from one note
 		- One idea can be a part of multiple papers, presentations. ^febd99
-		- Go through your [[#^82c9fc|Free Writing]] & select paragraphs/ideas & use the note refactor to create a new note.
-3. df
-
-
+		- Go through your [[#^82c9fc|Free Writing]] & select paragraphs/ideas & use the note refactor to create a new note.\
 
 ### Soup of Notes
 - No folders, no tags, no structure
