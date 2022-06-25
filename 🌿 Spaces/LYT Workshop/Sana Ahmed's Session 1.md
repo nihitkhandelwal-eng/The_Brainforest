@@ -25,6 +25,10 @@ What is your biggest barrier to branding yourself?
 - How do you find your unique edge?
 	- It is based on [[The Sensemaking Loop]]
 
+Auhenticity is a daily practice, it's not easy to do if you are not in the habit of doing it.
+I personally don't feel that way, because for the majority of who I am, it is transparent to everyone, I don’t act around.
+But it can be difficult for people who haven't done it for years.
+
 ### Encountering YOU for Idea Emergence
 
 ### Niche topics - Notemaking
