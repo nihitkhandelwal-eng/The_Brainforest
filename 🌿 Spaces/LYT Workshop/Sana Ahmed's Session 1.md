@@ -30,7 +30,7 @@ I personally don't feel that way, because for the majority of who I am, it is tr
 But it can be difficult for people who haven't done it for years.
 
 ### Encountering YOU for Idea Emergence
-
+Encountering yourself as a means to uncovering who you are is a great way to begin, even if you feel that you are authentic.
 ### Niche topics - Notemaking
 ### The storytelling happening between your notes
 ### Personal Philosophy 
