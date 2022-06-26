@@ -17,6 +17,7 @@ cssclass:
 	- My earliest memory is when I revolted against religion at home
 	- I have done it countless times ever since, I did it for patriarchy, brahminical patriarchy, rise of the right wing.
 
+I did this as part of the LYT Workshop as suggested by Nick in [[Super Session 2]]
 
 
 
