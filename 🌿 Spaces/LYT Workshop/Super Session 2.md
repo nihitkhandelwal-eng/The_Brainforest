@@ -83,3 +83,7 @@ It is an intentional version of [[#Sense Making]]
 ### Wu wei
 A concept literally meaning "inexertionm, inaction or effortless action". Alan watts called Wu wei not forcing. It is the art of sailing, rather than the art of rowing.
 
+- What does this remind me of?
+	- 
+- What is this similar to, and different from? 
+- When have I experienced this thing in my life?
