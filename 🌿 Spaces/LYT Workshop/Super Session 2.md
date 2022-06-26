@@ -68,13 +68,13 @@ CODE is where linear part of the process goes away, it's a non linear process, a
 
 
 ### The 7 C's of Note Making
-### Some prompts for Note Making
-- What does this remind me of?
-- What is this similar to, and different from? 
-- When have I experienced this thing in my life?
 
 ### Sense Making
 It is us trying to make sense of the world
 It is something that we cannot escape from, it is us being the fish, swimming in water. It's what we do.
 ### Note Making
 It is an intentional version of [[#Sense Making]]
+#### Some prompts for Note Making
+- What does this remind me of?
+- What is this similar to, and different from? 
+- When have I experienced this thing in my life?
