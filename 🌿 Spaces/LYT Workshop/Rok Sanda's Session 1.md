@@ -115,3 +115,9 @@ Select of of them
 
 
 ### Exercise 4
+Now you have 3 minutes to change the story into an original text 
+Maybe steal from that list you wrote in the beginning 
+	Something lights a spark 
+Turn your Icelandic tail into your hamlet 
+Romeo and Juliet into West Side Story
+
