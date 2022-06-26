@@ -67,7 +67,7 @@ It's okay for me to write horrible stuff because I am just exercising my writing
 ### Snowflake
 You indeed are a special snowflake. This relates back to [[My Unique Journey]]
 
-
+## Exercise
 ### Exercise 1
 Make a list of films, tv shows, books etc... that inspire you
 	It needs to contain a story
@@ -86,13 +86,11 @@ Make a list of films, tv shows, books etc... that inspire you
 - Aaonga Na Jaaonga
 - Daniels Sloss's Jigsaw
 
-
 ### Exercise 2
 Select three of those pieces of art that make your heart and/or mind the most excited 
 write it out in a sentence for each text 
 	9 words maximum for each 
 	don't think too much you don't have enough time for that
-
 
 - Better Call Saul
 	- Jimmy McGill to Saul Goodman, Darker Shades Emerge
@@ -100,3 +98,13 @@ write it out in a sentence for each text
 	- Man alone on Mars. Solitude is beautiful.
 - The Office
 	- An American Workplace & Hilarious Staff With Eccentricities. 
+
+
+### Exercise 3
+Select of of them
+	maybe the one for which the sentence came easiest
+	write the structure of the text 
+		maximum 5 lines of five words in each line
+
+- The Martian
+- 
