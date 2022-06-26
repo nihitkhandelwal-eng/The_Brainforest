@@ -4,14 +4,18 @@ tags:
 cssclass:
 ---
 
-- What does this remind me of?
+- Color → What does this remind me of?
 	- Democracy
 	- Idealism
 	- Privilege
 	- Critical Thinking
 	- Double Standards
 - Clarify
-	- 
+	- When you have a criticism about anything, it is best practice to try & criticize at home, home here means your loved ones
+	- But, the literal meaning of home is also a brilliant place to start.
+	- It's easier to criticize others & excuse your loved ones.
+- Color 
+	- Don't have double standards
 - What is this similar to, and different from?
 	- Similar to Privilege, because the ability to revolt at home comes with privilege, different because most privileged adults don't come anywhere close the word revolt.
 	- Similar to Democracy, because if you are critical of others, you should be critical of your loved ones for the same thing, as everyone is equal, different because democracy won't save revolutions but revolutions might just save democracies 
