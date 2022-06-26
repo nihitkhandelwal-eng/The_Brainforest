@@ -92,3 +92,11 @@ Select three of those pieces of art that make your heart and/or mind the most ex
 write it out in a sentence for each text 
 	9 words maximum for each 
 	don't think too much you don't have enough time for that
+
+
+- Better Call Saul
+	- Jimmy McGill to Saul Goodman, Darker Shades Emerge
+- The Martian
+	- Man alone on Mars. Solitude is beautiful.
+- The Office
+	- An American Workplace & Hilarious Staff With Eccentricities. 
