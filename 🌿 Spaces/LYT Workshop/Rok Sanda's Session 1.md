@@ -48,3 +48,7 @@ You need to read what you're writing, otherwise how are you going to get out of 
 
 The term reading here is not just for reading books or texts, it's basically everything around you. Even going to the beach is "reading" if you are conscious about it & if you write something about it.
 
+If you are in writing films, you shouldn't just watch movies, you should read screenplays.
+
+
+#### Feedback
