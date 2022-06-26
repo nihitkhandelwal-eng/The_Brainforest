@@ -25,6 +25,12 @@ Guided Session in Creative Writing
 ### Problem Statement & Cure
 There are 2 types of would-be writers:
 - Those that think everything they write is *worthless*
-	- Learn to ignore that voice
 - Those that think everything they write is *priceless*
-	- Learn to ignore that voice
+
+The cure would be 
+- Learn to ignore that voice especially while writing the first draft because then you kill the flame.
+- This voice is not useless, it's not useful while you are writing your first draft, it's helpful while revising it.
+
+
+### Three Pillars of Writing
+3 pillars of writing on which the creative writing as an art form stands.
