@@ -23,7 +23,7 @@ It is [[My Spark List|The Spark List]]. So, I'll be looking at [[My Spark List#K
 ### Knowledge Management
 We can collect things & we can create things. We should spend time doing both. However in the [[Age of information abundance]] we spend too much time collecting & there is only so much time to spend.
 
-
+![[IMG_2653.jpg|500]] ![[IMG_2654.jpg|500]]
 
 
 
