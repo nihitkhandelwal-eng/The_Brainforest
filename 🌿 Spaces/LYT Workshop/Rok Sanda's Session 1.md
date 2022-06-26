@@ -40,4 +40,5 @@ Not just when you have a solid inspiration
 
 When you're really inspired you might create something beautiful but if you don't prepare for those moments when that amazing inspiration hits you're not going to be prepared for it.
 
-So the first pillar is writing itself. That means that you need to write a lot not just when the inspiration hits you need to write daily
+So the first pillar is writing itself. That means that you need to write a lot not just when the inspiration hits, you need to write daily. If you don't do it how are you going to get better at the craft?
+
