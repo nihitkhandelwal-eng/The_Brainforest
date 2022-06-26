@@ -147,3 +147,8 @@ He takes out his laptop, opens up obsidian & starts writing, he is basically jou
 
 At the same time, back at earth, his family, friends find his journal (*which wasn't locked so no issues there*)
 They start reading out his snippets from irregular journaling, no one has read that before & they begin to realize how deep this guy actually is.
+
+
+### Conclusion to the exercise
+Rok Sanda proves that ideas can come very cheap. We can all recreate stuff & discover something new within it. Especially if you prime your mind with an exercise like this.
+We can steer it like a car.
