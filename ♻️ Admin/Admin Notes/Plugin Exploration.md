@@ -85,29 +85,30 @@ cssclass:
 51. Release Timeline
 52. Review
 53. Rewarder
-54. Search on Internet
-55. Sekund
-56. Shortcut Launcher
-57. Sidekick
-58. Smart Random Note
-59. Random Note
-60. Smart Typography
-61. Smarter Markdown Hotkeys
-62. Snippetor
-63. Supercharged Links
-64. Task Progress Bar
-65. Text Toolbar
-66. Timeline
-67. Timelines
-68. Todoist Link
-69. Todoist Text
-70. Todoist Plugin
-71. Topic Linking
-72. Vale
-73. Vantage → Advanced Search Builder
-74. Various Complements
-75. Waypoint ↑ (recommended by Ashley & Ben)
-76. Wordsprint
+54. Scroll Speed
+55. Search on Internet
+56. Sekund
+57. Shortcut Launcher
+58. Sidekick
+59. Smart Random Note
+60. Random Note
+61. Smart Typography
+62. Smarter Markdown Hotkeys
+63. Snippetor
+64. Supercharged Links
+65. Task Progress Bar
+66. Text Toolbar
+67. Timeline
+68. Timelines
+69. Todoist Link
+70. Todoist Text
+71. Todoist Plugin
+72. Topic Linking
+73. Vale
+74. Vantage → Advanced Search Builder
+75. Various Complements
+76. Waypoint ↑ (recommended by Ashley & Ben)
+77. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For
