@@ -65,3 +65,6 @@ CODE is where linear part of the process goes away, it's a non linear process, a
 
 
 ![[Screenshot 2022-06-26 at 16.49.32.png|700]]
+
+
+### The 7 C's of Note Making
