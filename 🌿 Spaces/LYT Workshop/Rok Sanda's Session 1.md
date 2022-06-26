@@ -43,5 +43,8 @@ When you're really inspired you might create something beautiful but if you don'
 So the first pillar is writing itself. That means that you need to write a lot not just when the inspiration hits, you need to write daily. If you don't do it how are you going to get better at the craft?
 
 
-#### 
-You need to read what you're writing, otherwise how are you going to get out of those cliches
+#### Reading
+You need to read what you're writing, otherwise how are you going to get out of those cliches, those ideas that everyone has *as a first idea*
+
+The term reading here is not just for reading books or texts, it's basically everything around you. Even going to the beach is "reading" if you are conscious about it & if you write something about it.
+
