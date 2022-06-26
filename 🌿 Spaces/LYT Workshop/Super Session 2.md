@@ -17,7 +17,10 @@ There are two basic ways to allow ideas to accrete
 2. Create placeholder tags & use the tag.
 
 Do we have a place where we can go & find a lot of ideas that resonate with them, that they could link out to for future version of themselves & create placeholder notes from?
-It is [[My Spark List|The Spark List]] 
+It is [[My Spark List|The Spark List]]. So, I'll be looking at [[My Spark List#Key concepts I keep coming back to|Key concepts I keep coming back to]].
+
+
+
 
 
 
