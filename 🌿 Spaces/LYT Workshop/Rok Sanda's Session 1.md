@@ -112,3 +112,6 @@ Select of of them
 	- He survives, figures out ways to communicate this to Earth.
 	- Grows his food on Mars, Science Bitch!
 	- Rescue Mission, There's a Starman waiting in the sky!
+
+
+### Exercise 4
