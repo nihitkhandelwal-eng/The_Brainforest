@@ -33,6 +33,7 @@ The cure would be
 
 
 ### Three Pillars of Writing
+
 3 pillars of writing on which the creative writing as an art form stands.
 
 #### Writing
