@@ -90,6 +90,17 @@ A concept literally meaning "inexertionm, inaction or effortless action". Alan w
 		- Ronnie O'Sullivan
 - What is this similar to, and different from? 
 	- It is not being passive or lazy
-	- 
 - When have I experienced this thing in my life?
-	- I think
+
+
+### Future Proof
+The process of anticipating the future and developing methods of minimizing the effects of shocks and stresses of future events.
+
+- What does this remind me of?
+	- Timeless
+	- Liberal
+	- Evergreen
+- What is this similar to, and different from? 
+	- It is similar to liberal that it is progressive but different because being liberal is dependent on time.
+- When have I experienced this thing in my life?
+	- 
