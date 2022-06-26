@@ -106,4 +106,4 @@ The process of anticipating the future and developing methods of minimizing the 
 
 ### The 7 C's of Note Making
 ![[lyt ss2 7Cs SCR-20220622-btf.jpg|700]]
-Curate → 
+Curate → You have all the ingredients, spend some time & move things around
