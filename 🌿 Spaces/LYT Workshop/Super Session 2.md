@@ -32,3 +32,5 @@ But this is how most people are, majority in consuming > collecting > creating
 ![[Screenshot 2022-06-26 at 15.41.28.png|700]]
 
 
+We can use the [[ENCODE Framework]] to create a balance between the 3 phases
+![[Screenshot 2022-06-26 at 15.44.21.png|700]]
