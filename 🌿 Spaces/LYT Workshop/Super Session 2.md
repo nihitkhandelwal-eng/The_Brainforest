@@ -86,6 +86,9 @@ A concept literally meaning "inexertionm, inaction or effortless action". Alan w
 - What does this remind me of?
 	- Using the already existing resources to move forwards without having to spend yours unnecessarily
 	- It is also reminding me of the puppets at Times Now saying the names of chinese solidiers
-	- 
+	- Making something look ridiculously simple
+		- Ronnie O'Sullivan
 - What is this similar to, and different from? 
+	- It is not being passive or lazy
+	- 
 - When have I experienced this thing in my life?
