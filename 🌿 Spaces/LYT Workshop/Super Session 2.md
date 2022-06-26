@@ -67,7 +67,6 @@ CODE is where linear part of the process goes away, it's a non linear process, a
 ![[Screenshot 2022-06-26 at 16.49.32.png|700]]
 
 
-### The 7 C's of Note Making
 
 ### Sense Making
 It is us trying to make sense of the world
@@ -104,3 +103,5 @@ The process of anticipating the future and developing methods of minimizing the 
 	- It is similar to liberal that it is progressive but different because being liberal is dependent on time.
 - When have I experienced this thing in my life?
 	- Any knowledge work that I do feels like future proof
+
+### The 7 C's of Note Making
