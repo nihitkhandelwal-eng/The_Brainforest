@@ -29,7 +29,8 @@ cssclass:
 18. Pixr
 19. Style Settings
 20. Task Plugins ^b3d766
-21. Tracker
+21. Timestamp Notes
+22. Tracker
 
 ### Plugins To Explore
 1. Activity History
