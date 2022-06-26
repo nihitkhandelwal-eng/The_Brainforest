@@ -55,6 +55,13 @@ cssclass:
 
 ### Week 2
 - Events
+	- [[Super Session 2]]
+	- Sense Making Session 2
+	- Eleanor Konik's Session 2
+	- Sana Ahmed's Session 2
+	- Bianca Pereira's Session 2
+	- Rok Sanda's Session 2
+- Unit 2
 - Note-making
 - Idea Assets
 - Compounding Knowledge
@@ -63,6 +70,13 @@ cssclass:
 
 ### Week 3
 - Events
+	- Super Session 3
+	- Sense Making Session 3
+	- Eleanor Konik's Session 3
+	- Sana Ahmed's Session 3
+	- Bianca Pereira's Session 3
+	- Rok Sanda's Session 3
+- Unit 3
 - [[Thought Collisions]]
 - [[Mental Squeeze Points]]
 - Maps of Content
@@ -71,6 +85,13 @@ cssclass:
 
 ### Week 4
 - Events
+	- Super Session 4
+	- Sense Making Session 4
+	- Eleanor Konik's Session 4
+	- Sana Ahmed's Session 4
+	- Bianca Pereira's Session 4
+	- Rok Sanda's Session 4
+- Unit 4
 - Complete Your PKM System
 - Build Your Library
 - Build Your Home
