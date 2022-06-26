@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Spark List, The Spark List]
 tags: LYT_Workshop 
 cssclass: 
 ---

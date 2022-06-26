@@ -16,7 +16,8 @@ There are two basic ways to allow ideas to accrete
 1. Create placeholder notes and link to them.
 2. Create placeholder tags & use the tag.
 
-
+Do we have a place where we can go & find a lot of & create placeholder notes from?
+It is [[My Spark List|The Spark List]] 
 
 
 
