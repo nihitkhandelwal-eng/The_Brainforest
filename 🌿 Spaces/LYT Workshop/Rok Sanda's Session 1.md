@@ -121,3 +121,10 @@ Maybe steal from that list you wrote in the beginning
 Turn your Icelandic tail into your hamlet 
 Romeo and Juliet into West Side Story
 
+Okay, so same plot till he figures out that he is alone on a planet but the difference now is that, he need not worry about food this time, he has all the things he need to survive for about 2 years, i.e. till the next mission. So, Matt Damon doesn't need to move, they can communicate that he is alive but nothing more than that.
+
+All he has is himself, some of his favorite music, books, movies & shows with him. But 2 years of time just to think, sit alone with his thoughts.
+
+He realizes that all he needs to be happy is himself, he is not a jigsaw puzzle who needs to be completed by someone else. He is a pizza who he should be able to enjoy without the chitter chatter & the loud music. He can enjoy all his flavours without having to do small talk about how it is very cold & very hot today, how the traffic is the worst, how that girl got with that guy & how that person got fired from his job & how that kid topped the class.
+
+It is difficult at the beginning but eventually talking to himself & really thinking about stuff gives him a unique edge. He returns back home & emphasizes the need to love oneself & be comfortable with the silence that comes with it.
