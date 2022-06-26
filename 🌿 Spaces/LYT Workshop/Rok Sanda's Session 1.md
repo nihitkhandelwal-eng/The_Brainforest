@@ -53,3 +53,5 @@ If you are in writing films, you shouldn't just watch movies, you should read sc
 
 #### Feedback
 You need a wall to bounce your ideas from. So that you can rework your ideas based on the feedback you get.
+
+Feedback is not validation for what you write or what you don't write it is not a process that you go through after you've finished writing it's a process that you do while you're writing it.
