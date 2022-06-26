@@ -37,3 +37,5 @@ We can use the [[ENCODE Framework]] to create a balance between the 3 phases
 
 We have been in this habit of pushing around other people's information
 ![[Screenshot 2022-06-26 at 16.00.46.png|700]]
+
+![[Screenshot 2022-06-26 at 16.02.11.png|600]]
