@@ -69,4 +69,6 @@ CODE is where linear part of the process goes away, it's a non linear process, a
 
 ### The 7 C's of Note Making
 ### Some prompts for Note Making
-- 
+- What does this remind me of?
+- What is this similar to, and different from? 
+- When have I experienced this thing in my life?
