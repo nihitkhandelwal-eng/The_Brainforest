@@ -50,3 +50,8 @@ We have been in this habit of pushing around other people's information
 ### The LYT Framework
 ![[Screenshot 2022-06-26 at 16.20.37.png|700]]
 
+- In [[Idea Emergence#Emergence Level 1|Emergence Level 1]] we go from nothingness into somethingness because we capture an idea.
+- In [[Idea Emergence#Emergence Level 2|Emergence Level 2]] we have a bunch of notes & we start connecting them to each other.
+- But we get to a point where, we want to see the forest but all we can see is the trees. In [[Idea Emergence#Emergence Level 3|Emergence Level 3]] we put some of the notes into a higher order note to assemble them & start working with them with time. 
+	- We now have created a [[Thought Collisions|Thought Collider]] 
+- From that work it is very easy to have a final creation, that project, essay, book, screenplay, poem, argument, whatever that might be. But on top of that, you have also given yourself a map to navigate through which will continue to live long after the project/essay is done & submitted.
