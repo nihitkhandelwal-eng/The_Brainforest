@@ -92,3 +92,4 @@ A concept literally meaning "inexertionm, inaction or effortless action". Alan w
 	- It is not being passive or lazy
 	- 
 - When have I experienced this thing in my life?
+	- I think
