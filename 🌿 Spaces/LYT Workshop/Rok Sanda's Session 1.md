@@ -128,3 +128,14 @@ All he has is himself, some of his favorite music, books, movies & shows with hi
 He realizes that all he needs to be happy is himself, he is not a jigsaw puzzle who needs to be completed by someone else. He is a pizza who he should be able to enjoy without the chitter chatter & the loud music. He can enjoy all his flavours without having to do small talk about how it is very cold & very hot today, how the traffic is the worst, how that girl got with that guy & how that person got fired from his job & how that kid topped the class.
 
 It is difficult at the beginning but eventually talking to himself & really thinking about stuff gives him a unique edge. He returns back home & emphasizes the need to love oneself & be comfortable with the silence that comes with it.
+
+
+### Exercise 5
+What is the most important scene in that story? 
+	he gets accepted on to the team 
+	when they get up that mountain 
+	when her imaginary magical powers turn out to be real 
+	when she finally quit her job to pursue her budding career 
+when you have the answer 
+write that scene (prose, screenplay or anything else)
+
