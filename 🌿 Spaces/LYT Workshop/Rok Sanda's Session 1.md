@@ -64,3 +64,31 @@ So, by extension 90% of your life is crap?
 
 It's okay for me to write horrible stuff because I am just exercising my writing muscles.
 
+### Snowflake
+You indeed are a special snowflake. This relates back to [[My Unique Journey]]
+
+
+### Exercise 1
+Make a list of films, tv shows, books etc... that inspire you
+	It needs to contain a story
+	The list should contain at least 10 items
+	the order of the list is not important
+
+- Better Call Saul
+- Breaking Bad
+- How to Take Smart Notes
+- PK
+- The Martian
+- Sherlock Holmes
+- The Office
+- Why I Am An Atheist
+- The God Delusion
+- Aaonga Na Jaaonga
+- Daniels Sloss's Jigsaw
+
+
+### Exercise 2
+Select three of those pieces of art that make your heart and/or mind the most excited 
+write it out in a sentence for each text 
+	9 words maximum for each 
+	don't think too much you don't have enough time for that
