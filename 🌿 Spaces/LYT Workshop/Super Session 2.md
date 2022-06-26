@@ -28,6 +28,7 @@ We can collect things & we can create things. We should spend time doing both. H
 
 The purpose of this workshop is to push back & to achieve a healthier balance. This may not be 50-50. You might be in a new field & it grows into collecting again, but some other time creating phase starts to grow again.
 
-
+But this is how most people are, majority in consuming > collecting > creating
+![[Screenshot 2022-06-26 at 15.41.28.png|700]]
 
 
