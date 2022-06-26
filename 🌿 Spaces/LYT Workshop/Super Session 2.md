@@ -55,3 +55,9 @@ We have been in this habit of pushing around other people's information
 - But we get to a point where, we want to see the forest but all we can see is the trees. In [[Idea Emergence#Emergence Level 3|Emergence Level 3]] we put some of the notes into a higher order note to assemble them & start working with them with time. 
 	- We now have created a [[Thought Collisions|Thought Collider]] 
 - From that work it is very easy to have a final creation, that project, essay, book, screenplay, poem, argument, whatever that might be. But on top of that, you have also given yourself a map to navigate through which will continue to live long after the project/essay is done & submitted.
+	- This final creation might collide with something else & create something entirely new months, years, decades from now.
+- All this goes to the [[🏡 Home|Home Note]]
+
+If we throw [[ENCODE Framework]] on top of [[Idea Emergence]] we can clearly see that we encounter things, take notes to form a primordial soup & then CODE becomes a process.
+
+CODE is where linear part of the process goes away, it's a non linear process, a symphony.
