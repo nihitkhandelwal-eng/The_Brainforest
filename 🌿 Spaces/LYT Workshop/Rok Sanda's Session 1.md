@@ -57,4 +57,10 @@ You need a wall to bounce your ideas from. So that you can rework your ideas bas
 Feedback is not validation for what you write or what you don't write it is not a process that you go through after you've finished writing it's a process that you do while you're writing it.
 
 
+### Sturgeon's Law
+Sturgeon's law (or Sturgeon's revelation) is an adage stating "**ninety percent of everything is crap**". The adage was coined by Theodore Sturgeon, an American science fiction author and critic.
+
+So, by extension 90% of your life is crap?
+
+It's okay for me to write horrible stuff because I am just exercising my writing muscles.
 
