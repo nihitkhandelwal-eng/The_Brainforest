@@ -38,11 +38,11 @@ cssclass:
 - Talking sense to someone
 
 ### Key concepts I keep coming back to
-- How Religion is almost at the root of everything bad, Why education keeps failing us & how to deliver education that can stand the test of time. 
+- How Religion is almost at the root of everything bad, [[Why education keeps failing us]] & [[How to deliver education that can stand the test of time]]. 
 - We should document our lives.
-- How jokes can make everything better.
-- I respect you too much to not tell you the truth
-- How "Child Psychology" is one of the most fascinating things you can come across.
+- How [[Jokes can make everything better]].
+- [[I respect you too much to not tell you the truth]].
+- How "[[Child Psychology]]" is one of the most fascinating things you can come across.
 ### Fun facts about me that I am proud of
 - I will have to #status/💭think about that
 ### Random words & things that I resonate with
