@@ -62,3 +62,6 @@ We have been in this habit of pushing around other people's information
 If we throw [[ENCODE Framework]] on top of [[Idea Emergence]] we can clearly see that we encounter things, take notes to form a primordial soup & then CODE becomes a process.
 
 CODE is where linear part of the process goes away, it's a non linear process, a symphony.
+
+
+![[Screenshot 2022-06-26 at 16.49.32.png|700]]
