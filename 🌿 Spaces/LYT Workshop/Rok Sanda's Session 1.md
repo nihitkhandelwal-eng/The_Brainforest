@@ -141,3 +141,9 @@ when you have the answer
 write that scene (prose, screenplay or anything else)
 
 
+He has communicated his well being to earth, there is nothing more to do there, no sense of urgency, things begin to calm down. The initial few days are miserable maybe, he is getting uncomfortable with this thoughts, but within a month or so, he comes to a cerebral breakthrough of sorts, he tries to find the inspiration (maybe his favorite piece of music, or a book he read last night)
+
+He takes out his laptop, opens up obsidian & starts writing, he is basically journaling but at that moment it feels like more than that.
+
+At the same time, back at earth, his family, friends find his journal (*which wasn't locked so no issues there*)
+They start reading out his snippets from irregular journaling, no one has read that before & they begin to realize how deep this guy actually is.
