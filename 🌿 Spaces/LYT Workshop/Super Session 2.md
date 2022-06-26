@@ -20,6 +20,10 @@ Do we have a place where we can go & find a lot of ideas that resonate with them
 It is [[My Spark List|The Spark List]]. So, I'll be looking at [[My Spark List#Key concepts I keep coming back to|Key concepts I keep coming back to]].
 
 
+### Knowledge Management
+We can collect things & we can create things. We should spend time doing both. However in the [[Age of information abundance]] we spend too much time collecting & there is only so much time to spend.
+
+
 
 
 
