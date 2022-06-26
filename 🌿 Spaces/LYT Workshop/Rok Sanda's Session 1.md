@@ -136,6 +136,7 @@ What is the most important scene in that story?
 	when they get up that mountain 
 	when her imaginary magical powers turn out to be real 
 	when she finally quit her job to pursue her budding career 
+	what would you put in the trailer
 when you have the answer 
 write that scene (prose, screenplay or anything else)
 
