@@ -84,6 +84,8 @@ It is an intentional version of [[#Sense Making]]
 A concept literally meaning "inexertionm, inaction or effortless action". Alan watts called Wu wei not forcing. It is the art of sailing, rather than the art of rowing.
 
 - What does this remind me of?
+	- Using the already existing resources to move forwards without having to spend yours unnecessarily
+	- It is also reminding me of the puppets at Times Now saying the names of chinese solidiers
 	- 
 - What is this similar to, and different from? 
 - When have I experienced this thing in my life?
