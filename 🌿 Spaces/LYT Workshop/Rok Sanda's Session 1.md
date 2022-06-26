@@ -19,7 +19,12 @@ Guided Session in Creative Writing
 	- It is a mixture of breaking bad & breaking good
 	- Breaking Bad is the closest thing that comes to mind.
 	- I don't have any similar life experiences.
-	- Nick Milo was assistant editor for the show & also it is currently in it's final season with the second half supposed to release 
+	- Nick Milo was assistant editor for the show & also it is currently in it's final season with the second half supposed to release on [[12-07-22|July 12th]]
 
 
-
+### Problem Statement & Cure
+There are 2 types of would-be writers:
+- Those that think everything they write is *worthless*
+	- Learn to ignore that voice
+- Those that think everything they write is *priceless*
+	- Learn to ignore that voice
