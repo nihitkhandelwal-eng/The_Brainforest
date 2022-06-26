@@ -39,8 +39,10 @@ cssclass:
 
 ### Key concepts I keep coming back to
 - How Religion is almost at the root of everything bad, [[Why education keeps failing us]] & [[How to deliver education that can stand the test of time]]. 
-- We should document our lives.
-- How [[Jokes can make everything better]].
+- [[Rationality]] should be the only way. [[Critical Thinking]] gives me most joy in any situation.
+- [[Revolution Begins At Home]] & [[Democratization of our household]] should be everyone's priority.
+- We should document our lives. We at any point are living our life ± 1 year worth of experiences. I read that book 5 years ago, but what is it from that book that I can put to use now?
+- How [[Jokes can make everything better]]. [[Sense of humour]] & [[Making fun of yourself]] is what I find trustworthy in a person.
 - [[I respect you too much to not tell you the truth]].
 - How "[[Child Psychology]]" is one of the most fascinating things you can come across.
 ### Fun facts about me that I am proud of
