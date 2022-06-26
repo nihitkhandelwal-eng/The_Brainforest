@@ -36,6 +36,9 @@ cssclass:
 ### Experiences I've had that fill me up
 - I don't want to write about them
 - Talking sense to someone
+
+### Key concepts I keep coming back to
+
 ### Fun facts about me that I am proud of
 - I will have to #status/💭think about that
 ### Random words & things that I resonate with
