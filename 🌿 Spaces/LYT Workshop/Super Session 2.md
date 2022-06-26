@@ -76,7 +76,7 @@ It is something that we cannot escape from, it is us being the fish, swimming in
 It is an intentional version of [[#Sense Making]]
 #### Some prompts for Note Making
 - What does this remind me of?
-- What is this similar to, and different from? 
+- What is this similar to, and different from? (similar to & different from the same thing) 
 - When have I experienced this thing in my life?
 
 
@@ -103,4 +103,4 @@ The process of anticipating the future and developing methods of minimizing the 
 - What is this similar to, and different from? 
 	- It is similar to liberal that it is progressive but different because being liberal is dependent on time.
 - When have I experienced this thing in my life?
-	- 
+	- Any knowledge work that I do feels like future proof
