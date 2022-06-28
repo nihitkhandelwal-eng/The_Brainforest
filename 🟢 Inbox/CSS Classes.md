@@ -27,5 +27,4 @@ cssclass:
 	- stickies2
 
 ---
-
-![[Frontmatter defining variables in the document.png]] ![[chrome_KekYrsgrl5.png]]
+![[Dil Jab Tuttuga Toh Pata Chaluga.mp4]]
