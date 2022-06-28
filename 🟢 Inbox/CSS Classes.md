@@ -27,6 +27,4 @@ cssclass:
 	- stickies2
 
 ---
-> dfsfjd
-
 
