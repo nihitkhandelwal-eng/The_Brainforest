@@ -11,6 +11,7 @@ cssclass:
 | wideTable     | Wide Table                             |
 | customMargin  | Custom Margin → Change it in CSS file  |
 | customPadding | Custom Padding → Change it in CSS file |
+| nutFact       | Nutrition Style Table                  |
 |               |                                        |
 
 
