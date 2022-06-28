@@ -31,4 +31,4 @@ cssclass:
 
 ![[chrome_KekYrsgrl5.png]]
 
-![[👤 Aanya|n-h2]]
+![[👤 Aanya|]]
