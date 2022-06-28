@@ -30,8 +30,7 @@ These are from ITS although I can't seem to get any of the classes to work.
 | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | clear     | clear will allow that image to sit below another image If it's on the same side instead of sitting in the middle of the page. |
 | grid | Display image side-by-side in a grid |
-|------|--------------------------------------|
-
+| cover | A resized image will maintain aspect ratio and avoid stretching. |
 
 
 
