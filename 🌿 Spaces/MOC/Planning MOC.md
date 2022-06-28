@@ -7,3 +7,7 @@ cssclass:
 #type/⌘MOC 
 
 
+| table      | dfkdjf    | dfjdkfj | dfajfklM J |
+| ---------- | --------- | ------- | ---------- |
+| dskajfdkjf | dfkjdk    | dfjdkl; | lkjidjflk  |
+| kdjfalkj   | kldjfkalj |         |            |
