@@ -26,9 +26,12 @@ cssclass:  grid
 ### Image Adjustments - ITS
 These are from ITS although I can't seem to get any of the classes to work.
 
-| Attribute | Description                                            |
-| --------- | ------------------------------------------------------ |
+| Attribute | Description                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | clear     | clear will allow that image to sit below another image If it's on the same side instead of sitting in the middle of the page. |
+| grid | Display image side-by-side in a grid |
+|------|--------------------------------------|
+
 
 
 
