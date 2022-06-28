@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  sticky
+cssclass:  
 ---
 
 ### Table 
@@ -19,3 +19,7 @@ cssclass:  sticky
 | purpleRed    |  Red Header & Purple rows                                        |
 
 
+### Sticky Notes
+| Classes | Description |
+| ------- | ----------- |
+| sticky  |             |
