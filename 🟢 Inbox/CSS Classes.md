@@ -118,6 +118,10 @@ These are from ITS although I can't seem to get any of the classes to work.
 	- stickies2
 
 ---
+> [!note]
+> this is a callout
+> 
+
 
 ![[IMG_2505.png|locr]]
 
