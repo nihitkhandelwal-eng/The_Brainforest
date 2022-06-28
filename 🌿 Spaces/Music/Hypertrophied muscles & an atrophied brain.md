@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: type/🎵music/🎶poem 
-cssclass: 
+cssclass: poem
 ---
 
 I don't wanna see things the way you taught.
