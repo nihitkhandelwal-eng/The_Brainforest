@@ -28,3 +28,4 @@ cssclass:
 
 ---
 
+![[Frontmatter defining variables in the document.png]] ![[chrome_KekYrsgrl5.png]]
