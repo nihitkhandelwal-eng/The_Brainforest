@@ -58,6 +58,17 @@ cssclass:  grid
 | tag-text    | Tags are only colored text, no background color                      |
 
 
+#### Id's
+
+`<s id="#col"></s>`
+
+| Classes                             | Description                                          |
+|-------------------------------------|------------------------------------------------------|
+| `#col`                                | Show/Create a color block                            |
+| `#font`                               | Showcase a font in huge sized text                   |
+| `#vid`                                | 16:9 aspect ratio for videos. Used before an iframe: `<div id=vid><iframe></iframe></div>` | 
+
+
 
 
 ### Embed Adjustments
