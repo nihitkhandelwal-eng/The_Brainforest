@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  
+cssclass:  img-grid
 ---
 
 ### Embed Adjustments
@@ -51,4 +51,4 @@ cssclass:
 ---
 
 
-![[chrome_KekYrsgrl5.png|cap]]
+![[chrome_KekYrsgrl5.png|cap]] ![[Profile.png]]
