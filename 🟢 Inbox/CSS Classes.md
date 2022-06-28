@@ -181,6 +181,9 @@ These are from ITS although I can't seem to get any of the classes to work.
 - Orientation Flags
 	- -left
 	- -right
+- Border Flags
+	- -border1
+	- -border2
 ### Table 
 | Classes       | Description                              |
 | ------------- | ---------------------------------------- |
