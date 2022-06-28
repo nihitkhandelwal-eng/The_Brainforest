@@ -20,6 +20,7 @@ cssclass:
 
 
 ### Sticky Notes
-| Classes | Description |
-| ------- | ----------- |
-| sticky  |             |
+- Do it with templates with inline classes
+- CSS Classes
+	- Sticky
+	- Stickies
