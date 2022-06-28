@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: type/⌘MOC 
-cssclass:
+cssclass: t-c
 ---
 
 #type/⌘MOC 
