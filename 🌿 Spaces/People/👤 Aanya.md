@@ -23,5 +23,10 @@ Profession:
 - Take inspiration from kedar anil gadgil
 - Get the books from brightly for the kids  
     * https://www.readbrightly.com/stem-books-for-kids/
+* Make it a habit for recording videos for future → suggested by vihaan  
+    * next day  
+    * next week  
+    * next month, next months, next monthsss  
+    * next year, years, yearssss
 
 
