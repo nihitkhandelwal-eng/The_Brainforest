@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  illusion
+cssclass:  
 ---
 
 ### CSS Classes - ITS
