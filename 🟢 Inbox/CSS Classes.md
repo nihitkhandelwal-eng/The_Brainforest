@@ -23,7 +23,10 @@ cssclass:  grid
 | no-h6    | Hide all header 6s in the embedded page |
 
 
-### Image Adjustments
+### Image Adjustments - ITS
+These are from ITS although I can't seem to get any of the classes to work.
+
+
 
 
 ### Table 
