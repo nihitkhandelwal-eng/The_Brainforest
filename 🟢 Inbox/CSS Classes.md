@@ -39,7 +39,24 @@ cssclass:  grid
 | bl-c        | Bullets are only one color on page (Accent2 coloring) |
 
 
-####
+#### Tables 
+| Classes  | Description                                             |
+|----------|---------------------------------------------------------|
+| table    | First column has a darker background and text is bolded |
+| t-c      | Center tables                                           |
+| t-w      | Table expands to fill the whole width of the file       |
+| tbl-nalt | Remove alternating row coloring from tables             |
+| tbl-b    | Add border lines to table                               |
+
+
+#### Tags
+| Classes     | Description                                                          |
+|-------------|----------------------------------------------------------------------|
+| tag-notion  | Notion styled tags (rounded rectangle)                               |
+| tag-bubble  | Round/pill style tags                                                |
+| tag-outline | Outline style tags, no background color, it's now the tag line color |
+| tag-text    | Tags are only colored text, no background color                      |
+
 
 
 
