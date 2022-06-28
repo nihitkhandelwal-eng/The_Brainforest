@@ -27,8 +27,6 @@ cssclass:
 	- stickies2
 
 ---
+> dfsfjd
 
-[[👤 Aanya|Aanya]]
 
-
-![[👤 Aanya|Aanya]]
