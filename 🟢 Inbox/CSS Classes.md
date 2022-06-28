@@ -50,5 +50,3 @@ cssclass:  grid
 
 ---
 
-
-![[chrome_KekYrsgrl5.png|left]] fdfjdk
