@@ -64,6 +64,15 @@ These are from ITS although I can't seem to get any of the classes to work.
 | profile+medium | profile+medium will round the borders of the image to create a round image and resize it to 250px. |
 
 
+#### Inner Image Position
+| p+l | Move inside of the image to the left.   |
+|-----|-----------------------------------------|
+| p+r | Move inside of the image to the right.  |
+| p+t | Move inside of the image to the top.    |
+| p+b | Move inside of the image to the bottom. |
+| p+c | Move inside of the image to the center. |
+
+
 
 ### Table 
 | Classes       | Description                              |
