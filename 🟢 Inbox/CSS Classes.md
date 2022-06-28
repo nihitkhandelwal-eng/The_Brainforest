@@ -69,8 +69,6 @@ cssclass:  grid
 | `#vid`                                | 16:9 aspect ratio for videos. Used before an iframe: `<div id=vid><iframe></iframe></div>` | 
 
 
-
-
 ### Embed Adjustments
 | Attribute | Description                              |
 |-----------|------------------------------------------|
