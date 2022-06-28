@@ -10,7 +10,7 @@ date_created:: [[09-Apr-22]]
 date_started:: [[11-Apr-22]]
 target_date:: [[30-Jun-22]]
 date_accomplished::
-accountabilty_buddy:: [[Shashank Bhaiya]] | [[Aanya]] 
+accountabilty_buddy:: [[Shashank Bhaiya]] | [[👤 Aanya]] 
 trackers:: [[Calories Tracker]]
 habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Running]] | [[Stretching]] | [[Eat Healthy]] | [[16/8 Intermittent Fasting]] 
 
