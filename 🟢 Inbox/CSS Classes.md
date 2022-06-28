@@ -5,6 +5,14 @@ cssclass:
 ---
 
 ### Embed Adjustments
+| Attribute | Description                              |
+|-----------|------------------------------------------|
+| nlk       | Hide the link until hovered over embed   |
+| lk-l      | Move link to the left                    |
+| lk-clear  | Make background of the link transparent  |
+| nmg       | Will remove margins and padding          |
+| full      | Display the full embed                   |
+| clean     | Removes borders/etc to hide embed design |
 
 
 
