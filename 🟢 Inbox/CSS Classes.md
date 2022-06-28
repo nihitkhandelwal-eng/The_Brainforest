@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  grid
+cssclass:  
 ---
 
 ### CSS Classes - ITS
