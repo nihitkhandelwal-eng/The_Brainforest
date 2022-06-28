@@ -73,6 +73,27 @@ These are from ITS although I can't seem to get any of the classes to work.
 | p+c | Move inside of the image to the center. |
 
 
+#### Sizing
+| Attributes | Resize Image to:                               |
+|------------|------------------------------------------------|
+| htiny      | 100px in height.                               |
+| hsmall     | 200px in height.                               |
+| hs-med     | 300px in height.                               |
+| hm-sm      | 400px in height.                               |
+| hmed       | 500px in height.                               |
+| hm-tl      | 600px in height.                               |
+| htall      | 700px in height.                               |
+| hfull      | Expand to the full height of the image or line |
+| wtiny      | 100px in width.                                |
+| wsmall     | 200px in width.                                |
+| ws-med     | 300px in width.                                |
+| wm-sm      | 400px in width.                                |
+| wmed       | 500px in width.                                |
+| wm-tl      | 600px in width.                                |
+| wtall      | 700px in width.                                |
+| wfull      | Expand to the full height of the image or line |
+
+
 
 ### Table 
 | Classes       | Description                              |
