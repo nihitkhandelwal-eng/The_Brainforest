@@ -29,6 +29,18 @@ cssclass:  grid
 | sphd-und-# | Numbers(#) 1-6 will hide all underlines for specific header levels  → sphd-und-3, sphd-und-1 |
 
 
+#### Lists
+| Classes     | Description                                           |
+|-------------|-------------------------------------------------------|
+| kanban      | Turn lists into kanban-like boards                    |
+| k-o         | Adds border and bullet to sub list of a kanban list   |
+| s-li        | Space out lists                                       |
+| bul-li-neon | Neon glow style for list lines                        |
+| bl-c        | Bullets are only one color on page (Accent2 coloring) |
+
+
+####
+
 
 
 ### Embed Adjustments
