@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  no-m
+cssclass:  poem
 ---
 
 ### CSS Classes - ITS
