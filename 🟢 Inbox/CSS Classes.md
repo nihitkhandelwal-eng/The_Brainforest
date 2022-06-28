@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  
+cssclass:  sticky
 ---
 
 ### Table 
@@ -17,8 +17,5 @@ cssclass:
 | academia      | Alternate white & black rows             |
 | flatBlue      | Alternate white & black with blue header |
 | purpleRed    |  Red Header & Purple rows                                        |
-
-
-<div class="sticky">tests</div> 
 
 
