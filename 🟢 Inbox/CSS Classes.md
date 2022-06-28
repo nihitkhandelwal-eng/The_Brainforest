@@ -31,5 +31,4 @@ cssclass:
 
 ![[chrome_KekYrsgrl5.png]]
 
-
-![[Pasted image 20220613210901.png|right]]
+![[👤 Aanya|]]
