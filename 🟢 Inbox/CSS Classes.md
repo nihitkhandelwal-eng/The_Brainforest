@@ -22,5 +22,11 @@ cssclass:
 ### Sticky Notes
 - Do it with templates with inline classes
 - CSS Classes
-	- Sticky
-	- Stickies
+	- sticky
+	- stickies
+
+<p class="stickies">dfd</p> 
+
+<p class="stickies2"></p> <% tp.file.cursor(1) %>
+
+^c117f3
