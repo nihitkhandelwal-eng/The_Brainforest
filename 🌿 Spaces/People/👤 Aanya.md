@@ -32,6 +32,9 @@ Profession:
 
 
 ### Aanya's targets which I can use in the gamification system 
+
+^b656d7
+
 #action/📌put-a-pin-on-that   
 - Learn How to Play With Swings
 -   Learn How to Use Handle of Hand Shower
