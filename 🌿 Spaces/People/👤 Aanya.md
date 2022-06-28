@@ -20,5 +20,6 @@ Profession:
 - Give the kids a local storage on maybe mine or their's computer to store their video for them to watch later  
 - Try to get more senses involved in play activities → suggested by Anne  
 - Explore video & audio journaling for aanya
+- Take inspiration from kedar anil gadgil
 
 
