@@ -24,9 +24,5 @@ cssclass:
 - CSS Classes
 	- sticky
 	- stickies
+	- stickies2
 
-<p class="stickies">dfd</p> 
-
-<p class="stickies2"></p> <% tp.file.cursor(1) %>
-
-^c117f3
