@@ -13,6 +13,14 @@ cssclass:
 | nmg       | Will remove margins and padding          |
 | full      | Display the full embed                   |
 | clean     | Removes borders/etc to hide embed design |
+| no-title | Hide the title of the embedded page     |
+| no-h     | Hide all headers in the embedded page   |
+| no-h1    | Hide all header 1s in the embedded page |
+| no-h2    | Hide all header 2s in the embedded page |
+| no-h3    | Hide all header 3s in the embedded page |
+| no-h4    | Hide all header 4s in the embedded page |
+| no-h5    | Hide all header 5s in the embedded page |
+| no-h6    | Hide all header 6s in the embedded page |
 
 
 
