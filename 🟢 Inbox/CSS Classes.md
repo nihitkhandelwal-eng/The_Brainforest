@@ -23,6 +23,8 @@ cssclass:
 | no-h6    | Hide all header 6s in the embedded page |
 
 
+### Image Adjustments
+
 
 ### Table 
 | Classes       | Description                              |
@@ -50,5 +52,3 @@ cssclass:
 
 
 ![[chrome_KekYrsgrl5.png]]
-
-![[👤 Aanya|htiny]]
