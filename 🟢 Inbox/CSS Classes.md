@@ -32,6 +32,37 @@ These are from ITS although I can't seem to get any of the classes to work.
 | grid | Display image side-by-side in a grid |
 | cover | A resized image will maintain aspect ratio and avoid stretching. |
 
+#### Left/Right & Center
+| Attribute | Description                               |
+|-----------|-------------------------------------------|
+| left      | left will move the image to the left.     |
+| right     | right will move the image to the right.   |
+| center    | center will move the image to the center. |
+| locl | Move the image to the left.  |
+| locr | Move the image to the right. |
+| ctr  | Move image to the center.    |
+
+
+#### Banner
+| Attribute    | Description                                                                                             |
+|--------------|---------------------------------------------------------------------------------------------------------|
+| banner       | banner will crop the image height-wise to 150px while setting the width to cover the entire page.       |
+| banner+small | banner+small will crop the image height-wise to 100px while setting the width to cover the entire page. |
+| banner+tall  | banner+tall will crop the image height-wise to 500px while setting the width to cover the entire page.  |
+
+
+#### Portrait
+| portrait       | portrait will crop the image width-wise to 40% while setting the height to a standard of 400px.       |
+|----------------|-------------------------------------------------------------------------------------------------------|
+| portrait+small | portrait+small will crop the image width-wise to 20% while setting the height to a standard of 200px. |
+| portrait+tall  | portrait+tall will crop the image width-wise to 50% while setting the height to a standard of 500px.  |
+
+
+#### Profile
+| profile        | profile will round the borders of the image to create a round image and size it to 100px.          |
+|----------------|----------------------------------------------------------------------------------------------------|
+| profile+medium | profile+medium will round the borders of the image to create a round image and resize it to 250px. |
+
 
 
 ### Table 
