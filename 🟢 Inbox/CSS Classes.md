@@ -5,6 +5,29 @@ cssclass:  grid
 ---
 
 ### CSS Classes - ITS
+| Classes   | Description                                                               |
+|-----------|---------------------------------------------------------------------------|
+| no-m      | Fully hide Frontmatter on just that page                                  |
+| justified | Justifies text                                                            |
+| readable  | Set readable line width to just that page when readable line width is off |
+| writing   | Centers Headings, justifies text, auto sets readable line width           |
+| poem      | Centers text                                                              |
+| dvl       | Stylize Dataview Lists to be more spaced out and have a background        |
+| dvl-c     | Style Dataview Tables and Lists as cards/like a Notion gallery            |
+| alt-co    | Style all callouts with background as the callout color                   |
+| hr-tog    | Remove horizontal line icons                                              |
+| img-grid  | Apply image grid to all pictures on page                                  |
+
+
+#### Headers & Headings
+| Classes                | Description                                                        |
+|------------------------|--------------------------------------------------------------------|
+| hc                     | Center headings                                                    |
+| hcl                    | Center headings with a line on each side                           |
+| illusion               | Apply Illusion Theme inspired styling to headings                  |
+| h-line                 | Remove all header underlines from note                             |
+| sphd-und-#             | Numbers(#) 1-6 will hide all underlines for specific header levels |
+| sphd-und-3, sphd-und-1 |
 
 
 
