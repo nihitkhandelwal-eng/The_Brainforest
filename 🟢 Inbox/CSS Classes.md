@@ -161,6 +161,7 @@ These are from ITS although I can't seem to get any of the classes to work.
 
 
 ### Image Flags - Lithou
+#### Core Flags
 - +side
 - +tape
 - +pin
@@ -168,6 +169,18 @@ These are from ITS although I can't seem to get any of the classes to work.
 - +landscape
 - +banner
 - +hr
+
+#### Modifier Flags
+- Size Flags
+	- -thumb
+	- -sm
+	- -med
+	- -lg
+	- -huge
+	- 
+- Orientation Flags
+	- -left
+	- -right
 ### Table 
 | Classes       | Description                              |
 | ------------- | ---------------------------------------- |
