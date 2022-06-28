@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: type/⌘MOC 
-cssclass: t-c
+cssclass: wideTable
 ---
 
 #type/⌘MOC 
