@@ -16,5 +16,9 @@ Profession:
     * How much food will cost & things like that  
     * How many rooms will you need  
     * Anything that involves numbers
+* Try making her write a story, give her a few line points & give her prompts for what the bad person might be, how can he/she redeem themselves → suggested by Anne  
+- Give them a local storage on maybe mine or their's computer to store their video for them to watch later  
+- Try to get more senses involved in play activities → suggested by Anne  
+- Explore video & audio journaling for aanya
 
 
