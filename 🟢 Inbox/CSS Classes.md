@@ -50,3 +50,4 @@ cssclass:  grid
 
 ---
 
+![[IMG_2505.png|right]]
