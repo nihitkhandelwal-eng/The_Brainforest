@@ -51,4 +51,4 @@ cssclass:
 ---
 
 
-![[chrome_KekYrsgrl5.png]]
+![[chrome_KekYrsgrl5.png|cap]]
