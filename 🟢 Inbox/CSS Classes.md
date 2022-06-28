@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: 
-cssclass:  hc
+cssclass:  no-m
 ---
 
 ### CSS Classes - ITS
