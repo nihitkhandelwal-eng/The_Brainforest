@@ -30,3 +30,18 @@ Profession:
     * next year, years, yearssss
 
 
+
+### Aanya's targets which I can use in the gamification system 
+#action/📌put-a-pin-on-that   
+- Learn How to Play With Swings
+-   Learn How to Use Handle of Hand Shower
+-   Learn how to talk to Vishakha Didi, Shipra DIdi, Moorti Aunty, Anita Aunty & Guard Bhaiya
+-   What to say when Om says ‘Play Hide & Seek”?
+-   Try Eating Carrot
+-   Re-try Eating Strawberry
+-   Do Night Walk
+-   Learn how to make your own tiffin
+-   Bring jelly from hari om bhaiya
+-   Learn how to put crepe bandage - practice more
+
+
