@@ -1,15 +1,16 @@
 ---
 aliases:
 tags: 
-cssclass: nutFact
+cssclass: 
 ---
 
 ### Table 
-| Classes      | Description                           |
-| ------------ | ------------------------------------- |
-| t-c          | Center Table                          |
-| wideTable    | Wide Table                            |
-| customMargin | Custom Margin → Change it in CSS file |
-|              |                                       |
+| Classes       | Description                            |
+| ------------- | -------------------------------------- |
+| t-c           | Center Table                           |
+| wideTable     | Wide Table                             |
+| customMargin  | Custom Margin → Change it in CSS file  |
+| customPadding | Custom Padding → Change it in CSS file |
+|               |                                        |
 
 
