@@ -209,9 +209,3 @@ These are from ITS although I can't seem to get any of the classes to work.
 
 
 
-# test
-
-==lets see that if== this justifies & hyphenates but for that I need to type a lot, a lot so much that I cannot stop writing.
-
-https://www.google.com/search?q=g%20test%20search
-
