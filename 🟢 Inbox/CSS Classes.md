@@ -4,6 +4,10 @@ tags:
 cssclass:  grid
 ---
 
+### CSS Classes - ITS
+
+
+
 ### Embed Adjustments
 | Attribute | Description                              |
 |-----------|------------------------------------------|
@@ -117,11 +121,4 @@ These are from ITS although I can't seem to get any of the classes to work.
 	- stickies
 	- stickies2
 
----
-> [!note]
-> this is a callout
-> 
-
-
-![[IMG_2505.png|locr]]
 
