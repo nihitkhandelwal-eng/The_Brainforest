@@ -20,14 +20,14 @@ cssclass:  grid
 
 
 #### Headers & Headings
-| Classes                | Description                                                        |
-|------------------------|--------------------------------------------------------------------|
-| hc                     | Center headings                                                    |
-| hcl                    | Center headings with a line on each side                           |
-| illusion               | Apply Illusion Theme inspired styling to headings                  |
-| h-line                 | Remove all header underlines from note                             |
-| sphd-und-#             | Numbers(#) 1-6 will hide all underlines for specific header levels |
-| sphd-und-3, sphd-und-1 |
+| Classes    | Description                                                                                  |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| hc         | Center headings                                                                              |
+| hcl        | Center headings with a line on each side                                                     |
+| illusion   | Apply Illusion Theme inspired styling to headings                                            |
+| h-line     | Remove all header underlines from note                                                       |
+| sphd-und-# | Numbers(#) 1-6 will hide all underlines for specific header levels  → sphd-und-3, sphd-und-1 |
+
 
 
 
