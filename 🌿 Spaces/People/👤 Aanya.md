@@ -21,5 +21,7 @@ Profession:
 - Try to get more senses involved in play activities → suggested by Anne  
 - Explore video & audio journaling for aanya
 - Take inspiration from kedar anil gadgil
+- Get the books from brightly for the kids  
+    * https://www.readbrightly.com/stem-books-for-kids/
 
 
