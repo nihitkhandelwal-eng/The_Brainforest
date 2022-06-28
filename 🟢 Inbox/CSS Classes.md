@@ -161,7 +161,13 @@ These are from ITS although I can't seem to get any of the classes to work.
 
 
 ### Image Flags - Lithou
-
+- +side
+- +tape
+- +pin
+- +portrait
+- +landscape
+- +banner
+- +hr
 ### Table 
 | Classes       | Description                              |
 | ------------- | ---------------------------------------- |
