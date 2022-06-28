@@ -27,3 +27,6 @@ cssclass:
 	- stickies2
 
 ---
+
+> test quote for testing snippets
+
