@@ -31,6 +31,10 @@ cssclass:
 > test quote for testing snippets\
 > \- Howard
 
+> test quote for classic station 
+> <div class="signature"> <span style="font-size:22px"> howard</span> </div>
+> #type/quote 
+
 
 
 
