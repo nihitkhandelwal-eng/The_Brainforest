@@ -5,7 +5,7 @@ cssclass:
 ---
 
 Medical Studies MOC
-Knowledge MOC
+[[PKM MOC|Knowledge MOC]]
 Personal Growth MOC
 Work MOC
 Health MOC
