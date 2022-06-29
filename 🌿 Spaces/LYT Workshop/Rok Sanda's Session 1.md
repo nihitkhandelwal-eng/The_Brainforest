@@ -57,8 +57,7 @@ You need a wall to bounce your ideas from. So that you can rework your ideas bas
 
 Feedback is not validation for what you write or what you don't write it is not a process that you go through after you've finished writing it's a process that you do while you're writing it.
 
-
-[[Sturgeon's Law]]
+See [[Sturgeon's Law]] for more.
 
 ### Snowflake
 You indeed are a special snowflake. This relates back to [[My Unique Journey]]
