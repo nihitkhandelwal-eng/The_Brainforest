@@ -99,3 +99,12 @@ cssclass:
 - Build Your Home
 
 ### Week 5
+- Events
+	- Super Session 5
+	- Sense Making Session 5
+- Unit 5
+- Advanced Sensemaking
+- Custom Workflows → Inputs & Outputs
+- Loop to Flywheel
+- Area of Expression
+- The 3 M's of Output
