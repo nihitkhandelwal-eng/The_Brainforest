@@ -134,7 +134,7 @@ cssclass:
 - Switch to Only Secondary Display → Ctrl+Num 6
 - Switch to Only Lapcam → Ctrl+Num 2
 - Switch to Only Webcam → Ctrl+Num 8
-- Cycle between Scenes of Secondary Display & Webcam 
+- Cycle between Scenes of Secondary Display & Webcam → Ctrl + Num (1-3-7-9)
 - Switch to Webcam Scenes → Ctrl+Numpad Keys
 - Switch to Lapcam Scenes → Ctrl+Alt+Numpad Keys
 
