@@ -14,4 +14,4 @@ Some of the big categories in my life are
 -   Rationality
 -   Sociology
 -   Music
--   Cinema
+	-   Cinema
