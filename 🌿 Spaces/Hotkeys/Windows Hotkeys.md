@@ -130,7 +130,8 @@ cssclass:
 - Start Recording → F12
 - Stop Recording → F10
 - Pause/Unpause Recording → F11
-- Switch to Only Display → Ctrl+Alt+Shift+1
+- Switch to Primary Display → Ctrl+Num 4
+- Switch to Secondary Display → Ctrl+Num 6
 - Switch to Only Webcam → Ctrl+Alt+Shift+2
 - Switch to Only Lapcam → Ctrl+Alt+Shift+3
 - Switch to Webcam Scenes → Ctrl+Numpad Keys
