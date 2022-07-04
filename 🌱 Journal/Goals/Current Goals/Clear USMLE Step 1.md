@@ -37,3 +37,5 @@ habits:: <% tp.file.cursor(5) %>
 		- [Osmosis Prime](https://medicalstudyzone.com/osmosis-prime-videos-875-videos-free-download/)
 
 
+
+### Notes & Advices from Anking
