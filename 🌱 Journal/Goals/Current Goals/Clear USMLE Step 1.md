@@ -24,6 +24,7 @@ habits:: <% tp.file.cursor(5) %>
 2. Pathoma → Everything Pathology 
 3. Amboss → Highly rated by Anking
 	- Looks really good, has some really cool features
+	- Amboss Ethics Cards are really good
 4. Sketchy → Not so updated, says Anking
 5. Boards & Beyond
 6. Physeo
