@@ -109,7 +109,8 @@ cssclass:
 74. Vantage → Advanced Search Builder
 75. Various Complements
 76. Waypoint ↑ (recommended by Ashley & Ben)
-77. Wordsprint
+77. Webhooks Plugin
+78. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For
