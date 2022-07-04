@@ -20,6 +20,8 @@ habits:: <% tp.file.cursor(5) %>
 ### Objectives
 
 ### Best Resources
+[Step 1 Guide](https://www.youtube.com/watch?v=y-bccn6NUyg&t=1455s)
+
 1. Anki & Anking
 2. Pathoma → Everything Pathology 
 3. Amboss → Highly rated by Anking
