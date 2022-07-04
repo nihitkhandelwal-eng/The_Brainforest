@@ -21,6 +21,7 @@ habits:: <% tp.file.cursor(5) %>
 
 ### Best Resources
 [Step 1 Guide](https://www.youtube.com/watch?v=y-bccn6NUyg&t=1455s)
+[Step 2 Guide](https://www.youtube.com/watch?v=sb5aXXbC0ao&t=5s)
 
 1. Anki & Anking
 2. Pathoma → Everything Pathology 
