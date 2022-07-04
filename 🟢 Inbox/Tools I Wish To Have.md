@@ -5,6 +5,9 @@ cssclass:
 ---
 
 - Zotero
+- Readwise
+- Feedly
+- Rize
 - 
 
 
