@@ -41,7 +41,4 @@ cssclass:
 - [Refer to the manual](https://docs.ankiweb.net/searching.html)
 
 
----
-Related:
-
 
