@@ -39,3 +39,5 @@ habits:: <% tp.file.cursor(5) %>
 
 
 ### Notes & Advices from Anking
+- Anatomy → The Noted Anatomist
+- 
