@@ -28,6 +28,7 @@ habits:: <% tp.file.cursor(5) %>
 6. Physeo
 7. Uworld
 8. Rx Qbank
+9. Anatomy → The Noted Anatomist
 
 ### Resources
 - [Discount links for subscriptions](https://www.ankipalace.com/discounts)
@@ -37,7 +38,3 @@ habits:: <% tp.file.cursor(5) %>
 		- [Osmosis Prime](https://medicalstudyzone.com/osmosis-prime-videos-875-videos-free-download/)
 
 
-
-### Notes & Advices from Anking
-- Anatomy → The Noted Anatomist
-- 
