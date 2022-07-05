@@ -37,6 +37,7 @@ cssclass:
 - add note to task → hyphen twice (—) 
 - add subtasks → , (if at the end of the title) 
 - assign task to section → ! 
+- add reward points → $ or rp
 
 
 
