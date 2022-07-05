@@ -8,6 +8,7 @@ cssclass:
 - quick add → Ctrl+Shift+Q 
 - quick add task while in app → Space or Shift+T 
 - quick add project → Shift+P 
+- quick add event → Shift+E
 - quick open project overview → Shift+Space 
 - open Inbox → Shift+I 
 - open search → Shift+S 
