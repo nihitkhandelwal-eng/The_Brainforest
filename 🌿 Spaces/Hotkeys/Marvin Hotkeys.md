@@ -18,6 +18,8 @@ cssclass:
 - go fullscreen → Shift+F 
 - add filter → Alt+F 
 
+- 
+
 
 ### Title / Input bar editing
 - add task to top of the list → Shift+Enter 
