@@ -58,7 +58,7 @@ cssclass:
 
 - What notable group or activities were you part of?
 	- Part of Co-x3 these days. 
-	- Very much into the PKM space
+	- Very much into the PKM space.
 - What teachers/role models made an impact on you?
 	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students
 - What were your impactful experiences?
