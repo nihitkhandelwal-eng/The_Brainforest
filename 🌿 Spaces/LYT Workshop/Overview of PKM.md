@@ -12,7 +12,7 @@ We are in the age of information abundance & this is something we should tread l
 
 + 1890 
 + Sherlock Holmes' Mind Palace
-+ Sir Arthur Conan Doyle comes up with a character who is an expert in managing knowledge. A way to swim better in the pool of information
++ Sir Arthur Conan Doyle comes up with a character who is an expert in managing knowledge using **mind palace**. A way to swim better in the pool of information
 
 + 1846
 + The Temple of Time
