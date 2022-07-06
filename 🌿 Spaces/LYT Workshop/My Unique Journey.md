@@ -14,16 +14,17 @@ cssclass:
 ^58302d
 
 - Where were you born?
-	- I was born in Sikar at Dr Rajkumari Bhargav's Place
+	- I was born in Sikar (1998) at Dr Rajkumari Bhargav's place.
 - Where did you grow up?
 	- Sikar
 - What was your first memory?
-	- First memory would be dressing up as "a madrasi" in a fancy dress in school
+	- First memory would be dressing up as "a madrasi" in a fancy dress in school.
+	- I remember moma putting some powder on my head.
 - What was your family dynamic?
 	- It was very pleasant, both my parents are & were very supportive. Nothing dramatic.
 - Where did you go to high school? How was your experience? Who were your friends?
-	- Sikar & partially in Jaipur
-	- It was kind of a dramatic experience, I was never without a girlfriend during my grade 6th-10th
+	- Sikar & partially in Jaipur.
+	- It was kind of a dramatic experience, I was never without a girlfriend during my grade 6th-10th.
 	- Sharad & Atul were my good friends.
 	- In NMS, I had good friendship with Avi Jain
 - Are you still friends with any of them? Why or Why not?
