@@ -52,7 +52,6 @@ cssclass:
 
 
 ### I Met People & Did things?
-
 ^a15e04
 
 - What notable group or activities were you part of?
@@ -65,7 +64,6 @@ cssclass:
 		- Relationships went wrong
 
 ### I grew & developed skills
-
 ^09a0c9
 
 - What skills did you develop?
@@ -87,7 +85,6 @@ cssclass:
 
 
 ### And Now...
-
 ^10bf43
 
 - Living in gurgaon, with Mami & the kids, sitting on a wonderful chair which Mama brought because I am apparently a prince with high needs.
