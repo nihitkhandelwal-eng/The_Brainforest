@@ -60,7 +60,8 @@ cssclass:
 	- Part of Co-x3 these days. 
 	- Very much into the PKM space.
 - What teachers/role models made an impact on you?
-	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students
+	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students.
+	- 
 - What were your impactful experiences?
 	- I can mostly think of negative impactful experience.
 		- Relationships went wrong
