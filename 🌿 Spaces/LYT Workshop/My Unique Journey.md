@@ -65,7 +65,7 @@ cssclass:
 - What were your impactful experiences?
 	- I can mostly think of negative impactful experience.
 		- Relationships went wrong
-	- Again, not obviously true, but if held at a few second thing, this is what I come back to 
+	- Again, not obviously true, but if held at a few second thing, this is what I come back to every time.
 
 ### I grew & developed skills
 ^09a0c9
@@ -82,10 +82,12 @@ cssclass:
 - **How many pivots have you had?**
 	- **I have had 1 pivotal point in my life & I am really happy about it.**
 	- It's weird to say this now, but these days I am glad that it happened.
+	- [[06-Jul-22]] Really really glad
 - What interests did you have since a young age?
 	- Really interested in technology
 	- Science
 	- Psychology
+	- Kids
 
 
 ### And Now...
