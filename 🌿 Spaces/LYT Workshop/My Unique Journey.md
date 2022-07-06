@@ -26,11 +26,11 @@ cssclass:
 	- Sikar & partially in Jaipur.
 	- It was kind of a dramatic experience, I was never without a girlfriend during my grade 6th-10th.
 	- Sharad & Atul were my good friends.
-	- In NMS, I had good friendship with Avi Jain
+	- In NMS, I had good friendship with Avi Jain, Varnit Trivedi, Shagun Gupta, Nitin Jain. 
 - Are you still friends with any of them? Why or Why not?
 	- Not in touch with Atul since class 10th
 	- I talk to sharad once or twice a year but nothing like friends, more like acquaintances
-	- Not in touch with Avi since I left NMS
+	- Not in touch with Avi since I left NMS, have talked to Varnit a couple of times but not since the past few years, met Shagun in sikar a few years ago, haven't talked to Nitin, maybe I was thinking about him today i.e. [[06-Jul-22]] because of [[Baby Panda]] 
 	- I haven't been proactive in maintaining my friendships, so I think it is mostly on me.
 - How did you rebel?
 	- I was a [[Session 1#^aa3ae0|very angry kid]] as I have described in my first therapy session 
