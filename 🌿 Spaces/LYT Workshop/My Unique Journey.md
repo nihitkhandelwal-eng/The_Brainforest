@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Your Unique Journey]
 tags: LYT_Workshop 
 cssclass: 
 ---
