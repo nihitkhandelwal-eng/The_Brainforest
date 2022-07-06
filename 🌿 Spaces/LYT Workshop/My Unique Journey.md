@@ -61,10 +61,11 @@ cssclass:
 	- Very much into the PKM space.
 - What teachers/role models made an impact on you?
 	- I regret the way I lived through my school days & the teachers were not bad, we were not very good students.
-	- 
+	- I fondly remember Supreeti Ma'am from NMS, she was very supportive of me, I was a spoilt kid, now that I think of it.
 - What were your impactful experiences?
 	- I can mostly think of negative impactful experience.
 		- Relationships went wrong
+	- Again, not obviously true, but if held at a few second thing, this is what I come back to 
 
 ### I grew & developed skills
 ^09a0c9
