@@ -48,7 +48,8 @@ cssclass:
 - How did each place shaped you?
 	- Sikar made me kind of reserved & not wanting to go out at all
 	- Jaipur exposed me to the real world
-	- Jodhpur is something I am not sure about, I don't think I learnt anything of value there
+	- Jodhpur is something I am not sure about, I don't think I learnt anything of value there.
+		- This is obviously not true, will write more about this at some point.
 	- Gurgaon is shaping me to be more like actual me, because I don’t have to worry about anyone here. 
 
 
