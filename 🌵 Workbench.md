@@ -1,4 +1,4 @@
-
+### Pull
 First Thing before you start on the shared vault
 1. Go to Github Desktop
 2. Make sure the current branch is selected as main
@@ -9,7 +9,7 @@ First Thing before you start on the shared vault
 7. Send Ctrl+P → To Push
 
 
-
+### Commit & Push
 For Committing & Pushing i.e. the last thing you do in the day, recommended to do it atleast twice in a day
 1. Ctrl+G → Go to Summary
 2. Type → Commit From Anne
