@@ -2,7 +2,8 @@
 ^+p::
 Sleep 20000
 ^B 
-Sleep 1000
+Sleep 10000
+^+U 
 
 return
 
