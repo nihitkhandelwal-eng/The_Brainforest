@@ -7,3 +7,6 @@ For Committing & Pushing
 3. Send Ctrl+Enter → To Commit
 4. Send Ctrl+P → To Push
 5. Ctrl+B → To Show Branches
+6. Click on Main
+7. Ctrl+Shift+M → Merge into Current Branch
+8. Select 
