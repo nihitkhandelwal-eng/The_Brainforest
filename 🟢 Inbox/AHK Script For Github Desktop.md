@@ -1,7 +1,5 @@
 ; First Thing before you start on the shared vault
 ^+p::
-WinActivate, i) Obsidian
-Run "obsidian://advanced-uri?vault=The_Brainforest&commandname=QuickAdd: Run QuickAdd"
 return
 
 
