@@ -1,5 +1,4 @@
-; This will activate obsidian, if not already open, it will open it & run the command for quick add plugin.
-; This is one hotkey which I am able to get to work every time in any location whatsoever
+; First Thing before you start on the shared vault
 ^q::
 WinActivate, i) Obsidian
 Run "obsidian://advanced-uri?vault=The_Brainforest&commandname=QuickAdd: Run QuickAdd"

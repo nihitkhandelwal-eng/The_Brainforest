@@ -8,7 +8,7 @@ First Thing before you start on the shared vault
 
 
 
-For Committing & Pushing
+For Committing & Pushing i.e. the last thing you do in the day, recommended to do it atleast twice in a day
 1. Ctrl+G → Go to Summary
 2. Type → Commit From Anne
 3. Send Ctrl+Enter → To Commit
@@ -19,3 +19,4 @@ For Committing & Pushing
 8. Select Anne
 9. Ctrl+P → To Push
 
+ 
