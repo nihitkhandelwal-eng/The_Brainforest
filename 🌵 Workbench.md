@@ -1,5 +1,5 @@
-First Thing before you start on the shared vault
 
+First Thing before you start on the shared vault
 1. Go to Github Desktop
 2. Make sure the current branch is selected as main
 3. Pull from Main → Ctrl+Shift+P
