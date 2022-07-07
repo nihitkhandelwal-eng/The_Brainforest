@@ -6,3 +6,4 @@ For Committing & Pushing
 2. Type → Commit From Anne
 3. Send Ctrl+Enter → To Commit
 4. Send Ctrl+P → To Push
+5. Ctrl+B → To Show Branches
