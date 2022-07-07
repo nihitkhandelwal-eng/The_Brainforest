@@ -1,10 +1,11 @@
 ; First Thing before you start on the shared vault
 ^+p::
 Sleep 20000
-^B 
+^b 
 Sleep 10000
-^+U 
-
+^+U
+Sleep 10000
+^p 
 return
 
 
