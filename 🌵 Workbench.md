@@ -10,3 +10,4 @@ For Committing & Pushing
 6. Click on Main
 7. Ctrl+Shift+M → Merge into Current Branch
 8. Select Anne
+9. Ctrl+P → To Push
