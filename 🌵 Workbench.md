@@ -2,6 +2,7 @@ First Thing before you start on the shared vault
 1. Make sure the current branch is selected as main
 2. Pull from Main → Ctrl+Shift+P
 3. Ctrl+B → To Show Branches
+4. Click on Anne
 
 
 
