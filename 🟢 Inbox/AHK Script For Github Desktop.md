@@ -1,6 +1,6 @@
 ; First Thing before you start on the shared vault
 ^+p::
-Sleep 5000
+Sleep 20000
 return
 
 
