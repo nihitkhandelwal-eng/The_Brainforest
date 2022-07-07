@@ -9,4 +9,4 @@ For Committing & Pushing
 5. Ctrl+B → To Show Branches
 6. Click on Main
 7. Ctrl+Shift+M → Merge into Current Branch
-8. Select 
+8. Select Anne
