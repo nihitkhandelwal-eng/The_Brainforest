@@ -1,10 +1,12 @@
 First Thing before you start on the shared vault
-1. Make sure the current branch is selected as main
-2. Pull from Main → Ctrl+Shift+P
-3. Ctrl+B → To Show Branches
-4. Click on Anne
-5. Ctrl+Shift+U → To update from main
-6. Send Ctrl+P → To Push
+
+1. Go to Github Desktop
+2. Make sure the current branch is selected as main
+3. Pull from Main → Ctrl+Shift+P
+4. Ctrl+B → To Show Branches
+5. Click on Anne
+6. Ctrl+Shift+U → To update from main
+7. Send Ctrl+P → To Push
 
 
 
