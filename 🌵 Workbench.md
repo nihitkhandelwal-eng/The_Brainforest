@@ -22,4 +22,5 @@ For Committing & Pushing i.e. the last thing you do in the day, recommended to d
 9. Ctrl+P → To Push
 
 - [!]  fdf 
-- 
+- [i] fdf
+-  
