@@ -23,4 +23,4 @@ For Committing & Pushing i.e. the last thing you do in the day, recommended to d
 
 - [!]  fdf 
 - [i] fdf
--  
+- [p]  
