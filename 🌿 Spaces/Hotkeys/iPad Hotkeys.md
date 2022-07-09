@@ -22,7 +22,7 @@ cssclass:
 - Previous App → Globe + left arrow
 	- Globe + right arrow for next app
 - Show all windows → Globe + ↑
-- Split view → Control + Globe + right/left arrow
+- Split view → Control + Globe + right/left arrow ^36a7cc
 	- Enter full screen → Globe + F
 		- this works in both slide over & split view
 	- Replace app in split view → Control + Globe + ↓
