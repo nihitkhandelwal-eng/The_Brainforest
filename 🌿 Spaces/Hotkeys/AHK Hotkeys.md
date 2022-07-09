@@ -14,3 +14,6 @@ cssclass:
 ### Anki
 - Need to Understand & Suspend → Win+Shift+u
 - Edit Later & Suspend → Win+Shift+E
+
+
+### GitHub Desktop
