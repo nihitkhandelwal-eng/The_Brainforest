@@ -2,6 +2,7 @@
 aliases:
 tags: placeholder/on/AHK, placeholder/on/hotkeys 
 cssclass:
+
 ---
 
 
@@ -16,4 +17,7 @@ cssclass:
 - Edit Later & Suspend → Win+Shift+E
 
 
-### GitHub Desktop
+### GitHub Desktop For Shared Vault
+- Master Message Box → Ctrl+Win+G
+- Pull → Ctrl+Win+L
+- Push → Ctrl+Win+H
