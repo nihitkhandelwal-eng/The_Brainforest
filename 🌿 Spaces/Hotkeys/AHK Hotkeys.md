@@ -1,7 +1,7 @@
 ---
 aliases:
 tags: placeholder/on/AHK, placeholder/on/hotkeys 
-cssclass:
+cssclass: 
 ---
 
 ---
