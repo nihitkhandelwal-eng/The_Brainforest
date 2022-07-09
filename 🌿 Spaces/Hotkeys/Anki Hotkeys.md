@@ -36,6 +36,8 @@ Toggle side panel → Shift+A
 
 ### My Categorization
 - Flag for adding to notes → Ctrl+7 ^c722e7
+- Flag for Edit Later → Ctrl+6
+- Flag for Need to Understand → Ctrl+5
 
 ### Better Search
 - Tag & deck popover → xx or all:
