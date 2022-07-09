@@ -35,7 +35,7 @@ Toggle side panel → Shift+A
 
 
 ### My Categorization
-- Flag for adding to notes → Ctrl+7
+- Flag for adding to notes → Ctrl+7 ^c722e7
 
 ### Better Search
 - Tag & deck popover → xx or all:
