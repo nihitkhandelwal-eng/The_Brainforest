@@ -34,9 +34,9 @@ cssclass:
 
 ### Windows Explorer 
 
-Alt + Up → Will navigate up one folder
-Shift + F10 → Opens the contextual or "right click" menu for a file/folder.    
-Alt + Enter → Opens the file properties to view file size, sharing settings and creation date.  
+Navigate up one folder → Alt + Up
+Open the contextual or "right click" menu for a file/folder → Shift + F10    
+Open the file/folder properties → Alt + Enter  
 
 
 
