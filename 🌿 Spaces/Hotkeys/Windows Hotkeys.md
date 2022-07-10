@@ -27,6 +27,10 @@ cssclass:
 -  Delete a word before cursor → Ctrl+Backspace 
 -  Delete a word after cursor → Ctrl+Delete 
 
+- Show & cycle through open taskbar programs → Win+T
+- Minimize all program except the current window → Win+Home
+- 
+
 
 ### Windows Apps
 - Open Ditto (The Clipboard Manager) → Ctrl+~
