@@ -37,10 +37,7 @@ cssclass:
 Alt + Up → Will navigate up one folder
 Shift + F10 → Opens the contextual or "right click" menu for a file/folder.    
 Alt + Enter → Opens the file properties to view file size, sharing settings and creation date.  
-**F2** - Renames a file or folder.  
-**F3** - Will open explorer and select the search bar. If explorer is already open, it will highlight the search bar.  
-**F6** - Cycles objects in the current window.  
-**F10** - Toggles the file menu in explorer.
+
 
 
 
