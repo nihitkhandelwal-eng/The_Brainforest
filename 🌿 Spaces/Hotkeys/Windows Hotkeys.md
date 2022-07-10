@@ -29,6 +29,7 @@ cssclass:
 
 - Show & cycle through open taskbar programs → Win+T
 - Minimize all program except the current window → Win+Home
+- Select the system tray menu → Win+B
 - 
 
 
