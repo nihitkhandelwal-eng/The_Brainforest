@@ -6,7 +6,6 @@ cssclass:
 
 -  Open Action Center→ Win+A 
 -  Display/Hide the Desktop → Win+D 
--  Open FIle Explorer → Win+E 
 -  Open Game Bar → Win+G 
 -  Open/Close Dictation Bar → Win+H 
 -  Open Settings → Win+I 
@@ -34,9 +33,10 @@ cssclass:
 
 ### Windows Explorer 
 
-Navigate up one folder → Alt + Up
-Open the contextual or "right click" menu for a file/folder → Shift + F10    
-Open the file/folder properties → Alt + Enter  
+-  Open FIle Explorer → Win+E 
+- Navigate up one folder → Alt + Up
+- Open the contextual or "right click" menu for a file/folder → Shift + F10    
+- Open the file/folder properties → Alt + Enter  
 
 
 
