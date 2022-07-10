@@ -33,7 +33,7 @@ cssclass:
 
 ### Windows Explorer 
 
--  Open FIle Explorer → Win+E 
+- Open FIle Explorer → Win+E 
 - Navigate up one folder → Alt + Up
 - Open the contextual or "right click" menu for a file/folder → Shift + F10    
 - Open the file/folder properties → Alt + Enter  
