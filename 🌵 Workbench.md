@@ -1,23 +1,11 @@
-### Pull
-First Thing before you start on the shared vault
-1. Go to Github Desktop
-2. Make sure the current branch is selected as main
-3. Pull from Main → Ctrl+Shift+P
-4. Ctrl+B → To Show Branches
-5. Click on Anne
-6. Ctrl+Shift+U → To update from main
-7. Send Ctrl+P → To Push
+- Show & cycle through open taskbar programs → Win+T
+- Minimize all program except the current window → Win+Home
+- Select the system tray menu → Win+B
+- Open task manager → Ctrl+Shift+Esc
 
+### Windows Explorer 
 
-### Commit & Push
-For Committing & Pushing i.e. the last thing you do in the day, recommended to do it atleast twice in a day
-1. Ctrl+G → Go to Summary
-2. Type → Commit From Anne
-3. Send Ctrl+Enter → To Commit
-4. Send Ctrl+P → To Push
-5. Ctrl+B → To Show Branches
-6. Click on Main
-7. Ctrl+Shift+M → Merge into Current Branch
-8. Select Anne
-9. Ctrl+P → To Push
-
+- Open FIle Explorer → Win+E 
+- Navigate up one folder → Alt + Up
+- Open the contextual or "right click" menu for a file/folder → Shift + F10    
+- Open the file/folder properties → Alt + Enter  
