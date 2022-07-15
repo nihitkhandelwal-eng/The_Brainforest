@@ -18,6 +18,8 @@ Profession:
 
 - Not a maladaptive behaviour
 
+> Obsidian is safe, it's not in the sky (she means cloud)
+> <cite> — Anne </cite>
+> #type/🗯quote 
 
-I had a nice talk with her & [[👤 Sage]] 
-[[👤 Sage|Sage]] is trying to figure out notion
+
