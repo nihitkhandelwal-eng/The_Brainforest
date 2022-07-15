@@ -20,4 +20,4 @@ Profession:
 
 
 I had a nice talk with her & [[👤 Sage]] 
-Sage is trying to figure out notion
+[[👤 Sage|Sage]] is trying to figure out notion
