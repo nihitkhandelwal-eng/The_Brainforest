@@ -19,5 +19,5 @@ Profession:
 - Not a maladaptive behaviour
 
 
-I had a nice talk with her & [[Sage]] 
+I had a nice talk with her & [[👤 Sage]] 
 Sage is trying to figure out notion
