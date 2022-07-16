@@ -123,4 +123,8 @@ cssclass:
 - go to today/this week/this month → Ctrl+down arrow 
 
 
+### Quick Jump Hotkeys
+- Plan Day → Alt+0
+- Open Smart List Manager → Alt+1
+- 
 
