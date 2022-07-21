@@ -8,3 +8,4 @@ Dinner
 Brush
 Water
 Healthy Fruit
+School Bag at it's place
