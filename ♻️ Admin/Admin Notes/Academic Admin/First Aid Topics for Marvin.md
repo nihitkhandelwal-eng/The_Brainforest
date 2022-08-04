@@ -79,7 +79,7 @@
 	- Systemic Mycoses
 	- Opportunistic Fungal Infections
 - Parasitology
-	- 
+	- Protozoa → Gastrointestinal Infections
 - Virology
 - Systems
 - Antimicrobials
