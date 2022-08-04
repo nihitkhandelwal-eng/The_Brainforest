@@ -76,7 +76,10 @@
 	- Clostridia
 	- Gram Negative Lab Algorithm
 - Mycology
+	- Systemic Mycoses
+	- Opportunistic Fungal Infections
 - Parasitology
+	- 
 - Virology
 - Systems
 - Antimicrobials
