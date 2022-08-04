@@ -64,3 +64,6 @@
 - Metabolism
 
 ### Microbiology
+### Immunology
+### Pharmacology
+### Public Health Sciences
