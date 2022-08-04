@@ -64,6 +64,13 @@
 - Metabolism
 
 ### Microbiology
+- Basic Bacteriology
+- Clinical Bacteriology
+- Mycology
+- Parasitology
+- Virology
+- Systems
+- Antimicrobials
 ### Immunology
 ### Pharmacology
 ### Public Health Sciences
