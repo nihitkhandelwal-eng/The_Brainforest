@@ -56,3 +56,9 @@
 	- Start & Stop Codons
 	- Protein Synthesis
 	- Post Translational Modifications
+	- 
+- Cellular Biology
+- Laboratory Techniques
+- Genetics
+- Nutrition
+- Metabolism
