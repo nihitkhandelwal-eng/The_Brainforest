@@ -71,6 +71,8 @@
 	- Bacterial Genetics
 	- Bacterial Toxins
 - Clinical Bacteriology
+	- Gram Positive Lab Algorithm
+	- Hemolytic Bacteria
 - Mycology
 - Parasitology
 - Virology
