@@ -66,9 +66,7 @@
 ### Microbiology
 - Basic Bacteriology
 	- Bacterial Structures
-	- Stains
-	- Special Culture Requirements
-	- Anaerobes
+	- Stains & Cultures
 	- Different Types of Bacteria
 - Clinical Bacteriology
 - Mycology
