@@ -68,6 +68,8 @@
 	- Bacterial Structures
 	- Stains & Cultures
 	- Different Types of Bacteria
+	- Bacterial Genetics
+	- Bacterial Toxins
 - Clinical Bacteriology
 - Mycology
 - Parasitology
