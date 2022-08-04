@@ -80,6 +80,13 @@
 	- Opportunistic Fungal Infections
 - Parasitology
 	- Protozoa → Gastrointestinal Infections
+	- Protozoa → CNS Infections
+	- Protozoa → Hematologic Infections
+	- Protozoa → Other Protozoans
+	- Nematodes (Roundworms)
+	- Cestodes (Tapeworms)
+	- Trematodes (Flukes)
+	- Ectoparasites & Parasite Hints
 - Virology
 - Systems
 - Antimicrobials
