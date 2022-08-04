@@ -65,6 +65,12 @@
 
 ### Microbiology
 - Basic Bacteriology
+	- Bacterial Structures
+	- Cell Envelope
+	- Stains
+	- Special Culture Requirements
+	- Anaerobes
+	- Intracellular Bacteria
 - Clinical Bacteriology
 - Mycology
 - Parasitology
