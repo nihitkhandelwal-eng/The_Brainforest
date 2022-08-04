@@ -74,7 +74,7 @@
 	- Gram Positive Lab Algorithm
 	- Hemolytic Bacteria
 	- Clostridia
-	- 
+	- Gram Negative Lab Algorithm
 - Mycology
 - Parasitology
 - Virology
