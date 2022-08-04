@@ -73,6 +73,8 @@
 - Clinical Bacteriology
 	- Gram Positive Lab Algorithm
 	- Hemolytic Bacteria
+	- Clostridia
+	- 
 - Mycology
 - Parasitology
 - Virology
