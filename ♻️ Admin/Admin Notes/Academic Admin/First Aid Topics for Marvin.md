@@ -70,7 +70,7 @@
 	- Stains
 	- Special Culture Requirements
 	- Anaerobes
-	- Intracellular Bacteria
+	- Different Types of Bacteria
 - Clinical Bacteriology
 - Mycology
 - Parasitology
