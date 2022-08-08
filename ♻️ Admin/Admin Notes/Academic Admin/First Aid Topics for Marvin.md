@@ -64,6 +64,8 @@
 	- Pyruvate Dehydrogenase Complex & Pyruvate Metabolism
 	- TCA Cycle
 	- Electron Transport Chain & Oxidative Phosphorylation
+	- Gluconeogenesis & Irreversible Enzymes
+	- 
 
 ### Immunology
 ### Microbiology
