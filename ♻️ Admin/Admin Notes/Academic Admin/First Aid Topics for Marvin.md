@@ -1,3 +1,58 @@
+### Biochemistry
+- Molecular Biology
+	- Chromatin Structure
+	- Nucleotides
+	- De Novo Pyrimidine & Purine Synthesis
+	- Purine Salvage Deficiencies
+	- Genetic Code Features
+	- DNA Replication
+	- DNA Repair
+	- Mutations in DNA
+	- Functional Organization of a Eukaryotic Gene
+	- Regulation of Gene Expression
+	- RNA Polymerases
+	- Splicing of pre-mRNA
+	- Introns v/s Exons
+	- tRNA
+	- Start & Stop Codons
+	- Protein Synthesis
+	- Post Translational Modifications
+	- 
+- Cellular Biology
+- Laboratory Techniques
+- Genetics
+- Nutrition
+- Metabolism
+
+### Immunology
+### Microbiology
+- Basic Bacteriology
+	- Bacterial Structures
+	- Stains & Cultures
+	- Different Types of Bacteria
+	- Bacterial Genetics
+	- Bacterial Toxins
+- Clinical Bacteriology
+	- Gram Positive Lab Algorithm
+	- Hemolytic Bacteria
+	- Clostridia
+	- Gram Negative Lab Algorithm
+- Mycology
+	- Systemic Mycoses
+	- Opportunistic Fungal Infections
+- Parasitology
+	- Protozoa → Gastrointestinal Infections
+	- Protozoa → CNS Infections
+	- Protozoa → Hematologic Infections
+	- Protozoa → Other Protozoans
+	- Nematodes (Roundworms)
+	- Cestodes (Tapeworms)
+	- Trematodes (Flukes)
+	- Ectoparasites & Parasite Hints
+- Virology
+- Systems
+- Antimicrobials
+
 ### Pathology
 - Cellular Injury
 	- Cellular Adaptation  
@@ -37,59 +92,5 @@
 
 
 
-### Biochemistry
-- Molecular Biology
-	- Chromatin Structure
-	- Nucleotides
-	- De Novo Pyrimidine & Purine Synthesis
-	- Purine Salvage Deficiencies
-	- Genetic Code Features
-	- DNA Replication
-	- DNA Repair
-	- Mutations in DNA
-	- Functional Organization of a Eukaryotic Gene
-	- Regulation of Gene Expression
-	- RNA Polymerases
-	- Splicing of pre-mRNA
-	- Introns v/s Exons
-	- tRNA
-	- Start & Stop Codons
-	- Protein Synthesis
-	- Post Translational Modifications
-	- 
-- Cellular Biology
-- Laboratory Techniques
-- Genetics
-- Nutrition
-- Metabolism
-
-### Microbiology
-- Basic Bacteriology
-	- Bacterial Structures
-	- Stains & Cultures
-	- Different Types of Bacteria
-	- Bacterial Genetics
-	- Bacterial Toxins
-- Clinical Bacteriology
-	- Gram Positive Lab Algorithm
-	- Hemolytic Bacteria
-	- Clostridia
-	- Gram Negative Lab Algorithm
-- Mycology
-	- Systemic Mycoses
-	- Opportunistic Fungal Infections
-- Parasitology
-	- Protozoa → Gastrointestinal Infections
-	- Protozoa → CNS Infections
-	- Protozoa → Hematologic Infections
-	- Protozoa → Other Protozoans
-	- Nematodes (Roundworms)
-	- Cestodes (Tapeworms)
-	- Trematodes (Flukes)
-	- Ectoparasites & Parasite Hints
-- Virology
-- Systems
-- Antimicrobials
-### Immunology
 ### Pharmacology
 ### Public Health Sciences
