@@ -25,6 +25,9 @@
 	- Polymerase Chain Reaction
 	- CRISPR
 	- Blotting Procedures
+	- Flow Cytometry & Microassays
+	- Karyotyping
+	- 
 - Genetics & Biochemistry
 - Nutritional Biochemistry
 - Metabolism Biochemistry
