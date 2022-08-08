@@ -32,9 +32,29 @@
 	- Genetic Terms
 	- Disorders of Imprinting
 	- Modes of Inheritance
-	- Cystic Fibrosis
+	- Autosomoal Dominant, Autosomal Recessive Diseases & Cystic Fibrosis
+	- X-Linked Recessive Diseases & Muscular Dystrophy
+	- Mitochondrial Diseases
+	- Rett & Fragile X Syndrome
+	- Autosomal Trisomies
+	- Genetic Disorders by Chromosome + 3 Syndrome
 - Nutritional Biochemistry
+	- Essential Fatty Acids
+	- Vitamins → Basics
+	- Vitamin A
+	- Vitamin B1
+	- Vitamin B 2,3,5 & 6
+	- Vitamin B 7 & 9
+	- Vitamin B12
+	- Vitamin C
+	- Vitamin D
+	- Vitamin E
+	- Vitamin K
+	- Zinc
+	- Protein Energy Malnutrition
+	- Ethanol Metabolism
 - Metabolism Biochemistry
+	- 
 
 ### Immunology
 ### Microbiology
