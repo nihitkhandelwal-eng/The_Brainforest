@@ -60,6 +60,10 @@
 	- Universal Electron Acceptors
 	- Hexokinase v/s Glucokinase
 	- Glycolysis Regulation
+	- Regulation by F2-6 Biphosphate
+	- Pyruvate Dehydrogenase Complex & Pyruvate Metabolism
+	- TCA Cycle
+	- Electron Transport Chain & Oxidative Phosphorylation
 
 ### Immunology
 ### Microbiology
