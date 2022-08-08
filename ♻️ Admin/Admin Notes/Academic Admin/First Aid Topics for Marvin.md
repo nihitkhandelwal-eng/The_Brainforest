@@ -17,7 +17,9 @@
 	- Protein Synthesis & Post Translational Modifications
 - Cellular Biochemistry
 	- Cell Cycle Phases
-	- 
+	- Cytoskeleton, Cell Trafficking & Microtubules
+	- Cilia & Related Diseases
+	- Collagen
 - Laboratory Techniques
 - Genetics & Biochemistry
 - Nutritional Biochemistry
