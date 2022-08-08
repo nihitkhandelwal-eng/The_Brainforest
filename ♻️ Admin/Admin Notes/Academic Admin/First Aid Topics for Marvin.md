@@ -54,7 +54,12 @@
 	- Protein Energy Malnutrition
 	- Ethanol Metabolism
 - Metabolism Biochemistry
-	- 
+	- Enzyme Terminology & Rate Determing Enzymes
+	- Metabolism Sites & Summary of Pathways
+	- ATP Production, Activated Carriers
+	- Universal Electron Acceptors
+	- Hexokinase v/s Glucokinase
+	- Glycolysis Regulation
 
 ### Immunology
 ### Microbiology
