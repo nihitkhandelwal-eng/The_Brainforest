@@ -74,6 +74,20 @@
 	- Amino Acids
 	- Urea Cycle
 	- Amino Acid Derivatives
+	- Phenylketonuria
+	- Maple Syrup Urine Disease & Alkaptonuria
+	- Homocystinuria & Cystinuria
+	- Organic Acidemias
+	- Glycogen Regulation by Insulin & Glucagon/Epinephrine
+	- Glycogen & It's Storage Diseases
+	- Lysosomal Storage Diseases
+	- Fatty Acid Metabolism
+	- Ketone Bodies
+	- Fasted v/s Fed State
+	- Metabolic Fuel Use
+	- Lipid Transport
+	- Major Apolipoproteins & Lipoprotein Functions
+	- Abetalipoprotenemia & Familial Dyslipidemias
 
 ### Immunology
 ### Microbiology
