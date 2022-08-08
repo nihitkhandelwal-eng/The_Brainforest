@@ -22,6 +22,9 @@
 	- Collagen & Genetic Syndromes 
 	- Elastin
 - Laboratory Techniques
+	- Polymerase Chain Reaction
+	- CRISPR
+	- Blotting Procedures
 - Genetics & Biochemistry
 - Nutritional Biochemistry
 - Metabolism Biochemistry
