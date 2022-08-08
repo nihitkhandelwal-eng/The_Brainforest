@@ -65,7 +65,15 @@
 	- TCA Cycle
 	- Electron Transport Chain & Oxidative Phosphorylation
 	- Gluconeogenesis & Irreversible Enzymes
-	- 
+	- Pentose Phosphate Pathway
+	- G6PD Deficiency
+	- Disorders of Fructose Metabolism
+	- Disorders of Galactose Metabolism
+	- Sorbitol
+	- Lactase Deficiency
+	- Amino Acids
+	- Urea Cycle
+	- Amino Acid Derivatives
 
 ### Immunology
 ### Microbiology
