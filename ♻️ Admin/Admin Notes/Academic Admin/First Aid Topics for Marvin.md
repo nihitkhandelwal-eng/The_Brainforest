@@ -1,5 +1,5 @@
 ### Biochemistry
-- Molecular Biology
+- Molecular Biochemistry
 	- Chromatin Structure
 	- Nucleotides
 	- De Novo Pyrimidine & Purine Synthesis
@@ -17,12 +17,11 @@
 	- Start & Stop Codons
 	- Protein Synthesis
 	- Post Translational Modifications
-	- 
-- Cellular Biology
+- Cellular Biochemistry
 - Laboratory Techniques
-- Genetics
-- Nutrition
-- Metabolism
+- Genetics & Biochemistry
+- Nutritional Biochemistry
+- Metabolism Biochemistry
 
 ### Immunology
 ### Microbiology
