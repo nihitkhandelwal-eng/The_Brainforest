@@ -19,7 +19,7 @@
 	- Cell Cycle Phases
 	- Cytoskeleton, Cell Trafficking & Microtubules
 	- Cilia & Related Diseases
-	- Collagen
+	- Collagen, Genetic Syndromes & Elastin
 - Laboratory Techniques
 - Genetics & Biochemistry
 - Nutritional Biochemistry
