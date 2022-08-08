@@ -16,6 +16,8 @@
 	- tRNA, Start & Stop Codons
 	- Protein Synthesis & Post Translational Modifications
 - Cellular Biochemistry
+	- Cell Cycle Phases
+	- 
 - Laboratory Techniques
 - Genetics & Biochemistry
 - Nutritional Biochemistry
