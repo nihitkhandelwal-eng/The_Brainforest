@@ -26,9 +26,13 @@
 	- CRISPR
 	- Blotting Procedures
 	- Flow Cytometry & Microassays
-	- Karyotyping
-	- 
+	- Karyotyping & Molecular Cloning
+	- Gene Express Modifications
 - Genetics & Biochemistry
+	- Genetic Terms
+	- Disorders of Imprinting
+	- Modes of Inheritance
+	- Cystic Fibrosis
 - Nutritional Biochemistry
 - Metabolism Biochemistry
 
