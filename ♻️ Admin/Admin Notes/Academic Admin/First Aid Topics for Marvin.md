@@ -13,10 +13,8 @@
 	- RNA Polymerases
 	- Splicing of pre-mRNA
 	- Introns v/s Exons
-	- tRNA
-	- Start & Stop Codons
-	- Protein Synthesis
-	- Post Translational Modifications
+	- tRNA, Start & Stop Codons
+	- Protein Synthesis & Post Translational Modifications
 - Cellular Biochemistry
 - Laboratory Techniques
 - Genetics & Biochemistry
