@@ -317,5 +317,8 @@
 	- Challenging Patient & Ethical Scenarios
 - Healthcare Delivery
 	- Disease Prevention
-	- Major Medical Insurance Plans & Payment Models
+	- Medical Insurance Plans & Payment Models
+	- Common Cause of Death in US by age
 - Quality & Safety
+	- Safety Culture & Human Factors Design
+	- PDSA Cycle
