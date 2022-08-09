@@ -188,7 +188,17 @@
 - Antimicrobials
 	- Antimicrobial Therapy
 	- Penicillin & Penicillin Resistance
-	- Cephalosporins & β-Lactamase inhibitors
+	- Cephalosporins & β-Lactamase Inhibitors
+	- Carbapenems
+	- Aztreonam & Vancomycin
+	- Protein Synthesis Inhibitors
+	- Aminoglycosides
+	- Tetracyclines, Tigecycline & Chloramphenicol
+	- Clindamycin, Linezolid, Macrolides & Polymyxins
+	- Sulfonamides, Dapsone & Trimethoprim
+	- Fluroquinolones
+	- Daptomycin & Metronidazole
+	- Antimycobacterial Therapy
 
 ### Pathology
 - Cellular Injury
