@@ -130,7 +130,7 @@
 	- Bacterial Toxins
 - Clinical Bacteriology
 	- Gram Positive Lab Algorithm
-	- Hemolytic Bacteria
+	- Hemolytic Bacteria & Other Bacterias
 	- Clostridia
 	- Gram Negative Lab Algorithm
 - Mycology
