@@ -301,7 +301,10 @@
 	- Common Statistical Tests
 	- Pearson Correlation Coefficient
 - Ethics
-	- 
+	- Core Ethical Principles & Decision Making Capacity
+	- Informed Consent & Consent For Minors
+	- Ventilator Assisted Life Support
+	- Confidentiality
 - Communication Skills
 - Healthcare Delivery
 - Quality & Safety
