@@ -256,6 +256,7 @@
 	- Drug Effect Modifications
 - Autonomic Drugs
 	- Autonomic Receptors
+	- Micturition Control
 - Toxicities & Adverse Effects
 - Miscellaneous Drugs
 ### Public Health Sciences
