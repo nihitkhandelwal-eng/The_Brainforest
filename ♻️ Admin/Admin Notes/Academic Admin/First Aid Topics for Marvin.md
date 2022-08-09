@@ -269,5 +269,18 @@
 - Toxicities & Adverse Effects
 	- Ingested Seafood Toxins
 	- Age Related Changes in Pharmacokinetics & Beers Criteria
+	- Specific Toxicity Treatments
+	- Drug Reactions → Cardiovascular
+	- Drug Reactions → Endocrine/Reproductive
+	- Drug Reactions → Gastrointestinal
+	- Drug Reactions → Hematologic
+	- Drug Reactions → Musculoskeletal / Connective Tissue / Skin
+	- Drug Reactions → Neurologic
+	- Drug Reactions → Renal / Genitourinary
+	- Drug Reactions → Respiratory & Multiorgan
+	- Drugs Affecting Pupil Size
+	- Cytochrome P-450 Interactions
+	- Sulfa Drugs
 - Miscellaneous Drugs
+	- Drug 
 ### Public Health Sciences
