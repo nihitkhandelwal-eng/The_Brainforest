@@ -175,6 +175,9 @@
 	- Basics about the system
 	- Bugs causing diarrhea
 	- Common causes of pneumonia
+	- Common causes of meningitis
+	- Osteomyelitis
+	- Red Rashes Of Childhood
 - Antimicrobials
 
 ### Pathology
