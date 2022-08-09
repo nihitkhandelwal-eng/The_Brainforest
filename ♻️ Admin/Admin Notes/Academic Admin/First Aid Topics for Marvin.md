@@ -352,7 +352,7 @@
 	- Cardiac Pressures & Autoregulation
 	- Capillary Fluid Exchange
 - CVS Pathology
-	- Congenital Heart Diseases
+	- Congenital Heart Diseases & Associations
 - Pharmacology
 ### Endocrine
 ### Gastrointestinal
