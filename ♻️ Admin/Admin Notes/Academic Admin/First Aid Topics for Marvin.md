@@ -131,7 +131,10 @@
 - Clinical Bacteriology
 	- Gram Positive Lab Algorithm
 	- Hemolytic Bacteria & Other Bacterias
-	- Clostridia, Corynebacterium
+	- Clostridia, Corynebacterium & Listeria
+	- Nocardia v/s Actinomyces
+	- Mycobacteria, Tuberculosis & Leprosy
+	- 
 	- Gram Negative Lab Algorithm
 - Mycology
 	- Systemic Mycoses
