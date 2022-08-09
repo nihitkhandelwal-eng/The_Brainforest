@@ -255,7 +255,7 @@
 	- Therapeutic Index
 	- Drug Effect Modifications
 - Autonomic Drugs
-	- 
+	- Autonomic Receptors
 - Toxicities & Adverse Effects
 - Miscellaneous Drugs
 ### Public Health Sciences
