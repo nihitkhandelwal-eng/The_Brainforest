@@ -199,6 +199,8 @@
 	- Fluroquinolones
 	- Daptomycin & Metronidazole
 	- Antimycobacterial Therapy
+	- Antimicrobial Prophylaxis
+	- Antifungal Therapy
 
 ### Pathology
 - Cellular Injury
