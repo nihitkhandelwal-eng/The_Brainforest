@@ -144,7 +144,7 @@
 	- Spirochetes
 	- Lyme Disease & Leptospira
 	- Syphillis
-	-  
+	- Chlamy 
 - Mycology
 	- Systemic Mycoses
 	- Opportunistic Fungal Infections
