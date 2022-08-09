@@ -96,6 +96,9 @@
 	- Innate v/s Adaptive Immunity
 	- MHC 1 & 2
 	- HLA Subtypes Associated with Diseases
+	- Functions of NK Cells & Major Functions of B & T Cells
+	- Differentiation of T-Cells
+	- 
 - Cellular Components
 - Immune Responses
 - Immunosuppressants
