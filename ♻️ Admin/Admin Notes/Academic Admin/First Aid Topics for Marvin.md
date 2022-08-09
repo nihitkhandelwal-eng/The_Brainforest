@@ -287,6 +287,10 @@
 - Epidemiology & Biostatistics
 	- Observational Studies
 	- Clinical Trial
+	- Off Label Drug Use & Bradford Hill Criteria
+	- Quantifying Risk
+	- Demographic Transition
+	- Evaluation of Diagnostic Tests
 - Ethics
 - Communication Skills
 - Healthcare Delivery
