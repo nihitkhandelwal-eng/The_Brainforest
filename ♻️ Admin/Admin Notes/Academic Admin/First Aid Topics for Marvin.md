@@ -353,6 +353,11 @@
 	- Capillary Fluid Exchange
 - CVS Pathology
 	- Congenital Heart Diseases & Associations
+	- Hypertension
+	- Hyperlipidemia Signs
+	- Arteriosclerosis & Atherosclerosis
+	- Aortic Aneurysm
+	- Aortic Dissection
 - Pharmacology
 ### Endocrine
 ### Gastrointestinal
