@@ -162,7 +162,8 @@
 	- Viral Structures & Genetics
 	- DNA Viruses
 	- Herpesviruses
-	- RNA Viruses
+	- RNA Viruses + Misc Viruses
+	- Influenza Viruses
 - Systems
 - Antimicrobials
 
