@@ -329,7 +329,6 @@
 
 
 ## High Yield Organ Systems
-
 ### Cardiovascular
 - CVS Embryology
 	- Heart Morphogenesis
@@ -363,6 +362,15 @@
 	- Narrow Complex Tachycardias
 	- Wide Complex Tachycardias
 	- Conduction Blocks
+	- Hereditary Channelopathies
+	- MI Complications
+	- Cardiomyopathies
+	- Heart Failure
+	- Shock
+	- Infective Endocarditis
+	- Rheumatic Fever & Syphilitic Heart Disease
+	- Peri & Myocarditis
+	- Cardiac Tumors
 - Pharmacology
 ### Endocrine
 ### Gastrointestinal
