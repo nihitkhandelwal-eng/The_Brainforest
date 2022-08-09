@@ -357,7 +357,12 @@
 	- Hyperlipidemia Signs
 	- Arteriosclerosis & Atherosclerosis
 	- Aortic Aneurysm
-	- Aortic Dissection
+	- Aortic Dissection & Subclavian Steal Syndrome
+	- IHD Manifestations
+	- Evaluation & Diagnosis of MI
+	- Narrow Complex Tachycardias
+	- Wide Complex Tachycardias
+	- Conduction Blocks
 - Pharmacology
 ### Endocrine
 ### Gastrointestinal
