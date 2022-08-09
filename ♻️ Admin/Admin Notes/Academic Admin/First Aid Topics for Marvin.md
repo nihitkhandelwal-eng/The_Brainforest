@@ -351,7 +351,8 @@
 	- ANP, BNP & Receptors
 	- Cardiac Pressures & Autoregulation
 	- Capillary Fluid Exchange
-- Pathology
+- CVS Pathology
+	- Congenital Heart Diseases
 - Pharmacology
 ### Endocrine
 ### Gastrointestinal
