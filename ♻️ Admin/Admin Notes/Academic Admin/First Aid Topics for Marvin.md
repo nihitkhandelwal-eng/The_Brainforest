@@ -284,3 +284,10 @@
 	- Drug Names
 	- Biologic Agents
 ### Public Health Sciences
+- Epidemiology & Biostatistics
+	- Observational Studies
+	- Clinical Trial
+- Ethics
+- Communication Skills
+- Healthcare Delivery
+- Quality & Safety
