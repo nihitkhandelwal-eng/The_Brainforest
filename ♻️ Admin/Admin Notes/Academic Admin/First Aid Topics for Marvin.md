@@ -186,6 +186,8 @@
 	- Healthcare associated infections
 	- Bugs affecting unvaccinated children
 - Antimicrobials
+	- Antimicrobial Therapy
+	- Penicillin & Penicillin Resistance
 
 ### Pathology
 - Cellular Injury
