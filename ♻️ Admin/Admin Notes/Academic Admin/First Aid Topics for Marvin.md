@@ -234,8 +234,7 @@
 	- Tumor Grade v/s Stage
 	- Hallmarks of Cancer
 	- Immune Checkpoint Interactions
-	- Cancer Epidemiology
-	- Common Metastases
+	- Cancer Epidemiology & Common Metastases
 	- Oncogenes
 	- Tumor Suppressor Genes
 	- Carcinogens
