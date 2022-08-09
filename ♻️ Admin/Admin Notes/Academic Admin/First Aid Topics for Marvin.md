@@ -385,6 +385,12 @@
 	- Pituitary Gland
 	- Adrenal Cortex & Medulla
 - Endocrine Physiology
+	- Hypothalamic Pituitary Hormones
+	- Growth Hormone
+	- ADH
+	- Prolactin 
+	- Thyroid Hormones
+	- Para-Thyroid Hormones
 - Endocrine Pathology
 - Endocrine Pharmacology
 ### Gastrointestinal
