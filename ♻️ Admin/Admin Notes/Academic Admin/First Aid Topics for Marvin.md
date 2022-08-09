@@ -166,7 +166,13 @@
 	- Influenza & Rubella Viruses
 	- Paramyxoviruses
 	- Arboviruses transmitted by Aedes Mosquitoes
+	- Rabies & Ebola Viruses
+	- Severe acute respiratory syndrome coronovirus 2
+	- Hepatitis Viruses
+	- HIV, it's diagnosis & associated diseases
+	- Prions
 - Systems
+	- 
 - Antimicrobials
 
 ### Pathology
