@@ -380,10 +380,10 @@
 	- Cardiac Glycosides
 	- Antiarrhythmics
 ### Endocrine
-- CVS Embryology
-- CVS Physiology
-- CVS Pathology
-- CVS Pharmacology
+- Endocrine Embryology
+- Endocrine Physiology
+- Endocrine Pathology
+- Endocrine Pharmacology
 ### Gastrointestinal
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
