@@ -93,13 +93,13 @@
 - Lymphoid Structures
 	- Lymph System & It's Drainage
 	- Spleen & Thymus
+- Cellular Components
 	- Innate v/s Adaptive Immunity
 	- MHC 1 & 2
 	- HLA Subtypes Associated with Diseases
 	- Functions of NK Cells & Major Functions of B & T Cells
 	- Differentiation of T-Cells
 	- T & B Cell Activation
-- Cellular Components
 - Immune Responses
 - Immunosuppressants
 ### Microbiology
