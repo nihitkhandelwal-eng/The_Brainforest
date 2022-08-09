@@ -134,8 +134,17 @@
 	- Clostridia, Corynebacterium & Listeria
 	- Nocardia v/s Actinomyces
 	- Mycobacteria, Tuberculosis & Leprosy
-	- 
 	- Gram Negative Lab Algorithm
+	- Neisseria
+	- H Influenzae, Bordetella, Brucella, Legionella
+	- Pseudomonas Aeruginosa
+	- Salmonella v/s Shigella & Other Bacterias
+	- E. Coli & Klebsiella
+	- Campylobacter Jejuni, Vibrio & H. Pylori
+	- Spirochetes
+	- Lyme Disease & Leptospira
+	- Syphillis
+	-  
 - Mycology
 	- Systemic Mycoses
 	- Opportunistic Fungal Infections
