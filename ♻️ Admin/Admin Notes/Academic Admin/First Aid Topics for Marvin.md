@@ -204,6 +204,7 @@
 	- Anti-Protozoal, Mite/Louse & Helminthic Therapy
 	- Chloroquine
 	- Antiviral Therapy
+	- HIV Therapy
 
 ### Pathology
 - Cellular Injury
