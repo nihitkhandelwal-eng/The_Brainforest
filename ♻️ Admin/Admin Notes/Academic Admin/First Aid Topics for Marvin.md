@@ -143,8 +143,9 @@
 	- Campylobacter Jejuni, Vibrio & H. Pylori
 	- Spirochetes
 	- Lyme Disease & Leptospira
-	- Syphillis
-	- Chlamy 
+	- Syphillis & Chlamydiae
+	- Zoonotic Bacteria
+	- Rickettsial Diseases & Vector Borne Illness 
 - Mycology
 	- Systemic Mycoses
 	- Opportunistic Fungal Infections
