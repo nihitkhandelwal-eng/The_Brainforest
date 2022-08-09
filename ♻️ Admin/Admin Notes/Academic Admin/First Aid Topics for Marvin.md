@@ -380,7 +380,10 @@
 	- Cardiac Glycosides
 	- Antiarrhythmics
 ### Endocrine
-- Endocrine Embryology
+- Endocrine Embryology & Anatomy
+	- Thyroid Development
+	- Pituitary Gland
+	- Adrenal Cortex & Medulla
 - Endocrine Physiology
 - Endocrine Pathology
 - Endocrine Pharmacology
