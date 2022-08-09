@@ -172,6 +172,8 @@
 	- HIV, it's diagnosis & associated diseases
 	- Prions
 - Systems
+	- Basics about the system
+	- Bugs causing diarrhea
 	- 
 - Antimicrobials
 
