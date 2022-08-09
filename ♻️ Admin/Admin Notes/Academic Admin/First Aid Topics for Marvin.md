@@ -131,7 +131,7 @@
 - Clinical Bacteriology
 	- Gram Positive Lab Algorithm
 	- Hemolytic Bacteria & Other Bacterias
-	- Clostridia
+	- Clostridia, Co
 	- Gram Negative Lab Algorithm
 - Mycology
 	- Systemic Mycoses
