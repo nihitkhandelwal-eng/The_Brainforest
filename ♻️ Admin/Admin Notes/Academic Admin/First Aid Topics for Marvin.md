@@ -178,6 +178,13 @@
 	- Common causes of meningitis
 	- Osteomyelitis
 	- Red Rashes Of Childhood
+	- Urinary Tract Infections
+	- Common Vaginal Infections
+	- Sexually Transmitted Infections
+	- TORCH Infections
+	- Pelvic Inflammatory Disease
+	- Healthcare associated infections
+	- Bugs affecting unvaccinated children
 - Antimicrobials
 
 ### Pathology
