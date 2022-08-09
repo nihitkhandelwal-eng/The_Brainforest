@@ -331,10 +331,26 @@
 ## High Yield Organ Systems
 
 ### Cardiovascular
-- Embryology
-	- Heart Morp
-- Anatomy
-- Physiology
+- CVS Embryology
+	- Heart Morphogenesis
+	- Aortic Arch Derivates
+	- Heart Embryology
+	- Fetal Circulation
+	- Heart Anatomy
+- CVS Physiology
+	- CO Variables
+	- CO Equations
+	- Cardiac & Vascular Function Curves
+	- Pressure Volume Loops & Cardiac Cycle
+	- Pressure Volume Loops & Valvular Disease
+	- Splitting of S2
+	- Auscultation of Heart
+	- Heart Murmurs
+	- Action Potential → Myocardial & Pacemaker
+	- Electrocardiogram
+	- ANP, BNP & Receptors
+	- Cardiac Pressures & Autoregulation
+	- Capillary Fluid Exchange
 - Pathology
 - Pharmacology
 ### Endocrine
