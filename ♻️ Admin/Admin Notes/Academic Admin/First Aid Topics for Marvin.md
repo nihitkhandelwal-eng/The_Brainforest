@@ -246,5 +246,9 @@
 	- Normal Aging
 
 ### Pharmacology
-- P
+- Pharmacokinetics & Pharmacodynamics
+	- Enzyme Kinetics
+- Autonomic Drugs
+- Toxicities & Adverse Effects
+- Miscellaneous Drugs
 ### Public Health Sciences
