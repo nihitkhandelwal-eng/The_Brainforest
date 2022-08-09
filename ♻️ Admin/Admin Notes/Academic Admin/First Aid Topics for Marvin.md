@@ -263,7 +263,10 @@
 	- Muscarinic Antagonists
 	- Sympathomimetics
 	- Physiologic Effects of Sympathomimetics
-	- Sympatholytics
+	- Sympatholytics & α-Blockers
+	- β-Blockers
+	- Phosphodiesterase Inhibitors
 - Toxicities & Adverse Effects
+	- Ingested Seafood Toxins
 - Miscellaneous Drugs
 ### Public Health Sciences
