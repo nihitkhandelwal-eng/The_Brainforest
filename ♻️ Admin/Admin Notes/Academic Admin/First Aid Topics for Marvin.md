@@ -304,7 +304,11 @@
 	- Core Ethical Principles & Decision Making Capacity
 	- Informed Consent & Consent For Minors
 	- Ventilator Assisted Life Support
-	- Confidentiality
+	- Confidentiality & Accepting Gifts From Patients
 - Communication Skills
+	- Patient Centered Interviewing Techniques
+	- Estabilishing Rapport
+	- Delivering Bad News
+	- Inclusive History Taking
 - Healthcare Delivery
 - Quality & Safety
