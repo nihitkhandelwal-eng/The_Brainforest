@@ -372,6 +372,10 @@
 	- Peri & Myocarditis
 	- Cardiac Tumors
 - Pharmacology
+	- HTN Treatment
+	- CVS Agents & Molecular Targets
+	- CCB & Nitrates
+	- Antianginal Therapy
 ### Endocrine
 ### Gastrointestinal
 ### Hematology & Oncology
