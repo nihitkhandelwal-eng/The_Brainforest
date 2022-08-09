@@ -163,7 +163,9 @@
 	- DNA Viruses
 	- Herpesviruses
 	- RNA Viruses + Misc Viruses
-	- Influenza Viruses
+	- Influenza & Rubella Viruses
+	- Paramyxoviruses
+	- Arboviruses transmitted by Aedes Mosquitoes
 - Systems
 - Antimicrobials
 
