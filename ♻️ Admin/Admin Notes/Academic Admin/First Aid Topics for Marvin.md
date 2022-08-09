@@ -310,5 +310,12 @@
 	- Estabilishing Rapport
 	- Delivering Bad News
 	- Inclusive History Taking
+	- Motivational Interviewing
+	- Trauma Informed Care
+	- Communicating With Patients With Disabilities
+	- Use of Interpreters
+	- Challenging Patient & Ethical Scenarios
 - Healthcare Delivery
+	- Disease Prevention
+	- Major Medical Insurance Plans & Payment Models
 - Quality & Safety
