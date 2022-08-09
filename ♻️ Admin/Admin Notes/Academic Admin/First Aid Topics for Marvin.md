@@ -248,7 +248,14 @@
 ### Pharmacology
 - Pharmacokinetics & Pharmacodynamics
 	- Enzyme Kinetics
+	- Basics of Pharmacokinetics
+	- Drug Metabolism & Elimination
+	- Efficacy v/s Potency
+	- Receptor Binding
+	- Therapeutic Index
+	- Drug Effect Modifications
 - Autonomic Drugs
+	- 
 - Toxicities & Adverse Effects
 - Miscellaneous Drugs
 ### Public Health Sciences
