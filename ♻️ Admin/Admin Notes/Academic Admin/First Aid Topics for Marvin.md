@@ -257,6 +257,8 @@
 - Autonomic Drugs
 	- Autonomic Receptors
 	- Micturition Control
+	- Tissue Distribution of Adrenergic Receptors
+	- G-Protein Linked Second Messengers
 - Toxicities & Adverse Effects
 - Miscellaneous Drugs
 ### Public Health Sciences
