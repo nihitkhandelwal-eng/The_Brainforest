@@ -201,8 +201,9 @@
 	- Antimycobacterial Therapy
 	- Antimicrobial Prophylaxis
 	- Antifungal Therapy 
-	- Antiprotozoal & Antimite/louse Therapy
+	- Anti-Protozoal, Mite/Louse & Helminthic Therapy
 	- Chloroquine
+	- Antiviral Therapy
 
 ### Pathology
 - Cellular Injury
