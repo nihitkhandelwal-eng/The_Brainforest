@@ -205,6 +205,9 @@
 	- Chloroquine
 	- Antiviral Therapy
 	- HIV Therapy
+	- Hepatitis C Therapy
+	- Disinfection & Sterilization
+	- Antimicrobials To Avoid In Pregnancy
 
 ### Pathology
 - Cellular Injury
