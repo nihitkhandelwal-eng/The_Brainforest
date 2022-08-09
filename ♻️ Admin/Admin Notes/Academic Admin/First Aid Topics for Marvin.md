@@ -266,7 +266,7 @@
 	- Sympatholytics & α-Blockers
 	- β-Blockers
 	- Phosphodiesterase Inhibitors
-- Toxicities & Adverse Effects
+- Toxicities, Adverse Effects & Miscellaneous Drugs
 	- Ingested Seafood Toxins
 	- Age Related Changes in Pharmacokinetics & Beers Criteria
 	- Specific Toxicity Treatments
@@ -281,6 +281,6 @@
 	- Drugs Affecting Pupil Size
 	- Cytochrome P-450 Interactions
 	- Sulfa Drugs
-- Miscellaneous Drugs
-	- Drug 
+	- Drug Names
+	- Biologic Agents
 ### Public Health Sciences
