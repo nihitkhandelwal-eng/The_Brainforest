@@ -259,6 +259,11 @@
 	- Micturition Control
 	- Tissue Distribution of Adrenergic Receptors
 	- G-Protein Linked Second Messengers
+	- Cholinomimetic Agents & Anticholinesterase Poisoning
+	- Muscarinic Antagonists
+	- Sympathomimetics
+	- Physiologic Effects of Sympathomimetics
+	- Sympatholytics
 - Toxicities & Adverse Effects
 - Miscellaneous Drugs
 ### Public Health Sciences
