@@ -371,12 +371,16 @@
 	- Rheumatic Fever & Syphilitic Heart Disease
 	- Peri & Myocarditis
 	- Cardiac Tumors
-- Pharmacology
+- CVS Pharmacology
 	- HTN Treatment
 	- CVS Agents & Molecular Targets
 	- CCB & Nitrates
 	- Antianginal Therapy
+	- Lipid Lowering Agents
+	- Cardiac Glycosides
+	- Antiarrhythmics
 ### Endocrine
+	
 ### Gastrointestinal
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
