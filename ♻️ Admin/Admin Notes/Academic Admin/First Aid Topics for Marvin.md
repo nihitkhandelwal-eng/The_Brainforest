@@ -331,6 +331,12 @@
 ## High Yield Organ Systems
 
 ### Cardiovascular
+- Embryology
+	- Heart Morp
+- Anatomy
+- Physiology
+- Pathology
+- Pharmacology
 ### Endocrine
 ### Gastrointestinal
 ### Hematology & Oncology
