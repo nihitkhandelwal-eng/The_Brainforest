@@ -322,3 +322,6 @@
 - Quality & Safety
 	- Safety Culture & Human Factors Design
 	- PDSA Cycle
+	- Quality Measurements
+	- Swiss Chess Model
+	- Types of Medical Errors & It's Analysis
