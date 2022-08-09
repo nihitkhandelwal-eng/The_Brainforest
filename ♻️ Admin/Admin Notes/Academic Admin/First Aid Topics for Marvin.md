@@ -159,7 +159,9 @@
 	- Trematodes (Flukes)
 	- Ectoparasites & Parasite Hints
 - Virology
-	- 
+	- Viral Structures & Genetics
+	- DNA Viruses
+	- Herpesviruses
 - Systems
 - Antimicrobials
 
