@@ -200,7 +200,9 @@
 	- Daptomycin & Metronidazole
 	- Antimycobacterial Therapy
 	- Antimicrobial Prophylaxis
-	- Antifungal Therapy
+	- Antifungal Therapy 
+	- Antiprotozoal & Antimite/louse Therapy
+	- Chloroquine
 
 ### Pathology
 - Cellular Injury
