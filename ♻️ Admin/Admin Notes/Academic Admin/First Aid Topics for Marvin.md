@@ -291,7 +291,17 @@
 	- Quantifying Risk
 	- Demographic Transition
 	- Evaluation of Diagnostic Tests
+	- Precision vs Accuracy
+	- Incidence vs Prevalence
+	- Bias & Study Errors
+	- Statistical Distribution
+	- Statistical Hypothesis Testing 
+	- Statistical vs Clinical Significance
+	- Confidence Interval & Meta Analysis
+	- Common Statistical Tests
+	- Pearson Correlation Coefficient
 - Ethics
+	- 
 - Communication Skills
 - Healthcare Delivery
 - Quality & Safety
