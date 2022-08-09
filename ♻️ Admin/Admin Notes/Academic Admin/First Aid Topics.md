@@ -390,7 +390,7 @@
 	- ADH
 	- Prolactin 
 	- Thyroid Hormones
-	- Para-Thyroid Hormones
+	- Parathyroid Hormones
 - Endocrine Pathology
 - Endocrine Pharmacology
 ### Gastrointestinal
