@@ -406,6 +406,13 @@
 	- Thyroid Adenoma & Thyroid Cancer
 	- Parathyroid Diseases
 	- Diabetes Melitus
+	- Cushing Syndrome
+	- Nelson Syndrome & Adrenal Insufficiency
+	- Hyperaldosteronism
+	- Neuroendocrine Tumors & Neuroblastoma
+	- Pheochromocytoma
+	- Multiple Endocrine Neoplasias
+	- Pancreatic Islet Cell Tumors
 - Endocrine Pharmacology
 ### Gastrointestinal
 ### Hematology & Oncology
