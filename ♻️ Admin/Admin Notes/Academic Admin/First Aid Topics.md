@@ -589,6 +589,7 @@
 	- Lower Extremity Ulcers
 	- Miscellaneous Skin Disorders
 	- Burns & Body Surface Area
+	- Skin Cancer
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
