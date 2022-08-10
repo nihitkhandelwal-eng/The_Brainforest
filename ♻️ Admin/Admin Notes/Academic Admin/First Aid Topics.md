@@ -815,15 +815,15 @@
 	- Angiotensin-2 Receptor Blockers & Aliskiren
 ### Reproductive
 - Reproductive Embryology 
-	- important genes of embryogenesis
-	- early embryonic development
-	- embryologic derivatives
-	- teratogens
-	- types of errors in morphogenesis
-	- fetal alcohol syndrome and neonatal abstinence syndrome
-	- placenta
-	- amniotic fluid
-	- twinning & twin to twin transfusion syndrome
+	- Important Genes of Embryogenesis
+	- Early Embryonic Development
+	- Embryologic Derivatives
+	- Teratogens
+	- Types of Errors in Morphogenesis
+	- Fetal Alcohol Syndrome and Neonatal Abstinence Syndrome
+	- Placenta
+	- Amniotic Fluid
+	- Twinning & Twin to Twin Transfusion Syndrome
 	- Umbilical Cord & Urachus
 	- Vitelline Duct
 	- Pharyngeal Apparatus & Clefts
@@ -834,64 +834,64 @@
 	- Mullerian Anomalies
 	- Male-Female Genital Analogs
 	- Congenital Penile Anomalies
-	- descent of testes & ovaries
+	- Descent of Testes & Ovaries
 - Reproductive Anatomy
-	- gonadal drainage
-	- female reproductive anatomy, Adenexal torsion & pelvic organ prolapse
-	- female reproductive epithelial Histology
-	- male reproductive anatomy
-	- genito urinary trauma
-	- autonomic innervation of male sexual response
-	- seminiferous tubules
-- reproductive physiology
-	- spermatogenesis
-	- estrogen
-	- progesterone
-	- Oogenesis and ovulation
-	- menstrual cycle
-	- abnormal uterine bleeding
-	- pregnancy & physiological changes
-	- human chorionic gonadotropin & human placental lactogen
+	- Gonadal Drainage
+	- Female Reproductive Anatomy, Adenexal Torsion & Pelvic Organ Prolapse
+	- Female Reproductive Epithelial Histology
+	- Male Reproductive Anatomy
+	- Genito Urinary Trauma
+	- Autonomic Innervation of Male Sexual Response
+	- Seminiferous Tubules
+- Reproductive Physiology
+	- Spermatogenesis
+	- Estrogen
+	- Progesterone
+	- Oogenesis and Ovulation
+	- Menstrual Cycle
+	- Abnormal Uterine Bleeding
+	- Pregnancy & Physiological Changes
+	- Human Chorionic Gonadotropin & Human Placental Lactogen
 	- APGAR Score & Low Birth Weight
-	- lactation
-	- menopause
-	- androgens
-	- Tanner stages of sexual development
-	- precocious puberty & delayed puberty
-- reproductive pathology
-	- sex chromosome disorders
-	- other disorders of sex development
-	- diagnosing sexual disorders
-	- aromatase deficiency & 5α reductase deficiency
-	- androgen insensitivity syndrome
-	- kallmann syndrome
-	- placental disorders
-	- uterine rupture & postpartum hemorrhage
-	- Ectopic pregnancy
-	- hydatidiform mole & choriocarcinoma
-	- hypertension in pregnancy & supine hypotensive syndrome
-	- gynecologic tumor epidemiology
-	- valvular pathology & imperforate hymen
-	- vaginal tumors
-	- cervical pathology
-	- amenorrhea
-	- polycystic ovarian syndrome
-	- primary dysmenorrhea
-	- ovarian cysts
-	- ovarian tumors
-	- uterine conditions
-	- breast pathology & benign breast diseases
-	- breast cancer
-	- penial pathology
-	- extragonadal germ cell tumors & benign scrotal lesions
-	- testicular tumors
-	- epididymitis & orchitis
-	- benign prostatic hyperplasia
-	- prostatitis & prostatic adenocarcinoma 
-- reproductive pharmacology
-	- control of reproductive hormones
-	- estrogen and related drugs
-	- hormone replacement therapy
-	- contraception
-	- testosterone, methyltestosterone & anti androgens
+	- Lactation
+	- Menopause
+	- Androgens
+	- Tanner Stages of Sexual Development
+	- Precocious Puberty & Delayed Puberty
+- Reproductive Pathology
+	- Sex Chromosome Disorders
+	- Other Disorders of Sex Development
+	- Diagnosing Sexual Disorders
+	- Aromatase Deficiency & 5α Reductase Deficiency
+	- Androgen Insensitivity Syndrome
+	- Kallmann Syndrome
+	- Placental Disorders
+	- Uterine Rupture & Postpartum Hemorrhage
+	- Ectopic Pregnancy
+	- Hydatidiform Mole & Choriocarcinoma
+	- Hypertension in Pregnancy & Supine Hypotensive Syndrome
+	- Gynecologic Tumor Epidemiology
+	- Valvular Pathology & Imperforate Hymen
+	- Vaginal Tumors
+	- Cervical Pathology
+	- Amenorrhea
+	- Polycystic Ovarian Syndrome
+	- Primary Dysmenorrhea
+	- Ovarian Cysts
+	- Ovarian Tumors
+	- Uterine Conditions
+	- Breast Pathology & Benign Breast Diseases
+	- Breast Cancer
+	- Penial Pathology
+	- Extragonadal Germ Cell Tumors & Benign Scrotal Lesions
+	- Testicular Tumors
+	- Epididymitis & Orchitis
+	- Benign Prostatic Hyperplasia
+	- Prostatitis & Prostatic Adenocarcinoma 
+- Reproductive Pharmacology
+	- Control of Reproductive Hormones
+	- Estrogen and Related Drugs
+	- Hormone Replacement Therapy
+	- Contraception
+	- Testosterone, Methyltestosterone & Anti Androgens
 ### Respiratory
