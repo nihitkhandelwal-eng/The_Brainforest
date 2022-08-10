@@ -558,6 +558,10 @@
 	- osteitis deformans
 	- avascular necrosis of  bone
 	- lab values in bone disorders
+	- primary bone tumors
+	- osteoarthritis v/s rheumatoid arthritis
+	- gout & calcium pyrophosphate deposition disease
+	- 
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
