@@ -761,59 +761,59 @@
 
 ### Renal
 - Renal Embryo & Anatomy
-	- kidney Embryology
-	- Potter sequencem & horseshoe kidney
-	- congenital solitary functioning kidney & duplex collecting system
-	- urethral wall and vesicoureteral reflux
-	- renal blood flow & glomerular anatomy
-	- course of ureters
+	- Kidney Embryology
+	- Potter Sequencem & Horseshoe Kidney
+	- Congenital Solitary Functioning Kidney & Duplex Collecting System
+	- Urethral Wall and Vesicoureteral Reflux
+	- Renal Blood Flow & Glomerular Anatomy
+	- Course of Ureters
 - Renal Physiology
-	- fluid compartments
-	- glomerular filtration barrier & rate
-	- renal blood flow autoregulation
-	- effective renal plasma flow
-	- filtration and changes in glomerular dynamics
-	- glucose clearance & calculations
-	- nephron transport Physiology
-	- renal tubular defects
-	- relative concentrations along the proximal tubule
-	- renin angiotensin aldosterone system
-	- Kidney hormones and their function
-	- hormones acting on kidney
-	- potassium shifts & electrolyte disturbances
-	- features of renal disorders
-	- acid base Physiology
-	- acidosis and alkalosis
-	- renal tubular acidosis
+	- Fluid Compartments
+	- Glomerular Filtration Barrier & Rate
+	- Renal Blood Flow Autoregulation
+	- Effective Renal Plasma Flow
+	- Filtration and Changes in Glomerular Dynamics
+	- Glucose Clearance & Calculations
+	- Nephron Transport Physiology
+	- Renal Tubular Defects
+	- Relative Concentrations Along the Proximal Tubule
+	- Renin Angiotensin Aldosterone System
+	- Kidney Hormones and Their Function
+	- Hormones Acting on Kidney
+	- Potassium Shifts & Electrolyte Disturbances
+	- Features of Renal Disorders
+	- Acid Base Physiology
+	- Acidosis and Alkalosis
+	- Renal Tubular Acidosis
 - Renal Pathology
-	- Casts in urine
-	- nomenclature of glomerular disorders
-	- glomerular diseases
-	- nephritic syndrome
-	- nephrotic syndrome
-	- kidney stones 
-	- hydronephrosis
-	- urinary incontinence
-	- acute cystitis
-	- pyelonephritis
-	- acute kidney injury
-	- acute interstitial nephritis
-	- acute tubular necrosis & diffuse cortical necrosis
-	- renal papillary necrosis
-	- consequences of renal failure
-	- renal osteodystrophy
-	- renal cyst disorders
-	- renovascular disease
-	- renal cell carcinomas
+	- Casts in Urine
+	- Nomenclature of Glomerular Disorders
+	- Glomerular Diseases
+	- Nephritic Syndrome
+	- Nephrotic Syndrome
+	- Kidney Stones 
+	- Hydronephrosis
+	- Urinary Incontinence
+	- Acute Cystitis
+	- Pyelonephritis
+	- Acute Kidney Injury
+	- Acute Interstitial Nephritis
+	- Acute Tubular Necrosis & Diffuse Cortical Necrosis
+	- Renal Papillary Necrosis
+	- Consequences of Renal Failure
+	- Renal Osteodystrophy
+	- Renal Cyst Disorders
+	- Renovascular Disease
+	- Renal Cell Carcinomas
 - Renal Pharmacology
-	- type of action of diuretics
-	- mannitol
-	- acetazolamide
-	- loop diuretics
-	- thiazide diuretics
-	- potassium sparing diuretics
-	- diuretics: electrolyte changes
-	- angiotensin converting enzyme inhibitors
-	- angiotensin-2 receptor blockers & Aliskiren
+	- Type of Action of Diuretics
+	- Mannitol
+	- Acetazolamide
+	- Loop Diuretics
+	- Thiazide Diuretics
+	- Potassium Sparing Diuretics
+	- Diuretics: Electrolyte Changes
+	- Angiotensin Converting Enzyme Inhibitors
+	- Angiotensin-2 Receptor Blockers & Aliskiren
 ### Reproductive
 ### Respiratory
