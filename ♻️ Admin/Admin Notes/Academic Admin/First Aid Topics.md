@@ -420,6 +420,8 @@
 	- Other Endocrine Drugs
 ### Gastrointestinal
 - Gastrointestinal Embryology & Anatomy
+	- Normal Gastrointestinal Embryology
+	- ventral wall defects
 - Gastrointestinal Physiology
 - Gastrointestinal Pathology
 - Gastrointestinal Pharmacology
