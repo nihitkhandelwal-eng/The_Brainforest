@@ -419,6 +419,10 @@
 	- Thyroid Drugs
 	- Other Endocrine Drugs
 ### Gastrointestinal
+- Gastrointestinal Embryology & Anatomy
+- Gastrointestinal Physiology
+- Gastrointestinal Pathology
+- Gastrointestinal Pharmacology
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
