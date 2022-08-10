@@ -529,7 +529,11 @@
 ### Musculoskeletal, Skin & Connective Tissue
 - musculo skeletal Anatomy
 	- rotator cuff muscles & arm abduction
-	- 
+	- upper extremity nerves
+	- brachial plexus lesions 
+	- wrist region
+	- hand muscles & distortion of the hand
+	- actions of hip muscles
 - musculo skeletal Physiology
 - musculo skeletal Pathology
 - dermatology 
