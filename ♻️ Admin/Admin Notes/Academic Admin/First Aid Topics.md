@@ -421,7 +421,9 @@
 ### Gastrointestinal
 - Gastrointestinal Embryology & Anatomy
 	- Normal Gastrointestinal Embryology
-	- ventral wall defects
+	- Ventral Wall Defects
+	- Tracheo Esophageal Anomalies
+	- Intestinal Atresia & Hypertrophic Pyloric Stenosis
 - Gastrointestinal Physiology
 - Gastrointestinal Pathology
 - Gastrointestinal Pharmacology
