@@ -681,8 +681,27 @@
 	- ponder syndrome
 	- ocular motility
 	- Cranial Nerves → 3, 4 & 6 Palsies
-	- 
+	- visual field defects
+	- cavernous sinus
+	- internuclear ophthalmoplegia
 - Neuro Pharmacology
+	- epilepsy therapy
+	- barbiturates
+	- Benzodiazepines
+	- Insomnia Therapy
+	- Triptans
+	- Parkinson Disease Therapy
+	- Neurodegenerative Disease Therapy
+	- Anesthetics → General Principles
+	- Inhaled Anesthetics
+	- Intravenous Anesthetics
+	- Local Anesthetics
+	- Neuromuscular Blocking Drugs
+	- Skeletal Muscle Relaxants
+	- Opioid Analgesics 
+	- Mixed agonist and antagonist opioid analgesics
+	- 
+
 ### Psychiatry
 ### Renal
 ### Reproductive
