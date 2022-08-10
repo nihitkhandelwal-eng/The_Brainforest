@@ -527,53 +527,53 @@
 	- Chemotherapy Amelioration
 	- Key Keyboard Toxicities 
 ### Musculoskeletal, Skin & Connective Tissue
-- musculo skeletal Anatomy & Physiology
-	- rotator cuff muscles & arm abduction
-	- upper extremity nerves
-	- brachial plexus lesions 
-	- wrist region
-	- hand muscles & distortion of the hand
-	- actions of hip muscles
-	- lower extremity nerves
+- Musculo Skeletal Anatomy & Physiology
+	- Rotator Cuff Muscles & Arm Abduction
+	- Upper Extremity Nerves
+	- Brachial Plexus Lesions 
+	- Wrist Region
+	- Hand Muscles & Distortion of the Hand
+	- Actions of Hip Muscles
+	- Lower Extremity Nerves
 	- Knee Exam
 	- Ankle Sprains
-	- Signs of Lumbosacral radiculopathy
+	- Signs of Lumbosacral Radiculopathy
 	- Neurovascular Pairing
-	- Motoneuron action potential to Muscle Contraction
+	- Motoneuron Action Potential to Muscle Contraction
 	- Types of Skeletal Muscle Fibers & Skeletal Muscle Adaptations
 	- Vascular Smooth Muscle Contraction & Relaxation
 	- Muscle Proprioceptors
 	- Bone Formation & Cell Biology of Bone
-- musculo skeletal Pathology
-	- overuse injuries to the elbow
-	- clavicle fractures
-	- wrist and hand injuries
-	- common knee conditions
-	- common musculoskeletal conditions
-	- childhood musculoskeletal conditions
-	- common pediatric fractures & Achondroplasia
-	- osteoporosis
-	- osteopetrosis
-	- osteomalacia
-	- osteitis deformans
-	- avascular necrosis of  bone
-	- lab values in bone disorders
-	- primary bone tumors
-	- osteoarthritis v/s rheumatoid arthritis
-	- gout & calcium pyrophosphate deposition disease
-	- Sjogren syndrome
-	- systemic juvenile idiopathic arthritis & septic arthritis
-	- seronegative spondyloarthritis
-	- systemic lupus erythematosus
+- Musculo Skeletal Pathology
+	- Overuse Injuries to the Elbow
+	- Clavicle Fractures
+	- Wrist and Hand Injuries
+	- Common Knee Conditions
+	- Common Musculoskeletal Conditions
+	- Childhood Musculoskeletal Conditions
+	- Common Pediatric Fractures & Achondroplasia
+	- Osteoporosis
+	- Osteopetrosis
+	- Osteomalacia
+	- Osteitis Deformans
+	- Avascular Necrosis of  Bone
+	- Lab Values in Bone Disorders
+	- Primary Bone Tumors
+	- Osteoarthritis V/s Rheumatoid Arthritis
+	- Gout & Calcium Pyrophosphate Deposition Disease
+	- Sjogren Syndrome
+	- Systemic Juvenile Idiopathic Arthritis & Septic Arthritis
+	- Seronegative Spondyloarthritis
+	- Systemic Lupus Erythematosus
 	- Antiphospholipid Syndrome
 	- Polymyalgia Rheumatica & Fibromyalgia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-	- polymyositis / Dermatomyositis
+	- Polymyositis / Dermatomyositis
 	- Myositis Ossificans
 	- Vasculitides
 	- Neuromuscular Junction Diseases
-	- raynaud phenomenon
+	- Raynaud Phenomenon
 	- Scleroderma
-- dermatology 
+- Dermatology 
 	- Skin Layers
 	- Epithelial Cell Junctions
 	- Exocrine Glands
@@ -590,7 +590,7 @@
 	- Miscellaneous Skin Disorders
 	- Burns & Body Surface Area
 	- Skin Cancer
-- musculoskeletal pharmacology
+- Musculoskeletal Pharmacology
 	- Arachidonic Acid Pathways
 	- Acetaminophen, Aspirin & Celecoxib
 	- Non Steroid Anti Inflammatory Drugs
