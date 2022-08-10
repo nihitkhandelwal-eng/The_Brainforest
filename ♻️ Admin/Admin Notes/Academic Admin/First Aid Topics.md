@@ -429,7 +429,8 @@
 	- important gastrointestinal ligaments
 	- digestive tract anatomy & Histology
 	- abdominal aorta & branches
-	- gastrointestinal blood
+	- gastrointestinal blood supply and innervation
+	- 
 - Gastrointestinal Physiology
 - Gastrointestinal Pathology
 - Gastrointestinal Pharmacology
