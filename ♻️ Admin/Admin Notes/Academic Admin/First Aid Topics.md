@@ -530,7 +530,7 @@
 - musculo skeletal Anatomy
 - musculo skeletal Physiology
 - musculo skeletal Pathology
-- 
+- dermatology 
 ### Neurology & Special Senses
 ### Psychiatry
 ### Renal
