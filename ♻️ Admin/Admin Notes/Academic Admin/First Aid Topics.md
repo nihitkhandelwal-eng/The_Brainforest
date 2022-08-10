@@ -485,6 +485,26 @@
 	- Vitamin K Dependent Coagulation
 - Hemat-Onco Pathology
 	- RBC morphology
+	- RBC inclusions
+	- introduction to anemias
+	- microcytic hypochromic anemias
+	- macrocytic anemias
+	- normocytic normochromic anemias
+	- non hemolytic normocytic anemias
+	- intrinsic hemolytic anemias
+	- extrinsic hemolytic anemias
+	- leukopenias
+	- Heme Synthesis, Porphyria & lead poisoning
+	- iron poisoning
+	- Coagulation disorders
+	- platelet disorders & Thromotic microangiopathies
+	- mixed platelet & Coagulation disorders
+	- hereditary thrombophilias
+	- blood transfusion therapy
+	- introduction to leukemia & lymphoma
+	- Hodgkin v/s Non Hodgkin Lymphoma
+	- Plasma cell disorders
+	- 
 - Hemat-Onco Pharmacology
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
