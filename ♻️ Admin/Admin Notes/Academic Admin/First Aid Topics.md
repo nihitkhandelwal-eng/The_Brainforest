@@ -544,10 +544,15 @@
 	- Vascular Smooth Muscle Contraction & Relaxation
 	- Muscle Proprioceptors
 	- Bone Formation & Cell Biology of Bone
-- musculo skeletal Physiology
-	- overuse injuries to the elbow
-	- 
 - musculo skeletal Pathology
+	- overuse injuries to the elbow
+	- clavicle fractures
+	- wrist and hand injuries
+	- common knee conditions
+	- common musculoskeletal conditions
+	- childhood musculoskeletal conditions
+	- common pediatric fractures & Achondroplasia
+	- 
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
