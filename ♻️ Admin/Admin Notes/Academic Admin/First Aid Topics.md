@@ -528,7 +528,7 @@
 	- Key Keyboard Toxicities 
 ### Musculoskeletal, Skin & Connective Tissue
 - musculo skeletal Anatomy
-	- 
+	- rotator cuff muscles & arm abduction
 - musculo skeletal Physiology
 - musculo skeletal Pathology
 - dermatology 
