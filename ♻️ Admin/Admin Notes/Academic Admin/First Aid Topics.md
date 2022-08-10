@@ -501,9 +501,9 @@
 	- mixed platelet & Coagulation disorders
 	- hereditary thrombophilias
 	- blood transfusion therapy
-	- introduction to leukemia & lymphoma
 	- Hodgkin v/s Non Hodgkin Lymphoma
 	- Plasma cell disorders
+	- Myelodysplastic syndromes
 	- 
 - Hemat-Onco Pharmacology
 ### Musculoskeletal, Skin & Connective Tissue
