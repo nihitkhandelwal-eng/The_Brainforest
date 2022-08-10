@@ -527,7 +527,7 @@
 	- Chemotherapy Amelioration
 	- Key Keyboard Toxicities 
 ### Musculoskeletal, Skin & Connective Tissue
-- musculo skeletal Anatomy
+- musculo skeletal Anatomy & Physiology
 	- rotator cuff muscles & arm abduction
 	- upper extremity nerves
 	- brachial plexus lesions 
