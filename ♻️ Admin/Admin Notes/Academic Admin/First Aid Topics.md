@@ -633,8 +633,54 @@
 	- clinical reflexes & primitive reflexes
 	- landmark dermatomes
 - Neuropathology
+	- common brain lesions
+	- abnormal motor posturing
+	- ischemic brain disease
+	- cerebral edema
+	- effects of stroke
+	- neonatal intra ventricular hemorrhage
+	- intracranial hemorrhage
+	- central post stroke and phantom limb pain
+	- diffuse axonal injury 
+	- aphasia
+	- aneurysms
+	- fever v/s heat stroke
+	- seizures
+	- headaches
+	- movement disorders
+	- neurodegenerative disorders
+	- idiopathic intracranial hypertension
+	- hydrocephalus 
+	- multiple sclerosis
+	- other demyelinating & dismyelinating disorders
+	- neuro cutaneous disorders
+	- adult primary brain tumors
+	- childhood primary brain tumors
+	- herniation syndromes
+	- motor neuron signs
+	- spinal lesions
+	- poliomyelitis
+	- brown sequard syndrome
+	- friedreich ataxia
+	- common cranial nerve lesions
+	- facial nerve lesions
 - Otology
+	- auditory anatomy and Physiology
+	- common causes & diagnosing hearing loss
+	- Cholesteatoma
+	- Vertigo
 - Opthalmology
+	- normal eye anatomy
+	- conjunctivitis
+	- refractive errors
+	- lens disorders
+	- aqueous humor pathways & Glaucoma
+	- retinal disorders
+	- Leukocoria & uveitis
+	- pupillary control & relative afferent pupillary defect
+	- ponder syndrome
+	- ocular motility
+	- 
 - Neuro Pharmacology
 ### Psychiatry
 ### Renal
