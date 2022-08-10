@@ -763,9 +763,57 @@
 - Renal Embryo & Anatomy
 	- kidney Embryology
 	- Potter sequencem & horseshoe kidney
-	- 
+	- congenital solitary functioning kidney & duplex collecting system
+	- urethral wall and vesicoureteral reflux
+	- renal blood flow & glomerular anatomy
+	- course of ureters
 - Renal Physiology
+	- fluid compartments
+	- glomerular filtration barrier & rate
+	- renal blood flow autoregulation
+	- effective renal plasma flow
+	- filtration and changes in glomerular dynamics
+	- glucose clearance & calculations
+	- nephron transport Physiology
+	- renal tubular defects
+	- relative concentrations along the proximal tubule
+	- renin angiotensin aldosterone system
+	- Kidney hormones and their function
+	- hormones acting on kidney
+	- potassium shifts & electrolyte disturbances
+	- features of renal disorders
+	- acid base Physiology
+	- acidosis and alkalosis
+	- renal tubular acidosis
 - Renal Pathology
+	- Casts in urine
+	- nomenclature of glomerular disorders
+	- glomerular diseases
+	- nephritic syndrome
+	- nephrotic syndrome
+	- kidney stones 
+	- hydronephrosis
+	- urinary incontinence
+	- acute cystitis
+	- pyelonephritis
+	- acute kidney injury
+	- acute interstitial nephritis
+	- acute tubular necrosis & diffuse cortical necrosis
+	- renal papillary necrosis
+	- consequences of renal failure
+	- renal osteodystrophy
+	- renal cyst disorders
+	- renovascular disease
+	- renal cell carcinomas
 - Renal Pharmacology
+	- type of action of diuretics
+	- mannitol
+	- acetazolamide
+	- loop diuretics
+	- thiazide diuretics
+	- potassium sparing diuretics
+	- diuretics: electrolyte changes
+	- angiotensin converting enzyme inhibitors
+	- angiotensin-2 receptor blockers & Aliskiren
 ### Reproductive
 ### Respiratory
