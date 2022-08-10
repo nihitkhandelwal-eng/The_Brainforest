@@ -588,6 +588,7 @@
 	- Other Blistering Skin Disorders
 	- Lower Extremity Ulcers
 	- Miscellaneous Skin Disorders
+	- Burns & Body Surface Area
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
