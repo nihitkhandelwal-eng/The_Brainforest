@@ -441,8 +441,30 @@
 	- Carbohydrates Vitamins & Mineral Absorption
 	- Bile, Bilirubin & Peyer Patches
 - Gastrointestinal Pathology
-	- 
+	- Oral Pathologies
+	- Esophageal Pathologies
+	- Gastritis, Gastric Cancer & Menetrier Disease
+	- Peptic Ulcer & Its Complications
+	- Malabsorption Syndromes
+	- Inflammatory Bowel Diseases & Irritable Bowel Syndrome
+	- Appendicitis
+	- Diverticula of the GI Tract
+	- Malrotation, Intassuception & Volvulus
+	- Other Intestinal Disorders
+	- Colonic Polyps & Polyposis Syndromes
+	- Colorectal Cancer
+	- Cirrhosism, Portal Hypertension & Spontaneous Bacterial Peritonitis
+	- Serum Markers of Liver Pathology 
+	- Reye Syndrome, Alcoholic & Non Alcoholic Liver Disease
+	- Autoimmune Hepatitis & Hepatic Encephalopathy
+	- Budd Chiari Syndrome & α-1 Antitrypsin Deficiency
+	- Jaundice & Benign Neonatal Hyperbilirubinemia
+	- Biliary Atresia & Hereditary Hyperbilirubinemia
+	- Wilson's Disease, Hemochromatosis & Biliary Tract Disease
+	- Cholelithiasis, Cholangiocarcinoma & Related Pathologies
+	- Pancreatitis & Pancreatic Adenocarcinoma
 - Gastrointestinal Pharmacology
+	- 
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
