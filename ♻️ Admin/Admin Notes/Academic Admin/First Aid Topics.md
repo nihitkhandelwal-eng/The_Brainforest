@@ -464,8 +464,10 @@
 	- Cholelithiasis, Cholangiocarcinoma & Related Pathologies
 	- Pancreatitis & Pancreatic Adenocarcinoma
 - Gastrointestinal Pharmacology
-	- acid suppression therapy
-	- 
+	- Acid Suppression Therapy
+	- Octreotide, Sulphasalazine & Loperamide
+	- Anti Emetics 
+	- Anti Constipation Drugs
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
