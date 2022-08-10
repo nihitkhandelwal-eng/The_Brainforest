@@ -10,8 +10,8 @@ Contact_Number:
 Profession:
 ---
 ---
-
-
+### Essentials
+- Her address in case I want to fight for inheritance → 23 Chrissy DC Sandwich. IL 60548
 
 > Dissociation is an adaptive behaviour to a maladaptive situation  
 > \- Annemarie
