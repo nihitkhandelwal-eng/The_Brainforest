@@ -424,6 +424,12 @@
 	- Ventral Wall Defects
 	- Tracheo Esophageal Anomalies
 	- Intestinal Atresia & Hypertrophic Pyloric Stenosis
+	- Pancreas & spleen embryology
+	- retroperitoneal structures
+	- important gastrointestinal ligaments
+	- digestive tract anatomy & Histology
+	- abdominal aorta & branches
+	- gastrointestinal blood
 - Gastrointestinal Physiology
 - Gastrointestinal Pathology
 - Gastrointestinal Pharmacology
