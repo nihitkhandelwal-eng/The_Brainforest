@@ -571,7 +571,10 @@
 	- Myositis Ossificans
 	- Vasculitides
 	- Neuromuscular Junction Diseases
+	- raynaud phenomenon
+	- Scleroderma
 - dermatology 
+	- 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
