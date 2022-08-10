@@ -402,7 +402,10 @@
 	- Primary Polydypsia & Diabetes Insipidus
 	- Hypopituitarism
 	- Acromegaly
-	- Hypothyroidism vs Hyperthyroidism
+	- Hypothyroidism & Hyperthyroidism
+	- Thyroid Adenoma & Thyroid Cancer
+	- Parathyroid Diseases
+	- Diabetes Melitus
 - Endocrine Pharmacology
 ### Gastrointestinal
 ### Hematology & Oncology
