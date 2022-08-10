@@ -814,7 +814,7 @@
 	- Angiotensin Converting Enzyme Inhibitors
 	- Angiotensin-2 Receptor Blockers & Aliskiren
 ### Reproductive
-- Reproductive Embryology & Anatomy
+- Reproductive Embryology 
 	- important genes of embryogenesis
 	- early embryonic development
 	- embryologic derivatives
@@ -834,6 +834,10 @@
 	- Mullerian Anomalies
 	- Male-Female Genital Analogs
 	- Congenital Penile Anomalies
+	- descent of testes & ovaries
+- Reproductive Anatomy
+	- gonadal drainage
+	- female reproductive anatomy
 - reproductive physiology
 - reproductive pathology
 - reproductive pharmacology
