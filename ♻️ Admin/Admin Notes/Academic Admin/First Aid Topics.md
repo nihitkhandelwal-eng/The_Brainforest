@@ -587,6 +587,7 @@
 	- Autoimmune Blistering Skin Disorders
 	- Other Blistering Skin Disorders
 	- Lower Extremity Ulcers
+	- Miscellaneous Skin Disorders
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
