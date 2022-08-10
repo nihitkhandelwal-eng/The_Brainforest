@@ -592,7 +592,11 @@
 	- Skin Cancer
 - musculoskeletal pharmacology
 	- Arachidonic Acid Pathways
-	- Acetamino
+	- Acetaminophen, Aspirin & Celecoxib
+	- Non Steroid Anti Inflammatory Drugs
+	- Bisphosphonates & Teriparatide
+	- Gout Drugs
+	- TNF-α Inhibitors
 ### Neurology & Special Senses
 ### Psychiatry
 ### Renal
