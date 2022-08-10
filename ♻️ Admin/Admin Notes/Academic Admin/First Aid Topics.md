@@ -890,5 +890,8 @@
 	- prostatitis & prostatic adenocarcinoma 
 - reproductive pharmacology
 	- control of reproductive hormones
-	- 
+	- estrogen and related drugs
+	- hormone replacement therapy
+	- contraception
+	- testosterone, methyltestosterone & anti androgens
 ### Respiratory
