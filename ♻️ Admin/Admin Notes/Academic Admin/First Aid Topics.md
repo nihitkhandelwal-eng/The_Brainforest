@@ -704,59 +704,59 @@
 
 ### Psychiatry
 - Psychology
-	- classical conditioning
-	- operant conditioning
-	- transference & counter transference
-	- ego defenses
-	- grief
-	- normal infant and child development
+	- Classical Conditioning
+	- Operant Conditioning
+	- Transference & Counter Transference
+	- Ego Defenses
+	- Grief
+	- Normal Infant and Child Development
 - Psychiatric Pathology
-	- child abuse
-	- child neglect & vulnerable child syndrome
-	- childhood & early onset disorders
-	- orientation
-	- amnesia
-	- dissociative disorders
-	- delerium
-	- psychosis
-	- mood disorder
-	- schizophrenia spectrum disorders
-	- manic & hypomanic episodes
-	- bipolar disorder
-	- major depressive disorder
-	- peripartum mood disturbances
-	- electroconvulsive therapy
-	- risk factors for suicide death
-	- anxiety disorders
-	- panic disorder
-	- phobias
-	- generalized anxiety disorder
-	- obsessive compulsive disorder
-	- trichotillomania
-	- drama and stress related disorders
-	- diagnostic criteria by symptom duration
-	- personality disorders
-	- malingering
-	- factitious disorders
-	- somatic symptom and related disorders
-	- eating disorders
-	- gender dysphoria
-	- sexual dysfunction
-	- sleep terror disorder, Enuresis & narcolepsy
-	- substance use disorders
-	- gambling disorder
-	- transtheoretical model of change
-	- psychiatric emergencies
-	- psychoactive drug intoxication & withdrawal
+	- Child Abuse
+	- Child Neglect & Vulnerable Child Syndrome
+	- Childhood & Early Onset Disorders
+	- Orientation
+	- Amnesia
+	- Dissociative Disorders
+	- Delerium
+	- Psychosis
+	- Mood Disorder
+	- Schizophrenia Spectrum Disorders
+	- Manic & Hypomanic Episodes
+	- Bipolar Disorder
+	- Major Depressive Disorder
+	- Peripartum Mood Disturbances
+	- Electroconvulsive Therapy
+	- Risk Factors for Suicide Death
+	- Anxiety Disorders
+	- Panic Disorder
+	- Phobias
+	- Generalized Anxiety Disorder
+	- Obsessive Compulsive Disorder
+	- Trichotillomania
+	- Drama and Stress Related Disorders
+	- Diagnostic Criteria by Symptom Duration
+	- Personality Disorders
+	- Malingering
+	- Factitious Disorders
+	- Somatic Symptom and Related Disorders
+	- Eating Disorders
+	- Gender Dysphoria
+	- Sexual Dysfunction
+	- Sleep Terror Disorder, Enuresis & Narcolepsy
+	- Substance Use Disorders
+	- Gambling Disorder
+	- Transtheoretical Model of Change
+	- Psychiatric Emergencies
+	- Psychoactive Drug Intoxication & Withdrawal
 - Psychopharmacology
-	- psychotherapy
-	- preferred medications for selected psychiatric conditions
-	- central nervous system stimulants
-	- anti psychotics
-	- lithium & Buspirone
-	- antidepressants
-	- atypical antidepressants
-	- opioid detoxification and relapse prevention
+	- Psychotherapy
+	- Preferred Medications for Selected Psychiatric Conditions
+	- Central Nervous System Stimulants
+	- Anti Psychotics
+	- Lithium & Buspirone
+	- Antidepressants
+	- Atypical Antidepressants
+	- Opioid Detoxification and Relapse Prevention
 
 
 ### Renal
