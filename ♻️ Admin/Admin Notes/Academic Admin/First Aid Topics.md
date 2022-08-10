@@ -825,6 +825,8 @@
 	- amniotic fluid
 	- twinning & twin to twin transfusion syndrome
 	- Umbilical Cord & Urachus
+	- Vitelline Duct
+	- Pharyngeal Apparatus
 	- 
 - reproductive physiology
 - reproductive pathology
