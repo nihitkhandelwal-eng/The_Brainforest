@@ -817,6 +817,15 @@
 - Reproductive Embryology & Anatomy
 	- important genes of embryogenesis
 	- early embryonic development
+	- embryologic derivatives
+	- teratogens
+	- types of errors in morphogenesis
+	- fetal alcohol syndrome and neonatal abstinence syndrome
+	- placenta
+	- amniotic fluid
+	- twinning & twin to twin transfusion syndrome
+	- Umbilical Cord & Urachus
+	- 
 - reproductive physiology
 - reproductive pathology
 - reproductive pharmacology
