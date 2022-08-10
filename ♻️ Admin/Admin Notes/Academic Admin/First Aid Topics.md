@@ -581,7 +581,10 @@
 	- Pigmented Skin Disorders
 	- Seborrheic Dermatitis
 	- Common Skin Disorders
-	- Vascu
+	- Vascular Tumors of Skin
+	- Skin Infections
+	- Cutaneous Mycoses
+	- Autoimmune Blistering Skin Disorders
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
