@@ -464,6 +464,7 @@
 	- Cholelithiasis, Cholangiocarcinoma & Related Pathologies
 	- Pancreatitis & Pancreatic Adenocarcinoma
 - Gastrointestinal Pharmacology
+	- acid suppression therapy
 	- 
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
