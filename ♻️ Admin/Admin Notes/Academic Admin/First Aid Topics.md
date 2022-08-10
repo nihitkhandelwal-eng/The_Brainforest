@@ -484,28 +484,33 @@
 	- Coagulation & Kinin Pathways
 	- Vitamin K Dependent Coagulation
 - Hemat-Onco Pathology
-	- RBC morphology
-	- RBC inclusions
-	- introduction to anemias
-	- microcytic hypochromic anemias
-	- macrocytic anemias
-	- normocytic normochromic anemias
-	- non hemolytic normocytic anemias
-	- intrinsic hemolytic anemias
-	- extrinsic hemolytic anemias
-	- leukopenias
-	- Heme Synthesis, Porphyria & lead poisoning
-	- iron poisoning
-	- Coagulation disorders
-	- platelet disorders & Thromotic microangiopathies
-	- mixed platelet & Coagulation disorders
-	- hereditary thrombophilias
-	- blood transfusion therapy
-	- Hodgkin v/s Non Hodgkin Lymphoma
-	- Plasma cell disorders
-	- Myelodysplastic syndromes
-	- 
+	- RBC Morphology
+	- RBC Inclusions
+	- Introduction to Anemias
+	- Microcytic Hypochromic Anemias
+	- Macrocytic Anemias
+	- Normocytic Normochromic Anemias
+	- Non Hemolytic Normocytic Anemias
+	- Intrinsic Hemolytic Anemias
+	- Extrinsic Hemolytic Anemias
+	- Leukopenias
+	- Heme Synthesis, Porphyria & Lead Poisoning
+	- Iron Poisoning
+	- Coagulation Disorders
+	- Platelet Disorders & Thromotic Microangiopathies
+	- Mixed Platelet & Coagulation Disorders
+	- Hereditary Thrombophilias
+	- Blood Transfusion Therapy
+	- Hodgkin V/s Non Hodgkin Lymphoma
+	- Plasma Cell Disorders
+	- Myelodysplastic Syndromes
+	- Leukemias
+	- Myeloproliferative Neoplasms
+	- Polycythemia
+	- Chromosomal Translocations
+	- Langerhans Cell Histiocytosis & Tumor Lysis Syndrome
 - Hemat-Onco Pharmacology
+	- 
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
 ### Psychiatry
