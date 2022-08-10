@@ -680,6 +680,7 @@
 	- pupillary control & relative afferent pupillary defect
 	- ponder syndrome
 	- ocular motility
+	- Cranial Nerves → 3, 4 & 6 Palsies
 	- 
 - Neuro Pharmacology
 ### Psychiatry
