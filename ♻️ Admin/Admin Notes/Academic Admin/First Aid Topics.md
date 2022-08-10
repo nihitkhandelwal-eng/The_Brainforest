@@ -565,6 +565,8 @@
 	- systemic juvenile idiopathic arthritis & septic arthritis
 	- seronegative spondyloarthritis
 	- systemic lupus erythematosus
+	- Antiphospholipid Syndrome
+	- Polymyalgia Rheumatica
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
