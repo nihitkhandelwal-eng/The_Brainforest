@@ -473,7 +473,11 @@
 	- Fetal erythropoiesis
 	- blood groups
 	- hemolytic disease of the fetus & newborn
-	- 
+	- hematopoiesis & Erythrocytes
+	- neutrophils, monocytes & platelets
+	- macrophages & dendritic cells
+	- eosinophils, basophils & mast cells
+	- lymphocytes & plasma cells
 - Hemat-Onco Physiology
 - Hemat-Onco Pathology
 - Hemat-Onco Pharmacology
