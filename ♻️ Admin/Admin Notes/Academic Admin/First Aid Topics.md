@@ -533,7 +533,7 @@
 	- brachial plexus lesions 
 	- wrist region
 	- hand muscles & distortion of the hand
-	- actions of hip muscles
+	- actions of hip muscles lower extremity nerves
 - musculo skeletal Physiology
 - musculo skeletal Pathology
 - dermatology 
