@@ -580,6 +580,8 @@
 	- Dermatologic Macro & Microscopic Terms
 	- Pigmented Skin Disorders
 	- Seborrheic Dermatitis
+	- Common Skin Disorders
+	- Vascu
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
