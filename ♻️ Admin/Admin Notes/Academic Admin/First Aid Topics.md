@@ -535,7 +535,13 @@
 	- hand muscles & distortion of the hand
 	- actions of hip muscles
 	- lower extremity nerves
-	- 
+	- Knee Exam
+	- Ankle Sprains
+	- Signs of Lumbosacral radiculopathy
+	- Neurovascular Pairing
+	- Motoneuron action potential to Muscle Contraction
+	- Types of Skeletal Muscle Fibers & Skeletal Muscle Adaptations
+	- Vascular Smooth Muscle Contraction & Relaxation
 - musculo skeletal Physiology
 - musculo skeletal Pathology
 - dermatology 
