@@ -591,6 +591,8 @@
 	- Burns & Body Surface Area
 	- Skin Cancer
 - musculoskeletal pharmacology
+	- Arachidonic Acid Pathways
+	- Acetamino
 ### Neurology & Special Senses
 ### Psychiatry
 ### Renal
