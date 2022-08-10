@@ -552,7 +552,12 @@
 	- common musculoskeletal conditions
 	- childhood musculoskeletal conditions
 	- common pediatric fractures & Achondroplasia
-	- 
+	- osteoporosis
+	- osteopetrosis
+	- osteomalacia
+	- osteitis deformans
+	- avascular necrosis of  bone
+	- lab values in bone disorders
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
