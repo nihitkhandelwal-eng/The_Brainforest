@@ -832,6 +832,8 @@
 	- Genital Embryology
 	- Sexual Differentiation
 	- Mullerian Anomalies
+	- Male-Female Genital Analogs
+	- Congenital Penile Anomalies
 - reproductive physiology
 - reproductive pathology
 - reproductive pharmacology
