@@ -703,6 +703,62 @@
 	- Glaucoma Therapy
 
 ### Psychiatry
+- Psychology
+	- classical conditioning
+	- operant conditioning
+	- transference & counter transference
+	- ego defenses
+	- grief
+	- normal infant and child development
+- Psychiatric Pathology
+	- child abuse
+	- child neglect & vulnerable child syndrome
+	- childhood & early onset disorders
+	- orientation
+	- amnesia
+	- dissociative disorders
+	- delerium
+	- psychosis
+	- mood disorder
+	- schizophrenia spectrum disorders
+	- manic & hypomanic episodes
+	- bipolar disorder
+	- major depressive disorder
+	- peripartum mood disturbances
+	- electroconvulsive therapy
+	- risk factors for suicide death
+	- anxiety disorders
+	- panic disorder
+	- phobias
+	- generalized anxiety disorder
+	- obsessive compulsive disorder
+	- trichotillomania
+	- drama and stress related disorders
+	- diagnostic criteria by symptom duration
+	- personality disorders
+	- malingering
+	- factitious disorders
+	- somatic symptom and related disorders
+	- eating disorders
+	- gender dysphoria
+	- sexual dysfunction
+	- sleep terror disorder, Enuresis & narcolepsy
+	- substance use disorders
+	- gambling disorder
+	- transtheoretical model of change
+	- psychiatric emergencies
+	- psychoactive drug intoxication & withdrawal
+- Psychopharmacology
+	- psychotherapy
+	- preferred medications for selected psychiatric conditions
+	- central nervous system stimulants
+	- anti psychotics
+	- lithium & Buspirone
+	- antidepressants
+	- atypical antidepressants
+	- opioid detoxification and relapse prevention
+
+
 ### Renal
 ### Reproductive
 ### Respiratory
