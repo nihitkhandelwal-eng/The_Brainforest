@@ -470,6 +470,9 @@
 	- Anti Constipation Drugs
 ### Hematology & Oncology
 - Hemat-Onco Embryology & Anatomy
+	- Fetal erythropoiesis
+	- blood groups
+	- hemolytic disease of the fetus & newborn
 	- 
 - Hemat-Onco Physiology
 - Hemat-Onco Pathology
