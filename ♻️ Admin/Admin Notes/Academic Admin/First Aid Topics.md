@@ -424,15 +424,24 @@
 	- Ventral Wall Defects
 	- Tracheo Esophageal Anomalies
 	- Intestinal Atresia & Hypertrophic Pyloric Stenosis
-	- Pancreas & spleen embryology
-	- retroperitoneal structures
-	- important gastrointestinal ligaments
-	- digestive tract anatomy & Histology
-	- abdominal aorta & branches
-	- gastrointestinal blood supply and innervation
-	- 
+	- Pancreas & Spleen Embryology
+	- Retroperitoneal Structures
+	- Important Gastrointestinal Ligaments
+	- Digestive Tract Anatomy & Histology
+	- Abdominal Aorta & Branches
+	- Gastrointestinal Blood Supply & Innervation
+	- Portosystemic Anastomosis
+	- Pectinate Line
+	- Liver Tissue Architecture & Biliary Structures
+	- Femoral Region & Inguinal Canal
+	- Hernias
 - Gastrointestinal Physiology
+	- Gastrointestinal Regulatory Substances & Secretory Products
+	- Locations of Gastrointestinal Secretary Cells & Pancreatic Secretions
+	- Carbohydrates Vitamins & Mineral Absorption
+	- Bile, Bilirubin & Peyer Patches
 - Gastrointestinal Pathology
+	- 
 - Gastrointestinal Pharmacology
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
