@@ -828,7 +828,9 @@
 	- Vitelline Duct
 	- Pharyngeal Apparatus & Clefts
 	- Pharyngeal Arches, Pouches & Their Derivatives
-	- 
+	- Orofacial Clefts
+	- Genital Embryology
+	- Sexual Differentiation
 - reproductive physiology
 - reproductive pathology
 - reproductive pharmacology
