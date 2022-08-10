@@ -563,7 +563,8 @@
 	- gout & calcium pyrophosphate deposition disease
 	- Sjogren syndrome
 	- systemic juvenile idiopathic arthritis & septic arthritis
-	- seronegative spondylo
+	- seronegative spondyloarthritis
+	- systemic lupus erythematosus
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
