@@ -413,7 +413,11 @@
 	- Pheochromocytoma
 	- Multiple Endocrine Neoplasias
 	- Pancreatic Islet Cell Tumors
+	- Carcinoid Syndrome & Zollinger-Ellison Syndrome
 - Endocrine Pharmacology
+	- Diabetes Melitus Therapy
+	- Thyroid Drugs
+	- Other Endocrine Drugs
 ### Gastrointestinal
 ### Hematology & Oncology
 ### Musculoskeletal, Skin & Connective Tissue
