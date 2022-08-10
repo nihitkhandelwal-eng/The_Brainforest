@@ -561,7 +561,9 @@
 	- primary bone tumors
 	- osteoarthritis v/s rheumatoid arthritis
 	- gout & calcium pyrophosphate deposition disease
-	- 
+	- Sjogren syndrome
+	- systemic juvenile idiopathic arthritis & septic arthritis
+	- seronegative spondylo
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
