@@ -470,16 +470,21 @@
 	- Anti Constipation Drugs
 ### Hematology & Oncology
 - Hemat-Onco Embryology & Anatomy
-	- Fetal erythropoiesis
-	- blood groups
-	- hemolytic disease of the fetus & newborn
-	- hematopoiesis & Erythrocytes
-	- neutrophils, monocytes & platelets
-	- macrophages & dendritic cells
-	- eosinophils, basophils & mast cells
-	- lymphocytes & plasma cells
+	- Fetal Erythropoiesis
+	- Blood Groups
+	- Hemolytic Disease of the Fetus & Newborn
+	- Hematopoiesis & Erythrocytes
+	- Neutrophils, Monocytes & Platelets
+	- Macrophages & Dendritic Cells
+	- Eosinophils, Basophils & Mast Cells
+	- Lymphocytes & Plasma Cells
 - Hemat-Onco Physiology
+	- Hemoglobin Electrophoresis & Coombs Test
+	- Primary Hemostasis & Thrombogenesis
+	- Coagulation & Kinin Pathways
+	- Vitamin K Dependent Coagulation
 - Hemat-Onco Pathology
+	- RBC morphology
 - Hemat-Onco Pharmacology
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
