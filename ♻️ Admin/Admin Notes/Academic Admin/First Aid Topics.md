@@ -574,7 +574,12 @@
 	- raynaud phenomenon
 	- Scleroderma
 - dermatology 
-	- 
+	- Skin Layers
+	- Epithelial Cell Junctions
+	- Exocrine Glands
+	- Dermatologic Macro & Microscopic Terms
+	- Pigmented Skin Disorders
+	- Seborrheic Dermatitis
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
