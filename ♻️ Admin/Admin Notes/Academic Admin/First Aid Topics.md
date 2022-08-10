@@ -585,6 +585,8 @@
 	- Skin Infections
 	- Cutaneous Mycoses
 	- Autoimmune Blistering Skin Disorders
+	- Other Blistering Skin Disorders
+	- Lower Extremity Ulcers
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
 ### Psychiatry
