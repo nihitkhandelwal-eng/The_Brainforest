@@ -626,67 +626,67 @@
 	- Brainstem
 	- Cranial Nerve Nuclei & Vessel Pathways
 	- Cranial Nerves & Reflexes
-	- mastication muscles
-	- spinal nerves
-	- spinal cord & associated tracks
-	- spinal tract anatomy & functions
-	- clinical reflexes & primitive reflexes
-	- landmark dermatomes
+	- Mastication Muscles
+	- Spinal Nerves
+	- Spinal Cord & Associated Tracks
+	- Spinal Tract Anatomy & Functions
+	- Clinical Reflexes & Primitive Reflexes
+	- Landmark Dermatomes
 - Neuropathology
-	- common brain lesions
-	- abnormal motor posturing
-	- ischemic brain disease
-	- cerebral edema
-	- effects of stroke
-	- neonatal intra ventricular hemorrhage
-	- intracranial hemorrhage
-	- central post stroke and phantom limb pain
-	- diffuse axonal injury 
-	- aphasia
-	- aneurysms
-	- fever v/s heat stroke
-	- seizures
-	- headaches
-	- movement disorders
-	- neurodegenerative disorders
-	- idiopathic intracranial hypertension
-	- hydrocephalus 
-	- multiple sclerosis
-	- other demyelinating & dismyelinating disorders
-	- neuro cutaneous disorders
-	- adult primary brain tumors
-	- childhood primary brain tumors
-	- herniation syndromes
-	- motor neuron signs
-	- spinal lesions
-	- poliomyelitis
-	- brown sequard syndrome
-	- friedreich ataxia
-	- common cranial nerve lesions
-	- facial nerve lesions
+	- Common Brain Lesions
+	- Abnormal Motor Posturing
+	- Ischemic Brain Disease
+	- Cerebral Edema
+	- Effects of Stroke
+	- Neonatal Intra Ventricular Hemorrhage
+	- Intracranial Hemorrhage
+	- Central Post Stroke and Phantom Limb Pain
+	- Diffuse Axonal Injury 
+	- Aphasia
+	- Aneurysms
+	- Fever V/s Heat Stroke
+	- Seizures
+	- Headaches
+	- Movement Disorders
+	- Neurodegenerative Disorders
+	- Idiopathic Intracranial Hypertension
+	- Hydrocephalus 
+	- Multiple Sclerosis
+	- Other Demyelinating & Dismyelinating Disorders
+	- Neuro Cutaneous Disorders
+	- Adult Primary Brain Tumors
+	- Childhood Primary Brain Tumors
+	- Herniation Syndromes
+	- Motor Neuron Signs
+	- Spinal Lesions
+	- Poliomyelitis
+	- Brown Sequard Syndrome
+	- Friedreich Ataxia
+	- Common Cranial Nerve Lesions
+	- Facial Nerve Lesions
 - Otology
-	- auditory anatomy and Physiology
-	- common causes & diagnosing hearing loss
+	- Auditory Anatomy and Physiology
+	- Common Causes & Diagnosing Hearing Loss
 	- Cholesteatoma
 	- Vertigo
 - Opthalmology
-	- normal eye anatomy
-	- conjunctivitis
-	- refractive errors
-	- lens disorders
-	- aqueous humor pathways & Glaucoma
-	- retinal disorders
-	- Leukocoria & uveitis
-	- pupillary control & relative afferent pupillary defect
-	- ponder syndrome
-	- ocular motility
+	- Normal Eye Anatomy
+	- Conjunctivitis
+	- Refractive Errors
+	- Lens Disorders
+	- Aqueous Humor Pathways & Glaucoma
+	- Retinal Disorders
+	- Leukocoria & Uveitis
+	- Pupillary Control & Relative Afferent Pupillary Defect
+	- Ponder Syndrome
+	- Ocular Motility
 	- Cranial Nerves → 3, 4 & 6 Palsies
-	- visual field defects
-	- cavernous sinus
-	- internuclear ophthalmoplegia
+	- Visual Field Defects
+	- Cavernous Sinus
+	- Internuclear Ophthalmoplegia
 - Neuro Pharmacology
-	- epilepsy therapy
-	- barbiturates
+	- Epilepsy Therapy
+	- Barbiturates
 	- Benzodiazepines
 	- Insomnia Therapy
 	- Triptans
@@ -699,8 +699,8 @@
 	- Neuromuscular Blocking Drugs
 	- Skeletal Muscle Relaxants
 	- Opioid Analgesics 
-	- Mixed agonist and antagonist opioid analgesics
-	- glaucoma therapy
+	- Mixed Agonist and Antagonist Opioid Analgesics
+	- Glaucoma Therapy
 
 ### Psychiatry
 ### Renal
