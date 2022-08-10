@@ -837,8 +837,57 @@
 	- descent of testes & ovaries
 - Reproductive Anatomy
 	- gonadal drainage
-	- female reproductive anatomy
+	- female reproductive anatomy, Adenexal torsion & pelvic organ prolapse
+	- female reproductive epithelial Histology
+	- male reproductive anatomy
+	- genito urinary trauma
+	- autonomic innervation of male sexual response
+	- seminiferous tubules
 - reproductive physiology
+	- spermatogenesis
+	- estrogen
+	- progesterone
+	- Oogenesis and ovulation
+	- menstrual cycle
+	- abnormal uterine bleeding
+	- pregnancy & physiological changes
+	- human chorionic gonadotropin & human placental lactogen
+	- APGAR Score & Low Birth Weight
+	- lactation
+	- menopause
+	- androgens
+	- Tanner stages of sexual development
+	- precocious puberty & delayed puberty
 - reproductive pathology
+	- sex chromosome disorders
+	- other disorders of sex development
+	- diagnosing sexual disorders
+	- aromatase deficiency & 5α reductase deficiency
+	- androgen insensitivity syndrome
+	- kallmann syndrome
+	- placental disorders
+	- uterine rupture & postpartum hemorrhage
+	- Ectopic pregnancy
+	- hydatidiform mole & choriocarcinoma
+	- hypertension in pregnancy & supine hypotensive syndrome
+	- gynecologic tumor epidemiology
+	- valvular pathology & imperforate hymen
+	- vaginal tumors
+	- cervical pathology
+	- amenorrhea
+	- polycystic ovarian syndrome
+	- primary dysmenorrhea
+	- ovarian cysts
+	- ovarian tumors
+	- uterine conditions
+	- breast pathology & benign breast diseases
+	- breast cancer
+	- penial pathology
+	- extragonadal germ cell tumors & benign scrotal lesions
+	- testicular tumors
+	- epididymitis & orchitis
+	- benign prostatic hyperplasia
+	- prostatitis & prostatic adenocarcinoma 
 - reproductive pharmacology
+	- control of reproductive hormones
 ### Respiratory
