@@ -700,7 +700,7 @@
 	- Skeletal Muscle Relaxants
 	- Opioid Analgesics 
 	- Mixed agonist and antagonist opioid analgesics
-	- 
+	- glaucoma therapy
 
 ### Psychiatry
 ### Renal
