@@ -510,7 +510,22 @@
 	- Chromosomal Translocations
 	- Langerhans Cell Histiocytosis & Tumor Lysis Syndrome
 - Hemat-Onco Pharmacology
-	- 
+	- Heparin
+	- Warfarin
+	- Direct Coagulation Factor Inhibitors
+	- Anti-Coagulation Reversal
+	- Anti Platelets
+	- Thrombolytics
+	- Cancer Therapy & It's Basics
+	- Antitumor Antibiotics
+	- Antimetabolites
+	- Alkylating Agents & Platinum Compounds
+	- Microtubule & Topo Isomerase Inhibitors
+	- Tamoxifen
+	- Anti Cancer Monoclonal Antibodies
+	- Anti Cancer Small Molecule Inhibitors
+	- Chemotherapy Amelioration
+	- Key Keyboard Toxicities 
 ### Musculoskeletal, Skin & Connective Tissue
 ### Neurology & Special Senses
 ### Psychiatry
