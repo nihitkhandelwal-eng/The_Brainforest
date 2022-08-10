@@ -567,7 +567,10 @@
 	- systemic lupus erythematosus
 	- Antiphospholipid Syndrome
 	- Polymyalgia Rheumatica & Fibromyalgia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-	- 
+	- polymyositis / Dermatomyositis
+	- Myositis Ossificans
+	- Vasculitides
+	- Neuromuscular Junction Diseases
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
