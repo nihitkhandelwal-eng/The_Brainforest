@@ -826,8 +826,7 @@
 	- twinning & twin to twin transfusion syndrome
 	- Umbilical Cord & Urachus
 	- Vitelline Duct
-	- Pharyngeal Apparatus
-	- 
+	- Pharyngeal Apparatus Arches
 - reproductive physiology
 - reproductive pathology
 - reproductive pharmacology
