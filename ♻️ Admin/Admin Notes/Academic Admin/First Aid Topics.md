@@ -566,7 +566,8 @@
 	- seronegative spondyloarthritis
 	- systemic lupus erythematosus
 	- Antiphospholipid Syndrome
-	- Polymyalgia Rheumatica
+	- Polymyalgia Rheumatica & Fibromyalgia
+	- 
 - dermatology 
 - musculoskeletal pharmacology
 ### Neurology & Special Senses
