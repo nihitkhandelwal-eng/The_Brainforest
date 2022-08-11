@@ -971,4 +971,5 @@
 - Classic Lab Findings
 - Classic & Relevant Treatments
 - Key Associations
-- Equation
+- Equation Review
+- Easily Confused Medications
