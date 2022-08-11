@@ -920,5 +920,9 @@
 	- methemoglobin
 	- cyanide & carbon monoxide poisoning
 - Respiratory Pathology
+	- rhinosinusitis
+	- epistaxis
 	- 
+
+
 - Respiratory Pharmacology
