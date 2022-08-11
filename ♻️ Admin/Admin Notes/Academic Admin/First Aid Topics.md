@@ -955,17 +955,6 @@
 	- Pseudo Ephedrine & Phenylephrine
 	- Drugs for Pulmonary Hypertension
 	- Drugs for Asthma
-
-
-
-
-
-
-
-
-
-
-
 ### Rapid Review
 - Classic Presentations
 - Classic Lab Findings
