@@ -949,7 +949,11 @@
 	- pancoast tumor
 	- superior vena cava syndrome
 - Respiratory Pharmacology
-	- 
+	- H1 blockers
+	- dextromethorphan
+	- pseudo ephedrine & phenylephrine
+	- drugs for pulmonary hypertension
+	- drugs for asthma
 
 
 
