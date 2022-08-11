@@ -897,63 +897,63 @@
 ### Respiratory
 - Respiratory Embryology & Anatomy
 	- Lung Development
-	- Choanal atresia & lung malformation
-	- alveolar cell types
-	- neonatal respiratory distress syndrome
-	- respiratory tree
-	- lung anatomy
-	- diaphragm structures
+	- Choanal Atresia & Lung Malformation
+	- Alveolar Cell Types
+	- Neonatal Respiratory Distress Syndrome
+	- Respiratory Tree
+	- Lung Anatomy
+	- Diaphragm Structures
 - Respiratory Physiology
-	- lung volumes & capacities
-	- work of breathing & Dead Space
-	- ventilation
-	- lung & chest wall
-	- pulmonary circulation
-	- pulmonary vascular resistance 
-	- ventilation-Perfusion mismatch
-	- alveolar gas equation
-	- carbon dioxide transport
-	- hypoxia & hypoxemia
-	- hemoglobin
-	- oxygen content of blood & oxyhemoglobin dissociation curve
-	- response to high altitude & exercise
-	- methemoglobin
-	- cyanide & carbon monoxide poisoning
+	- Lung Volumes & Capacities
+	- Work of Breathing & Dead Space
+	- Ventilation
+	- Lung & Chest Wall
+	- Pulmonary Circulation
+	- Pulmonary Vascular Resistance 
+	- Ventilation-Perfusion Mismatch
+	- Alveolar Gas Equation
+	- Carbon Dioxide Transport
+	- Hypoxia & Hypoxemia
+	- Hemoglobin
+	- Oxygen Content of Blood & Oxyhemoglobin Dissociation Curve
+	- Response to High Altitude & Exercise
+	- Methemoglobin
+	- Cyanide & Carbon Monoxide Poisoning
 - Respiratory Pathology
-	- rhinosinusitis
-	- epistaxis
-	- head & neck cancer
-	- deep venous thrombosis
-	- pulmonary emboli
-	- mediastinal pathology
-	- flow volume loops
-	- obstructive lung diseases
-	- restrictive lung diseases
-	- idiopathic pulmonary fibrosis
-	- hypersensitivity pneumonitis
-	- sarcoidosis
-	- inhalation injury & sequelae
+	- Rhinosinusitis
+	- Epistaxis
+	- Head & Neck Cancer
+	- Deep Venous Thrombosis
+	- Pulmonary Emboli
+	- Mediastinal Pathology
+	- Flow Volume Loops
+	- Obstructive Lung Diseases
+	- Restrictive Lung Diseases
+	- Idiopathic Pulmonary Fibrosis
+	- Hypersensitivity Pneumonitis
+	- Sarcoidosis
+	- Inhalation Injury & Sequelae
 	- Pneumoconioses
-	- mesothelioma
-	- acute respiratory distress syndrome
-	- sleep apnea
-	- pulmonary hypertension
-	- physical findings in select lung diseases & digital clubbing
-	- atelectasis
-	- pleural effusions
-	- pneumothorax
-	- pneumonia
-	- Natural History of lobar pneumonia
-	- lung Abscess
-	- lung cancer 
-	- pancoast tumor
-	- superior vena cava syndrome
+	- Mesothelioma
+	- Acute Respiratory Distress Syndrome
+	- Sleep Apnea
+	- Pulmonary Hypertension
+	- Physical Findings in Select Lung Diseases & Digital Clubbing
+	- Atelectasis
+	- Pleural Effusions
+	- Pneumothorax
+	- Pneumonia
+	- Natural History of Lobar Pneumonia
+	- Lung Abscess
+	- Lung Cancer 
+	- Pancoast Tumor
+	- Superior Vena Cava Syndrome
 - Respiratory Pharmacology
-	- H1 blockers
-	- dextromethorphan
-	- pseudo ephedrine & phenylephrine
-	- drugs for pulmonary hypertension
-	- drugs for asthma
+	- H1 Blockers
+	- Dextromethorphan
+	- Pseudo Ephedrine & Phenylephrine
+	- Drugs for Pulmonary Hypertension
+	- Drugs for Asthma
 
 
 
