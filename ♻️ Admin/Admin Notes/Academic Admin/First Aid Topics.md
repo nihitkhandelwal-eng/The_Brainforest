@@ -922,7 +922,38 @@
 - Respiratory Pathology
 	- rhinosinusitis
 	- epistaxis
-	- 
-
-
+	- head & neck cancer
+	- deep venous thrombosis
+	- pulmonary emboli
+	- mediastinal pathology
+	- flow volume loops
+	- obstructive lung diseases
+	- restrictive lung diseases
+	- idiopathic pulmonary fibrosis
+	- hypersensitivity pneumonitis
+	- sarcoidosis
+	- inhalation injury & sequelae
+	- Pneumoconioses
+	- mesothelioma
+	- acute respiratory distress syndrome
+	- sleep apnea
+	- pulmonary hypertension
+	- physical findings in select lung diseases & digital clubbing
+	- atelectasis
+	- pleural effusions
+	- pneumothorax
+	- pneumonia
+	- Natural History of lobar pneumonia
+	- lung Abscess
+	- lung cancer 
+	- pancoast tumor
+	- superior vena cava syndrome
 - Respiratory Pharmacology
+
+
+
+
+
+
+
+
