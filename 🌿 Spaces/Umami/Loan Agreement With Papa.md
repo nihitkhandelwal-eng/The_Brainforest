@@ -22,5 +22,6 @@ I am calculating 20k/month as rent+maintainence
 So, I will be keeping track of some of the big payments here.
 
 - 7800₹ → Subscribed to the LYT Workshop 8 on [[31-May-22]] 
+- 
 
 ---
