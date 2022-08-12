@@ -45,7 +45,11 @@
 	- Mycobacterium tuberculosis
 	- Mycobacterium leprae
 - Spirochetes
+	- Borrelia
+	- Leptospirosis
+	- Treponema Pallidum
 - Gram-Indeterminate Bacteria
+	- 
 ### Fungi
 ### Parasites
 ### Viruses
