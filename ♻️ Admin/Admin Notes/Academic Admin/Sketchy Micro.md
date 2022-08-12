@@ -86,8 +86,8 @@
 	- Babesia
 	- Plasmodium species
 	- Leishmaniasis
-- Protozoa - Other Tissue
-	- 
+	- Trichomoniasis
 - Helminths - Nematodes
+	- 
 - Helminths - Trematodes and Cestodes
 ### Viruses
