@@ -18,6 +18,9 @@
 	- Actinomyces
 	- Nocardia
 - Gram-Negative Cocci
+	- Neisseria species overview
+	- Neisseria meningitidis
+	- Neisseria gonorrheae
 - Gram-Negative Bacilli - Enteric tract
 - Gram-Negative Bacilli - Respiratory tract
 - Gram-Negative Bacilli - Zoonotics
