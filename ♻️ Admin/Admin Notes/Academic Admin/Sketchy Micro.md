@@ -49,7 +49,13 @@
 	- Leptospirosis
 	- Treponema Pallidum
 - Gram-Indeterminate Bacteria
-	- 
+	- Chlamydia
+	- Coxiella burnetii
+	- Gardnerella vaginalis
+	- Mycoplasma pneumoniae
+	- Rickettsia species overview
+	- Rickettsia prowazekii
+	- Rickettsia rickettsii
 ### Fungi
 ### Parasites
 ### Viruses
