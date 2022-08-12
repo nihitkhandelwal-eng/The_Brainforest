@@ -67,6 +67,10 @@
 	- Dermatophytes
 	- Sporothrix schenckii
 - Opportunistic Fungal Infections
-	- 
+	- Candida albicans
+	- Aspergillus fumigatus
+	- Cryptococcus neoformans
+	- Mucormycosis
+	- Pneumocystis pneumonia
 ### Parasites
 ### Viruses
