@@ -114,4 +114,14 @@
 	- Arenavirus
 	- Reovirus
 - DNA Viruses
-	- 
+	- HSV-I and HSV-2
+	- EBV
+	- CMV
+	- HHV-6
+	- HHV-8
+	- Polyomavirus JC & BK
+	- Papillomavirus
+	- Parvovirus
+	- Adenovirus
+	- Poxvirus
+	- Hepatitis B Virus
