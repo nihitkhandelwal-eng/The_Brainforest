@@ -63,7 +63,10 @@
 	- Coccidioidomycosis
 	- Paracoccidioidomycosis
 - Cutaneous Mycoses
-	- 
+	- Malassezia furfur & Pityriasis Versicolor
+	- Dermatophytes
+	- Sporothrix schenckii
 - Opportunistic Fungal Infections
+	- 
 ### Parasites
 ### Viruses
