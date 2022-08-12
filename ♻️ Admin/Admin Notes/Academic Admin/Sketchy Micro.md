@@ -37,6 +37,10 @@
 	- Haemophilus influenzae
 	- Legionella
 - Gram-Negative Bacilli - Zoonotics
+	- Bartonella henselae
+	- Brucella
+	- Francisella tularensis
+	- Pasteurella multocida
 - Mycobacteria
 - Spirochetes
 - Gram-Indeterminate Bacteria
