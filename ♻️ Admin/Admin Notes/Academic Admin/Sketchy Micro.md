@@ -33,6 +33,9 @@
 	- Pseudomonas
 	- Proteus mirabilis
 - Gram-Negative Bacilli - Respiratory tract
+	- Bordatella pertussis
+	- Haemophilus influenzae
+	- Legionella
 - Gram-Negative Bacilli - Zoonotics
 - Mycobacteria
 - Spirochetes
