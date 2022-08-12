@@ -57,5 +57,8 @@
 	- Rickettsia prowazekii
 	- Rickettsia rickettsii
 ### Fungi
+- Systemic Mycoses
+- Cutaneous Mycoses
+- Opportunistic Fungal Infections
 ### Parasites
 ### Viruses
