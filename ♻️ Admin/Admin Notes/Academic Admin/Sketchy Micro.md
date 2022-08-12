@@ -86,8 +86,8 @@
 	- Babesia
 	- Plasmodium species
 	- Leishmaniasis
-	- Trichomoniasis
 - Helminths 
+	- Trichomoniasis
 	- Intestinal nematodes
 	- Tissue Nematodes
 	- Trematodes 
