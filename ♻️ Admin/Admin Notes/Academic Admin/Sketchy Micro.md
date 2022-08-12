@@ -73,5 +73,10 @@
 	- Mucormycosis
 	- Pneumocystis pneumonia
 ### Parasites
-
+- Protozoa of the Intestinal Tract
+- Protozoa of the CNS
+- Protozoa of the Blood
+- Protozoa - Other Tissue
+- Helminths - Nematodes
+- Helminths - Trematodes and Cestodes
 ### Viruses
