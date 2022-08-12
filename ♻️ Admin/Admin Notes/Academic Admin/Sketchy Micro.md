@@ -22,6 +22,16 @@
 	- Neisseria meningitidis
 	- Neisseria gonorrheae
 - Gram-Negative Bacilli - Enteric tract
+	- Klebsiella, Enterobacter, Serratia
+	- Salmonella
+	- Shigella
+	- Escherichia coli (ETEC, EHEC)
+	- Yersinia enterocolitica
+	- Campylobacter
+	- Vibrio
+	- Helicobacter
+	- Pseudomonas
+	- Proteus mirabilis
 - Gram-Negative Bacilli - Respiratory tract
 - Gram-Negative Bacilli - Zoonotics
 - Mycobacteria
