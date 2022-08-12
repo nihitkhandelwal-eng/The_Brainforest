@@ -74,8 +74,15 @@
 	- Pneumocystis pneumonia
 ### Parasites
 - Protozoa of the Intestinal Tract
+	- Giardia
+	- Entamoeba histolytica
+	- Cryptosporidium
 - Protozoa of the CNS
+	- Toxoplasmosis
+	- Trypanosoma brucei
+	- Naegleria fowleri
 - Protozoa of the Blood
+	- 
 - Protozoa - Other Tissue
 - Helminths - Nematodes
 - Helminths - Trematodes and Cestodes
