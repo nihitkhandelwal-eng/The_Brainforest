@@ -106,4 +106,12 @@
 	- Coronavirus
 	- HIV
 - RNA Viruses - Negative Sense
+	- Orthomyxovtrus
+	- Paramyxovirus
+	- Rhabdovirus
+	- Filovirus
+	- Bunyavirus
+	- Arenavirus
+	- Reovirus
 - DNA Viruses
+	- 
