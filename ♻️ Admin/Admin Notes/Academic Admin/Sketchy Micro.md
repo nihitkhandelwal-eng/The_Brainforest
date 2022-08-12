@@ -58,7 +58,12 @@
 	- Rickettsia rickettsii
 ### Fungi
 - Systemic Mycoses
+	- Histoplasmosis
+	- Blastomycosis
+	- Coccidioidomycosis
+	- Paracoccidioidomycosis
 - Cutaneous Mycoses
+	- 
 - Opportunistic Fungal Infections
 ### Parasites
 ### Viruses
