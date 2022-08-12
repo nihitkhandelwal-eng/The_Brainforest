@@ -7,6 +7,13 @@
 	- Strep. pneumoniae Strep viridans
 	- Enterococcus
 - Gram Positive Bacilli
+	- Bacillus anthracis and Bacillus cereus
+	- Clostridium tetani
+	- Clostridium botulinum
+	- Clostridium difficile
+	- Clostridium perfringens
+	- Corynebacterium diphtheriae
+	- Listeria monocytonegenes
 - Gram-Positive Branching Filamentous Rods
 - Gram-Negative Cocci
 - Gram-Negative Bacilli - Enteric tract
