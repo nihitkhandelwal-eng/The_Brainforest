@@ -87,9 +87,9 @@
 	- Plasmodium species
 	- Leishmaniasis
 	- Trichomoniasis
-- Helminths - Nematodes
+- Helminths 
 	- Intestinal nematodes
 	- Tissue Nematodes
-- Helminths - Trematodes Cestodes
-	- 
+	- Trematodes 
+	- Cestodes
 ### Viruses
