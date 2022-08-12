@@ -42,6 +42,8 @@
 	- Francisella tularensis
 	- Pasteurella multocida
 - Mycobacteria
+	- Mycobacterium tuberculosis
+	- Mycobacterium leprae
 - Spirochetes
 - Gram-Indeterminate Bacteria
 ### Fungi
