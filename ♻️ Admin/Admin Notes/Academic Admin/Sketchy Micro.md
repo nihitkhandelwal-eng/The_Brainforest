@@ -83,9 +83,9 @@
 	- Naegleria fowleri
 - Protozoa of the Blood & Other Tissue
 	- Trypanosoma cruzi
-	- Babesia`
+	- Babesia
 	- Plasmodium species
-	- Leishmaniasis`
+	- Leishmaniasis
 - Protozoa - Other Tissue
 	- 
 - Helminths - Nematodes
