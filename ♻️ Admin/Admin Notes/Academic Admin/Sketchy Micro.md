@@ -81,7 +81,7 @@
 	- Toxoplasmosis
 	- Trypanosoma brucei
 	- Naegleria fowleri
-- Protozoa of the Blood
+- Protozoa of the Blood & Other Tissue
 	- Trypanosoma cruzi
 	- Babesia`
 	- Plasmodium species
