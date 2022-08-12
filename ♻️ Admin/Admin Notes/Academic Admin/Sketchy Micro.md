@@ -88,6 +88,8 @@
 	- Leishmaniasis
 	- Trichomoniasis
 - Helminths - Nematodes
+	- Intestinal nematodes
+	- Tissue Nematodes
+- Helminths - Trematodes Cestodes
 	- 
-- Helminths - Trematodes and Cestodes
 ### Viruses
