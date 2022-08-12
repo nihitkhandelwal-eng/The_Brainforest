@@ -82,8 +82,12 @@
 	- Trypanosoma brucei
 	- Naegleria fowleri
 - Protozoa of the Blood
-	- 
+	- Trypanosoma cruzi
+	- Babesia`
+	- Plasmodium species
+	- Leishmaniasis`
 - Protozoa - Other Tissue
+	- 
 - Helminths - Nematodes
 - Helminths - Trematodes and Cestodes
 ### Viruses
