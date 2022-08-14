@@ -15,5 +15,3 @@ Some of the big categories in my life are
 -   Sociology
 -   Music
 	-   Cinema
-
-	
