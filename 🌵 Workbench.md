@@ -1,1 +1,1 @@
-Worked on the [financial goal](https://app.amazingmarvin.com/#g=CPrSvgJCBcbxyMA6Kd8E) with Anne & set her up as my accountability buddy for the nth time
+https://www.guilded.gg/thex3family/groups/aDk8Omqd/channels/3c3ba710-61a0-481c-9314-258f8dca08e9/forums/497743955
