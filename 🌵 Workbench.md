@@ -5,7 +5,7 @@
 	- No changes during weekend or weekdays 
 - YouTube
 	- Weekdays → only from 22:00 tp 23:00
-	- Weekend → From 
+	- Weekend → from 17:00 to 23:00
 
 
 - Android
