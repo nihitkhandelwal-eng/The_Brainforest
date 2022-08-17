@@ -8,4 +8,5 @@
 
 
 - Android
+	- Every day for a window of 1 hour from 22:00 to 23:00
 	- 
