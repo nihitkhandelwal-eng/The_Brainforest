@@ -20,6 +20,7 @@
 
 
 Give her a summary about medication & timeline
-changes that have been happening 
+changes that have been happening
+	categorize it to 
 	appetite, sleep, studies, torubling ou, thoughts, stress, 
-What are the goals
+What are the goals what I expect
