@@ -18,3 +18,5 @@
 		- 22:30 to 23:00
 	- Weekend → from 17:00 to 23:00
 
+
+Give her a summary about medication & timeline
