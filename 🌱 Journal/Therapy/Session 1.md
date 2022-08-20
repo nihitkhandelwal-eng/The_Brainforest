@@ -1,2 +1,2 @@
 - Started sessions with Happitude Studio with Shrishti Dhupar
-- The sessions are online, so I will be recording it from the next time
+- The sessions are online, so I will be recording it from the next time. Also need to reformat this note
