@@ -32,7 +32,10 @@ I will break it down by the severity of what I found to be most relevant
 - Studies
 	- Sudden drop in motivation / will to succeed
 		- This is not a new thing to me, it's the primary reason for which I should have taken therapy for.
-		- I was very motivated, interested, enthusiastic & focused about my studies in later half of  May & June, 
+		- I was very motivated, interested, enthusiastic & focused about my studies in later half of  May, June & first half of July.
+		- That suddenly dropped as if I don’t even care anymore.
+		- I know I should be doing something, I even want to do it this time but it is incredibly hard for me to even start doing it.
+	-  
 
 
 
