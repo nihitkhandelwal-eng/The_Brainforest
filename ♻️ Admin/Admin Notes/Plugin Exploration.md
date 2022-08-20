@@ -46,72 +46,73 @@ cssclass:
 11. Core Search Assistant
 12. CSV Table 
 13. Dialogue Table
-14. Minimal Card View (I don't think this is a plugin but still)
-15. Fantasy Calendar 
-16. File Explorer Keyboard Navigation
-17. Gallery
-18. Graph Analysis
-19. Heatmap Calendar
-20. Journey
-21. Kindle Highlights
-22. Latex Suite
-23. Macros
-24. Map Of Content
-25. Media Extended
-26. Note Auto Creation
-27. Notion Like Tables
-28. Obsidian Bellboy
-29. Obsidian Extract URL
-30. Obsidian JTab
-31. Obsidian Leaflet
-32. Obsidian Link Converter
-33. Obsidian List Callouts
-34. Obsidian Memos
-35. Obsidian Markbase (Publish)
-36. Obsidian Markmind
-37. Obsidian Sequence Hotkeys
-38. Obsidian State Switcher
-39. Obsidian to Anki
-40. Obsidian Tweaks
-41. Obsidian Share to Notion
-42. Obsidian42 Text Transporter
-43. Obsius Publish
-44. Omnisearch
-45. Ozan's Image in Editor Plugin
-46. Paste Image Rename
-47. PDF Highlights
-48. Persistent Graph
-49. Quiet Outline 
-50. Reading Time
-51. Read It Later
-52. Release Timeline
-53. Review
-54. Rewarder
-55. Scroll Speed
-56. Search on Internet
-57. Sekund
-58. Shortcut Launcher
-59. Sidekick
-60. Smart Random Note
-61. Random Note
-62. Smart Typography
-63. Smarter Markdown Hotkeys
-64. Snippetor
-65. Supercharged Links
-66. Task Progress Bar
-67. Text Toolbar
-68. Timeline
-69. Timelines
-70. Todoist Link
-71. Todoist Text
-72. Todoist Plugin
-73. Topic Linking
-74. Vale
-75. Vantage → Advanced Search Builder
-76. Various Complements
-77. Waypoint ↑ (recommended by Ashley & Ben)
-78. Webhooks Plugin
-79. Wordsprint
+14. Dice Roller Plugin
+15. Minimal Card View (I don't think this is a plugin but still)
+16. Fantasy Calendar 
+17. File Explorer Keyboard Navigation
+18. Gallery
+19. Graph Analysis
+20. Heatmap Calendar
+21. Journey
+22. Kindle Highlights
+23. Latex Suite
+24. Macros
+25. Map Of Content
+26. Media Extended
+27. Note Auto Creation
+28. Notion Like Tables
+29. Obsidian Bellboy
+30. Obsidian Extract URL
+31. Obsidian JTab
+32. Obsidian Leaflet
+33. Obsidian Link Converter
+34. Obsidian List Callouts
+35. Obsidian Memos
+36. Obsidian Markbase (Publish)
+37. Obsidian Markmind
+38. Obsidian Sequence Hotkeys
+39. Obsidian State Switcher
+40. Obsidian to Anki
+41. Obsidian Tweaks
+42. Obsidian Share to Notion
+43. Obsidian42 Text Transporter
+44. Obsius Publish
+45. Omnisearch
+46. Ozan's Image in Editor Plugin
+47. Paste Image Rename
+48. PDF Highlights
+49. Persistent Graph
+50. Quiet Outline 
+51. Reading Time
+52. Read It Later
+53. Release Timeline
+54. Review
+55. Rewarder
+56. Scroll Speed
+57. Search on Internet
+58. Sekund
+59. Shortcut Launcher
+60. Sidekick
+61. Smart Random Note
+62. Random Note
+63. Smart Typography
+64. Smarter Markdown Hotkeys
+65. Snippetor
+66. Supercharged Links
+67. Task Progress Bar
+68. Text Toolbar
+69. Timeline
+70. Timelines
+71. Todoist Link
+72. Todoist Text
+73. Todoist Plugin
+74. Topic Linking
+75. Vale
+76. Vantage → Advanced Search Builder
+77. Various Complements
+78. Waypoint ↑ (recommended by Ashley & Ben)
+79. Webhooks Plugin
+80. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For
