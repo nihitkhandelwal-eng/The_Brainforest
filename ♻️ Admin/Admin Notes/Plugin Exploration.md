@@ -11,26 +11,27 @@ cssclass:
 
 ### Critical Plugins To Explore 
 1. Excalibrain
-2. Frontmatter Title Name
-3. Full Calendar
-4. Hover Editor
-5. Incremental Writing
-6. Kanban
-7. Longform
-8. Map View
-9. Math Plugins (In general)
-10. Mind Map
-11. Novel Word Count
-12. Obsidian Big Calendar
-13. Obsidian Camera
-14. Obsidian Charts
-15. Obsidian Meta Bind
-16. Obsidian Raindrop
-17. Pixr
-18. Style Settings
-19. Task Plugins ^b3d766
-20. Timestamp Notes
-21. Tracker
+2. Commander
+3. Frontmatter Title Name
+4. Full Calendar
+5. Hover Editor
+6. Incremental Writing
+7. Kanban
+8. Longform
+9. Map View
+10. Math Plugins (In general)
+11. Mind Map
+12. Novel Word Count
+13. Obsidian Big Calendar
+14. Obsidian Camera
+15. Obsidian Charts
+16. Obsidian Meta Bind
+17. Obsidian Raindrop
+18. Pixr
+19. Style Settings
+20. Task Plugins ^b3d766
+21. Timestamp Notes
+22. Tracker
 
 ### Plugins To Explore
 1. Activity History
