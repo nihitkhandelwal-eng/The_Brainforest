@@ -50,7 +50,7 @@ I will break it down by the severity of what I found to be most relevant
 	- I have a hard time sitting at my chair without some music/video/movie/show playing on my iPad
 	- This has increased in the past 3 weeks
 - Loss of patience
-	- I am a very patient guy in general, this has been put to test in th  
+	- Not so patient with my cousins (6 & 11 yr)
 
 
 
