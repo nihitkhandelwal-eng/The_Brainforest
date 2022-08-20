@@ -11,3 +11,5 @@ routine
 sleep cycel
 
 
+☘️ Templates/Temporal/Daily Notes.md
+☘️ Templates/Temporal/Daily Notes.md
