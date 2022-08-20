@@ -35,7 +35,16 @@ I will break it down by the severity of what I found to be most relevant
 		- I was very motivated, interested, enthusiastic & focused about my studies in later half of  May, June & first half of July.
 		- That suddenly dropped as if I don’t even care anymore.
 		- I know I should be doing something, I even want to do it this time but it is incredibly hard for me to even start doing it.
-	-  
+	-  Inability to concentrate for more than half an hour
+	- Easily distracted almost as if I don't want to study
+- Appetite
+	- Impulsive eating
+		- I tend to eat non-stop when anxious 
+	- Loss of appetite for the past 3 weeks
+		- I don't feel like eating
+		- I am 96 Kgs, so I feel good when finally I don’t have the urge to eat all day.
+- Inability to sit idle
+	- This has been going on since 2019 but fluctuates in intensity
 
 
 
