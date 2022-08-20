@@ -4,6 +4,9 @@
 
 ### Things I need to do
 - Give her a summary about medication & timeline
+	- All medications as per recommendation of Psychiatrist
+	- Started Escitalopram 10 mg OD on May 2021
+	- Increased 
 - changes that have been happening
 	- categorize it to make it easier
 	- appetite, sleep, studies, torubling ou, thoughts, stress, 
