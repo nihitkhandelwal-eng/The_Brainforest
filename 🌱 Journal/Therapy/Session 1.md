@@ -21,7 +21,8 @@
 I will break it down by the severity of what I found to be most relevant
 
 - I feel depressed & disappointed (in myself)
-	- 
+	- I am generally not happy with what I am doing, you'd think that would make me motivated to actually do something, yet I am not doing anything great.
+	- But lately, it's not that I am not happy, I feel disappointed & depressed 
 - Sleep
 	- All the following sleep symptoms have been with me from 2020 to 2022 (February), severity in 2021 post May was the highest but it stopped at around February. 
 	- Difficulty in onset of sleep
