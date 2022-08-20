@@ -37,18 +37,18 @@ I will break it down by the severity of what I found to be most relevant
 		- I know I should be doing something, I even want to do it this time but it is incredibly hard for me to even start doing it.
 	-  Inability to concentrate for more than half an hour
 	- Easily distracted almost as if I don't want to study
-- Appetite
-	- Impulsive eating
-		- I tend to eat non-stop when anxious 
-	- Loss of appetite for the past 3 weeks
-		- I don't feel like eating
-		- I am 96 Kgs, so I feel good when finally I don’t have the urge to eat all day.
 - Inability to sit idle
 	- This has been going on since 2019 but fluctuates in intensity
 	- I get restless when I am sitting alone & not listening/watching anything
 	- It may have something to do with increased access to internet & entertainment via OTT platforms & maybe it is not at all specific to me or to depression
 	- I have a hard time sitting at my chair without some music/video/movie/show playing on my iPad
 	- This has increased in the past 3 weeks
+- Appetite
+	- Impulsive eating
+		- I tend to eat non-stop when anxious 
+	- Loss of appetite for the past 3 weeks
+		- I don't feel like eating
+		- I am 96 Kgs, so I feel good when finally I don’t have the urge to eat all day.
 - Loss of patience
 	- Not so patient with my cousins (6 & 11 yr)
 
