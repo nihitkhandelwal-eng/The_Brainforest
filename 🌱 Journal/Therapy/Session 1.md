@@ -18,7 +18,7 @@
 
 
 ### Changes that I have been experiencing in the past 1 month
-I will break
+I will break it down by the severity of what I found to be most 
 
 
 
