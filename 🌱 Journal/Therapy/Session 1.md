@@ -6,7 +6,7 @@
 - Give her a summary about medication & timeline
 	- All medications as per recommendation of Psychiatrist
 	- Started Escitalopram 10 mg OD on May 2021
-	- Increased 
+	- Increased the dose to 20 mg OD from July 2021
 - changes that have been happening
 	- categorize it to make it easier
 	- appetite, sleep, studies, torubling ou, thoughts, stress, 
