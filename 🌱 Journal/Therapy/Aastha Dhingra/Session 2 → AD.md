@@ -66,7 +66,7 @@ date:: [[27-Feb-22]]
 
 ---
 
-I have moved the questions to [[Session 3]]
+I have moved the questions to [[Session 3 → AD]]
 
 
 
