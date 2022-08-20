@@ -59,10 +59,7 @@ I will break it down by the severity of what I found to be most relevant
 
 
 
-- changes that have been happening
-	- categorize it to make it easier
-	- appetite, sleep, studies, torubling ou, thoughts, stress, 
-- What are the goals what I expect from the sessions
+### What Are The Goals That I Expect From The Sessions
 
 
 
