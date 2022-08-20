@@ -14,7 +14,7 @@
 	- Stopped Mirtazapine around late March
 	- Had 5 sessions of therapy then had to stop it since my therapist was not regular at all.
 	- Nexito was ongoing as expected but became non-compliant for 3-5 weeks from mid July - mid August.
-	- N 
+	- Nightmares resumed & started therapy again from 19th August 
 - changes that have been happening
 	- categorize it to make it easier
 	- appetite, sleep, studies, torubling ou, thoughts, stress, 
