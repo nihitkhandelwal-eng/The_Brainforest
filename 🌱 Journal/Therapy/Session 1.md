@@ -55,6 +55,7 @@ I will break it down by the severity of what I found to be most relevant
 
 
 ### What Are The Goals That I Expect From The Sessions
+I don't know how to really frame the 
 
 
 
