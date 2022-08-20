@@ -21,7 +21,18 @@
 I will break it down by the severity of what I found to be most relevant
 
 - Sleep
+	- All the following sleep symptoms have been with me from 2020 to 2022 (February), severity in 2021 post May was the highest but it stopped at around February. 
+	- Difficulty in onset of sleep
+	- Reversal of sleep cycle in a progressive manner 
+	- Nightmares → involving my ex-girlfriend primarily & then about me being a disappointment in general
+		- These nightmares were not so much in pattern as compared to what I experienced after the breakup i.e. in March 2021 but some pattern/continuity was there.
+	- Inability to wake up even with loud sounds.
 	- 
+	- Fluctuating hours of sleep → somedays I might sleep for 11 hours, someday 4 hours.
+- Studies
+	- Sudden drop in motivation / will to succeed
+		- This is not a new thing to me, it's the primary reason for which I should have taken therapy for.
+		- I was very motivated, interested, enthusiastic & focused about my studies in later half of  May & June, 
 
 
 
