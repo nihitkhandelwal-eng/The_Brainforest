@@ -20,6 +20,8 @@
 ### Changes that I have been experiencing in the past 1 month
 I will break it down by the severity of what I found to be most relevant
 
+- I feel depressed & disappointed (in myself)
+	- 
 - Sleep
 	- All the following sleep symptoms have been with me from 2020 to 2022 (February), severity in 2021 post May was the highest but it stopped at around February. 
 	- Difficulty in onset of sleep
