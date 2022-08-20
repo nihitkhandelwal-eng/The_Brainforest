@@ -56,7 +56,9 @@ I will break it down by the severity of what I found to be most relevant
 
 ### What Are The Goals That I Expect From The Sessions
 - I don't know how to really frame my thoughts on this, speaking of thoughts, I have an observation about why I am talking & typing this much other than the fact that I really need to vent out, although it's not that I don't talk to people, never mind, I'll come back to my observation.
-	- 
+	- I keep on countering my own thoughts & then countering those thoughts & so on.
+
+- 
 
 
 
