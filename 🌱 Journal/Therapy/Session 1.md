@@ -1,8 +1,6 @@
 - Started sessions with Happitude Studio with Shrishti Dhupar
 - The sessions are online, so I will be recording it from the next time. Also need to reformat this note.
 
-
-
 ### Medication & Therapy Timeline
 - All medications as per recommendation of Psychiatrist
 - Started Escitalopram 10 mg OD on May 2021
@@ -56,14 +54,8 @@ I will break it down by the severity of what I found to be most relevant
 	- Not so patient with my cousins (6 & 11 yr)
 
 
-
-
-
 ### What Are The Goals That I Expect From The Sessions
 
 
 
-homework
-routine
-sleep cycel
 
