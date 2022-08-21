@@ -59,6 +59,7 @@ I will break it down by the severity of what I found to be most relevant
 	- I keep on countering my own thoughts & then countering those thoughts & so on.
 
 - Correct my sleep cycle & the underlying reason for that
+- 
 
 
 
