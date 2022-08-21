@@ -60,7 +60,8 @@ I will break it down by the severity of what I found to be most relevant
 
 - Correct my sleep cycle & the underlying reason for that
 - Work on my amotivation 
-- I would like to work on my anxiety issues 
+- I would like to work on my anxiety issues
+- I want to be back to the phase where I was comfortable in sitting with myself without any external noise 
 
 
 
