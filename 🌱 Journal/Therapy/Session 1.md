@@ -28,7 +28,6 @@ I will break it down by the severity of what I found to be most relevant
 	- Nightmares → involving my ex-girlfriend primarily & then about me being a disappointment in general
 		- These nightmares were not so much in pattern as compared to what I experienced after the breakup i.e. in March 2021 but some pattern/continuity was there.
 	- Inability to wake up even with loud sounds.
-	- 
 	- Fluctuating hours of sleep → somedays I might sleep for 11 hours, someday 4 hours.
 - Studies
 	- Sudden drop in motivation / will to succeed
