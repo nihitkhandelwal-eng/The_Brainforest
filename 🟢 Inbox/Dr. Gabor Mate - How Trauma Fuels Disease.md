@@ -1,0 +1,239 @@
+ 9-7-22
+
+
+- Trauma and Healing in a Toxic Culture
+
+- Toxic Culture
+
+	- The values ^426dd0
+	- bringing up children
+	- expectations
+
+- Human beings in context
+	- all that goes into the one (biology, social, stress, etc. )
+- Talks about traumatized doctors treating traumatized patients
+- Trauma:
+	- war
+	- extreme abuse
+	- catastrophe's
+	- Not the events
+		- You can be wounded by big T trauma
+		- not meeting peoples needs small t trauma
+		- good things aren't happening
+		- emotional needs that are being failed
+	- Attachment theories
+		- ie. airport example not being picked up petulant child in a rage (withdrawn and powerlessness) 
+		- anger at being abandoned
+		- wound could show up 70 years later - traumatic imprint
+		- govern your behavior
+	- Chronic illness
+		- autoimmune turns against ourselves and destroys our bodies (names diseases)
+		- especially against women
+		- especially around stress and coping mechanisms
+		- suppress real selves to fit in with society
+		- suppressed anger turns against self
+		- In our society, then more autoimmune disease
+	- Disease as teacher
+		- not living an authentic life
+		- at death's door you realize, and may recover
+		- things happen by chance = not
+		- natural rhythms and balance -> 
+		- emotional factors affecting physiology
+			- uncertainty
+			- lack of control
+			- Lack of information
+			- conflict
+		- economic crisis
+			- inflammation
+			- social issue
+		- loss of connection between people
+			- loneliness
+				- US doubled in the last few years
+				- spreading
+				- globalized economic system
+				- Mistrust in others
+				- (Trump)
+			- addiction of devices
+			-  
+				- Get sicker faster, and die faster
+- Book (progression to)
+	- addictions and drug use
+	- (Canadians)
+	- (indigenous)
+		- social and economic status
+	- Factors
+		- autoimmune diseases after acculturation
+		- Politics extension of medicine
+		- individual and society
+		- generational trauma
+		- epigenetic nature
+			- adaptive strategies and procedures
+			- genes turned on and off by environment
+			- passed on to future generations
+				- connection lateral and vertical
+				- kids abused and not able to see parents 
+				- those who survived - childhood robbed
+				- didn't know how to parent next generation
+				- unhealthy
+				- robbed of nature
+				- what is normal is unhealthy
+	- rampant along all societal factors
+		- nobody is immune
+		- completely out of balance
+		- imbalance affects everyone - no-one escapes
+		- children 
+			- strongly attached
+			- grown with parents
+			- secure attachment
+			- community
+			- not to work (rest in security) to make relationship work
+			- (not have to behave in a certain way)
+			- (against Jordan Pederson)
+			- love is not supposed to be conditional
+			- neglect
+			- experience all emotions fully and acceptably
+			- need freeplay
+			- (not internet)
+				- agency - roam outdoors - participate in life decisions (health)
+				- spontaneous recovery/healing (despite the odds) 
+				- = not - did ... became authentically themselves ... self-consultation
+				- w/wo medical - they are the ones who took agency over their lives
+				- attachment -
+				- authenticity
+				- anger - healthy - fuck statistics.  Helped to survive extra 20 years.  Dealt with anger, etc. 
+				- acceptance
+				- got in touch with real selves.  What are my interests, what do I say yes or no to
+				- autonomy
+				- dealing with childhood trauma and became authentic self
+	- illness manifestion of human life and trauma - can turn around life
+		- We all have experienced versions of trauma
+			- many/most - don't address - look inward for helpful strategy
+			- sometimes crises push us
+		- take reigns of control
+			- don't wait for illness
+			- we don't have to suffer into the truth
+			- don't wait until impelled
+			- wake up and recognize - stuff happened to me and its affecting my relationship, my addictions, 
+			- I can learn to deal with it now
+				- I'm going to >>>
+				- temporarily successful
+				- deeply ingrained patterns are
+				- give you a sense of how powerful the pattern is ***
+		- habit energies deeply engrained
+			- change behaviors
+			- OR the imprint that drives the behaviors
+			- It's not totally discouraging - as aged some aren't showing up as strongly
+			- all lifelong work
+			- a lot more than anticipated
+			- or you could just rot :(
+			- society has low expectations
+		- path toward wholeness
+- Prophets walk amongst us
+- (advertisement for author's books - Rich Roll)
+
+- trauma-based medicine 
+	- legal system
+		- afflicted and broken
+		- incarcerated and punished
+		- the poor goes to jail, but corporations make you successful
+		- most people in jail traumatized people
+		- create system to relieve and redeem themselves
+		- most of the world do it much better
+		- (Portugal, Scandinavian countries - less punish, much more humane
+	- tell me about your problem
+		- lets start short-term to stabilize
+		- then go into relationships
+		- childhood
+		- marriage, etc.
+	- long-time and lot of work to change things
+- how to move forward
+	- more physicians asking though institutions moving slowly
+	- fueling victimhood and helplessness
+	- identities breaded around victim
+	- people now talking more
+	- good for superstars to start, but still shouldn't be a victim
+		- victim identity says helpless without agency
+		- reality is separate from the rest of life meaning just that
+		- fearlessly look at it - don't deny, but don't allow it to define you and your sense of the world
+		- trauma not to you, but the wound inside - that CAN be healed.
+		- internal psychological womb that can be healed
+- Responsibility and blame
+	- Against parents = Not
+	- Culpability with your own children
+	- unpacking that and having a safe environment to talk - development all connected
+	- blaming anyone is inappropriate and at same time reassure people not to suppress their real emotions
+	- parenting in opposition to the way one was raised
+	- but under stress one might mimic parents (Maury and us at his Four) - we would all do our parenting again
+	- kids can do great and deal with it ... very resilient ... don't put your shit on the kids
+	- Marry your own lie detector - get over it and snap out of it ... now!
+- Wrote book with son
+	- had its terrible moments
+	- fraught relationship
+	- beautiful process
+	- problem came from anxiety
+	- bitten more than can chew
+	- laid down anxiety on son - who didn't need it
+	- in end friendly, fruitful productive collaboration
+	- quantum leap in thinking and writing and gets to what ails us with better roadmap to the future
+- stop at 1h - 39 minutes to go
+
+Washroom AND No Nihit break! :(
+
+Essential to recognize more than individual problems all a part of a much larger problematic whole
+
+disillusionment 
+	believe what is not true or reality - lose about the nature of the world we live in
+- making us more sick
+- Covid - richest best ... had highest Covid - gap between us and reality (US)
+
+Addiction
+- 	virtually impossible w/o arrogance - everything proven 
+- if only indigenous people who cares, but now general society - fostering addictions
+- when people say with disease or addiction "I have ..." (he doesn't talk about it any more because it is implicit)
+- used example of detatched cup.  By saying "I am an addiction" - has it's life of its own ... and we have the thing
+- manifestation of my life - inside of me.  it's a process inside me.  If I change the process we can change the nature of the disease
+- language - I am an addict - identifies person with habit - honesty behind it .. not in denial good thing, ownership, but risk in identifying with behaviors, patterns and such ... nobody is a victim.
+- backed in always in recovery
+- if underlying healed (inner child) than ... ok, more radical
+- recovery (find something) find self.  Loss of self is illness.  Alcoholism (ie.) is not that ... yes drinking, hurting, destroying and needs acknowledgement, but what if addict is outlawed ... so and so human being hurting and suffering through this behavior is better.
+- pursuit of enlightenment - pursue more ... similiary recovery spectrum better and better ... but destination is an illusion.
+- how to use language ...
+- Self-actualization - Abraham Maslow 
+	- not normal by regulars standards ... resist social sphere - they avoid culture - people often at odds with their peers
+	- NIHIT
+	- transcendence channel in service to others as pinnacle.  
+- formally incorporate trauma into (alcoholics AA)
+	- it would take nothing away, but inform through trauma - just an aspect of myself
+	- escape from pain when too small to deal with it
+	- the more I know the less imprints to myself and others I meet 
+	- sharing stories - by continuing year after year - might cement something not needed - over identify. Like this is who I am - at odds with transcendence
+	- if you take care of all the trauma, then so what?  you did the work, steps continue to do well, so all is well
+	- does the new patterns help us gain agency?
+	- the movement can be dynamic and yet improve (AA)  
+	- talked of humility with a misstep in AA 
+	- Mate said we stumble and fall and don't always live up to our best, but dispute in not starting back at the front.  Just has to standup again.  Even relapse - showed transformation.  Naturally upsetting
+- Parenting
+	- parenting instinct share with other mammals - instincts need to be invoked by the environment.
+	- children not pick up - heart is breaking, but to fit in, or be inconvenient, shut down parenting instincts.  Don’t listen to the experts, and
+	- human beings/mammals evolved - love and connection the very ocean in which human life involves.  This society breaks the connection.  25% women back at worth in 2 weeks - traumatic to the child
+	- weaning 3-5 years - hunter gathers
+	- recognize basic needs denied
+	- some have to go, but look at what children are loosing but make it more positive as best as possible.
+	- children by default connect with others than parents - should have been but turn to each other - poor replacement - be aware - do what you can to restore it.  
+	- furthermore instead of getting such and such behavior ... (five year old doing homework) - play is very important and should be honored - so five year old chastised if kid could yell back he would say you are not honoring developmental needs.  If met will learn beautifully
+	- learning should be a joy - not remodifying.  If we understood needs, then recognize their needs and not them to assist us.  
+	- love unconditionally, remain neutral, no anxieties onto them, and also balance found between unconditional love - but not making them love us.  Healthy boundaries, guideposts, when to say no (not just to like me).  
+	- check out Gordon Neufeld - greatest developmental psychologist - hold on to your kids
+	- Dan Siegel Parenting from the inside out - how not to project all in kids.
+- final thing
+	- disconnecting teenagers - more on their own agency, more withdrawl, but as a parent person you knew becomes a stranger - so how do I find/maintain open communication
+	- withdrawal - healthy individualization - autonomous, self-agency, OR alienation from you and more to peer group - conformity.
+	- become individual incorporated with adults, so maturation doesn't necessarily involve alienation from parental generation
+	- Thanks you
+	- Myth of Normal (September 13) book groundbreaking along with Hungry Ghosts (understand humanity) 
+- develop greater compassion for the human condition.
+- compassion is present can you see the truth, see it as clearly as you can - need more compassion - and it will become natural attribute of how you move through our world
+
+	
+
+

@@ -110,7 +110,7 @@ my clothes are caused, by oozing blood, to cling unto my frame
 
 what need is there now for my vest to be darned anew?
 
-jala hai jism jahan dil bhi jal gaya hoga
+jala hai jism jahan dil bhi jal gaya hoga ^920cb7
 
 kuredte ho jo ab rakh justuju kya hai
 

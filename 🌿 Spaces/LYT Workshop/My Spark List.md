@@ -30,7 +30,7 @@ cssclass:
 - Gurgaon
 - Nihit 3.0
 ### Questions I am asking?
-- I am mostly asking is this rational
+- I am mostly asking, is this rational?
 ### Thoughts that keep me up at night
 - Studying, doing anything productive fills me up lately
 ### Experiences I've had that fill me up

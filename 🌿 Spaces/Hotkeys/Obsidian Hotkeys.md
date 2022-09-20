@@ -4,7 +4,7 @@ tags: placeholder/on/hotkeys, placeholder/on/obsidian
 cssclass:
 ---
 
-
+- Move current pare to rew window → Alt + \ #action/🃏ankify 
 - Swap line up/down → Alt+↑ or Alt+↓ 
 - Navigate → Alt+ left/right arrow 
 - Starred: Star/unstar current file → Ctrl+Alt+8 

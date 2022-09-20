@@ -8,7 +8,7 @@ I don't wanna see things the way you taught.
 Abuse, objectify & cover it with a gentleman knot.
 
 Unconscious, atonic & an emetic episode
-Is a dozed off mind what it takes to fulfil the "youth" code?
+Is a dozed off mind what it takes to fulfil the "youth" code? ^659f2b
 
 Smash a few bottles & sell it at the memories bar
 Now getaway with "Kyun har cheez mein logic lagata hai yaar".

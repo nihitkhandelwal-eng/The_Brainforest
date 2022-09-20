@@ -2,7 +2,7 @@
 aliases: 
 tags: status/1️⃣stage-1 
 ---
-# Failure Recovery
+
 -   Failure is inevitable & we cannot ignore it but there should be something to hang on after failure.
 -   We can have many possible responses after failure & this has been successfully implemented by game developers
     -   Real life failure can also be thought of as a restart sometimes & we can have multiple strategies in response to failure to gamify even the failure part of our life.

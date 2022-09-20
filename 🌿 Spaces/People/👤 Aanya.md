@@ -35,7 +35,7 @@ Profession:
 
 #action/📌put-a-pin-on-that   
 - Learn How to Play With Swings
--   Learn How to Use Handle of Hand Shower
+- [x]   Learn How to Use Handle of Hand Shower
 -   Learn how to talk to Vishakha Didi, Shipra DIdi, Moorti Aunty, Anita Aunty & Guard Bhaiya
 -   What to say when Om says ‘Play Hide & Seek”?
 -   Try Eating Carrot

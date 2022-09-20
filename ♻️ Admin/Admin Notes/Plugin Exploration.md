@@ -17,21 +17,25 @@ cssclass:
 5. Hover Editor
 6. Incremental Writing
 7. Kanban
-8. Longform
-9. Map View
-10. Math Plugins (In general)
-11. Mind Map
-12. Novel Word Count
-13. Obsidian Big Calendar
-14. Obsidian Camera
-15. Obsidian Charts
-16. Obsidian Meta Bind
-17. Obsidian Raindrop
-18. Pixr
-19. Style Settings
-20. Task Plugins ^b3d766
-21. Timestamp Notes
-22. Tracker
+8. Keyboard Analyzer
+9. Longform
+10. Map View
+11. Math Plugins (In general)
+12. Metadata Menu
+13. Mind Map
+14. Novel Word Count
+15. Obsidian Big Calendar
+16. Obsidian Camera
+17. Obsidian Charts
+18. Obsidian Meta Bind
+19. Obsidian Raindrop
+20. Pixr
+21. Style Settings
+22. Task Plugins ^b3d766
+23. Timestamp Notes
+24. Topic Linking
+25. Tracker
+26. Wikipedia
 
 ### Plugins To Explore
 1. Activity History

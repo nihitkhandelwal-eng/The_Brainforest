@@ -23,6 +23,6 @@ So, I will be keeping track of some of the big payments here.
 
 - 7800₹ → Subscribed to the LYT Workshop 8 on [[31-May-22]] 
 - 3820₹ → Annual Subscription to Amazing Marvin on [[12-Aug-22]]
-- 	
+- 7660₹ → Annual Subscription to Obsidian Sync on [[05-Sep-22]]	
 
 ---
