@@ -134,10 +134,15 @@ cssclass:
 
 ### Installed But Usually Disabled Plugins
 1. Advanced Slides[^1]
+2. Flashcards
+3. Better Footnote
 
 
-### Plugins that might be obsolete once 0.16 comes out
-1. Sliding Panes
-2. Embedded Note Titles
+### Plugins that might be obsolete soon
+1. Sliding Panes[^2]
+2. Embedded Note Titles[^2]
+3. Hotkey For Templates[^3]
 
 [^1]: This when enabled interferes with usual typing experience i.e. it suggests some phrases specific to advances slides
+[^2]: Once 0.16 comes out
+[^3]: Once I complete my PKM workflow, I might not need the `move to umami` & the `rename component` is redundant even now
