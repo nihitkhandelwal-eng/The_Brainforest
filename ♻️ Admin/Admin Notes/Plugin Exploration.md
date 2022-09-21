@@ -127,5 +127,6 @@ cssclass:
 3. Workbench
 4. Get Info
 5. My Snippets
+6. Flashcards
 
 
