@@ -9,7 +9,7 @@ This is your launchpad and homebase. Your personal North Star. That's here. That
 
 Some of the big categories in my life are
 -   Learning
--   Medicine
+-   Medicine ^tto7wk6
 -   Psychology
 -   Rationality
 -   Sociology

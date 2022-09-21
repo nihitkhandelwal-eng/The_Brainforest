@@ -120,6 +120,11 @@ cssclass:
 80. Wordsprint
 
 ---
-### Plugin Updates I Am Looking For
+### Plugin Updates I Am Looking For  → Uninstalling for now
 1. Toggl Track
 2. Obsidian_to_Anki
+3. Workbench
+4. Get Info
+5. My Snippets
+
+
