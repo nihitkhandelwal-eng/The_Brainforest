@@ -130,3 +130,9 @@ cssclass:
 6. Flashcards
 
 
+### Installed But Usually Disabled Plugins
+1. Advanced Slides[^1]
+
+
+
+[^1]: This when enabled interferes with usual typing experience i.e. it suggests some phrases specific to advances slides
