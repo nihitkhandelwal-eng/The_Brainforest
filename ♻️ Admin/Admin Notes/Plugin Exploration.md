@@ -128,9 +128,15 @@ cssclass:
 4. Get Info
 5. My Snippets
 6. Flashcards
+7. Custom Frames
 
 
 ### Installed But Usually Disabled Plugins
 1. Advanced Slides[^1]
+
+
+### Plugins that might be obsolete once 0.16 comes out
+1. Sliding Panes
+2. Embedded Note Titles
 
 [^1]: This when enabled interferes with usual typing experience i.e. it suggests some phrases specific to advances slides
