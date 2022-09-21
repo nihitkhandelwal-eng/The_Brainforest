@@ -106,20 +106,21 @@ cssclass:
 66. Smarter Markdown Hotkeys
 67. Snippetor
 68. Supercharged Links
-69. Task Progress Bar
-70. Text Toolbar
-71. Timeline
-72. Timelines
-73. Todoist Link
-74. Todoist Text
-75. Todoist Plugin
-76. Topic Linking
-77. Vale
-78. Vantage → Advanced Search Builder
-79. Various Complements
-80. Waypoint ↑ (recommended by Ashley & Ben)
-81. Webhooks Plugin
-82. Wordsprint
+69. Tag & Word Cloud
+70. Task Progress Bar
+71. Text Toolbar
+72. Timeline
+73. Timelines
+74. Todoist Link
+75. Todoist Text
+76. Todoist Plugin
+77. Topic Linking
+78. Vale
+79. Vantage → Advanced Search Builder
+80. Various Complements
+81. Waypoint ↑ (recommended by Ashley & Ben)
+82. Webhooks Plugin
+83. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For  → Uninstalling for now
