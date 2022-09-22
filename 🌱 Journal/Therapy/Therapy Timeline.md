@@ -21,5 +21,52 @@
 + Too Tired & Annoyed 
 + (Writing this on [[15-Apr-22]])
   I don't want to continue sessions with her, it is so frustrating now!
+  Punctuality Issues & Lack of communications from her
+  
++ 19 August <br> [[Session 6 → SD]]
++ Happitude Studio & Google Calendar Bookings
++ After more than a month of sleep disturbances, [[👤 Nannu|Bhai]] sent me this link & I was really impressed by the online booking part for some reason... who knows?
+  
+  I booked my sessions with [[Shristi Dhupar]] the junior most of the lot but I was confident.
+  Had a massive vent out in the first session.
+  
++ 22nd August <br>  [[Session 7 & 8 → SD]]
++ Booked a 2 hour & Paid Advance for 20 Sessions Package
++ Lots of venting out & sleep exercise.
+  
++ [[25-Aug-22]] <br>  [[Session 9 & 10 → SD]]
++ What Impacts My Mood | Ideal Self v/s Real Self
++ Nothing significant but it feels like I am driving the session more than her, which I don't like.
+  
++ [[03-Sep-22]] <br> [[Session 11 → SD]]
++ Estabilish Yourself Before Estabilishing Others | Don't Surround Yourself With Misery
++ This was around the time when I was too concerned about [[👤 Vihaan|Vitty]] & [[👤 Aanya|Aanya]]
+  I was worried about Moma & Daddy being worried about me.
+  Also, Rich was gone for a week long fishing trip & at the same time [[Dr Marvin]] was also on a 2 week vacation, so I was basically sleeping in the morning.
+  
++ [[13-Sep-22]] <br> [[Session 12 → SD]]
++ I Felt Like I Am Disappointing Everyone
++ About 4 hours before the session, I sat down & [[Session 11 → SD|finished all the work that she gave me]]
+  In the session, she was not happy, atleast that's how I saw it.
+  
+  Also at the same time, I went to see [[Dr Ashish Mittal]] & was about to see [[Amandeep Taunque]] for my sessions as she is a clinical psychologist.
+  
++ 18th September <br> [[Session 13 → SD]] 
++ Terminal Session With Shrishti Dhupar  
++ I conveyed all my thoughts & also told her about Amandeep Ma'am. 
+  She warned me about not going too fast in sessions
+  
+  Finances were discussed but I haven't heard back from her, the session was on [[18-Sep-22]] & today is [[22-Sep-22]]
+  
++ [[15-Sep-22]] <br> [[Session 1]]
++ Less Venting More Evaluation
++ Starting of my sessions with [[Amandeep Taunque]] Ma'am 
+  It was good, felt like seeing a doctor, someone senior.
+  
++ [[20-Sep-22]] <br> [[Session 2]]
++ More History, Some Work & Awareness About Not Reinforcing Thought Errors Via Journaling
++ After the history part & basic evaluation was done, we talked about sleep & [[Sleep Hygiene]]
+  I was adviced to go out more & also to socialize which I think I am doing. (Not the exercise & going out more part)
+  
 ```
 

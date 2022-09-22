@@ -1,5 +1,5 @@
 ---
-aliases: [Aanya]
+aliases: [Aanya, aanya, amu, Amu, Baby Kambal, baby kambal, chotu, Chotu]
 tags:
 cssclass:
 DOB:

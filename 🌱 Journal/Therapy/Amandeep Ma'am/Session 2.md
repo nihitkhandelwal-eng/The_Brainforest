@@ -1,4 +1,8 @@
+Date:: [[20-Sep-22]]
+
 ![[Sessions 1 & 2 → Amandeep Taunque.jpg|700]]
+
+
 
 As of [[22-Sep-22]] I have had 2 sessions with Ma'am.
 My next appointment is on [[27-Sep-22]] 

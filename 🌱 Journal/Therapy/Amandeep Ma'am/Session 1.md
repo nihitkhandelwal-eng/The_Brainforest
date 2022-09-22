@@ -3,6 +3,8 @@ tags:
 aliases:
 cssclass: 
 ---
+Date:: [[15-Sep-22]]
+
 ![[Session 1 → AT.jpg|700]]
 
 I was recommended to see a clinical psychologist i.e [[Amandeep Taunque]] by Dr Ashish Mittal to whom I went for a psychiatric consultation.
