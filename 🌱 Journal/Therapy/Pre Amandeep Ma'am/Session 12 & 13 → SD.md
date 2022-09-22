@@ -5,7 +5,7 @@
 
 
 - Work on
-	- Sleep hygiene
+	- [[Sleep hygiene]]
 	- Work on sleep issues
 	- Send her a note every 2 days
 	- Work on workshop & writing
