@@ -67,7 +67,9 @@ cssclass:
 27. Map Of Content
 28. Media Extended
 29. Note Auto Creation
-30. Notion Like Tables
+30. Notion Like Tables 
+	- Testing it now
+	- The idea is to have pages for each of these plugins
 31. Obsidian Bellboy
 32. Obsidian Extract URL
 33. Obsidian JTab
