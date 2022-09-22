@@ -2,7 +2,7 @@ Date:: 3rd September
 
 
 > [!caution]
-> I tried putting it off, actually I did try to put it off for the first 2 days but after that, even when I sat down to think about this, I did not want to write this thing. It is only due to the fact that the session got cancelled, I calmed down & now I am writing it at 13th Sept i.e. on the day of [[Session 12]] at 07:26
+> I tried putting it off, actually I did try to put it off for the first 2 days but after that, even when I sat down to think about this, I did not want to write this thing. It is only due to the fact that the session got cancelled, I calmed down & now I am writing it at 13th Sept i.e. on the day of [[Session 12 & 13 → SD]] at 07:26
 
 ### Highlight 
 > [!summary]

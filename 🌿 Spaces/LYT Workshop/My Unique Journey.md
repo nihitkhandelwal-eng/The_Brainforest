@@ -33,7 +33,7 @@ cssclass:
 	- Not in touch with Avi since I left NMS, have talked to Varnit a couple of times but not since the past few years, met Shagun in sikar a few years ago, haven't talked to Nitin, maybe I was thinking about him today i.e. [[06-Jul-22]] because of [[Baby Panda]] 
 	- I haven't been proactive in maintaining my friendships, so I think it is mostly on me.
 - How did you rebel?
-	- I was a [[🌱 Journal/Therapy/Aastha Dhingra/Session 6#^aa3ae0|very angry kid]] as I have described in my first therapy session 
+	- I was a [[🌱 Journal/Therapy/Aastha Dhingra/Session 6 → SD#^aa3ae0|very angry kid]] as I have described in my first therapy session 
 	- I also asked a lot of questions as an act of rebellion
 
 
