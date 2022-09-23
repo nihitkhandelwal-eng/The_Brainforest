@@ -1,0 +1,7 @@
+[[<% tp.date.weekday("DD-MMM-YY", 0) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 1) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 2) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 3) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 4) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 5) %>]]
+[[<% tp.date.weekday("DD-MMM-YY", 6) %>]]
