@@ -23,13 +23,13 @@ cssclass:
 | 15:30 - 16:45 | Dr Najeeb                                            |                        |           |           |           |
 | 16:45 - 18:15 | Workout, Evening Walk, Aanya, Vihaan & Music         | Duonase  Solspray      |           |           |           |
 | 18:15         | Shower                                               |                        |           |           |           |
-| 18:30 - 19:30 | Anne, Co-x3 & Family                                 | GenTeal Cycloimmune    |           |           |           |
+| 18:30 - 19:30 | Anne, Co-x3 & Family                                 | GenTeal Cycloimmune    | [x]       |           |           |
 | 19:30         | Dinner                                               |                        |           |           |           |
 | 20:00 - 20:15 | Anki Flashcards                                      |                        |           |           |           |
 | 20:15 - 21:30 | First Aid / Sketchy / Pathoma                        |                        |           |           |           |
 | 21:30 - 22:00 | Journaling                                           | GenTeal Cycloimmune    |           |           |           |
 | 22:00 - 23:00 | LYT Workshop & Writing                               |                        |           |           |           |
-| 23:00 - 23:30 | Talking With Anne                                    | Melatonin Amitryptline |           |           |           |
+| 23:00 - 23:30 | Talking With Anne                                    | Melatonin Amitryptline | [x]       |           |           |
 | 23:30         | Lights Out & Shut Down All Devices                   |                        |           |           |           |
 | 23:30         | Music (Ghazal, Qawwali)                              |                        |           |           |           |
 | 23:35         | Brush                                                |                        |           |           |           |
