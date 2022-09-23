@@ -10,7 +10,7 @@ cssclass:
 | ------------- | ---------------------------------------------------- | ---------------------- | --------- | --------- | --------- | --------- | --------- |
 | 06:00 - 07:00 | Wake up, make bed & brush                            |                        | [ ]       | [ ]       | [x]       | [ ]       | [ ]       |
 | 07:00 - 07:30 | Morning Walk                                         | Duonase  Solspray      |           |           |           |           |           |
-| 07:30 - 08:00 | Shower & Breakfast                                   | GenTeal Cycloimmune    |           |           | [x]       |           |           |
+| 07:30 - 08:00 | Shower & Breakfast                                   | GenTeal Cycloimmune    |           |           | [ ]       |           |           |
 | 08:00 - 09:00 | Journaling & Marvin                                  | Nexito                 |           |           |           |           |           |
 | 09:00         | Anki Flashcards                                      |                        |           |           |           |           |           |
 | 10:00 - 11:00 | First Aid / Sketchy / Pathoma                        |                        |           |           |           |           |           |
@@ -31,5 +31,4 @@ cssclass:
 | 23:35         | Brush                                                |                        |           |           |           |           |           |
 | 23:40         | In Bed, either with light music or guided meditation |                        |           |           |           |           |           |
 ^xlXAFc
-
 
