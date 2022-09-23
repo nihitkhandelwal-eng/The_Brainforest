@@ -1,5 +1,5 @@
 | New Column | New Column | New Column | New Column |
 | ---------- | ---------- | ---------- | ---------- |
-| dfd        |            |            | 424        |
-| fdf        |            |            |            |
+| dfd        |            | [x]        | 424        |
+| fdf        |            | [x]        |            |
 ^XWRCOk
