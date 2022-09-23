@@ -1,5 +1,4 @@
-| New Column | New Column | New Column | New Column |
-| ---------- | ---------- | ---------- | ---------- |
-| dfd        |            | [x]        | 424        |
-| fdf        |            | [x]        |            |
+| Date       | Time | Situation | Emotion (s) | Automatic Thoughts | Result / Outcome |
+| ---------- | ---- | --------- | ----------- | ------------------ | ---------------- |
+| 2022/09/20 |      |           |             |                    |                  |
 ^XWRCOk

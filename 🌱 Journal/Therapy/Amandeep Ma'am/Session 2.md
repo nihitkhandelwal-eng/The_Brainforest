@@ -24,7 +24,7 @@ I am aware that I am not doing very good with that, but I couldn't help my resis
 
 ### Work from the session
 - I am not allowed to take photographs of what she writes, so from now on, I will either remember what she says or take my own notes & as a result, I will be deleting the image that I took.
-- DTR i.e. [[Dysfuctional Thought Record]]
+- DTR i.e. [[Dysfuctional Thought Record]] & [[My Dysfunctional Thought Record]]
 - Sleep is associated with mood regulation so continue to follow [[Sleep hygiene]]
 	- For me the wake up time for now would be 06:30 to 07:00![[Sleep Hygiene#^bdd7b9]]![[Sleep Hygiene#^b46555]]
 - Start exercise twice in a day
