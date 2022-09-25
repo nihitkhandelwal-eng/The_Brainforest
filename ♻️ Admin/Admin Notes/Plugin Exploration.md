@@ -92,37 +92,38 @@ cssclass:
 50. PDF Highlights
 51. Persistent Graph
 52. Quiet Outline 
-53. Reading Time
-54. Read It Later
-55. Release Timeline
-56. Review
-57. Rewarder
-58. Scroll Speed
-59. Search on Internet
-60. Sekund
-61. Shortcut Launcher
-62. Sidekick
-63. Smart Random Note
-64. Random Note
-65. Smart Typography
-66. Smarter Markdown Hotkeys
-67. Snippetor
-68. Supercharged Links
-69. Tag & Word Cloud
-70. Task Progress Bar
-71. Text Toolbar
-72. Timeline
-73. Timelines
-74. Todoist Link
-75. Todoist Text
-76. Todoist Plugin
-77. Topic Linking
-78. Vale
-79. Vantage → Advanced Search Builder
-80. Various Complements
-81. Waypoint ↑ (recommended by Ashley & Ben)
-82. Webhooks Plugin
-83. Wordsprint
+53. Raindrop Highlights
+54. Reading Time
+55. Read It Later
+56. Release Timeline
+57. Review
+58. Rewarder
+59. Scroll Speed
+60. Search on Internet
+61. Sekund
+62. Shortcut Launcher
+63. Sidekick
+64. Smart Random Note
+65. Random Note
+66. Smart Typography
+67. Smarter Markdown Hotkeys
+68. Snippetor
+69. Supercharged Links
+70. Tag & Word Cloud
+71. Task Progress Bar
+72. Text Toolbar
+73. Timeline
+74. Timelines
+75. Todoist Link
+76. Todoist Text
+77. Todoist Plugin
+78. Topic Linking
+79. Vale
+80. Vantage → Advanced Search Builder
+81. Various Complements
+82. Waypoint ↑ (recommended by Ashley & Ben)
+83. Webhooks Plugin
+84. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For  → Uninstalling for now
