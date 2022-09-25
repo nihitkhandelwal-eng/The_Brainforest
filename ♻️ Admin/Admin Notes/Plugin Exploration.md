@@ -91,8 +91,8 @@ cssclass:
 49. Paste Image Rename
 50. PDF Highlights
 51. Persistent Graph
-52. Quiet Outline 
 53. Raindrop Highlights
+52. Quiet Outline 
 54. Reading Time
 55. Read It Later
 56. Release Timeline
