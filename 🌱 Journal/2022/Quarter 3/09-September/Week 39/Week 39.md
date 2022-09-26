@@ -22,17 +22,16 @@ cssclass:
 | 14:00         | Lunch & Journaling                                   |                        | [x]       | [x]       | [x]       |
 | 15:30 - 16:45 | Dr Najeeb                                            |                        |           |           |           |
 | 16:45 - 18:15 | Workout, Evening Walk, Aanya, Vihaan & Music         | Duonase  Solspray      | [x]       | [x]       |           |
-| 18:15         | Shower                                               |                        |           |           |           |
+| 18:15         | Shower                                               |                        | [ ]       |           |           |
 | 18:30 - 19:30 | Anne, Co-x3 & Family                                 | GenTeal Cycloimmune    | [x]       | [x]       | [x]       |
 | 19:30         | Dinner                                               |                        | [x]       | [x]       | [x]       |
 | 20:00 - 20:15 | Anki Flashcards                                      |                        |           |           |           |
 | 20:15 - 21:30 | First Aid / Sketchy / Pathoma                        |                        |           |           |           |
-| 21:30 - 22:00 | Journaling                                           | GenTeal Cycloimmune    |           |           |           |
+| 21:30 - 22:00 | Journaling                                           | GenTeal Cycloimmune    |           |           | [x]       |
 | 22:00 - 23:00 | LYT Workshop & Writing                               |                        |           |           |           |
 | 23:00 - 23:30 | Talking With Anne                                    | Melatonin Amitryptline | [x]       | [x]       |           |
 | 23:30         | Lights Out & Shut Down All Devices                   |                        | [x]       | [x]       | [x]       |
-| 23:30         | Music (Ghazal, Qawwali)                              |                        |           |           |           |
 | 23:35         | Brush                                                |                        | [x]       | [x]       | [x]       |
-| 23:40         | In Bed, either with light music or guided meditation |                        |           |           |           |
+| 23:40         | In Bed, either with light music or guided meditation |                        | [x]       | [ ]       | [x]       |
 ^xlXAFc
 
