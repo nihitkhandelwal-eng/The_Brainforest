@@ -21,7 +21,7 @@ Now the thing is that the bank needs guarantee & they say that I am a "high risk
 I am calculating 20k/month as rent+maintainence
 So, I will be keeping track of some of the big payments here.
 
-- 7800₹ → Subscribed to the LYT Workshop 8 on [[31-May-22]] 
+- 25k₹ → Subscribed to the LYT Workshop 8 & Workshop pro on [[31-May-22]],  [[19-Jul-22]] respectively
 - 3820₹ → Annual Subscription to Amazing Marvin on [[12-Aug-22]]
 - 7660₹ → Annual Subscription to Obsidian Sync on [[05-Sep-22]]	
 
