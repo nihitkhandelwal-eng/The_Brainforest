@@ -6,7 +6,8 @@ But that is just part of the story, I recall when Amandeep Ma'am said that journ
 What I can do is that I can use my journal & I do use my journal to reinforce improvements in my thinking, judgement & behavior. 
 This page is exactly for that.
 
-| Date | Time | Situation | Emotion (s) | Automatic Thought | Result / Outcome |
-| ---- | ---- | --------- | ----------- | ----------------- | ---------------- |
-|      |      |           |             |                   |                  |
+| Date       | Time  | Situation                             | Emotion (s)                            | Automatic Thought                                                                                  | Result / Outcome                                                                                                                      |
+| ---------- | ----- | ------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022/09/23 | 21:00 | Sync Solution For Anne's Vault Worked | Happy (90) Excited (95)                | I don't want to sleep now, I am so happy, I want to keep going on while I am in a very happy mood. | I committed to myself about going for a walk even thought about going to the gym. I resisted not sleeping but I was distinctly happy. |
+| 2022/09/23 | 21:10 | Email for Workshop 9 arrived          | Happy (100) Excited (100) Elated (100) | I want to enroll in this workshop & do it right this time.                                         | I enrolled in the workshop.                                                                                                           |
 ^ALB5sf
