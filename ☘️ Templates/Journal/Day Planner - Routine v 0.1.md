@@ -1,0 +1,20 @@
+- [ ] 06:30 Wake Up, Make Bed & Brush
+- [ ] 07:00 Morning Walk
+- [ ] 07:30 Shower & Breakfast
+- [ ] 08:00 Journaling & Marvin
+- [ ] 09:00 Anki Flashcards
+- [ ] 10:00 First Aid / Sketchy / Pathoma 
+- [ ] 11:00 LYT Workshop & Writing 
+- [ ] 14:00 Lunch & Journaling
+- [ ] 15:30 Dr Najeeb
+- [ ] 16:45 Workout, Evening Walk & Kids
+- [ ] 18:15 Shower
+- [ ] 18:30 Anne
+- [ ] 19:30 Dinner
+- [ ] 20:00 Anki Flashcards
+- [ ] 20:35 First Aid / Sketchy / Pathoma
+- [ ] 21:30 Journaling
+- [ ] 22:00 LYT Workshop & Writing
+- [ ] 23:00 Anne
+- [ ] 23:30 Lights Out & Shut Down All Devices
+- [ ] 23:30 END
