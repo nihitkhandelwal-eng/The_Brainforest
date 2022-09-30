@@ -14,7 +14,7 @@ Smash a few bottles & sell it at the memories bar
 Now getaway with "Kyun har cheez mein logic lagata hai yaar".
 (The last line translates to "why do you want to use logic on everything"
 
- Uncertainty is something that we all hear, 
+Uncertainty is something that we all hear, 
 That's how destiny & karma please many ears.
 
 There must be something, is what they say.
