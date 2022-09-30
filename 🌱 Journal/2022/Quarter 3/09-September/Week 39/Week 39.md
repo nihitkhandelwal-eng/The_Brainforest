@@ -4,9 +4,6 @@ aliases:
 cssclass:
 ---
 
-
-### Highlight of this week
-
 ### Routines
 - I created the routine thing on [[23-Sep-22]] , so not monitoring data before that
 
