@@ -66,6 +66,7 @@ cssclass:
 26. Macros
 27. Map Of Content
 28. Media Extended
+	- Does not work in preview mode, works fine in live preview
 29. Note Auto Creation
 30. Notion Like Tables 
 	- Testing it now
@@ -91,8 +92,8 @@ cssclass:
 49. Paste Image Rename
 50. PDF Highlights
 51. Persistent Graph
-53. Raindrop Highlights
-52. Quiet Outline 
+52. Raindrop Highlights
+53. Quiet Outline 
 54. Reading Time
 55. Read It Later
 56. Release Timeline

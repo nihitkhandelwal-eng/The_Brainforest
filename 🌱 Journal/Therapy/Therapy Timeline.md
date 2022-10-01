@@ -68,5 +68,8 @@
 + After the history part & basic evaluation was done, we talked about sleep & [[Sleep Hygiene]]
   I was adviced to go out more & also to socialize which I think I am doing. (Not the exercise & going out more part)
   
++ 27-Sep-22 <br> [[Session 3]]
++ [[My Dysfunctional Thought Record|Dysfunctional Thought Record]] & Lot's of Support
++ Went over the main symptoms, which were → sleep, hopelessness / worthlessness, guilt & lack of concentration, focused primarily on guilt. 
 ```
 
