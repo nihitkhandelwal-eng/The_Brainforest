@@ -36,7 +36,18 @@ habits:: Experiment Day (Saturday)
 		5. I am genuinely on a path here where anyone who meets me, will not be talking about the generic issues like weather & traffic but it will be about real issues, like patriarchy, racism & other kinds of crap floating around.
 	- This long rant is precisely my motivation to work on my teaching & convincing skills, so that I can fulfil my duty as a decent human being & keep calm in my head that I did so.
 	- It's not very certain what I can add here as an actionable item, but it is meant to serve as a placeholder until I figure out something.
-		- Actually, the science thing with my baby sister (Aanya) is supposed to be one of the actionable item here
+		- Actually, the science thing with my baby sister (Aanya) is supposed to be one of the actionable item here.
+- [[03-Oct-22]] → Somewhat good
+	- Tasks completed: 3
+		- (I expected to complete 9 tasks)
+	- Time worked: 9h
+	- Self-Assessment:
+		- Confidence: 3/5
+		- Motivation: 4/5
+		- Overall it's going: 2/5
+	- Some questions I asked myself to reflect:
+		1. What is the one proud teachable moment this week?
+			- I was appreciated a lot about my work with the kids, I haven't been spending active time with the kids, especially Vihaan.
 ### Objectives
 
 
