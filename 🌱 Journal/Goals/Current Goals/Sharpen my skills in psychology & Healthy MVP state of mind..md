@@ -19,6 +19,20 @@ habits:: [[Daily Meditation]] | [[Sleep Hours|Ideal Sleep Hours]] | [[Limit Watc
 	- Haven't had any progress on this so far (psychology)
 	- I will let things go organically for now, since USMLE is the big thing in my head right now.
 	- Review on [[01-Jun-22]]
+- [[04-Oct-22]] → Progressing at a slow but steady pace
+	- Tasks completed: 0  
+		- Time worked: 0s  
+	- Overall Habit Grade: D-  
+		- (I expected a B)  
+	- Self-Assessment:  
+		- Confidence: 3/5  
+		- Motivation: 4/5  
+		- Overall it's going: 2/5  
+	- Some questions I asked myself to reflect:  
+		1. What did you learn about?  
+			- Having a schedule is of paramount importance, especially in the recovery phase.  
+		2. How was therapy?  
+			- It was good, but the next appointment is getting delayed. I realized that I need to step in for myself.
 ### Objectives
 - Healthy sleep cycle 
 	- They resumed after I started skipping mirtazapine
