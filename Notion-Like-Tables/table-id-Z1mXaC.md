@@ -1,0 +1,10 @@
+---
+columnIds: ["column-id-CILHevF3","column-id-KCpUxSCI","column-id-acnLi4Xe","column-id-blZUbbxR","column-id-Ahb6yrpJ"]
+rowIds: ["row-id-aHovHUdl","row-id-ggAeYipH","row-id-GefxVKgB","row-id-vpnujmTb"]
+---
+
+| Date                | Situation                                                                         | Emotion (s)                            | Automatic Thought                                                                                  | Result / Outcome                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[22-Sep-22]] 21:00 | Sync Solution For Anne's Vault Worked                                             | Happy (90) Excited (95)                | I don't want to sleep now, I am so happy, I want to keep going on while I am in a very happy mood. | I committed to myself about going for a walk even thought about going to the gym. I resisted not sleeping but I was distinctly happy. |
+| [[22-Sep-22]] 21:10 | Email for Workshop 9 arrived                                                      | Happy (100) Excited (100) Elated (100) | I want to enroll in this workshop & do it right this time.                                         | I enrolled in the workshop.                                                                                                           |
+| 23-Sep-22 06:30     | Kids came to wake me. Both of them laid next & top of me. I was patting the kids. | Bonded (75) Calm (60)                  | I feel bonded. This is a good time.                                                                | Immediately woke up. Did my brush on time. Almost took my shower                                                                      |
