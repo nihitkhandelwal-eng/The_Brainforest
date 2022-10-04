@@ -17,6 +17,18 @@ habits:: <% tp.file.cursor(5) %>
 ### Check-In’s
 - [[10-May-22]] → Starting fresh
 	- I have downloaded all the resources for pathoma & will be starting that after check off a few pending & itching tasks
+- [[04-Oct-22]] → Haven't studied since July 
+	- Tasks completed: 0  
+	- Time worked: 0s  
+	- Overall Habit Grade: F  
+		- (I expected an A-)  
+	- Self-Assessment:  
+		- Confidence: 3/5  
+		- Motivation: 3/5  
+		- Overall it's going: 1/5  
+	- Some questions I asked myself to reflect:  
+		1. What could have been better?  
+			- I have not studied at all so, I don't know what could have been better but if I could have stuck to the routine advised by Amandeep Ma'am, maybe things would have been better but this week was hectic in terms of social things going on, so I really can't complain.
 ### Objectives
 
 ### Best Resources
