@@ -4,7 +4,7 @@ aliases:
 cssclass:
 ---
 
-[[September]]
+[[October]]
 
 ### Highlight of this week
 
@@ -14,7 +14,5 @@ cssclass:
 ```notion-like-tables
 table-id-qD0DYV
 ```
-
-
 
 

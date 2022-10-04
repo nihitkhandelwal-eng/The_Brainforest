@@ -2,6 +2,11 @@ Date::27-Sept-22
 
 ![[Amandeep Ma'am Session 3.jpg|700]]
 
+- Continue with DTR
+- Look for cognitive errors
+- Start studying first thing in the morning
+
+
 Reviewed key symptoms
 1. Sleep
 	- It has been better except for the terrible headaches of 25th & 26th

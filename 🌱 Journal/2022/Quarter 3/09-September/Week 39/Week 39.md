@@ -32,7 +32,4 @@ cssclass:
 | 23:40         | In Bed, either with light music or guided meditation |                        | [x]       | [ ]       | [x]       |
 ^xlXAFc
 
-Continue with DTR
-look for cognitive errors
-start studying first thing in the morning
 
