@@ -5,7 +5,3 @@ But that is just part of the story, I recall when Amandeep Ma'am said that journ
 
 What I can do is that I can use my journal & I do use my journal to reinforce improvements in my thinking, judgement & behavior. 
 This page is exactly for that.
-
-```notion-like-tables
-table-id-Z1mXaC
-```
