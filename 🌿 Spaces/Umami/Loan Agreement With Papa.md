@@ -23,7 +23,9 @@ I am calculating 20k/month as rent+maintainence
 So, I will be keeping track of some of the big payments here.
 
 - 25k₹ → Subscribed to the LYT Workshop 8 & Workshop pro on [[31-May-22]],  [[19-Jul-22]] respectively
-- 3820₹ → Annual Subscription to Amazing Marvin on [[12-Aug-22]]
-- 7660₹ → Annual Subscription to Obsidian Sync on [[05-Sep-22]]	
+	- This is a one time payment so this will be tracked here
+- Subscriptions which include Marvin, Prime, Netflix & Hotstar are [managed in Notion](https://www.notion.so/e803d440d02a42029f712a99f8baa0ce?v=9133c42aed5e41a7844c474dfced7a44) & are tracked there, so won't be needing to track them
+	- 3820₹ → Annual Subscription to Amazing Marvin on [[12-Aug-22]]
+	- 7660₹ → Annual Subscription to Obsidian Sync on [[05-Sep-22]]	
 
 ---
