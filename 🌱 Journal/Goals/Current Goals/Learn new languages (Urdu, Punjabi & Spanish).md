@@ -3,7 +3,6 @@ tags: type/🎯goal/low_priority,
 aliases:
 cssclass: 
 ---
----
 
 ###### Metadata 
 date_created:: [[11-Apr-22]]
@@ -14,6 +13,7 @@ accountabilty_buddy:: TBD
 trackers:: Punjabi Songs Translated
 habits:: TBD
 
+### Objectives
 ### Check-In’s
 - [[10-May-22]] → Shared with the co-x3
 	- Urdu is the language I want to learn, I consume a lot of poetry, ghazals, shayari & qawwali.
@@ -23,8 +23,8 @@ habits:: TBD
 	- I will be starting with Urdu
 		- I have set a recurring task to browse rekhta (the largest open sourced urdu library) for 10 minutes daily & to translate one piece of music, poetry, ghazal, shayari or qawwali.
 		- So this links two of my goals, the other being [[Consume quality music & quality entertainment in 2022]]
-### Objectives
 
+### Projects
 
 
 

@@ -3,7 +3,6 @@ tags: type/🎯goal/mission_critical
 aliases:
 cssclass: 
 ---
----
 
 ###### Metadata 
 date_created:: [[09-Apr-22]]
@@ -13,6 +12,17 @@ date_accomplished::
 accountabilty_buddy:: [[Shashank Bhaiya]] | [[👤 Aanya]] 
 trackers:: [[Calories Tracker]]
 habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Running]] | [[Stretching]] | [[Eat Healthy]] | [[16/8 Intermittent Fasting]] 
+
+### Objectives
+- Target weight = 80 Kg | Starting is 94 Kg
+- Biceps = 16 Inch %%Starting is 13.5 Inch%%
+- Pec Movement = Pro
+
+```ad-info
+title: Trackers in Marvin
+- Biceps, Chest Muscle Movement & Abs 
+- Weight tracker is also added in Marvin for progress calculation.
+```
 
 ### Check-In’s 
 - [[10-May-22]] → Skipped gym today, but overall, I think it is going good
@@ -34,17 +44,8 @@ habits:: [[Strength Workout]] | [[Pushups]] | [[Squats]] | [[Planks]] | [[Runnin
 		95 Kg  
 		  
 		2. Which food item is the major culprit this week? & What can I do to better stick at 16/8 intermittent fasting?  
-		Ice-cream seems to be what I am craving for the past few days.  
-		  
-		3. How was the workout this week?  
-		Haven't walked this week. I am supposed to walk with shoes because of  calf pain.
-### Objectives
-- Target weight = 80 Kg | Starting is 94 Kg
-- Biceps = 16 Inch %%Starting is 13.5 Inch%%
-- Pec Movement = Pro
+			- Ice-cream seems to be what I am craving for the past few days.  
+		1. How was the workout this week?  
+			- Haven't walked this week. I am supposed to walk with shoes because of  calf pain.
 
-```ad-info
-title: Trackers in Marvin
-- Biceps, Chest Muscle Movement & Abs 
-- Weight tracker is also added in Marvin for progress calculation.
-```
+### Projects

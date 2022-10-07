@@ -3,9 +3,8 @@ tags: type/🎯goal/mission_critical
 aliases:
 cssclass: 
 ---
----
 
-###### Inline Metadata 
+###### Metadata 
 date_created:: [[10-May-22]]
 date_started:: [[10-May-22]]
 target_date:: [[31-Dec-22]]
@@ -14,6 +13,7 @@ accountabilty_buddy:: <% tp.file.cursor(3) %>
 trackers:: <% tp.file.cursor(4) %>
 habits:: <% tp.file.cursor(5) %>
 
+### Objectives
 ### Check-In’s
 - [[10-May-22]] → Starting fresh
 	- I have downloaded all the resources for pathoma & will be starting that after check off a few pending & itching tasks
@@ -29,8 +29,9 @@ habits:: <% tp.file.cursor(5) %>
 	- Some questions I asked myself to reflect:  
 		1. What could have been better?  
 			- I have not studied at all so, I don't know what could have been better but if I could have stuck to the routine advised by Amandeep Ma'am, maybe things would have been better but this week was hectic in terms of social things going on, so I really can't complain.
-### Objectives
 
+### Projects
+## Resources
 ### Best Resources
 [Step 1 Guide](https://www.youtube.com/watch?v=y-bccn6NUyg&t=1455s)
 [Step 2 Guide](https://www.youtube.com/watch?v=sb5aXXbC0ao&t=5s)

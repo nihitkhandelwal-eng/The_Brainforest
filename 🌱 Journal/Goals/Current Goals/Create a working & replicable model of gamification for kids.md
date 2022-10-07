@@ -3,7 +3,6 @@ tags: type/🎯goal/low_priority ,
 aliases:
 cssclass: 
 ---
----
 
 ###### Metadata 
 date_created:: [[10-Apr-22]]
@@ -14,6 +13,7 @@ accountabilty_buddy:: [[👤 Vihaan|Vihaan]]
 trackers:: 
 habits:: Work on gamification for kids
 
+### Objectives
 ### Check-In’s
 - [[10-May-22]] → No Progress, just hopes
 	- I have made commitments about this to my cousins & me not delivering on them is not a good thing, but atleast I should get started, me writing here is a start
@@ -34,7 +34,7 @@ habits:: Work on gamification for kids
 		- How was therapy?
 			- It was a bit harsh but also really helpful in the fact that I recognize the importance of maintaining a routine.
 
-### Objectives
+### Projects
 
 
 

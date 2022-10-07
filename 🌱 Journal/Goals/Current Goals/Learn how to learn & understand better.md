@@ -14,6 +14,9 @@ accountabilty_buddy:: TBD
 trackers:: TBD
 habits:: [[Sensemaking Sessions]] | [[Limit Watching Content While Working]] | [[Book Reading]]
 
+### Objectives
+- Maybe I can then give a presentation to Mami, Vihaan & Mama about what I learnt here.
+
 ### Check-In’s
 - [[10-May-22]] → The thing is out in the open.
 	- **I haven't read a book in many years now**
@@ -29,8 +32,8 @@ habits:: [[Sensemaking Sessions]] | [[Limit Watching Content While Working]] | [
 		- Confidence: 3/5  
 		- Motivation: 3/5  
 		- Overall it's going: 2/5
-### Objectives
-- Maybe I can then give a presentation to Mami, Vihaan & Mama about what I learnt here.
+
+### Projects
 
 
 

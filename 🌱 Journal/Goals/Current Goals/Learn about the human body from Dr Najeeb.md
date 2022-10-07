@@ -3,7 +3,6 @@ tags: type/🎯goal/mission_critical,
 aliases:
 cssclass: 
 ---
----
 
 ###### Metadata 
 date_created:: [[10-Apr-22]]
@@ -13,6 +12,10 @@ date_accomplished::
 accountabilty_buddy:: TBD
 trackers:: No. Of Dr Najeeb Lectures Watched 
 habits:: [[Watch Dr Najeeb]]
+
+### Objectives
+- Watch all the lectures from [[Dr Najeeb]]
+- Re-cultivate my interest in medicine.
 
 ### Check-In’s
 - [[10-May-22]] → Pathoma is hoggin the limelight
@@ -31,9 +34,8 @@ habits:: [[Watch Dr Najeeb]]
 	- Some questions I asked myself to reflect:  
 		- What did you learn?  
 			- Haven't studied at all.
-### Objectives
-- Watch all the lectures from [[Dr Najeeb]]
-- Re-cultivate my interest in medicine.
+
+### Projects
 
 
 

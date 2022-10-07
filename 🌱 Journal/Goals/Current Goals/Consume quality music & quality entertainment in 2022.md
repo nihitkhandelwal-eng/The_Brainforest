@@ -3,7 +3,6 @@ tags: type/🎯goal/low_priority
 aliases:
 cssclass: 
 ---
----
 
 ###### Metadata 
 date_created:: [[09-Apr-22]]
@@ -14,6 +13,9 @@ accountabilty_buddy:: TBD
 trackers:: Music pieces documented & translated
 habits:: [[Limit Watching Content While Working]] | [[Sensemaking Sessions]]
 
+### Objectives
+- To document & thus have a good knowledge on ghazals, qawwali & poetry
+- To document my thoughts on some quality entertainment works, like the guy in [[Basement Breakdown]] does
 ### Check-In’s
 - [[10-May-22]] → Sharing with the co-x3
 	- The goal here is to consume stuff intentionally, I don't like the overuse of the word "intentional" but this is where I definitely want to do it intentionally.
@@ -36,10 +38,7 @@ habits:: [[Limit Watching Content While Working]] | [[Sensemaking Sessions]]
 			- Bhar Do Jholi Meri & Kana Yaari  
 		2. What resonated with you this week?  
 			- True Detective was very good & now Special Ops is really good
-### Objectives
-- To document & thus have a good knowledge on ghazals, qawwali & poetry
-- To document my thoughts on some quality entertainment works, like the guy in [[Basement Breakdown]] does
-
+### Projects
 
 
 

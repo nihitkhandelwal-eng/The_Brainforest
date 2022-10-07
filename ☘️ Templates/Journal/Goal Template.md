@@ -4,7 +4,7 @@ aliases:
 cssclass: 
 ---
 
-###### Inline Metadata 
+###### Metadata 
 date_created:: [[<% tp.date.now("DD-MMM-YY") %>]]
 date_started:: <%tp.file.cursor(1)%>
 target_date:: <%tp.file.cursor(2)%>
