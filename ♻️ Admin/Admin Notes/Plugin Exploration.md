@@ -81,51 +81,52 @@ cssclass:
 38. Obsidian Memos
 39. Obsidian Markbase (Publish)
 40. Obsidian Markmind
-41. Obsidian Sequence Hotkeys
-42. Obsidian State Switcher
-43. Obsidian to Anki
-44. Obsidian Tweaks
-45. Obsidian Share to Notion
-46. Obsidian42 Text Transporter
-47. Obsius Publish
-48. Omnisearch
-49. Ozan's Image in Editor Plugin
-50. Paste Image Rename
-51. PDF Highlights
-52. Persistent Graph
-53. Raindrop Highlights
-54. Quiet Outline 
-55. Reading Time
-56. Read It Later
-57. Release Timeline
-58. Review
-59. Rewarder
-60. Scroll Speed
-61. Search on Internet
-62. Sekund
-63. Shortcut Launcher
-64. Sidekick
-65. Smart Random Note
-66. Random Note
-67. Smart Typography
-68. Smarter Markdown Hotkeys
-69. Snippetor
-70. Supercharged Links
-71. Tag & Word Cloud
-72. Task Progress Bar
-73. Text Toolbar
-74. Timeline
-75. Timelines
-76. Todoist Link
-77. Todoist Text
-78. Todoist Plugin
-79. Topic Linking
-80. Vale
-81. Vantage → Advanced Search Builder
-82. Various Complements
-83. Waypoint ↑ (recommended by Ashley & Ben)
-84. Webhooks Plugin
-85. Wordsprint
+41. Obsidian Query Language
+42. Obsidian Sequence Hotkeys
+43. Obsidian State Switcher
+44. Obsidian to Anki
+45. Obsidian Tweaks
+46. Obsidian Share to Notion
+47. Obsidian42 Text Transporter
+48. Obsius Publish
+49. Omnisearch
+50. Ozan's Image in Editor Plugin
+51. Paste Image Rename
+52. PDF Highlights
+53. Persistent Graph
+54. Raindrop Highlights
+55. Quiet Outline 
+56. Reading Time
+57. Read It Later
+58. Release Timeline
+59. Review
+60. Rewarder
+61. Scroll Speed
+62. Search on Internet
+63. Sekund
+64. Shortcut Launcher
+65. Sidekick
+66. Smart Random Note
+67. Random Note
+68. Smart Typography
+69. Smarter Markdown Hotkeys
+70. Snippetor
+71. Supercharged Links
+72. Tag & Word Cloud
+73. Task Progress Bar
+74. Text Toolbar
+75. Timeline
+76. Timelines
+77. Todoist Link
+78. Todoist Text
+79. Todoist Plugin
+80. Topic Linking
+81. Vale
+82. Vantage → Advanced Search Builder
+83. Various Complements
+84. Waypoint ↑ (recommended by Ashley & Ben)
+85. Webhooks Plugin
+86. Wordsprint
 
 ---
 ### Plugin Updates I Am Looking For  → Uninstalling for now
