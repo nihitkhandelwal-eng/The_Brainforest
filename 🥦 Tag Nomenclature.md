@@ -57,8 +57,8 @@ cssclass:
 - #type/⌘MOC  will be added for MOC's
 - #type/🎬entertainment is a generic tag for everything entertainment, it is further divided into → #type/🎬entertainment/🎥show  | #type/🎬entertainment/📽movie
 	- These will be added to any movie/show reference
-- #type/🎯goal is for goal management
-	- I have categorized them into #type/🎯goal/low_priority | #type/🎯goal/medium_priority  | #type/🎯goal/mission_critical  | #type/🎯goal/up_next 
+- `#type/🎯goal` is for goal management
+	- I have categorized them into `#type/🎯goal/low_priority` | `#type/🎯goal/medium_priority`  | `#type/🎯goal/mission_critical`  | `#type/🎯goal/up_next` 
 - #type/🎵music is a generic tag for everything music, it is further divided into → #type/🎵music/🎶poem | #type/🎵music/🎧qawwali 
 	- #type/🎵music/📄translated is more of a tracker tag for pieces of music that have been translated 
 - #type/👤people is everything people & right now it only has #type/👤people/😍family & #type/👤people/😎friend 
