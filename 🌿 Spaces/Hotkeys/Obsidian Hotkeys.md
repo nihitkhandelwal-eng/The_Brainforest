@@ -103,6 +103,8 @@ cssclass:
 - Snippet Commands: Toggle Peeking Status Bar → Ctrl + Alt + S
 - Obsidian42 - Jump-to-Date: Date Picker → Ctrl + Alt + D
 
+- Open starred file: (1-9) → Ctrl + Alt + Shift + (1-9) #action/🃏ankify 
+
 ### Shortcut Launcher
 - Get This Done → Alt + G
 - I Need Help → Alt + H
