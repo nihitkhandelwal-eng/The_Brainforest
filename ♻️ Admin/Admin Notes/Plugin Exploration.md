@@ -32,11 +32,12 @@ cssclass:
 20. Obsidian Raindrop
 21. Pixr
 22. Style Settings
-23. Task Plugins ^b3d766
-24. Timestamp Notes
-25. Topic Linking
-26. Tracker
-27. Wikipedia
+23. Supercharged Links
+24. Task Plugins ^b3d766
+25. Timestamp Notes
+26. Topic Linking
+27. Tracker
+28. Wikipedia
 
 ### Plugins To Explore
 1. Activity History
