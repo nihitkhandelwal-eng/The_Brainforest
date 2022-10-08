@@ -72,66 +72,67 @@ cssclass:
 30. Media Extended
 	- Does not work in preview mode, works fine in live preview
 31. Note Auto Creation
-32. Notion Like Tables 
+32. Note Tweet
+33. Notion Like Tables 
 	- Testing it now
 	- The idea is to have pages for each of these plugins
-33. Obsidian Bellboy
-34. Obsidian Extract URL
-35. Obsidian JTab
-36. Obsidian Leaflet
-37. Obsidian Link Converter
-38. Obsidian List Callouts
-39. Obsidian Memos
-40. Obsidian Markbase (Publish)
-41. Obsidian Markmind
-42. Obsidian Query Language
-43. Obsidian Sequence Hotkeys
-44. Obsidian State Switcher
-45. Obsidian to Anki
-46. Obsidian Tweaks
-47. Obsidian Share to Notion
-48. Obsidian42 Text Transporter
-49. Obsius Publish
-50. Omnisearch
-51. Ozan's Image in Editor Plugin
-52. Pandoc Reference List
-53. Paste Image Rename
-54. PDF Highlights
-55. Persistent Graph
-56. Raindrop Highlights
-57. Quiet Outline 
-58. Reading Time
-59. Read It Later
-60. Release Timeline
-61. Review
-62. Rewarder
-63. Scroll Speed
-64. Search on Internet
-65. Sekund
-66. Shortcut Launcher
-67. Sidekick
-68. Smart Random Note
-69. Random Note
-70. Smart Typography
-71. Smarter Markdown Hotkeys
-72. Snippetor
-73. Supercharged Links
-74. Tag & Word Cloud
-75. Task Progress Bar
-76. Text Toolbar
-77. Timeline
-78. Timelines
-79. Todoist Link
-80. Todoist Text
-81. Todoist Plugin
-82. Topic Linking
-83. Vale
-84. Vantage → Advanced Search Builder
-85. Various Complements
-86. Waypoint ↑ (recommended by Ashley & Ben)
-87. Webhooks Plugin
-88. Wordsprint
-89. Zotero Integration
+34. Obsidian Bellboy
+35. Obsidian Extract URL
+36. Obsidian JTab
+37. Obsidian Leaflet
+38. Obsidian Link Converter
+39. Obsidian List Callouts
+40. Obsidian Memos
+41. Obsidian Markbase (Publish)
+42. Obsidian Markmind
+43. Obsidian Query Language
+44. Obsidian Sequence Hotkeys
+45. Obsidian State Switcher
+46. Obsidian to Anki
+47. Obsidian Tweaks
+48. Obsidian Share to Notion
+49. Obsidian42 Text Transporter
+50. Obsius Publish
+51. Omnisearch
+52. Ozan's Image in Editor Plugin
+53. Pandoc Reference List
+54. Paste Image Rename
+55. PDF Highlights
+56. Persistent Graph
+57. Raindrop Highlights
+58. Quiet Outline 
+59. Reading Time
+60. Read It Later
+61. Release Timeline
+62. Review
+63. Rewarder
+64. Scroll Speed
+65. Search on Internet
+66. Sekund
+67. Shortcut Launcher
+68. Sidekick
+69. Smart Random Note
+70. Random Note
+71. Smart Typography
+72. Smarter Markdown Hotkeys
+73. Snippetor
+74. Supercharged Links
+75. Tag & Word Cloud
+76. Task Progress Bar
+77. Text Toolbar
+78. Timeline
+79. Timelines
+80. Todoist Link
+81. Todoist Text
+82. Todoist Plugin
+83. Topic Linking
+84. Vale
+85. Vantage → Advanced Search Builder
+86. Various Complements
+87. Waypoint ↑ (recommended by Ashley & Ben)
+88. Webhooks Plugin
+89. Wordsprint
+90. Zotero Integration
 
 ---
 ### Plugin Updates I Am Looking For  → Uninstalling for now
