@@ -9,8 +9,8 @@ cssclass:
 ☘️ Templates
 ♻️ Admin
 🌱 Journal
-🌲 
-🌳 
+🌲 Metrics
+🌳 LYT Workshop
 🌴 Academia
 🌽 
 🌾 Excalidraw
@@ -19,9 +19,9 @@ cssclass:
 🍏 
 💚 Read Later
 📗 
+🥬
 🟢 Inbox
 🌵 Workbench
 🏡 Home
 🥦 
-🥬
 
