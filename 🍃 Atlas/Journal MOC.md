@@ -4,7 +4,7 @@ tags: type/⌘MOC
 cssclass:
 ---
 
-![[🥦 Tag Nomenclature#Journal|no-h3]]
+![[+Tag Nomenclature#Journal|no-h3]]
 
 
 

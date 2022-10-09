@@ -44,7 +44,7 @@ cssclass:
 	- 1c
 		- [[Relationship Between Notes]]
 		- [[My PKM Folders]]
-		- [[🥦 Tag Nomenclature|My PKM Tags]]
+		- [[+Tag Nomenclature|My PKM Tags]]
 		- [[Higher Order Notes#^93e8cf|Building Relationships With MOC's]]
 	- 1d
 		- [[PKM Planet Personality Snapshot]]

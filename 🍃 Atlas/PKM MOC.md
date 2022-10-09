@@ -6,4 +6,4 @@ cssclass:
 
 [[The PKM Planet]]
 [[My PKM Folders]]
-[[🥦 Tag Nomenclature|My PKM Tags]]
+[[+Tag Nomenclature|My PKM Tags]]

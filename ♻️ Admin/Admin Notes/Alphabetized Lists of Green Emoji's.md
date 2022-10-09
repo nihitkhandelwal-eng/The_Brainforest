@@ -15,13 +15,13 @@ cssclass:
 🌽 
 🌾 Excalidraw
 🌿 Spaces
-🍃 
+🍃 Atlas
 🍏 
 💚 Read Later
 📗 
 🟢 Inbox
 🌵 Workbench
 🏡 Home
-🥦 Tag Nomenclature
+🥦 
 🥬
 
