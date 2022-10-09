@@ -4,7 +4,7 @@ tags:
 cssclass: 
 ---
 
-- [ ] Write it in more detail as the [[LYT Workshop 8]] progresses on #action/✔todo  ^aja1og
+- [ ] Write it in more detail as the [[🌿 Spaces/Umami/🌿 Spaces/LYT Workshop/Workshop 8 Notes/LYT Workshop 8]] progresses on #action/✔todo  ^aja1og
 
 ### Action
 #action 
@@ -36,7 +36,7 @@ cssclass:
 
 ### Placeholder
 #placeholder
-- I have a lot of placeholder tags, this will be sorted out once the [[LYT Workshop 8]] is done
+- I have a lot of placeholder tags, this will be sorted out once the [[🌿 Spaces/Umami/🌿 Spaces/LYT Workshop/Workshop 8 Notes/LYT Workshop 8]] is done
 
 ### Status
 #status
