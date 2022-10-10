@@ -12,4 +12,6 @@ cssclass:
 - What current fact about yourself would impress your 5 year old self?
 	- USMLE 
 	- Programming
-	- 
+
+- Write a message for your future self at the end of the workshop.
+	- So happy to be away from intellectual loneliness
