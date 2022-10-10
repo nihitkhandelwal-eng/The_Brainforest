@@ -1,6 +1,6 @@
 ---
 aliases: [Adaptation of Digital Zettlekasten, MOC, Maps Of Contents, Maps Of Content]
-tags: LYT_Workshop 
+tags: LYT_Workshop_8 
 cssclass:
 ---
 
