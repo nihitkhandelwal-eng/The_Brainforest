@@ -1,5 +1,5 @@
 <%*
-const choice = await tp.system.suggester(["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People"], ["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People"]);
+const choice = await tp.system.suggester(["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People", "Workshop"], ["Medical Note", "Simple Note", "Empty Note", "Excalidraw Sketch", "Book", "MOC", "Movie / Show", "Music", "People", "Workshop"]);
 let output = ""
 switch(choice) {
     case "Medical Note":
@@ -28,6 +28,9 @@ switch(choice) {
         break;
     case "People":
 	   output = await tp.file.include("[[People Template]]")
+	   break;
+    case "Workshop":
+	   output = await tp.file.include("[[Workshop 9 Template]]")
 	   break;
     default:
         new Notice("No Matching Template")
