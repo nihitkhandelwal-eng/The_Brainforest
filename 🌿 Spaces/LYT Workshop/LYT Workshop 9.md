@@ -14,4 +14,4 @@ cssclass:
 	- Programming
 
 - Write a message for your future self at the end of the workshop.
-	- So happy to be away from intellectual loneliness
+	- So happy to be away from intellectual loneliness.
