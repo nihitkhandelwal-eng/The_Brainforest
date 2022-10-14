@@ -33,4 +33,10 @@ cssclass:
 - If you hold shift, it will move large distances, this is called nudging
 	- The nudge amount can be adjusted by using the quick command thing
 
+- Properties can be copied & pasted
 
+
+### Styles 
+They can be color styles & text styles
+
+Both text & color styles live independently in the style section & are not tied to any object
