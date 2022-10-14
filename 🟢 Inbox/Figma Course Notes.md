@@ -18,11 +18,12 @@ cssclass:
 - Shortcuts → Ctrl + Shift + ?
 
 
-## Shapes
+## Tools & Sidebars
 - Use the shape tool
 - Hold shift to draw shapes of equal length i.e. squares, equilateral triangle etc
 - The lett side bar will show all your shapes i.e. ![[#^80f9d8]]
-- The right side bar will have the dimensions which can be changed from there as well
+- The right side bar will have the dimensions which can be changed from there as well.
+	- You can also perform calculations in the right side bar
 - Rotate the shape OR Curve the edges of the shape
 	- Either from the right side panel
 	- Or by hovering close to the shape once it is selected
@@ -37,6 +38,8 @@ cssclass:
 
 
 ### Styles 
-They can be color styles & text styles
+- They can be color styles & text styles
+- Both text & color styles live independently in the style section & are not tied to any object
 
-Both text & color styles live independently in the style section & are not tied to any object
+### Components
+- UI elements that can be re-used across my design
