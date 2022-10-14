@@ -28,3 +28,9 @@ cssclass:
 	- Or by hovering close to the shape once it is selected
 
 
+- Select any object & hold alt, then hover over different components to see the exact distance from those objects
+- You can move these objects with arrow keys while distances are being shown
+- If you hold shift, it will move large distances, this is called nudging
+	- The nudge amount can be adjusted by using the quick command thing
+
+
