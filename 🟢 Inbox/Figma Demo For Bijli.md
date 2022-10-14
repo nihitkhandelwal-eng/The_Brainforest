@@ -4,22 +4,42 @@ tags:
 cssclass:
 ---
 
-Hello All!
-My name is Nihit & this is going to be a introductory demo to Figma
+> Hello Team Bijli !
+
+My name is Nihit. 
+I am going to give an introductory demo to Figma
 
 ---
 
 - Figma is a UI Design software
-- Cloud Based i.e. Cross Platform
-- We will build a mood tracking app
-- Figma Web v/s App → Font installer is required in web version
+- In Figma, you can create interactive wireframes & set up advanced user interface designs
 
-## Basics & Frames
+---
+### Accessibility
+- Cloud Based i.e. Cross Platform 
+	- So, it's suitable for collaboration
+- Figma Web v/s App → Font installer is required in web version
+![[Figma Download Options.png|700]]
+
+---
+### Features
+1. Working in components
+2. Setting up styles
+3. Using constraints for responsive design
+4. It gives you all the tools to set up a design in a helpful way so that, developers can bring it alive with code.
+5. Inspect tool to access CSS Snippets
+
+---
+### Layout
+- Design Files & FigJam Files
+- File Hierarchy
+	![[Figma File Hierarchy.png|700]]
+## Basics
 - The blank thing is the canvas, it's like surface of a table that we are working on.
 - On top of it, we will add a design like sheets of paper which are here called as **frames**.
 	- We can add images, text & shapes to our frames to set up our design
-	- Add frames via toolbar or press F
-	- It has preloaded things for different screen sizes
+	- How to add frames?
+	- It has preloaded setups different screen sizes
 	- The left panel is like a mirror to the canvas ^80f9d8
 - Shortcuts → Ctrl + Shift + ?
 
