@@ -34,39 +34,72 @@ I am going to give an introductory demo to Figma
 - Design Files & FigJam Files
 - File Hierarchy
 	![[Figma File Hierarchy.png|700]]
-## Basics
+
+---
+### Basics
 - The blank thing is the canvas, it's like surface of a table that we are working on.
 - On top of it, we will add a design like sheets of paper which are here called as **frames**.
 	- We can add images, text & shapes to our frames to set up our design
 	- How to add frames?
 	- It has preloaded setups different screen sizes
-	- The left panel is like a mirror to the canvas ^80f9d8
-- Shortcuts → Ctrl + Shift + ?
 
+---
+#### Wireframing
+- Wireframing is a way to design a website at the structural level.
+- It takes into account, the user needs & user journeys
 
-## Tools & Sidebars
-- Use the shape tool
+---
+
+### Tools
+- Frames
+- Shapes
+- Pen
+- Text
+- Resources
+- Comment
+
+---
+
+### Useful Commands
+> Shortcuts Menu → Ctrl + Shift + ?
+> Command Palette → Ctrl + /
+
+- Space bar to pan & move around
+- +/- for zooming in & out
+- Cmd/Ctrl + D for duplication
+
+---
+### Left & Right Sidebars
+- The left sidebar is like a mirror to the canvas ^80f9d8
+- The right side bar will have the dimensions & formatting options.
+	- You can also perform calculations in the right side bar. (Give Example)
+- The right sidebar contains the properties of your objects which can be copied
+
+---
+#### Objects
 - Hold shift to draw shapes of equal length i.e. squares, equilateral triangle etc
-- The lett side bar will show all your shapes i.e. ![[#^80f9d8]]
-- The right side bar will have the dimensions which can be changed from there as well.
-	- You can also perform calculations in the right side bar
 - Rotate the shape OR Curve the edges of the shape
 	- Either from the right side panel
 	- Or by hovering close to the shape once it is selected
+- Select any object & hold `alt`, then hover over different components to see the exact distance from those objects
+	- You can move these objects with arrow keys while distances are being shown
+	- If you hold shift, it will move large distances, this is called nudging
+		- The nudge amount can be adjusted by using the quick command thing
 
+---
 
-- Select any object & hold alt, then hover over different components to see the exact distance from those objects
-- You can move these objects with arrow keys while distances are being shown
-- If you hold shift, it will move large distances, this is called nudging
-	- The nudge amount can be adjusted by using the quick command thing
+#### Groups 
+You can group different layers/objects by selecting the objects by `holding Shift` & then `Ctrl+G`.
+It comes in handy.
 
-- Properties can be copied & pasted
-
-
+---
 ### Styles 
-- They can be color styles & text styles
-- Both text & color styles live independently in the style section & are not tied to any object
+- They can be either →
+	1. Color styles 
+	2. Text styles
+- Both text & color styles live independently in the style section & are not tied to any object.
 
+---
 ### Components
 - UI elements that can be re-used across my design
 - Main component & instance of the main component
