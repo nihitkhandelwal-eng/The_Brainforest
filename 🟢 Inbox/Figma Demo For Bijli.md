@@ -102,24 +102,26 @@ It comes in handy.
 ---
 ### Components
 - UI elements that can be re-used across my design
+- These are elements with same layout but they hold different content
 - Main component & instance of the main component
-- Main component is a filled diamond shaped & purple in color
-- Instance of the component is a blank diamond 
+	- Main component is a filled diamond shaped & purple in color
+	- Instance of the component is a blank diamond 
 - Components can be accessed from assets menu
 
+---
+#### You can not override
+- Size
+- Position
+- Rotation
+- Constraints
+- Layer Hierarchy
+- Point and Bezier positions
 
-#### What you can & can't override
-- You can not override
-	- Size
-	- Position
-	- Rotation
-	- Constraints
-	- Layer Hierarchy
-	- Point and Bezier positions
-- You can override
-	- Colour & Fills
-	- Text (content and alignment)
-	- Styles
-	- Opacity
-	- Effects (drop shadows, blurs)
-	- Visibility (show/hide)
+---
+#### You can override
+- Colour & Fills
+- Text (content and alignment)
+- Styles
+- Opacity
+- Effects (drop shadows, blurs)
+- Visibility (show/hide)
