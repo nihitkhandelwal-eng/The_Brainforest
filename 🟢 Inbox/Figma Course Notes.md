@@ -43,3 +43,7 @@ cssclass:
 
 ### Components
 - UI elements that can be re-used across my design
+- Main component & instance of the main component
+- Main component is a filled diamond shaped & purple in color
+- Instance of the component is a blank diamond 
+- Components can be accessed from assets menu
