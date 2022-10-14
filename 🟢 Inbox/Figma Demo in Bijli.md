@@ -3,6 +3,12 @@ aliases:
 tags: 
 cssclass:
 ---
+
+Hello All!
+My name is Nihit & this is going to be a introductory demo to Figma
+
+---
+
 - Figma is a UI Design software
 - Cloud Based i.e. Cross Platform
 - We will build a mood tracking app
@@ -47,3 +53,20 @@ cssclass:
 - Main component is a filled diamond shaped & purple in color
 - Instance of the component is a blank diamond 
 - Components can be accessed from assets menu
+
+
+#### What you can & can't override
+- You can not override
+	- Size
+	- Position
+	- Rotation
+	- Constraints
+	- Layer Hierarchy
+	- Point and Bezier positions
+- You can override
+	- Colour & Fills
+	- Text (content and alignment)
+	- Styles
+	- Opacity
+	- Effects (drop shadows, blurs)
+	- Visibility (show/hide)
