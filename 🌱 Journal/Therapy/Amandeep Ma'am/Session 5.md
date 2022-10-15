@@ -14,4 +14,6 @@ Nevertheless, it was still troubling me & I was not very much talking to my aunt
 I talked to Anne about it 2 days before the council meeting & she said that "You should be available to her, if she needs you."
 In the council meeting, this was repeated & I got a validation kind of thing that I did my part & it's okay to let that go now.
 
+![[Session 5 Notes.jpg|700]]
+
 
