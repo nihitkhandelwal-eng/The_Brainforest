@@ -83,8 +83,6 @@ When do I encounter *my own thoughts?*
 - Only ad links if they come "naturally"
 - Focus on creating [[Atomic Notes]]
 - Notice when you are "struggling"
-- [ ] Do this exercise for 2 weeks #action/✔todo 
-	- [ ] Add to Marvin
 
 
 ### Write in your own words
