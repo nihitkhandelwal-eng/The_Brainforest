@@ -16,10 +16,20 @@ In the council meeting, this was repeated & I got a validation kind of thing tha
 
 ![[Session 5 Notes.jpg|700]]
 
+
+### Actionable Steps
 - Stay in present
-	- Set periodic alarm
+	- Set periodic alarm with 30 minute snooze thing throughout the day
 - Diaphragmatic Breathing Exercise QID for 5 mins each
 	- Calms down sympathetic system activity
 - Don't engage with your anxiety
 	- Don’t attend too much to your anxiety
 	- Don't do things to reduce it like talking, thinking.
+	- Wait for the curve to go down.
+- Read the 12 irrational beliefs
+- Be cautious about the tendency to seek reassurance
+- Study
+
+
+> [!important]
+> Payment for session 5, 6, 7, 8 & 9 will be under the package that she will let me know
