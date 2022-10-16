@@ -16,4 +16,10 @@ In the council meeting, this was repeated & I got a validation kind of thing tha
 
 ![[Session 5 Notes.jpg|700]]
 
-
+- Stay in present
+	- Set periodic alarm
+- Diaphragmatic Breathing Exercise QID for 5 mins each
+	- Calms down sympathetic system activity
+- Don't engage with your anxiety
+	- Don’t attend too much to your anxiety
+	- Don't do things to reduce it like talking, thinking.
