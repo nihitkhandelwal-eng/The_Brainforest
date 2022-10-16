@@ -71,5 +71,11 @@
 + 27-Sep-22 <br> [[Session 3]]
 + [[My Dysfunctional Thought Record|Dysfunctional Thought Record]] & Lot's of Support
 + Went over the main symptoms, which were → sleep, hopelessness / worthlessness, guilt & lack of concentration, focused primarily on guilt. 
+
++ [[06-Oct-22]] <br> [[Session 4]]
++ Dull Session, Frustrated with Mami & Her Husband's Incident
++ Changes to DTR were recommended, it was an uneventful session.
+
++ [[13-Oct-22]] <br> [[Session 5]]
 ```
 
