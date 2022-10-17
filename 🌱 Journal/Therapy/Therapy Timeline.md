@@ -80,5 +80,7 @@
 + Validation & Assurance Issues | Diaphragmatic Breathing | Ignorance is the Advice
 + I was told that I have a tendency to seek validation & that it helps my anxiety. Was adviced to do anything which helps to reduce it. 
   It was a hard session & on the rougher side.
+  
++ [[20-Oct-22]] <br> [[Session 6]]
 ```
 
