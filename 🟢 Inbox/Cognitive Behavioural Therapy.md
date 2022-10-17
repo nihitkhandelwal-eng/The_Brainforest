@@ -35,7 +35,7 @@ Research suggests that people develop cognitive distortions **as a way of copin
 6. Jumping to Conclusions → Fortune Telling
 	- A sister distortion to mind reading, fortune telling refers to the tendency to make conclusions and predictions based on little to no evidence and holding them as gospel truth.
 	- One example of fortune-telling is a young, single man predicting that he will never find love or have a committed and happy relationship based only on the fact that he has not found it yet. There is simply no way for him to know how his life will turn out, but he sees this prediction as fact rather than one of several possible outcomes.
-7. Magnification, Catastrophizing or Minimization
+7. Magnification (Catastrophizing) or Minimization
 	- Also known as the “Binocular Trick” for its stealthy skewing of your perspective.
 	- This distortion involves exaggerating or minimizing the meaning, importance, or likelihood of things.
 	- An athlete who is generally a good player but makes a mistake may magnify the importance of that mistake and believe that he is a terrible teammate, while an athlete who wins a coveted award in her sport may minimize the importance of the award and continue believing that she is only a mediocre player.
