@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: CBT
 tags:
 cssclass: 
 ---
@@ -8,6 +8,8 @@ cssclass:
 
 CBT (Cognitive Behavioural Therapy) is based on the idea that the way you see yourself, the world and other people can affect your thoughts and feelings, and can ultimately lead to mental health problems ... BUT you can change the way you think.
 
+The aim of evaluating thoughts in CBT is not to think happy thoughts but it is to think accurately. 
+How can you turn your guesses i.e. automatic thoughts into more accurate interpretations?
 
 
 ### Cognitive Distortions
