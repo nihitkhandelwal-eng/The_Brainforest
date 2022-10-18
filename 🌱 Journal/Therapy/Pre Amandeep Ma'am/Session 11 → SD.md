@@ -58,8 +58,7 @@ These are the general things which bother me
 | Mami's Inaction                          | 10               | I have done what I could have & beyond, but it is not my call, ideally, she should separate, but that's her call. → 7                         | Again, I have tried conveying what I feel, my interest is only in the well being of Mami & the kids, I will have to manage with what they choose for themselves. Regardless, I love them very much & that's where my concern start & end.                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
-> [!fail]
-- [!] Reframe the sleep issue that happened with mom
+- [x] Reframe the sleep issue that happened with mom
 	- This is now old in my memory & also I don't want to revisit it
 
 
