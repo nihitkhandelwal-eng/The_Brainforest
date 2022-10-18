@@ -1,156 +1,26 @@
-# What's new in v1.0
 
-Before you dive in
 
-We've made some big changes both visually and under the hood for this release. If you rely on any third party plugins or themes, we highly encourage you to **check for updates** _before_ delving into Obsidian 1.0.
+## 12 Irrational Beliefs — Albert Ellis
+1. The idea that it is a dire necessity for adults to be loved by significant others for almost everything they do. Instead of their concentrating on their own self-respect, on winning approval for practical purposes, and on loving rather than on being loved.
 
--   Settings › Appearance › _Check for Updates_.
--   Settings › Community plugins › _Check for Updates_.
+2. The idea that certain acts are awful or wicked, and that people who perform such acts should be severely damned. Instead of the idea that certain acts are self-defeating or antisocial, and that people who perform such acts are behaving stupidly, ignorantly, or neurotically, and would be better helped to change. People’s poor behaviors do not make them rotten individuals.
 
-This update includes significant changes to the look and feel of Obsidian. Some of the highlights include:
+3. The idea that it is horrible when things are not the way we like them to be.  Instead of the idea that it is too bad, that we would better try to change or control bad conditions so that they become more satisfactory, and, if that is not possible, we had better temporarily accept and gracefully lump their existence.
 
--   [Tabs](app://obsidian.md/index.html#tabs) – The workspace now supports tabs. To accommodate tabs, we've made a lot of tweaks to Obsidian behaviors.
--   [Tab stacks](app://obsidian.md/index.html#tab-stacks) – an alternative way to view your tabs, reminiscent of Andy's Mode.
--   [New appearance settings](app://obsidian.md/index.html#new-appearance-settings) – Obsidian has gone through an extensive redesign process to make the interface more robust, accessible, and easier to tinker with.
--   [Tons of other misc. improvements](app://obsidian.md/index.html#additional-improvements) – New 'fold' commands, an overhauled Theme Gallery, and bug fixes galore!
+4. The idea that human misery is invariably externally caused and is forced on us by outside people and events. Instead of the idea that neurosis is largely caused by the view that we take of unfortunate conditions.
 
-Make sure to take a look at the [FAQ section](app://obsidian.md/index.html#faq) which should address some common points of confusion as you adapt to the new Obsidian.
+5. The idea that if something is or may be dangerous or fearsome we should be terribly upset and endlessly obsess about it. Instead of the idea that one would better frankly face it and render it non-dangerous and, when that is not possible, accept the inevitable.
 
-## Tabs
+6. The idea that it is easier to avoid than to face life difficulties and self-responsibilities. Instead of the idea that the so-called easy way is usually much harder in the long run.
 
-With this update, we have embraced **tabs** throughout the UI. We've found that tabs provide a more intuitive experience for both browsing and editing notes in your vault.
+7. The idea that we absolutely need something other or stronger or greater than ourselves on which to rely. Instead of the idea that it is better to take the risks of thinking and acting less dependently.
 
-Tabs have had us rethinking some of the most basic interactions with Obsidian. We have taken this opportunity to consolidate the hotkeys for opening files. Combine these modifier keys when clicking on any link in Obsidian (this includes the quick switcher!) or use them with Enter to navigate the link under the cursor.
+8. The idea that we should be thoroughly competent, intelligent, and achieving in all possible respects. Instead of the idea that we would better do rather than always need to do well, and accept ourselves as quite imperfect creatures, who have general human limitations and specific fallibilities.
 
-Action
+9. The idea that because something once strongly affected our life, it should indefinitely affect it. Instead of the idea that we can learn from our past experiences but not be overly-attached to or prejudiced by them.
 
-MacOS
+10. The idea that we must have certain and perfect control over things Instead of the idea that the world is full of improbability and chance and that we can still enjoy life despite this.
 
-Windows/Linux
+11. The idea that human happiness can be achieved by inertia and inaction Instead of the idea that we tend to be happiest when we are vitally absorbed in creative pursuits, or when we are devoting ourselves to people or projects outside ourselves.
 
-**Navigate**
-
-_None_
-
-_None_
-
-**New Tab**
-
-⌘ (+ Shift in Source Mode)
-
-Ctrl (+ Shift in Source Mode)
-
-**New Tab Group**
-
-⌘⌥
-
-CtrlAlt
-
-**New Window**
-
-⌘⌥Shift
-
-CtrlAltShift
-
-Tabs have also inspired some changes to how users browse their vaults. It felt only natural that we also introduce **per-tab history**. Each tab now maintains its own history for navigation.
-
-![per-tab history](https://user-images.githubusercontent.com/693981/191052493-8109f1a1-411c-4b61-b435-788d0cac3231.png)
-
-## Tab stacks
-
-You can now switch any tab group in your workspace into a _tab stack_. Tab stacks provide an alternative way to view your tabs, reminiscent of Andy's Mode.
-
-![tab-stacks](https://user-images.githubusercontent.com/693981/188205363-0f24b2a5-3706-4a8c-b38b-7a66baa68ce6.gif)
-
-_Tab stacks_ are, at their heart, the same as a tab group. Try mixing and matching with a tab group on one side and a tab stack on the other.
-
-## New appearance settings
-
-We've introduced quite a few new settings at Settings › Appearance.
-
-Setting
-
-Description
-
-**Show inline title**
-
-Notes now display the full note title inline with the note contents as an _Inline Title_. You can disable this in settings
-
-**Show tab title bar**
-
-Show or hide the title bar at the top of very tab.
-
-**Window frame style**
-
-By default, the UI is now in _Frameless_ mode. The window title is hidden. In settings, you can choose between the new frameless mode, the custom Obsidian frame (old default), and using the native OS window frame.
-
-**Accent color**
-
-There's now an "accent color" color-picker to give your vault its own unique style. Theme support may vary.
-
-**Zoom level**
-
-Controls the overall zoom level of the app.
-
-**Native menus**
-
-Menus will be rendered to match the context menus provided by the operating system. Enabled by default on MacOS.
-
-## Additional Improvements
-
--   The Theme Gallery has gotten a major overhaul. Themes now support versioning just like plugins. Note: Themes that are not compatible with 1.0 have been marked as "legacy" and cannot be installed until they get updated.
--   Added "collapse all" button to file explorer and tag view.
--   Added "Fold more" and "Fold less" commands for folding lines under the cursor.
--   Added "Change theme" command for quickly switching between themes.
--   Auto-generated links to headings now keep more punctuation characters for better contexts.
--   Added "Find & Replace," Export PDF, Share, and text formatting items to macOS app menu.
--   Added `Shift + Up/Down` hotkeys to expand search results while a search item is focused.
--   Renamed "Split vertically" and "Split horizontally" to "Split right" and "Split down" to avoid ambiguity.
--   Pressing `Home` will now move the cursor to the beginning of a list item.
--   Obsidian Sync: The history view has a toggle to choose between seeing the version of a file at a point in time or seeing the diff.
--   Release notes will now automatically show after Obsidian updates.
--   Improved community theme/plugin README.md relative images, added support for videos.
--   Renamed "active file" to "current file" in several commands for better consistency.
--   Improved the overall appearance of the app when "translucent window" is enabled.
--   Soft-wrapping of lines should now better avoid misaligned indents.
--   Added an option to Export to PDF to show the name of the note at the beginning of the document.
--   Publish: "new" and "unchanged" sections are now collapsed by default.
--   Fixed bug with search results containing "path:" sometimes showing duplicate text.
--   Fixed multi-line embedded queries not working.
--   Fix memory leak with loading native system fonts.
--   Fixed crash when file explorer is missing a sort order.
--   `Ctrl/Cmd+W` can now close the vault switcher and help window.
--   File explorer keyboard navigation properly ignores hidden files.
--   Clicking to edit Live Preview widgets (e.g. tables or callouts) will now scroll the view to the beginning of the widget.
--   Word count now works for any text file that can be opened, not just `md` files.
--   macOS: "obsidian" will now be capitalized in the App menu.
--   macOS: commands will no longer refer to Finder as "System Explorer."
--   macOS: right-clicking on top of the cursor will no longer cause the word under the cursor to be selected.
-
-## For Developers
-
--   Workspace information is no longer saved to the `.obsidian/workspace` file. It is now saved to `workspace.json`.
--   Added standard color picker component.
--   Added `has-active-menu` class to file explorer item that received the right-click.
--   Added `list-bullet` class to HTML markup for unordered list items.
--   Theme developers: we have published [a guide for helping get your theme ready for 1.0](https://forum.obsidian.md/t/0-16-0-theme-migration-guide/42537).
-
-## FAQ
-
-**Q.** Why am I seeing the title of my note duplicated at the top of my note?
-
-> We now display the filename as an **Inline Title** to allow filenames to feel more attached to the note. If you already have the heading of your note matching the filename, you might notice some redundancy. You can disable this feature via Appearance › Show inline title.
-
-**Q.** Why does everything look so big/small?
-
-> The new update has made some changes to make Obsidian feel more native to your operating system. To adjust the overall scale of the UI, you can configure the **UI Zoom** level in Settings at Appearance › Advanced › Zoom level.
-
-**Q.** How do I open notes side-by-side now?
-
-> The behavior of `Cmd/Ctrl + Enter` and `Cmd/Ctrl + Click` have changed to opening links in a new tab. To open links in a new pane to the right, you can use `Cmd/Ctrl + Alt + Enter` or `Cmd/Ctrl + Alt + Click`.
-
-**Q.** Why can't I toggle checkboxes with CtrlEnter (or ⌘Enter on MacOS) anymore?
-
-> The default hotkey for "Toggle checkbox status" has been changed to CtrlL (or ⌘L on MacOS). CtrlEnter is now the default hotkey for opening links under the cursor in a new tab. You can change these hotkeys in settings.
-
-A complete list of previous changes can be found on [our forum](https://forum.obsidian.md/c/announcements/13).
+12. The idea that we have virtually no control over our emotions and that we cannot help feeling disturbed about things. Instead of the idea that we have real control over our destructive emotions if we choose to work at changing the “musturbatory” hypotheses which we often employ to create them.
