@@ -31,6 +31,8 @@ cssclass:
 - Select the system tray menu → Win+B
 - Open task manager → Ctrl+Shift+Esc
 
+
+
 ### Windows Explorer 
 
 - Open FIle Explorer → Win+E 
@@ -45,3 +47,7 @@ cssclass:
 - Search Everything → Ctrl+Alt+Shift+S
 - Create a New Sticky Note → Alt+Shift+S
 
+
+#action/🃏ankify  ↓
+
+- Move the active window across different monitors → Win+Shift+Arrow Keys

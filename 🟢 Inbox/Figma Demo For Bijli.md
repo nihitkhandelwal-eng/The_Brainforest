@@ -6,22 +6,25 @@ cssclass:
 
 > Hello Team Bijli !
 
-My name is Nihit. 
+My name is Nihit.  
 I am going to give an introductory demo to Figma
 
 ---
 
+### What is Figma
 - Figma is a UI Design software
 - In Figma, you can create interactive wireframes & set up advanced user interface designs
 
 ---
+
 ### Accessibility
-- Cloud Based i.e. Cross Platform 
+- Cloud Based i.e. Cross Platform
 	- So, it's suitable for collaboration
-- Figma Web v/s App → Font installer is required in web version
+- Figma Web v/s App → Font installer is required in web version  
 ![[Figma Download Options.png|700]]
 
 ---
+
 ### Features
 1. Working in components
 2. Setting up styles
@@ -30,12 +33,14 @@ I am going to give an introductory demo to Figma
 5. Inspect tool to access CSS Snippets
 
 ---
+
 ### Layout
 - Design Files & FigJam Files
-- File Hierarchy
+- File Hierarchy  
 	![[Figma File Hierarchy.png|700]]
 
 ---
+
 ### Basics
 - The blank thing is the canvas, it's like surface of a table that we are working on.
 - On top of it, we will add a design like sheets of paper which are here called as **frames**.
@@ -44,6 +49,7 @@ I am going to give an introductory demo to Figma
 	- It has preloaded setups different screen sizes
 
 ---
+
 #### Wireframing
 - Wireframing is a way to design a website at the structural level.
 - It takes into account, the user needs & user journeys
@@ -61,7 +67,7 @@ I am going to give an introductory demo to Figma
 ---
 
 ### Useful Commands
-> Shortcuts Menu → Ctrl + Shift + ?
+> Shortcuts Menu → Ctrl + Shift + ?  
 > Command Palette → Ctrl + /
 
 - Space bar to pan & move around
@@ -69,6 +75,7 @@ I am going to give an introductory demo to Figma
 - Cmd/Ctrl + D for duplication
 
 ---
+
 ### Left & Right Sidebars
 - The left sidebar is like a mirror to the canvas ^80f9d8
 - The right side bar will have the dimensions & formatting options.
@@ -76,7 +83,8 @@ I am going to give an introductory demo to Figma
 - The right sidebar contains the properties of your objects which can be copied
 
 ---
-#### Objects
+
+### Objects
 - Hold shift to draw shapes of equal length i.e. squares, equilateral triangle etc
 - Rotate the shape OR Curve the edges of the shape
 	- Either from the right side panel
@@ -88,27 +96,35 @@ I am going to give an introductory demo to Figma
 
 ---
 
-#### Groups 
-You can group different layers/objects by selecting the objects by `holding Shift` & then `Ctrl+G`.
+#### Groups
+
+You can group different layers/objects by selecting the objects by `holding Shift` & then `Ctrl+G`.  
 It comes in handy.
 
 ---
-### Styles 
-- They can be either →
-	1. Color styles 
+
+### Styles
+- Style lets you save & apply properties. In this way, large files can be updated in an instant.
+- They can be created for either →
+	1. Color styles
 	2. Text styles
+	3. Grids
+	4. Effects
 - Both text & color styles live independently in the style section & are not tied to any object.
 
 ---
+
 ### Components
 - UI elements that can be re-used across my design
 - These are elements with same layout but they hold different content
 - Main component & instance of the main component
 	- Main component is a filled diamond shaped & purple in color
-	- Instance of the component is a blank diamond 
+	- Instance of the component is a blank diamond
+	- All instances will be linked to the main component
 - Components can be accessed from assets menu
 
 ---
+
 #### You can not override
 - Size
 - Position
@@ -118,6 +134,7 @@ It comes in handy.
 - Point and Bezier positions
 
 ---
+
 #### You can override
 - Colour & Fills
 - Text (content and alignment)
