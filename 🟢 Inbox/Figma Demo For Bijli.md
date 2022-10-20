@@ -164,9 +164,10 @@ It comes in handy.
 
 ### Auto-layout
 - It's property that you can add to frames and components to create designs that adapt to their content.
+- Some times, in your designs, your text might be short or big & then it won't respect distances. Here comes auto-layout
 - It's very powerful & can be used for different scenarios
 - It's available in the right side panel
-- You can use it to align objects, add padding
+- You can use it to align objects, add padding.
 
 ---
 
