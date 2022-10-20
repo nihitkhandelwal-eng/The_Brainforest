@@ -143,3 +143,19 @@ It comes in handy.
 - Opacity
 - Effects (drop shadows, blurs)
 - Visibility (show/hide)
+
+---
+
+### Community 
+- Plugins
+- Components
+- Templates
+- Files
+
+---
+
+#### How to use plugins
+- Demo for Draw Connect
+	- Connectors
+	- Group Connectors 
+	- Hide connectors for clean UI
