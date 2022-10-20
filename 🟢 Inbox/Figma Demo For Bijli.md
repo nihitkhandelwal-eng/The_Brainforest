@@ -87,8 +87,7 @@ I am going to give an introductory demo to Figma
 ### Objects
 - Hold shift to draw shapes of equal length i.e. squares, equilateral triangle etc
 - Rotate the shape OR Curve the edges of the shape
-	- Either from the right side panel
-	- Or by hovering close to the shape once it is selected
+	- Either from the right side panel Or by hovering close to the shape once it is selected
 - Select any object & hold `alt`, then hover over different components to see the exact distance from those objects
 	- You can move these objects with arrow keys while distances are being shown
 	- If you hold shift, it will move large distances, this is called nudging
@@ -121,7 +120,9 @@ It comes in handy.
 	- Main component is a filled diamond shaped & purple in color
 	- Instance of the component is a blank diamond
 	- All instances will be linked to the main component
-- Components can be accessed from assets menu
+	- Any change in the layout of the master component will be reflected in it's instances.
+	- You can also detach any instance from it's masster component
+- Components can be accessed from assets menu & the properties for them are located in the right sidebar.
 
 ---
 
