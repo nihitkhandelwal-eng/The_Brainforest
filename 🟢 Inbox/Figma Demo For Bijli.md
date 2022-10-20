@@ -159,3 +159,19 @@ It comes in handy.
 	- Connectors
 	- Group Connectors 
 	- Hide connectors for clean UI
+
+---
+
+### Auto-layout
+- It's property that you can add to frames and components to create designs that adapt to their content.
+- It's very powerful & can be used for different scenarios
+- It's available in the right side panel
+- You can use it to align objects, add padding
+
+---
+
+#### Constraints in Auto-layout
+1. Horizontal Resizing
+2. Vertical Resizing
+
+- Steep learning curve
