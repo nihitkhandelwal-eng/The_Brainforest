@@ -171,8 +171,12 @@ It comes in handy.
 
 ---
 
-#### Constraints in Auto-layout
-1. Horizontal Resizing
-2. Vertical Resizing
-
-- Steep learning curve
+### Frame Options
+- X-Y
+- Width-Height
+- Angle
+- Curvature
+- Resizing Options
+	- Fill Container
+	- Fixed Width
+	- Hug
