@@ -50,7 +50,7 @@ I am going to give an introductory demo to Figma
 
 ---
 
-#### Wireframing
+## Wireframing
 - Wireframing is a way to design a website at the structural level.
 - It takes into account, the user needs & user journeys
 
@@ -233,3 +233,16 @@ Most of the time the background grid is not what we want but it is the layout gr
 	- Stretch
 
 -  Grid Styles
+
+---
+
+## UI Design
+- For our designs, the typography will need to be more defined than for wireframes.
+- It's really important to have a set type scale to create hierarchy in your design.
+
+---
+
+#### Dynamic Type Sizes
+- For example: In iOS apps, apple provides **Dynamic Type Sizes** & other presets in the "Human Interface Guidelines"
+	- i.e. each of our text styles will correspond to a dynamic text style
+	- Benefit → Later the user can change the default text size & everything will adapt automatically.
