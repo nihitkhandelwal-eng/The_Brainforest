@@ -171,6 +171,12 @@ It comes in handy.
 
 ---
 
+#### Nested Auto-layout
+- Group certain objects & you can give them nested auto layout properties.
+- Give example from Blog frame about the text having padding & not the image
+
+---
+
 ### Frame Options
 - X-Y
 - Width-Height
