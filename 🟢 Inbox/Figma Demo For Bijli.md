@@ -177,7 +177,7 @@ It comes in handy.
 
 ---
 
-### Frame Options
+### Frame & Shape Options
 - Alignment toolbar 
 - X-Y
 - Width-Height
@@ -187,3 +187,17 @@ It comes in handy.
 	- Fill Container
 	- Fixed Width
 	- Hug
+
+---
+
+### Which Frame Size to Use?
+It's ideal that our design be responsive & we could test it on different screen sizes 
+Frames can always be adjusted, but it is best to discuss with your team to make sure that you are all aligned.
+
+1. Valid Data & Popularity
+	- Google analytics & Statcounter
+2. Mobile First Approach
+	- Start with the smallest screen size first as it is easier to scale up than to scale down
+3. Latest Device
+4. Your Device
+	- It sometimes makes sense in small projects
