@@ -178,6 +178,7 @@ It comes in handy.
 ---
 
 ### Frame Options
+- Alignment toolbar 
 - X-Y
 - Width-Height
 - Angle
