@@ -88,9 +88,9 @@ I am going to give an introductory demo to Figma
 - Hold shift to draw shapes of equal length i.e. squares, equilateral triangle etc
 - Rotate the shape OR Curve the edges of the shape
 	- Either from the right side panel Or by hovering close to the shape once it is selected
-- Select any object & hold `alt`, then hover over different components to see the exact distance from those objects
+- Select any object & hold `alt`, then hover over different components to see the exact distance from those objects 
 	- You can move these objects with arrow keys while distances are being shown
-	- If you hold shift, it will move large distances, this is called nudging
+	- If you hold shift, it will move large distances, this is called nudging  ^lamzk2
 		- The nudge amount can be adjusted by using the quick command thing
 
 ---
@@ -193,7 +193,6 @@ It comes in handy.
 ### Which Frame Size to Use?
 It's ideal that our design be responsive & we could test it on different screen sizes 
 Frames can always be adjusted, but it is best to discuss with your team to make sure that you are all aligned.
-
 1. Valid Data & Popularity
 	- Google analytics & Statcounter
 2. Mobile First Approach
@@ -201,3 +200,36 @@ Frames can always be adjusted, but it is best to discuss with your team to make 
 3. Latest Device
 4. Your Device
 	- It sometimes makes sense in small projects
+
+---
+
+### Setting up Grids in Figma
+- Under Layout Grids in the right hand side property panel.
+- The grid will always be of the distances that were set in the `nudge amount` 
+![[Figma Demo For Bijli#^lamzk2]]
+
+---
+
+#### Layout Grids
+Most of the time the background grid is not what we want but it is the layout grid.
+
+- Types of grids
+	- Background
+	- Column
+	- Row
+
+---
+
+#### Settings within Grid
+- Color
+- Count
+- Gutter
+- Margin
+- Width
+- Types
+	- Center
+	- Left
+	- Right
+	- Stretch
+
+-  Grid Styles
