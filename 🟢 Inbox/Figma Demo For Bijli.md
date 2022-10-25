@@ -107,7 +107,7 @@ It comes in handy.
 - They can be created for either →
 	1. Color styles
 	2. Text styles
-	3. Grids
+	3. [[#^f13ddb|Grids]]
 	4. Effects
 - Both text & color styles live independently in the style section & are not tied to any object.
 
@@ -211,6 +211,9 @@ Frames can always be adjusted, but it is best to discuss with your team to make 
 ---
 
 #### Layout Grids
+
+^f13ddb
+
 Most of the time the background grid is not what we want but it is the layout grid.
 
 - Types of grids
