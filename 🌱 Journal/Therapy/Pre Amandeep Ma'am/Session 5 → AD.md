@@ -8,6 +8,10 @@ cssclass:
 ###### Inline Metadata
 date::[[03-Apr-22]]
 
+![[AD → 5.jpg|500]]
+
+![[AD → 5b.jpg|500]]
+
 ![[Apr-3-Psychology-Session.mp3]]
 ### Preparation for job application
 ### Activity Scheduling

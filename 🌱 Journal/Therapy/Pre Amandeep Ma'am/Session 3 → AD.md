@@ -3,10 +3,11 @@ aliases:
 tags: 
 cssclass:
 ---
----
 
 ###### Inline Metadata
 date:: [[20-Mar-22]]
+
+![[AD → 3.jpg|500]]
 
 ## Life Choices & Work 
 ![[Session 2 - Part 2 - Feb 27, 15-21.mp3]]

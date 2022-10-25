@@ -4,8 +4,10 @@ aliases:
 cssclass: 
 ---
 
-###### Inline Metadata
 date:: [[21-Feb-22|20-Feb-22]]
+![[AD → 1.jpg|500]]
+![[AD → 1b.jpg|500]]
+
 ## History Taking 
 - Not able to study since 2019 May
 - Average in studies 

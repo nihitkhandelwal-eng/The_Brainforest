@@ -1,9 +1,10 @@
 Date:: 19 Aug
 
+
 - Started sessions with Happitude Studio with Shrishti Dhupar
 - The sessions are online, so I will be recording it from the next time. Also need to reformat this note.
 
-![[Medication & Therapy Timeline|full]]
+![[Medication Timeline|full]]
 
 ### Changes that I have been experiencing in the past 1 month
 I will break it down by the severity of what I found to be most relevant

@@ -7,6 +7,9 @@ cssclass:
 
 ###### Inline Metadata
 date:: [[27-Mar-22]]
+
+![[AD → 4.jpg|500]]
+
 ## Mixed bag of questions after a 2 hour rant.
 ![[Mar-27-Psychology-Session.mp3]]
 #### Are past events bothering us? If yes, how?

@@ -8,6 +8,9 @@ cssclass:
 ###### Inline Metadata
 date:: [[27-Feb-22]]
 
+![[AD → 2.jpg|500]]
+![[AD → 2b.jpg|500]]
+
 ## Discussion about the questions from previous sessions 
 ![[Session 2 - Part 1 - Feb 27 14-49.mp3]]
 
