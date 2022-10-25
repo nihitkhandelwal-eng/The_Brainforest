@@ -20,8 +20,6 @@ cssclass:
 - Started seeing [[Session 1|Amandeep Ma'am]] from [[15-Sep-22]]
 - Went for a follow up with Dr Ashish Mittal on 11-Oct-22, Amitryptline was removed, Melatonin is continued & Levosulpride was added.
 
-- [ ] Complete this medication & therapy history
-
 
 ![[Confidence Clinic_1.jpg|500]]
 
