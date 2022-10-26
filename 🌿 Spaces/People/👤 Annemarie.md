@@ -1,5 +1,5 @@
 ---
-aliases: [Ann, Anne, Annemarie]
+aliases: [Ann, Anne, Annie]
 tags: type/👤people/😍family
 cssclass:
 DOB: 18-July
