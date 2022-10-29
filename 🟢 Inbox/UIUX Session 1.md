@@ -10,3 +10,4 @@ Design thinking is the process of developing new ways to solve problems by under
 
 It's not a linear path ↓
 ![[5 Key Steps in Design.png]]
+
