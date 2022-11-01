@@ -1,0 +1,11 @@
+### Braindumping
+- Medical Studies
+- Knowledge
+- Health
+- Work
+- Finances
+- Personal Growth
+- Entertainment
+- Family & Interpersonal Relations
+- Household
+- Travel
