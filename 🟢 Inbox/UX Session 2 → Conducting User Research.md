@@ -119,15 +119,11 @@ This means designers should never ask users for solutions & if users tell soluti
 
 ### Introduction
 Hello! Thanks for coming along to talk to me today.
-I am Nihit, a Doctor & UI UX Designer. I would like to ask you a series of questions about your experience with ....
+I am Nihit, a Doctor & UI UX Designer. I would like to ask you a series of questions about your experience with .... 
 As you know, the aim of the research is to find out about what people's experience has been regarding ...
 I don't expect this to last very long, probably about 15-20 minutes.
-I just need to check out a few things before we get started
+I just need to check out a few things before we get started. I know that we talked about recording this interview, but I want to check it again, is that okay?
+Also, if you want to stop at any time or if I ask you a question, that you don't want to answer, please feel free to say so.
 I hope this conversation today, turns out to be pleasant & interesting for the both of us.
+Do you have any questions for me before we get started?
 
-
-Hello, My name is Nihit, I am a Doctor & an aspiring UX UI Designer.  
-I would be asking you a series of questions & I would like 15-30 minutes of your time.  
-For better research, I would like to record this session, Can I do that?  
-I am researching for an app about mental well being & I want to learn a few things from you as part of my research, so that I can create an app that fulfils the need represented by many people.  
-There are no right & wrong answers here, so please talk freely & let me know if there is anything I can do to make you comfortable.
