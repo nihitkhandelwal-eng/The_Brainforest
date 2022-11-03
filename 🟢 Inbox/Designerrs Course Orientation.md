@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: [Designers Course Session 0 ]
 tags:
 cssclass: 
 ---
