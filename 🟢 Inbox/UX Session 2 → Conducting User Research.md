@@ -77,6 +77,14 @@ This means designers should never ask users for solutions & if users tell soluti
 - Ethically sensitive
 - Confidentiality
 
+- No Pitching
+- Past & Present Questions are good
+	- Have you ever..
+	- Tell me about the last time you...
+- **Future Questions are a big NO**
+	- ~~Would you...~~
+	- ~~Will you...~~
+
 #### Beginning the interview
 - Get to know the user, their routine, behavior, habits & lifestyle, use of technology.
 - What does their typical day look like?
@@ -104,6 +112,13 @@ This means designers should never ask users for solutions & if users tell soluti
 6. **Don't provoke yes or no** answers
 
 #### Topic Specific Questions
+- Tell me a story about the last time ................
+	- This is an open ended question, we want to learn things about their experience & then dig in
+	- What was hardest?
+	- *Why was that hard?*
+	- How do you solve it now?
+	- Why is that solution not awesome?
+	- Take note of emotions your customer experiences → Helps in empathizing.
 - When was the last time you...
 - What was the hardest part about...
 	- Tells you the real-life story of the topic
@@ -112,12 +127,44 @@ This means designers should never ask users for solutions & if users tell soluti
 - Why do you usually use this service?
 - What other products or apps have you tried out?
 
-### Anne's Suggestions
-- Do you want me to share the results of this survey with you?
+### Different Types of Questions
+#### Open Discovery Questions
+- "Tell me about .
+- "Could you describe to me how you... / your experience with...?"
+- Frequency and quantity: "How often do you...?" "How much/many..." (how much can also be used to probe level of knowledge like "how much do you know about this topic?")
+- "What ... do you use / do ?"
+- "Why do you ..."
+
+#### Understanding user tasks / activities
+- "Can you describe how you / how you would (task)?"
+- "What are all the things you need to do in order to (task?)"
+- Sequence: "Walk me through (task), how would you?"
+- Comparison: "What is the difference between (task 1) and (other task)?"
+
+#### Performing & Showing
+- "Please / can you show me how you ...."
+
+#### Talking about problems & pain points
+- "How does this problem impact you?"
+- 'How did you solve that issue ? "
+- "What's the hardest / most frustrating part about ...?"
+- "If you had a magic wand, what would you change?"
+
+#### Opinions / points of view / attitude and projections
+- "What do you think about ...?"
+- "What do you like/dislike about...?"
+- "What would your friend/partner/colleague think of that?
+- "Some people ..., other ..., what is your opinion on that?"
+- "Last week I interviewed people who did // said ... What do you think of that idea // how do you feel about this approach?
+
+#### Recalling the past / anticipating the future
+- "Can you recall a situation when you ..., what did you do?"
+- "Can you tell me about your most significant/ memorable experience/interaction with...?"
+- "How do you think ... is going to help you?"
+- "Could you describe the ideal product / experience...?"
 
 
-
-### Introduction
+## My Introduction → First Draft
 Hello! Thanks for coming along to talk to me today.
 I am Nihit, a Doctor & UI UX Designer. I would like to ask you a series of questions about your experience with .... 
 As you know, the aim of the research is to find out about what people's experience has been regarding ...
