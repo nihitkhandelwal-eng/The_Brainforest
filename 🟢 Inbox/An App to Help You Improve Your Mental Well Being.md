@@ -34,6 +34,6 @@ Headspace, Calm, Simple Habit, JOYO, Intellect, UpLift
 - Neelu Didi → Tier 1 → 17:00
 - [x] Chulbul → Tier 3
 - Gaurav Bhaiya → Tier 1 → 
-- Vrinda Mami → Tier 1 → 11:00
+- [x] Vrinda Mami → Tier 1 → 11:00
 
 
