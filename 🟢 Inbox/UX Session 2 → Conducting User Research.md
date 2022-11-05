@@ -174,3 +174,7 @@ Also, if you want to stop at any time or if I ask you a question, that you don't
 I hope this conversation today, turns out to be pleasant & interesting for the both of us.
 Do you have any questions for me before we get started?
 
+
+[[Insights from Interviews]]
+
+
