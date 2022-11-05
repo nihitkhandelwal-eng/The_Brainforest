@@ -164,7 +164,7 @@ This means designers should never ask users for solutions & if users tell soluti
 - "Could you describe the ideal product / experience...?"
 
 
-## My Introduction → First Draft
+### My Introduction → First Draft
 Hello! Thanks for coming along to talk to me today.
 I am Nihit, a Doctor & UI UX Designer. I would like to ask you a series of questions about your experience with .... 
 As you know, the aim of the research is to find out about what people's experience has been regarding ...
@@ -174,7 +174,25 @@ Also, if you want to stop at any time or if I ask you a question, that you don't
 I hope this conversation today, turns out to be pleasant & interesting for the both of us.
 Do you have any questions for me before we get started?
 
-
 [[Insights from Interviews]]
 
-
+### Interview Journal
+- I interviewed 6 users for my app which would help the user in improving their mental well being. These were one-on-one interviews either in person or on video call.  
+- The users were in the age group of 18-40.  
+- 50% of the users were from tier 1 city & 50% from tier 2 city.  
+  
+- I asked them questions which gave me a rough idea as to how they deal with stressors & what is their response to that.  
+	1. How often do they feel depressed / stressed / anxious / frustrated /angry?  
+	2. How do they deal with it?  
+	3. Have they used any app/website to assist them in their mental well being?  
+	4. What is the process they go through while booking a therapy session.  
+  
+After going through some of my interviews, I discovered a few common patterns which were solidified by the time I did all my interviews. These insights & patterns were :-  
+  
+1. A majority of the sample group experience stress & low mood on a frequent basis  
+2. They usually confide in either their spouse, sibling or a best friend  
+3. Majority of the sample group (66%) have not gone for therapy.  
+4. Majority of the sample group (66%) have no trust in the therapeutic process  
+5. 100% of the users from one persona i.e. married women faced issues related to in-laws & are troubled by it.  
+6. Some of the users also mentioned the need for testimonials & trustworthy review, which would increase their trust in the process.  
+7. Almost all of the users in the sample group (84%) have not used any app or website to assite them in their mental well being.
