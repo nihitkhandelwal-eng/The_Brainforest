@@ -1,8 +1,10 @@
 ---
-aliases: [Designers Course Session 0 ]
+aliases: [Designers Course Orientation]
 tags:
 cssclass: 
 ---
+
+Next:: [[UX Session 1 → Introduction to UI & UX Design]]
 
 1. I am from Gurgaon Offline Batch
 2. Completed MBBS last year

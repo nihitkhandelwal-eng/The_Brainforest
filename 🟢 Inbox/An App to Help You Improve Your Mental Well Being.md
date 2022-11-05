@@ -3,7 +3,7 @@ aliases:
 tags:
 cssclass: 
 ---
-
+Next:: [[UX Session 0 → Orientation|Designers Course Orientation]]
 ## Problem Brief
 #### Potential Target Users  
 - Who

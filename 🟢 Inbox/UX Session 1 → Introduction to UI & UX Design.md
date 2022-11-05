@@ -4,6 +4,9 @@ tags:
 cssclass: 
 ---
 
+Next:: [[UX Session 2 → Conducting User Research]] 
+
+UI is a subset of UX
 ### Design Thinking
 Design thinking is the process of developing new ways to solve problems by understanding the user and designing products to provide users with what they truly need.
 
@@ -21,7 +24,7 @@ Design thinking is the process of developing new ways to solve problems by under
 5. Iterate Relentlessly
 
 
-> EDIPT yourself
+### EDIPT yourself
 ![[5 Key Steps in Design.png]]
 
 
