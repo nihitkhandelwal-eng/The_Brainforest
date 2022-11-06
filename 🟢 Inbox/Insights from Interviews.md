@@ -6,7 +6,7 @@ cssclass:
 
 ### Richa Kandpal
 - [[30-Oct-22]] 16:20
-- Fashion Designer, 25, Gurgaon
+- Fashion Designer, 23, Gurgaon
 - Experiences stress frequently
 	- Work related primariliy
 - Experienced low symptoms once a week
