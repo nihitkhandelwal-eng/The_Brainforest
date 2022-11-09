@@ -44,4 +44,19 @@ Scrum is built on 3 pillars & five values (Courage, Focus, Commitment, Respect &
 	- a product backlog
 		- Team's todo list
 	- a sprint backlog 
-	- an increment  (“done”)
+	- an increment  (done)
+
+
+### Sprints
+- A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work.
+- With scrum, a product is built in a series of iterations called sprints that break down big, complex projects into bite-sized pieces.
+- In order to plan your upcoming sprint, you use the sprint planning meeting!
+	- It's a collaborative event where the team answers two basic questions: 
+	1. What work can get done in this sprint 
+	2. How will the chosen work get done?
+
+- Choosing the right work items for Sprint is a collaborative effort between the product owner, scrum master & development team. The product owner discusses the objective that the Sprint should achieve & the product backlog items that, upon completion, word achieve the Sprint goal.
+- During a sprint, the team checks in during the daily scrum, or standup, about how the work is progressing. 
+	- The goal of this meeting is to surface any blockers and challenges that would impact the teams ability to deliver the sprint goal.
+- After a sprint, the team demonstrates what they’ve completed during the sprint review. This is your team’s opportunity to showcase their work to stakeholders and teammates before it hits production.
+- Round out your sprint cycle with my favorite meeting, the sprint retrospective. This is your teams opportunity to identify areas of improvement for the next sprint. With that, you’re ready to start your next sprint cycle.

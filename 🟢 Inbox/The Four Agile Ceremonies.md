@@ -10,4 +10,5 @@ cssclass:
 - These celebrations all happen fairly consistently at key milestones of our lives.
 - The term "agile ceremony" comes from the concept of celebrating key milestones. However, they are less about celebrations and more about establishing consistent checkpoints in the project lifecycle.
 
+![[4-Scrum-ceremonies-side-by-side.png|700]]
 
