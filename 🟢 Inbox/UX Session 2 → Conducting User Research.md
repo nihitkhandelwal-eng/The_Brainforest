@@ -4,6 +4,7 @@ tags:
 cssclass: 
 ---
 
+Next:: [[UX Session 3 → Research Analysis]]
 ## Research
 Research is the systematic study of understanding target users and their requirements. It helps us clear our assumptions we have about our users and their problems.
 
