@@ -46,5 +46,12 @@ While & after categorizing, I saw some deviation from my assumptions in user res
 - Majority of my sample group have trust issues when it comes to mental health.
 
 I also noticed some convergent & divergent insights from the data I organized using affinity maps.
+The convergent insights are shown in the "Motivations & Goals" & "Apprehension & Queries" themes in the affinity diagram.
+
+![[Apprehension & Queries.png]]
+
+
+
+![[Motivations & Goals.png]]
 
 
