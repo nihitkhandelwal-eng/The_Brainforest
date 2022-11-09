@@ -14,10 +14,10 @@ cssclass:
 ### Agile Philosophy in a Nutshell
 There are four values that drive the Agile philosophy of project management:
 
--   **Individuals and interactions** over processes and tools
--   **Working software** over comprehensive documentation
--   **Customer collaboration** over contract negotiation
--   **Responding to change** over following a plan
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
 
 ### Agile Frameworks
 - Since the publication of agile manifesto many agile frameworks have emerged such as Scrum, Kanban, Lean & Extreme Programming
