@@ -27,14 +27,21 @@ cssclass:
 	- Keep it up to date by visiting it often.
 
 ### Journaling the process
-After conducting the interviews, I gained insights into what the user's pain points, motivations & goals are. To get better insights about this, I used affinity mapping methodology to find out significant patterns & data in distinct clusters.
+- After conducting the interviews, I gained insights into what the user's pain points, motivations & goals are. 
+- To get better insights about this, I used affinity mapping methodology to find out significant patterns & data in distinct clusters.
+- I divided the data into 10 categories
+	1. Age
+	2. Location
+	3. Profession
+	4. Marital Status
+	5. User Statement
+	6. Pain Points
+	7. Motivations
+	8. Goals
+	9. Coping Habits
+	10. Opinion on therapy
 
-I divided the data into 10 categories, comprising of User statement, Age, motivation, goals, pain points, personality traits and technology expertise.  
-
-While categorizing, I started to see the pattern in user responses.
-Where earlier I thought that people with older age group would feel unhappy about unwanted groups, I was surprised to this in people between 21 to 30 years of age and there main concerns were -
-
-privacy in sharing contact number
-unwanted notifications
+While & after categorizing, I saw some patterns in user responses.
+- 
 
 
