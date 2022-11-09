@@ -41,7 +41,10 @@ cssclass:
 	9. Coping Habits
 	10. Opinion on therapy
 
-While & after categorizing, I saw some patterns in user responses.
-- 
+While & after categorizing, I saw some deviation from my assumptions in user responses.
+- My assumptions about people's opinion on therapy & on seeking help were not as realistic as they turned out to be.
+- Majority of my sample group have trust issues when it comes to mental health.
+
+I also noticed some convergent & divergent insights from the data I organized using affinity maps.
 
 
