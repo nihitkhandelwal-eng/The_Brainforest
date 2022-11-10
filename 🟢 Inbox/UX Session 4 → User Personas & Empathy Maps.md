@@ -16,7 +16,12 @@ cssclass:
 5. User Quote → User statement i.e. it summarizes what matters most to the persona in relation to the product.
 6. Habits → their current repetitive activities around the problem you are trying to solve.
 7. Personality traits
-8. Motivation
+8. Motivation → The major "why" behind what they want to do using your product or service, their aspirations
+9. Goals
+10. Pain points
+
+*Different Personas call for different interface designs*
+
 
 
 - SWOT Analysis of your competitors, USP of theirs
