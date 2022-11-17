@@ -26,6 +26,15 @@ cssclass:
 - Businessman, 34, Sikar (Rajasthan)
 - Experiences stress frequently
 	- Primarily work related
+	- Change in environment lead to increased & different workload
+- Not happy with what the kind of environment the family is going to have if they live in sikar.
+	- Needs to figure out a place to settle in
+	- Introspection about what it does to family 
+- Apps 
+	- FB
+	- Whatsapp
+	- News Portals → Dawn, News Express, Print
+	- Twitter
 - Reads up on things
 - Shares with spouse & listens to mantra
 - [x] Took 1 session with a therapist
