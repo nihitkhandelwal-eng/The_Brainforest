@@ -36,10 +36,16 @@ cssclass:
 	- News Portals → Dawn, News Express, Print
 	- Twitter
 - Reads up on things
-- Shares with spouse & listens to mantra
-- [x] Took 1 session with a therapist
+- Shares with spouse & sister
+- Took 1 session with a therapist
+	- On recommendation of a close relative
+	- Online session
+	- I was not able to understand it
+	- I think it is for a problem specific issues
+	- My problems are about a larger purpose
 	- I don't feel that it is for me?
 - Extreme → Cognitive Distortion
+	- I tend to go all the way to the extreme states
 	- Solving this is the motivation
 - Went for therapy after being recommended by sister & spouse
 	- Why not by self?
