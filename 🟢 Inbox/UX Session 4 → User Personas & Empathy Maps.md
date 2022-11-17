@@ -92,4 +92,4 @@ Summarizing my user personas using empathy maps.
 - [x] Post survey data in session 4
 
 
-
+	
