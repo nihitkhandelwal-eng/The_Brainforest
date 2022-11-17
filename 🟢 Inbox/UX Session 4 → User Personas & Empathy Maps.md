@@ -23,7 +23,7 @@ cssclass:
 *Different Personas call for different interface designs*
 
 
-#### Resources
+#### Resources for secondary research
 - SWOT Analysis of your competitors, USP of theirs
 - Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
 - bcg

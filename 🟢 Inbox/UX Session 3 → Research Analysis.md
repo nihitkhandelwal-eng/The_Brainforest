@@ -48,10 +48,10 @@ While & after categorizing, I saw some deviation from my assumptions in user res
 I also noticed some convergent & divergent insights from the data I organized using affinity maps.
 The convergent insights are shown in the "Motivations & Goals" & "Apprehension & Queries" themes in the affinity diagram.
 
-![[Apprehension & Queries.png]]
+![[Group 7394.png]]
+
+---
 
 
-
-![[Motivations & Goals.png]]
-
+![[Group 7395.png]]
 
