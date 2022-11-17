@@ -65,15 +65,15 @@ These insights will also help me create an empathy map, which would be the last 
 
 ### Secondary Research
 #### Resources for secondary research
-- SWOT Analysis of your competitors, USP of theirs
+- [x] SWOT Analysis of your competitors, USP of theirs
+	- bcg
+	- IEEE
+	- Gartner
+	- McKinsey & Company
+	- Forbes
 - Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
-- bcg
-- IEEE
-- Gartner
-- McKinsey & Company
-- Forbes
-- put reviews of your competitors in session 4 file
-- [x] post survey on reddit
+	- put reviews of your competitors in session 4 file
+- [x] Post survey on reddit
 - [x] Post survey data in session 4
 
 
