@@ -47,10 +47,25 @@ These insights will also help me create an empathy map, which would be the last 
 
 
 ### Journaling My Empathy Mapping
-- I created empathy map for each of my persona, which really helped me pin point some of the pain points & motivations of the user.  
-- Some of the key pain points I was able to identify was:  
-	1. Unclear as to how to approach someone for professional help  
-	2. Lack of awareness about the idea of professional help.
+I created empathy map for each of my persona, which really helped me pin point some of the pain points & motivations of the user.
+Summarizing my user personas using empathy maps.
+
+**Affirmative Neelu**
+- She is a working professional & a mother who believes in emotional independence but is bound by everyday stress from work & home. 
+- She feels frustrated, stressed & lonely at times & feels better after sharing it with her sister.
+- Often, she would clean her house when feeling low or listens to music
+- She wishes that people in her circle would have advised her to seek help & thinks of therapy as a good idea
+
+**Skeptical Ankit**
+- He is skeptical about things & is looking for answers to his questions. Often wonders about what is he doing.
+- He feels stressed about work, guilty about his family, confused about his thoughts & afraid of his thoughts sometimes
+- He has tried therapy but not followed through with it & might go again if recommended by someone trustworthy
+
+**Curious Saloni**
+- She is a student who has experienced depression & sleep issues for a while.
+- As a result, she feels lonely & is not able to achieve her goals
+- She feels stressed, disturbed, depressed. She feels comforted after her issues are resolved
+- She has talked to a psychiatrist & that helped her, felt the happiest after she was able to sleep well
 
 ![[Neelu → Map.png]]
 
@@ -76,8 +91,5 @@ These insights will also help me create an empathy map, which would be the last 
 - [x] Post survey on reddit
 - [x] Post survey data in session 4
 
-
-- Journal activity 4.2 
-	- Summarize 4 quadrants in 4 lines
 
 
