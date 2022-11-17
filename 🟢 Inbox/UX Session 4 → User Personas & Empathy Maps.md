@@ -20,7 +20,7 @@ cssclass:
 9. Goals
 10. Pain points
 
-*Different Personas call for different interface designs*
+> Different Personas call for different interface designs
 
 
 ### Journaling My User Persona
@@ -46,7 +46,24 @@ These insights will also help me create an empathy map, which would be the last 
 ![[Skeptical Ankit.png]]
 
 
+### Journaling My Empathy Mapping
+- I created empathy map for each of my persona, which really helped me pin point some of the pain points & motivations of the user.  
+- Some of the key pain points I was able to identify was:  
+	1. Unclear as to how to approach someone for professional help  
+	2. Lack of awareness about the idea of professional help.
 
+![[Neelu → Map.png]]
+
+---
+
+![[Ankit → Map.png]]
+
+---
+
+![[Saloni → Map.png]]
+
+
+### Secondary Research
 #### Resources for secondary research
 - SWOT Analysis of your competitors, USP of theirs
 - Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
@@ -55,9 +72,9 @@ These insights will also help me create an empathy map, which would be the last 
 - Gartner
 - McKinsey & Company
 - Forbes
-- [x] post survey on reddit
 - put reviews of your competitors in session 4 file
-- Post survey data in session 4
+- [x] post survey on reddit
+- [x] Post survey data in session 4
 
 
 - Journal activity 4.2 
