@@ -23,7 +23,7 @@ cssclass:
 *Different Personas call for different interface designs*
 
 
-
+#### Resources
 - SWOT Analysis of your competitors, USP of theirs
 - Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
 - bcg
@@ -31,7 +31,7 @@ cssclass:
 - Gartner
 - McKinsey & Company
 - Forbes
-- post survey on reddit
+- [x] post survey on reddit
 - put reviews of your competitors in session 4 file
 - Post survey data in session 4
 
