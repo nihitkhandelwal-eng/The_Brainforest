@@ -19,8 +19,8 @@ Now the thing is that the bank needs guarantee & they say that I am a "high risk
 
 
 ### The Big Transactions
-I am calculating 20k/month as rent+maintainence
-So, I will be keeping track of some of the big payments here.
+I am calculating 20k/month as rent+maintainence → made it to 25k/month after having a discussion with bhai on [[18-Nov-22]]
+So, I will be keeping track of some of the big payments here. → made changes to the subscription tracker & everything will be tracked there,
 
 - 25k₹ → Subscribed to the LYT Workshop 8 & Workshop pro on [[31-May-22]],  [[19-Jul-22]] respectively
 	- This is a one time payment so this will be tracked here
