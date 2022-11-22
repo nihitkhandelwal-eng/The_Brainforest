@@ -8,6 +8,8 @@ cssclass:
 1. Excalidraw
 2. Breadcrumbs
 3. Dataview
+4. Quickadd
+	- https://quickadd.obsidian.guide/docs/
 
 ### Critical Plugins To Explore 
 1. Buttons
