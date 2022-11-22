@@ -20,8 +20,9 @@ There are four values that drive the Agile philosophy of project management:
 - **Responding to change** over following a plan
 
 ### Agile Frameworks
-- Since the publication of agile manifesto many agile frameworks have emerged such as Scrum, Kanban, Lean & Extreme Programming
+- Since the publication of agile manifesto many agile frameworks have emerged such as [[Scrum]], Kanban, Lean & Extreme Programming
 	- Kanban is a popular framework used to implement agile software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
+	- [[Differences between Agile, Scrum & Kanban]]
 - Each embodies the core principles of frequent iteration, continuous learning & high quality in its own way.
 
 
