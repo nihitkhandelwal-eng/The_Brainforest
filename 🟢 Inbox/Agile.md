@@ -4,7 +4,7 @@ tags:
 cssclass: 
 ---
 
-- Agile is an iterative approach to project management and software development
+- Agile is an iterative approach to project management and software development.
 - Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. 
 	- Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 - Agile isn't defined by a set of ceremonies or specific development techniques. Rather, agile is a group of methodologies that demonstrate a commitment to tight feedback cycles and continuous improvement.
