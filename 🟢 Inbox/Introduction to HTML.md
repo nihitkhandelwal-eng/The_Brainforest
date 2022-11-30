@@ -31,9 +31,6 @@ url:: https://www.skillshare.com/en/classes/Hand-Code-Your-First-Website-HTML-CS
 - We write attributes in the opening tag of an HTML element, we use attributes to style elements to tell the browser where to go when you click on a link, what file an image element should display, and plenty more. 
 - An attribute is made up of a name, an equal symbol, and a value, which is wrapped in single or double quotes.
 
-
-
-
 ### What is URL?
 - We give the browser a web address of the file we wanted to access. Now, the proper name or the correct name for web address is U-R-L, which stands for Universal Resource Locator.
 - I like to think of it as a set of directions we can give to the browser about where to find a file. Now, there are two ways of doing this. One is with an absolute URL and two is with a relative URL
@@ -54,13 +51,23 @@ url:: https://www.skillshare.com/en/classes/Hand-Code-Your-First-Website-HTML-CS
 - But now, what if we want some of these elements to be different? One way to make one or more elements difference is by giving an elements a class attributes, and then styling elements with that class differently.
 - If we go to this H1 in the middle and give it a class of big, and we then copy and paste this style onto this H_2 and the last H_2, we save this, we go back to Chrome, we refresh. Nothing's happened. So the class of big doesn't actually do anything. What we need to do is actually write some styles for this class. Let's go back to Sublime Text and just beneath this H_2, we're going to write our selector for all elements with a class of big.
 	- The way we do this is by putting a period and then putting the class name. What this means is that we're saying all elements with a class of big, I declare that you should, and what are we going to do? Well, let's set the font size to something like 60 pixels.
-	- Inside of my first H_1, I've got this word heading. How would I make just that heading a different color? What we'll use is a span element. A span is like a blank box by default. It has no default styles and inherits the text styles from the element it's inside of.
+
+#### Span Element
+- Inside of my first H_1, I've got this word heading. How would I make just that heading a different color? What we'll use is a span element. A span is like a blank box by default. It has no default styles and inherits the text styles from the element it's inside of.
 - If we were to style all span elements, and say all span elements, I want you to have a color of violet. Let's save, and let's go back to Chrome and refresh. You'll see that this span element and this span elements are now both violet, which makes sense. Back in Sublime Text, if we were to say, all span elements inside of an H_1 be color violet, we can write it like this: H_1 space span.
+
+### Styling a HTML File With CSS
 - I found a quite frustrating having to scroll between my styles and my HTML. If I wanted to create multiple pages, I'd have to copy the style elements with all the styles in it and paste it in every single page that I want to look the same. Then if I made a change, all whitespace, any returns, spaces, they're all just seen as one space in HTML.
 -  I'm going to create a new file, and I'm going to save it as a CSS file.
-- instead of having the style elements, we'll now have a link element. We'll start typing link like so, and just like that, Sublime Text will fill in the rest for us. This row attributes stands for relation. We're saying, let's link to this file, and the relation is style sheets, and the type is going to be text CSS. This href looks a lot like an anchor tags href. We can either use an absolute URL, all a relative URL.
-- we just type in a br elements. Again, this is an exception to the rule, there is no closing tag because you can't put anything inside of it.
-- I don't have to keep on scrolling up and down, changing CSS and changing HTML, and that means I can create multiple pages that make use of the same CSS file. Now, let's just do one more thing before we end this lesson. In my test.CSS file, I'm going to give the body a background color.
+- Instead of having the style elements, we'll now have a link element. We'll start typing link like so, and just like that, Sublime Text will fill in the rest for us. This row attributes stands for relation. We're saying, let's link to this file, and the relation is style sheets, and the type is going to be text CSS. This href looks a lot like an anchor tags href. We can either use an absolute URL, all a relative URL.
+- I don't have to keep on scrolling up and down, changing CSS and changing HTML, and that means I can create multiple pages that make use of the same CSS file. 
 
 
+### Debugging
+1. Spelling Errors
+2. Case Sensitivity
+3. Forgetting a period before a class name when writing CSS selectors
 
+Choose a naming convention & stick to it.
+Eg: naming-everything-in-lower-case-&-using-dashes-instead-of-spaces.
+- This is called kebab-case
