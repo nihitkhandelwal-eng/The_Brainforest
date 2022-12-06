@@ -138,15 +138,5 @@ Challenges
 
 - More respondents are seeking psychotherapy, behavioral health help, and treatment at an ER for mental health needs since 2019.1 Respondents reporting mental illness said they have greater fears around keeping their housing, especially if they have children.2 Respondents reporting mental illness were on average 66 percent more likely to report debt across all categories.3 Those who report having a mental health condition but have not sought treatment are 60 percent more likely to declare mental health services unaffordable.4 Those reporting having a mental illness said they were less likely to pursue education or additional training
 
-#### Resources for secondary research
-- SWOT Analysis of your competitors, USP of theirs @→ bcg
-	IEEE
-	Gartner
-	McKinsey & Company
-	Forbes
-- Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
-	- put reviews of your competitors in session 4 file
-- Post survey on reddit
-- Post survey data in session 4
 
-[^1]: 
+[^1]: SWOT Analysis of your competitors, USP of theirs → bcg, IEEE, Gartner, McKinsey & Company, Forbes
