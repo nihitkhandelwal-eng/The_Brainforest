@@ -32,14 +32,15 @@ cssclass:
 18. Obsidian Charts
 19. Obsidian Meta Bind
 20. Obsidian Raindrop
-21. Pixr
-22. Style Settings
-23. Supercharged Links
-24. Task Plugins ^b3d766
-25. Timestamp Notes
-26. Topic Linking
-27. Tracker
-28. Wikipedia
+21. Obsidian Web Browser
+22. Pixr
+23. Style Settings
+24. Supercharged Links
+25. Task Plugins ^b3d766
+26. Timestamp Notes
+27. Topic Linking
+28. Tracker
+29. Wikipedia
 
 ### Plugins To Explore
 1. Activity History
