@@ -84,59 +84,69 @@ Summarizing my user personas using empathy maps.
 
 ## Secondary Research
 I will be doing this with these resources guided by Sandeep Sir[^1]
-### BCG 
-- https://www.forbes.com/sites/grantfreeland/2020/04/13/stress-anxiety-and-depression-will-always-be-a-problem-so-lets-start-addressing-it-now/?sh=43c1daaf2b1f
-- https://www.bcg.com/publications/2022/the-digital-health-care-systems-that-people-deserve
+- BCG 
+	- https://www.forbes.com/sites/grantfreeland/2020/04/13/stress-anxiety-and-depression-will-always-be-a-problem-so-lets-start-addressing-it-now/?sh=43c1daaf2b1f
+	- https://www.bcg.com/publications/2022/the-digital-health-care-systems-that-people-deserve
+- McKinsey
+	- https://www.mckinsey.com/mhi/our-insights/present-company-included-prioritizing-mental-health-and-well-being-for-all
+	- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/mental-health-in-the-workplace-the-coming-revolution
+	- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/overcoming-stigma-three-strategies-toward-better-mental-health-in-the-workplace
+	- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-affordable-is-mental-healthcare-the-long-term-impact-on-financial-health
 
-- Grant FreelandFormer Contributor I am a BCG senior partner writing on the future of leadership and work
-- If nothing else (and, of course, there’s plenty “else”) the global coronavirus pandemic has increased everybody’s stress and anxiety levels, by a lot.
-- anxiety, depression and other mental health pathologies are likely exacerbated by the challenges of leadership.
-- The World Health Organization (WHO) estimates that depression and anxiety alone cost the global economy about $1 trillion a year in lost productivity.
-- The need is simple. If you want to get the most out of your talent, their mental health needs to be a priority.
-- First, you must treat mental health as seriously as physical health. Just because you don’t see a problem does not mean it’s not there. We’re learning that lesson from the coronavirus struggle.
-- tell your own stories, or if you’ve never had such issues, get other senior leaders to tell theirs. I’ve been amazed, as I and other leaders have shared our personal  experiences, how it has legitimized the conversation about mental health, and how employees have then become more willing to take advantage of mental health services.
-
-- Take social determinants into account. Companies need to understand how the social determinants of health may influence the way their products will be adopted and used. During the design process, it’s critical to work closely with a diverse group of people who are experiencing the health problem that the product is intended to address. Treating people as codevelopers rather than as end users is essential to designing a product that meets the needs of those living with disease.
-
-- Unlocking Bionic Care Delivery In this domain, you support telemedicine and other forms of digital health care delivery. Face-to-face contact will remain when patients want or need it, but many routine consultations will take place through laptops and smartphones. BCG estimates that at least $1.6 trillion can be saved globally each year through digital services. One service, which used telemonitoring for patients released from hospitals, generated a 44% reduction in readmissions within 30 days.
-
-Market Trend
-- Emerging Number of Mental Health Professionals
-- Advancements in Mental Health Software with Enhanced Features
-
-Market Drivers
-- The Growing Prevalence of Mental Health Sufferings in People Around the World
-- Need for Automating the Mental Health Process for Easy Management
-
-Opportunities
-- More Awareness in Community Centers and Inpatient Facilities Regarding Mental Health
-- Rising Government Spending and Support for Improvement in Mental Health Systems
-
-Restraints
-- Data Privacy Related Issues in Mental Health Software
-- Lack of Awareness about Mental Health Software Usage
-
-Challenges
-- Regulatory Norms on Mental Health Systems
-
-### Mckinsey
-- https://www.mckinsey.com/mhi/our-insights/present-company-included-prioritizing-mental-health-and-well-being-for-all
-- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/mental-health-in-the-workplace-the-coming-revolution
-- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/overcoming-stigma-three-strategies-toward-better-mental-health-in-the-workplace
-- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-affordable-is-mental-healthcare-the-long-term-impact-on-financial-health
-
+### Surveys & Key Parameters
 - No demographic appears immune to mental-health challenges
-- Failing to address the effects of mental-health and well-being challenges is a missed opportunity for employers
+- More respondents are seeking psychotherapy, behavioral health help, and treatment at an ER for mental health needs since 2019. 
+- Respondents reporting mental illness said they have greater fears around keeping their housing, especially if they have children. 
+- Respondents reporting mental illness were on average 66 percent more likely to report debt across all categories. 
+- Those who report having a mental health condition but have not sought treatment are 60 percent more likely to declare mental health services unaffordable. 
+- Those reporting having a mental illness said they were less likely to pursue education or additional training
+
+1. Market Trend
+	- Emerging Number of Mental Health Professionals
+	- Advancements in Mental Health Software with Enhanced Features
+2. Market Drivers
+	- The Growing Prevalence of Mental Health Sufferings in People Around the World
+	- Need for Automating the Mental Health Process for Easy Management
+3. Opportunities
+	- More Awareness in Community Centers and Inpatient Facilities Regarding Mental Health
+	- Rising Government Spending and Support for Improvement in Mental Health Systems
+4. Restraints
+	- Data Privacy Related Issues in Mental Health Software
+	- Lack of Awareness about Mental Health Software Usage
+5. Challenges
+	- Regulatory Norms on Mental Health Systems
+
+
+### Mental Health & Stigma, A Terrible Paradox 
+- At a time when people are at their most vulnerable and most in need of help, stigma prevents them from reaching out. This terrible paradox can deepen an illness that is often invisible to others.
+	- One plausible reason for both the stigma and undertreatment of behavioral health problems is the **perception that conditions such as depression are less “real” than clearly physical ailments**, such as a broken leg or liver disease. Many people even suspect that curing a mental illness is largely under the volitional control of those suffering from it. Moreover, the treatment of mental illness is often perceived as being imprecise and relatively ineffective.
+	- An evidence-based approach to education allows individuals with stigmatized conditions to humanize them by **sharing their stories.**
+
+### The Cost of Ignoring Mental Health
+- Research shows that workplace stressors such as long hours, economic insecurity, work–family conflict, and high job demands coupled with low job control are as harmful to health as secondhand smoke. Together, they cost the United States approximately $180 billion and 120,000 unnecessary deaths annually.
+	- A 2015 peer-reviewed study estimated the total cost of major depressive disorder in the United States to be $210 billion, a figure that had increased 153 percent since 2000. About half of the economic impact was attributable to costs of treatment, with the rest attributable to absenteeism and presenteeism (being physically at work but not at full productivity) costs incurred in the workplace.
+- The World Health Organization (WHO) estimates that depression and anxiety alone cost the global economy about $1 trillion a year in lost productivity.
+	- First, you must treat mental health as seriously as physical health. Just because you don’t see a problem does not mean it’s not there. We’re learning that lesson from the coronavirus struggle.
+	- Unlocking Bionic Care Delivery In this domain, you support telemedicine and other forms of digital health care delivery. 
+	- **Face-to-face contact will remain when patients want or need it, but many routine consultations will take place through laptops and smartphones. **
+
+### Stress, Depression & Anxiety in the Workplace
+- The need is simple. If you want to get the most out of your talent, their mental health needs to be a priority.
+	- Failing to address the effects of mental-health and well-being challenges is a missed opportunity for employers.
+		- Tell your own stories, or if you’ve never had such issues, get other senior leaders to tell theirs. 
+		- It legitimizes the conversation about mental health, & employees then become more willing to take advantage of mental health services.
+- Anxiety, depression and other mental health pathologies are likely exacerbated by the challenges of leadership.
 - They are three times more likely to experience toxic behaviors and four times more likely to want to leave their organization. They are also more likely to report low job satisfaction, engagement, or other signifiers of positive workplaces.
 
-- Research shows that workplace stressors such as long hours, economic insecurity, work–family conflict, and high job demands coupled with low job control are as harmful to health as secondhand smoke. Together, they cost the United States approximately $180 billion and 120,000 unnecessary deaths annually.
-- A 2015 peer-reviewed study estimated the total cost of major depressive disorder in the United States to be $210 billion, a figure that had increased 153 percent since 2000. About half of the economic impact was attributable to costs of treatment, with the rest attributable to absenteeism and presenteeism (being physically at work but not at full productivity) costs incurred in the workplace.
-- One plausible reason for both the stigma and undertreatment of behavioral health problems is the perception that conditions such as depression are less “real” than clearly physical ailments, such as a broken leg or liver disease. Many people even suspect that curing a mental illness is largely under the volitional control of those suffering from it. Moreover, the treatment of mental illness is often perceived as being imprecise and relatively ineffective.
-
-- At a time when people are at their most vulnerable and most in need of help, stigma prevents them from reaching out. This terrible paradox can deepen an illness that is often invisible to others.
-- An evidence-based approach to education allows individuals with stigmatized conditions to humanize them by sharing their stories.
-
-- More respondents are seeking psychotherapy, behavioral health help, and treatment at an ER for mental health needs since 2019.1 Respondents reporting mental illness said they have greater fears around keeping their housing, especially if they have children.2 Respondents reporting mental illness were on average 66 percent more likely to report debt across all categories.3 Those who report having a mental health condition but have not sought treatment are 60 percent more likely to declare mental health services unaffordable.4 Those reporting having a mental illness said they were less likely to pursue education or additional training
-
+### Actionable Intelligence
+- Take social determinants into account. 
+	- Companies need to understand how the social determinants of health may influence the way their products will be adopted and used. 
+	- During the design process, it’s critical to work closely with a diverse group of people who are experiencing the health problem that the product is intended to address. 
+	- **Treating people as codevelopers rather than as end users is essential to designing a product that meets the needs of those living with disease.**
+- Sharing stories from different people & leaders helps ease the stigma around mental health.
+- Work satisfaction, engagement & other signifiers of positive workplaces needs to be emphasized
+- Since mental health issues cost a lot of money, both in treatment & in work life, treating them in time will save money, it would be a good analytic to showcase the user
+- Since many people even suspect that curing a mental illness is largely under the volitional control of those suffering from it. Moreover, the treatment of mental illness is often perceived as being imprecise and relatively ineffective.
+	- Demonstrating otherwise should be helpful
 
 [^1]: SWOT Analysis of your competitors, USP of theirs → bcg, IEEE, Gartner, McKinsey & Company, Forbes
