@@ -4,7 +4,7 @@ tags:
 cssclass: 
 ---
 
-### User Persona
+## User Persona
 - It's a fictional representation of your ideal customer.
 - These are different user types that might use your sevice, product, site or app in a similar way.
 
@@ -82,8 +82,9 @@ Summarizing my user personas using empathy maps.
 
 ![[Saloni → Map.png]]
 
-### Secondary Research
-url::
+## Secondary Research
+I will be doing this with these resources guided by Sandeep Sir[^1]
+### BCG 
 - https://www.forbes.com/sites/grantfreeland/2020/04/13/stress-anxiety-and-depression-will-always-be-a-problem-so-lets-start-addressing-it-now/?sh=43c1daaf2b1f
 - https://www.bcg.com/publications/2022/the-digital-health-care-systems-that-people-deserve
 
@@ -118,15 +119,34 @@ Restraints
 Challenges
 - Regulatory Norms on Mental Health Systems
 
-#### Resources for secondary research
-- [x] SWOT Analysis of your competitors, USP of theirs
-	- bcg
-	- IEEE
-	- Gartner
-	- McKinsey & Company
-	- Forbes
-- [x] Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
-	- [x] put reviews of your competitors in session 4 file
-- [x] Post survey on reddit
-- [x] Post survey data in session 4
+### Mckinsey
+- https://www.mckinsey.com/mhi/our-insights/present-company-included-prioritizing-mental-health-and-well-being-for-all
+- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/mental-health-in-the-workplace-the-coming-revolution
+- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/overcoming-stigma-three-strategies-toward-better-mental-health-in-the-workplace
+- https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-affordable-is-mental-healthcare-the-long-term-impact-on-financial-health
 
+- No demographic appears immune to mental-health challenges
+- Failing to address the effects of mental-health and well-being challenges is a missed opportunity for employers
+- They are three times more likely to experience toxic behaviors and four times more likely to want to leave their organization. They are also more likely to report low job satisfaction, engagement, or other signifiers of positive workplaces.
+
+- Research shows that workplace stressors such as long hours, economic insecurity, work–family conflict, and high job demands coupled with low job control are as harmful to health as secondhand smoke. Together, they cost the United States approximately $180 billion and 120,000 unnecessary deaths annually.
+- A 2015 peer-reviewed study estimated the total cost of major depressive disorder in the United States to be $210 billion, a figure that had increased 153 percent since 2000. About half of the economic impact was attributable to costs of treatment, with the rest attributable to absenteeism and presenteeism (being physically at work but not at full productivity) costs incurred in the workplace.
+- One plausible reason for both the stigma and undertreatment of behavioral health problems is the perception that conditions such as depression are less “real” than clearly physical ailments, such as a broken leg or liver disease. Many people even suspect that curing a mental illness is largely under the volitional control of those suffering from it. Moreover, the treatment of mental illness is often perceived as being imprecise and relatively ineffective.
+
+- At a time when people are at their most vulnerable and most in need of help, stigma prevents them from reaching out. This terrible paradox can deepen an illness that is often invisible to others.
+- An evidence-based approach to education allows individuals with stigmatized conditions to humanize them by sharing their stories.
+
+- More respondents are seeking psychotherapy, behavioral health help, and treatment at an ER for mental health needs since 2019.1 Respondents reporting mental illness said they have greater fears around keeping their housing, especially if they have children.2 Respondents reporting mental illness were on average 66 percent more likely to report debt across all categories.3 Those who report having a mental health condition but have not sought treatment are 60 percent more likely to declare mental health services unaffordable.4 Those reporting having a mental illness said they were less likely to pursue education or additional training
+
+#### Resources for secondary research
+- SWOT Analysis of your competitors, USP of theirs @→ bcg
+	IEEE
+	Gartner
+	McKinsey & Company
+	Forbes
+- Go to play store, search for apps that are doing what you are trying to do & read their reviews to find pain points
+	- put reviews of your competitors in session 4 file
+- Post survey on reddit
+- Post survey data in session 4
+
+[^1]: 
