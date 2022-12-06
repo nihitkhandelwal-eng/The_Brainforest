@@ -13,3 +13,4 @@
 
 - obsidian://advanced-uri?vault=Nihit's%20Sample%20Vault
 - obsidian://advanced-uri?vault=Nihit's%20Sandbox%20Vault
+
