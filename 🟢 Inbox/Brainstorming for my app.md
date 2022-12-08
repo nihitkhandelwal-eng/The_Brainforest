@@ -20,9 +20,9 @@ cssclass:
 2. Exploring User flow  
 3. Seeking Help User flow  
 4. Booking User flow  
-5. Payment User flow  
-6. Cancelling Appointment User flow  
-7. Profile User flow  
-8. Feedback User flow
+	- Cancelling Appointment User flow  
+	- Payment User flow  
+5. Profile exploration User flow  
+6. Feedback User flow
 
 
