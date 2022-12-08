@@ -23,9 +23,9 @@ cssclass:
 5. Seeking Help User flow
 	- Cancelling Appointment User flow  
 	- Payment User flow  
+	- Feedback User flow
 6. Exploring Resources & Activities User flow 
 7. Socialize User flow
 8. Profile exploration User flow  
-9. Feedback User flow
 
 
