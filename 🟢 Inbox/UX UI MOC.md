@@ -6,6 +6,7 @@ cssclass:
 
 [[An App to Help You Improve Your Mental Well Being]]
 [[Insights from Interviews]]
+[[Brainstorming for my app]]
 
 [[UX Session 0 → Orientation]]
 [[UX Session 1 → Introduction to UI & UX Design]]
