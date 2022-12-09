@@ -51,6 +51,9 @@ Most of the pain points I encountered here were the ones, which are with me sinc
 - A user flow is a series of steps which helps the user achieve his/her goal.
 - As designers, we must ensure the users should be able to achieve their goals in the most efficient way as per the mental model of the user.
 
+> User ko achieve kya karna hai, user ko home achieve nahi karna, isliye home userflow kuch nahi hota 
+> \- Sandeep Sir
+
 ### Journaling User Flow
 
 

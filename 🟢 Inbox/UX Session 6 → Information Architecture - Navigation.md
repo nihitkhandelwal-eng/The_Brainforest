@@ -84,3 +84,5 @@ So, I created a Level 1 navigation comprising of 4 screens
 
 I tried creating a clean & minimal UI with a mix of navigation styles. 
 I emphasized those components which were highly requested during my research process & made them Level 1 Navigation, so that most users can find what they need quickly.
+
+![[Site Map.png]]
