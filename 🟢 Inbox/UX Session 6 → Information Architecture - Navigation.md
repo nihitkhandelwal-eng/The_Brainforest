@@ -74,3 +74,13 @@ Site map helps to identify the structure of mobile/website applications.
 - The designer must keep the cognitive load to a minimum
 
 ### Journaling My Sitemap
+For creating the sitemap for my app, I tried to keep the interface clutter free & as clean as possible.
+
+So, I created a Level 1 navigation comprising of 4 screens
+1. Home
+2. Journal
+3. Seek Help
+4. Profile
+
+I tried creating a clean & minimal UI with a mix of navigation styles. 
+I emphasized those components which were highly requested during my research process & made them Level 1 Navigation, so that most users can find what they need quickly.
