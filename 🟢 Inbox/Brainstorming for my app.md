@@ -5,14 +5,35 @@ cssclass:
 ---
 
 ### Layout
-3 buttons & profile icon & the top right
 1. Home
-	- At the top
-		- Self Help
-		- Seek Help
-	-  
-2. Today
-3. 
+	- Notications
+	- Self Assessment
+		- Information Screen
+			- Different Types of Tests
+	- Growth
+		- Badges
+		- Streaks
+		- Insights
+		- Usage Statistics
+	- Resources
+		- 
+	- Activities
+	- Socialize
+2. Journal
+	- Calendar
+	- Different Types of Journal
+3. Seek Help
+	- SOS Help
+	- Information Filling & Book
+		- Choose the doctor
+4. Profile
+	- App Settings
+	- Edit Profile
+	- View Psychological Profile
+	- View Assessment History
+	- Invite Friends to Unboxed
+	- SOS Resources & Support
+	- Bookmarks
 
 
 ### User Flows
