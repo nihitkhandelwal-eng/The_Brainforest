@@ -16,16 +16,16 @@ cssclass:
 
 
 ### User Flows
-Sign up & Onboarding User flow
-Self Assessment User flow
-Journal User flow
-Analyzing growth User flow  
-Seeking Help User flow
-	Cancelling Appointment  
-	Payment   
-	Feedback 
-Exploring Resources & Activities User flow 
-Socialize User flow
-Profile exploration User flow  
+1. Sign up & Onboarding User flow
+2. Self Assessment User flow
+3. Journal User flow
+4. Analyzing growth User flow  
+5. Seeking Help User flow
+	- Cancelling Appointment  
+	- Payment   
+	- Feedback 
+6. Exploring Resources & Activities User flow 
+7. Socialize User flow
+8. Profile exploration User flow  
 
 
