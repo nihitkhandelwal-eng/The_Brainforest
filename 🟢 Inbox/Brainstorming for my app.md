@@ -16,7 +16,6 @@ cssclass:
 		- Insights
 		- Usage Statistics
 	- Resources
-		- 
 	- Activities
 	- Socialize
 2. Journal
@@ -28,6 +27,7 @@ cssclass:
 		- Choose the doctor
 4. Profile
 	- App Settings
+		- Onboarding
 	- Edit Profile
 	- View Psychological Profile
 	- View Assessment History
