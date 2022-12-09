@@ -14,9 +14,7 @@ cssclass:
 		- Badges
 		- Streaks
 		- Insights
-		- Usage Statistics
-	- Resources
-	- Activities
+	- Resources & Activities
 	- Socialize
 2. Journal
 	- Calendar
