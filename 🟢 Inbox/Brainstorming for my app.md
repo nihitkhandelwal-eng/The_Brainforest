@@ -16,6 +16,8 @@ cssclass:
 		- Insights
 	- Resources & Activities
 	- Socialize
+		- Your Circle
+		- Share Your Story
 2. Journal
 	- Calendar
 	- Different Types of Journal
