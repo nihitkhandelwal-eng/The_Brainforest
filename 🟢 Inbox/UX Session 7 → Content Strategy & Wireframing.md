@@ -14,12 +14,21 @@ Good UX writing makes flows simpler, actions clearer & choices easier. It reduce
 	- It should be actionable
 2. Be concise
 	- Avoid long blocks of text
+	- Eliminate Redundancy
 3. Avoid double negatives
 4. Avoid Jargon
 5. Use specific verbs whenver possible
 6. Make the copy consistent
 7. Write in active voice
 8. Use numerals
+9. Be positive
+10. Use "I"
+	- Use "I" where user wants to tell the system what to do. This will give the user a feeling of personal interaction with  the system
+11. Be user oriented
+12. Avoid All CAPS
+13. Don't over communicate
+14. Be polite
+	- Provide user a way to move out of a difficult situation gracefully
 
 ### Content Inventory
 These 2 images should clear any doubt
