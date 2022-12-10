@@ -4,8 +4,10 @@ tags:
 cssclass:
 ---
 
-This is where we step into Ideate i.e. Step 3 of the EDIPT Process
+Next:: [[UX Session 7 → Content Strategy & Wireframing]]
+Previous:: [[UX Session 5 → Mental Model & User Flows]]
 
+This is where we step into Ideate i.e. Step 3 of the EDIPT Process
 ## Information Architecture
 - It defines how content will be structured & presented to a user when they are interacting with your design.
 - It includes
@@ -68,10 +70,6 @@ Site map helps to identify the structure of mobile/website applications.
 - It shows the relationship between different pages
 - It is the first tangible deliverable showing what you'll be creating.
 - A sitemap is created based on the user flow of the application
-
-### Hick's Law
-- A simple idea that more the choices you present to your user, the longer it will take them to reach a decision.
-- The designer must keep the cognitive load to a minimum
 
 ### Journaling My Sitemap
 For creating the sitemap for my app, I tried to keep the interface clutter free & as clean as possible.

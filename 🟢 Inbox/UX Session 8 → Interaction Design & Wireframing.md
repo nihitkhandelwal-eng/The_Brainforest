@@ -3,6 +3,8 @@ aliases:
 tags: 
 cssclass:
 ---
+Next:: [[UX Session 9 → Setting Up Your Grid]]
+Previous:: [[UX Session 7 → Content Strategy & Wireframing]]
 
 - Interaction design is the design of the interactions b/w users & products
 - How the users interact with the interface is governed by the affordance of the element.
@@ -41,8 +43,8 @@ cssclass:
 **Not To Be Done**
 - Avoid situations where a single gesture might produce 2 different results
 
-
 ### UX Laws
 - **Place important action button within easy reach of the user → Fitts Law**
 - Users have a propensity to best remember the first & last items in a series. →  Serial Position Effect.
-- 
+- A simple idea that more the choices you present to your user, the longer it will take them to reach a decision. →  **Hick's Law**
+	- The designer must keep the cognitive load to a minimum

@@ -4,6 +4,9 @@ tags:
 cssclass: 
 ---
 
+Next:: [[UX Session 4 → User Personas & Empathy Maps]]
+Previous:: [[UX Session 2 → Conducting User Research]]
+
 ### Affinity Mapping
 - It's a method for organizing related facts into distinct clusters.
 	- It's to put the user data you gather together & start making sense of it.
@@ -26,7 +29,7 @@ cssclass:
 	- Since the design is iterative, you affinity diagram should be as well.
 	- Keep it up to date by visiting it often.
 
-### Journaling the process
+### Journaling affinity mapping
 - After conducting the interviews, I gained insights into what the user's pain points, motivations & goals are. 
 - To get better insights about this, I used affinity mapping methodology to find out significant patterns & data in distinct clusters.
 - I divided the data into 10 categories

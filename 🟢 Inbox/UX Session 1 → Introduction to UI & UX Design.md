@@ -5,6 +5,7 @@ cssclass:
 ---
 
 Next:: [[UX Session 2 → Conducting User Research]] 
+Previous:: [[UX Session 0 → Orientation]]
 
 UI is a subset of UX
 ### Design Thinking

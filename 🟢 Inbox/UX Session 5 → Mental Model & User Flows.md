@@ -4,6 +4,9 @@ tags:
 cssclass:
 ---
 
+Next:: [[UX Session 6 → Information Architecture - Navigation]]
+Previous:: [[UX Session 4 → User Personas & Empathy Maps]]
+
 ## Mental Models
 In the area of user experience design (UX design), and the human-computer interaction (HCI) in general, we pay close attention to three leading (software) models:
 1. Implementation model

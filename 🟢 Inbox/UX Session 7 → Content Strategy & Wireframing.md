@@ -1,8 +1,10 @@
 ---
 aliases:
 tags: 
-cssclass: grid
+cssclass: 
 ---
+Next:: [[UX Session 8 → Interaction Design & Wireframing]]
+Previous:: [[UX Session 6 → Information Architecture - Navigation]]
 
 ### UX Writing Principles
 Good UX writing makes flows simpler, actions clearer & choices easier. It reduces complexity & lets people do what they want.
@@ -48,4 +50,4 @@ These 2 images should clear any doubt
 
 - Both Sketch & Digital can be done, but sketch is recommended by Nihit.
 - Many people make high-fidelity wireframes sketches before moving to digital wireframes.
-- Rapid iteration, inexpensive, increased creativity, less learning curves are some of the advantages of high-fidelity sketch wireframe.
+- Rapid iteration, inexpensive, increased creativity, less learning curves are some of the advantages of high-fidelity *sketch* wireframe.

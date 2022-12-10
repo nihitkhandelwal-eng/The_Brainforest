@@ -4,6 +4,9 @@ tags:
 cssclass: 
 ---
 
+Next:: [[UX Session 5 → Mental Model & User Flows]]
+Previous:: [[UX Session 3 → Research Analysis]]
+
 ## User Persona
 - It's a fictional representation of your ideal customer.
 - These are different user types that might use your sevice, product, site or app in a similar way.
@@ -148,5 +151,21 @@ I will be doing this with these resources guided by Sandeep Sir[^1]
 - Since mental health issues cost a lot of money, both in treatment & in work life, treating them in time will save money, it would be a good analytic to showcase the user
 - Since many people even suspect that curing a mental illness is largely under the volitional control of those suffering from it. Moreover, the treatment of mental illness is often perceived as being imprecise and relatively ineffective.
 	- Demonstrating otherwise should be helpful
+
+#### Pain Points from Competitors 
+- Bad color UI
+- Dark Mode  has color issues
+- Non-Intuitive Icons
+- Longer Navigation
+- Data Privacy
+- Doesn't save journal entries
+- Don't pester the user
+- Good Idea bad execution
+- It is good for beginners but not for someone who has had some experience of mental well being.
+- Payment process is very poor & not something a person in need of help will enjoy
+- Poor Gamification & Bugs
+- Poor Onboarding & Bugs
+- Registration Frustrations
+
 
 [^1]: SWOT Analysis of your competitors, USP of theirs → bcg, IEEE, Gartner, McKinsey & Company, Forbes
