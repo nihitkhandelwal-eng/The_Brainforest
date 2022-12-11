@@ -20,3 +20,5 @@ cssclass:
 [[UX Session 8 → Interaction Design & Wireframing]]
 [[UX Session 9 → Setting Up Your Grid]]
 [[UX Session 10 → UI Components & High Fidelity Wireframes]]
+[[UX Session 11 → UI Design & Prototyping Tools]]
+
