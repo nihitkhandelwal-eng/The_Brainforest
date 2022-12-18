@@ -22,3 +22,7 @@ cssclass:
 [[UX Session 10 → UI Components & High Fidelity Wireframes]]
 [[UX Session 11 → UI Design & Prototyping Tools]]
 
+
+- Medical Sector Companies 
+	- Immertive
+	- 
