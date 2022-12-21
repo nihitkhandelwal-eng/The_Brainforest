@@ -126,6 +126,12 @@ h1 h2 {
 }
 ```
 
+It may be useful if you find the use case
+```CSS
+p span{
+    text-transform: uppercase;
+}
+```
 
 ### CSS Selector
 There are three levels of selectors that are the most common.
