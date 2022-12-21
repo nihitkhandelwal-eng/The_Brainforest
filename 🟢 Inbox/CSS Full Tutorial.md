@@ -22,45 +22,6 @@ CSS is among the core languages of the **open web** and is standardized across
 	- Consider html as the foundation and structure so if you think about a new building or a house that is being built and you see that structure go up that is the foundation that's everything that holds it together.
 	- However the css is the paint and the carpet and the wallpaper or anything any decorations anything that makes it look good.
 
-### Anatomy of a CSS Ruleset
-![[Pasted image 20221221153047.png|700]]
-The whole structure is called a **ruleset**. (The term _ruleset_ is often referred to as just _rule_.)
-
-**Selector**
-This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled (in this example, [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements). To style a different element, change the selector.
-
-**Declaration**
-This is a single rule like `color: red;`. It specifies which of the element's **properties** you want to style.
-
-**Properties**
-These are ways in which you can style an HTML element. (In this example, `color` is a property of the [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements.) In CSS, you choose which properties you want to affect in the rule.
-
-**Property value**
-To the right of the property—after the colon—there is the **property value**. This chooses one out of many possible appearances for a given property. (For example, there are many `color` values in addition to `red`.)
-
-*Note the other important parts of the syntax:*
--   Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
--   Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
--   Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
-
-
-To **modify multiple property values in one ruleset**, write them separated by semicolons, like this:
-```CSS
-p {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
-}
-```
-
-You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
-```CSS
-p, li, h1 {
-  color: red;
-}
-```
-
-
 ### Applying CSS to our Document
 - There are three different ways to apply css to our document there is 
 	- [[#External Style Sheet|External style sheet]]  
@@ -116,6 +77,55 @@ p, li, h1 {
 - Internal v/s External → No one, it is just interpreted as another style sheet. The only difference is the cascade or the order in which they're read, so it reads the style sheet from top to bottom, bottom is considered as the latest one.
 - Inline CSS → It takes precedence because it is specific.
 - But because we want separation of our concerns, so the best & the most common way to use CSS is via external style sheet. 
+	
+### Anatomy of a CSS Ruleset
+![[Pasted image 20221221153047.png|700]]
+The whole structure is called a **ruleset**. (The term _ruleset_ is often referred to as just _rule_.)
+
+**Selector**
+This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled (in this example, [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements). To style a different element, change the selector.
+
+**Declaration**
+This is a single rule like `color: red;`. It specifies which of the element's **properties** you want to style.
+
+**Properties**
+These are ways in which you can style an HTML element. (In this example, `color` is a property of the [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements.) In CSS, you choose which properties you want to affect in the rule.
+
+**Property value**
+To the right of the property—after the colon—there is the **property value**. This chooses one out of many possible appearances for a given property. (For example, there are many `color` values in addition to `red`.)
+
+*Note the other important parts of the syntax:*
+-   Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
+-   Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
+-   Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
+
+
+###### Multiple Property Values in one rule
+To **modify multiple property values in one ruleset**, write them separated by semicolons, like this:
+```CSS
+p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+```
+
+###### Selecting Multiple Elements For 1 Ruleset
+You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
+```CSS
+h1, h2 {
+  color: red;
+}
+```
+
+###### Inheritance 
+If we remove the comma, now our selector is only looking for h2 nested in h1 i.e. h2's that exist inside of an h1
+```CSS
+h1 h2 {
+  color: red;
+}
+```
+
 
 ### CSS Selector
 There are three levels of selectors that are the most common.
@@ -134,3 +144,4 @@ There are three levels of selectors that are the most common.
 		- Sometimes element selectors
 		- Rarely, if ever use ID in your CSS
 	- They do have other uses, like in HTML & Java Script
+4. Universal Selector
