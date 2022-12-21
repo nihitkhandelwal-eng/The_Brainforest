@@ -24,6 +24,45 @@ CSS is among the core languages of the **open web** and is standardized across
 
 ### Anatomy of a CSS Ruleset
 ![[Pasted image 20221221153047.png|700]]
+The whole structure is called a **ruleset**. (The term _ruleset_ is often referred to as just _rule_.)
+
+**Selector**
+This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled (in this example, [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements). To style a different element, change the selector.
+
+**Declaration**
+This is a single rule like `color: red;`. It specifies which of the element's **properties** you want to style.
+
+**Properties**
+These are ways in which you can style an HTML element. (In this example, `color` is a property of the [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements.) In CSS, you choose which properties you want to affect in the rule.
+
+**Property value**
+To the right of the property—after the colon—there is the **property value**. This chooses one out of many possible appearances for a given property. (For example, there are many `color` values in addition to `red`.)
+
+*Note the other important parts of the syntax:*
+-   Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
+-   Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
+-   Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
+
+
+To **modify multiple property values in one ruleset**, write them separated by semicolons, like this:
+```CSS
+p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+```
+
+You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
+```CSS
+p,
+li,
+h1 {
+  color: red;
+}
+```
+
+
 ### Applying CSS to our Document
 - There are three different ways to apply css to our document there is 
 	- [[#External Style Sheet|External style sheet]]  
