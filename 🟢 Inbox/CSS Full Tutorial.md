@@ -55,9 +55,7 @@ p {
 
 You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
 ```CSS
-p,
-li,
-h1 {
+p, li, h1 {
   color: red;
 }
 ```
@@ -118,3 +116,21 @@ h1 {
 - Internal v/s External → No one, it is just interpreted as another style sheet. The only difference is the cascade or the order in which they're read, so it reads the style sheet from top to bottom, bottom is considered as the latest one.
 - Inline CSS → It takes precedence because it is specific.
 - But because we want separation of our concerns, so the best & the most common way to use CSS is via external style sheet. 
+
+### CSS Selector
+There are three levels of selectors that are the most common.
+
+1. Element Selector
+	- Element selectors select all of the elements of that type so just specifying p for the paragraph element selects all paragraph elements
+2. Classes
+	- Class starts with a period, before you write the name of the class, the name can be anything, as long as it makes sense to you & others in your team
+	- Classes are used to create styles, that you can apply throughout your page & then they can be re-used with more than one element.
+	- These are more specific, hence they overrule settings set by element selectors
+3. ID Selector
+	- Most specific
+	- They should be unique
+	- It is not good practice to use ID in your CSS 
+		- Classes are most commonly used
+		- Sometimes element selectors
+		- Rarely, if ever use ID in your CSS
+	- They do have other uses, like in HTML & Java Script
