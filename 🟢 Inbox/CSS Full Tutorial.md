@@ -161,9 +161,14 @@ Universal Selector
     color: aqua;
 }
 ```
-### Cascading
+### Cascading & Inheritance
 - Since CSS is Cascading Style Sheet, i.e it works like a waterfall, from top to down.
 - Whichever ruleset it reads last, is what it will follow.
 - Specificity can override this & that's where classes come in.
 	- Classes are more specific than elements
-	- So, even if classes are mentioned earlier than element ruleset, classes will override
+	- So, even if classes are mentioned earlier than element ruleset, classes will override.
+
+> [!note]
+> If you are not able to figure out the error in your code, just inspect it on the browser & it will tell you which class is over-riding what
+
+Inheritance is where one element inherits the settings from it's parent element.
