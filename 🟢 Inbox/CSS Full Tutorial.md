@@ -151,3 +151,19 @@ There are three levels of selectors that are the most common.
 		- Rarely, if ever use ID in your CSS
 	- They do have other uses, like in HTML & Java Script
 4. Universal Selector
+	- It selects everything on the page
+	- It is primarity used in CSS reset or to set constants
+
+Universal Selector
+```CSS
+* {
+    font-family: monospace;
+    color: aqua;
+}
+```
+### Cascading
+- Since CSS is Cascading Style Sheet, i.e it works like a waterfall, from top to down.
+- Whichever ruleset it reads last, is what it will follow.
+- Specificity can override this & that's where classes come in.
+	- Classes are more specific than elements
+	- So, even if classes are mentioned earlier than element ruleset, classes will override
