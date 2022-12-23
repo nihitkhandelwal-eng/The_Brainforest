@@ -217,7 +217,7 @@ Universal Selector
 | element            | p          | Selects all `<p>` elements                        |
 | element,element,.. | div, p     | Selects all `<div>` elements and all `<p>` elements |
 
-
+ 
 ### Cascading & Inheritance
 - Since CSS is Cascading Style Sheet, i.e it works like a waterfall, from top to down.
 - Whichever ruleset it reads last, is what it will follow.
@@ -336,13 +336,20 @@ p{
 ![[brave_FOIA72EgF0.png]]
 
 #### RGB & HEX
+- An RGB color value represents RED, GREEN, and BLUE light sources.
 - RGB has values ranging from 0-255
+- Shades of gray are often defined using equal values for all the 3 light sources.
+	- rgb(45, 45, 45) 
+	- rgb(78, 78, 78)
+	- `#3c3c3c`
+	- `#f9f9f9`
 - HEX goes from 0 to 9 and then also uses letters 'a through f'
 	- 0 just like we learned with rgb is the absence of color so six zeros is once again black.
 	- The highest value being the letter f that is full red, green and blue i.e. white.
 	- So, `#FF0000` is red, likewise `#00FF00` is green & `#0000FF` is blue 
 	- Shorthand for R,G & B would be `#F00`, `#0F0` & `#00F`
 		-  For shorthands, they need to be a pair (`#808080` cannot be written as shorthand)
+		- The 3-digit hex code can only be used when both the values (RR, GG, and BB) are the same for each component.
 - RGBA stands for Red, green, blue, alpha channel
 	- This alpha channel guides the transparency
 	- Alpha channel or 'a' has a value from 0 to 1 
@@ -369,4 +376,3 @@ image: https://coolors.co/assets/img/og_image.png
 - So, to have good color contrast & better color pallette's, here are some resources
 	- [Coolors.co](https://coolors.co/contrast-checker) →  [Check Contrast Ratio](https://coolors.co/contrast-checker)
 	- [Web Accessibility In Mind](https://webaim.org/)
-	- 
