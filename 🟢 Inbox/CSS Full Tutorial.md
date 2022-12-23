@@ -355,6 +355,16 @@ p{
 - Saturation basically is the intensity of a color
 
 #### Accessibility & Legibility
+
+```cardlink
+url: https://coolors.co/
+title: "Coolors - The super fast color palettes generator!"
+description: "Generate or browse beautiful color combinations for your designs."
+host: coolors.co
+favicon: /assets/img/favicon.png
+image: https://coolors.co/assets/img/og_image.png
+```
+
 - Legibility and accessibility are very important considerations as you pick colors for your web page
 - So, to have good color contrast & better color pallette's, here are some resources
 	- [Coolors.co](https://coolors.co/contrast-checker) →  [Check Contrast Ratio](https://coolors.co/contrast-checker)
