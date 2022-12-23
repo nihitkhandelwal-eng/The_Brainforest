@@ -324,6 +324,17 @@ p {
 	- Borders
 - Like every typography type property, color will also follow the rules of inheritance & so, you can override certain values by specifying a specific element & at the same time, set color value in the body itself.
 
+```css
+p{
+    color: rgb(12, 25, 200);
+    color: rgba(148, 211, 131, 0.699);
+    color: #FF00FF;
+    color: hsla(0, 39%, 47%, 0.658);
+}
+```
+
+![[brave_FOIA72EgF0.png]]
+
 #### RGB & HEX
 - RGB has values ranging from 0-255
 - HEX goes from 0 to 9 and then also uses letters 'a through f'
@@ -343,13 +354,9 @@ p {
 - Lightness if at 0%, means black, if at 100%, means white.
 - Saturation basically is the intensity of a color
 
-```css
-p{
-    color: rgb(12, 25, 200);
-    color: rgba(148, 211, 131, 0.699);
-    color: #FF00FF;
-    color: hsla(0, 39%, 47%, 0.658);
-}
-```
-
-![[brave_FOIA72EgF0.png]]
+#### Accessibility & Legibility
+- Legibility and accessibility are very important considerations as you pick colors for your web page
+- So, to have good color contrast & better color pallette's, here are some resources
+	- [Coolors.co](https://coolors.co/contrast-checker) →  [Check Contrast Ratio](https://coolors.co/contrast-checker)
+	- [Web Accessibility In Mind](https://webaim.org/)
+	- 
