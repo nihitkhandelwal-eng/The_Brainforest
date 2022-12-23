@@ -40,6 +40,8 @@ CSS removed the style formatting from the HTML page!
 	- We could apply [[#In-Line CSS|css inline]] with an element
 
 ###### External Style Sheet
+- External styles are defined within the `<link>` element, inside the `<head>` section of an HTML page
+
 ``` html
 <!DOCTYPE html>
 <html lang="en">
@@ -54,6 +56,9 @@ CSS removed the style formatting from the HTML page!
 ```
 
 ###### Internal Style Sheet
+- An internal style sheet may be used if one single HTML page has a unique style.
+- The internal style is defined inside the `<style>` element, inside the head section.
+
 ``` html
 <!DOCTYPE html>
 <html lang="en">
@@ -72,6 +77,9 @@ CSS removed the style formatting from the HTML page!
 ```
 
 ###### In-Line CSS
+- An inline style may be used to apply a unique style for a single element.
+- To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -85,18 +93,23 @@ CSS removed the style formatting from the HTML page!
 ```
 
 ##### Which style takes precedence?
+- What style will be used when there is more than one style specified for an HTML element?
+- All the styles in a page will "cascade" into a new "virtual" style sheet by the following rules, where number one has the highest priority:
+
+1. Inline style (inside an HTML element)
+2. External and internal style sheets (in the head section)
+3. Browser default
+
+So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
+
 - Internal v/s External → No one, it is just interpreted as another style sheet. The only difference is the cascade or the order in which they're read, so it reads the style sheet from top to bottom, bottom is considered as the latest one.
 - Inline CSS → It takes precedence because it is specific.
 - But because we want separation of our concerns, so the best & the most common way to use CSS is via external style sheet. 
-	
+
 ### Anatomy of a CSS Ruleset
 ![[Pasted image 20221221153047.png|700]]
 The whole structure is called a **ruleset**. (The term _ruleset_ is often referred to as just _rule_.)
 
-- The selector points to the HTML element you want to style.
-- The declaration block contains one or more declarations separated by semicolons.
-- Each declaration includes a CSS property name and a value, separated by a colon.
-- Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
 ![[img_selector.gif]]
 
@@ -113,9 +126,15 @@ These are ways in which you can style an HTML element. (In this example, `color
 To the right of the property—after the colon—there is the **property value**. This chooses one out of many possible appearances for a given property. (For example, there are many `color` values in addition to `red`.)
 
 *Note the other important parts of the syntax:*
--   Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
--   Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
--   Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
+- The selector points to the HTML element you want to style.
+- Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
+- Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
+- Within each ruleset, you must use a semicolon (`;`) to separate each declaration from the next one.
+
+> [!note]
+> Do not add a space between the property value and the unit:  
+> Incorrect (space): `margin-left: 20 px;`  
+> Correct (nospace): `margin-left: 20px;`
 
 
 ###### Multiple Property Values in one rule
@@ -129,29 +148,37 @@ p {
 ```
 
 ###### Selecting Multiple Elements For 1 Ruleset
-You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
+- You can also **select multiple elements and apply a single ruleset to all of them**. Separate multiple selectors by commas. 
 ```CSS
 h1, h2 {
   color: red;
 }
 ```
 
-###### Inheritance 
-If we remove the comma, now our selector is only looking for h2 nested in h1 i.e. h2's that exist inside of an h1
+- If we remove the comma, now our selector is only looking for h2 nested in h1 i.e. h2's that exist inside of an h1
 ```CSS
 h1 h2 {
   color: red;
 }
 ```
 
-It may be useful if you find the use case
+- It may be useful if you find the use case
+- In this example only `<p>` elements with class="center" will be red and center-aligned
+
 ```CSS
-p span{
-    text-transform: uppercase;
+p.center {
+    text-align: center;
+    color: red;
 }
 ```
 
+- In this example the `<p>` element will be styled according to class="center" and to class="large"
+```css
+<p class="center large">This paragraph refers to two classes.</p>
+```
+
 ### CSS Selector
+A CSS selector selects the HTML element(s) you want to style.
 There are three levels of selectors that are the most common.
 
 1. Element Selector
@@ -179,6 +206,18 @@ Universal Selector
     color: aqua;
 }
 ```
+
+
+| Selector           | Example    | Example description                             |
+|--------------------|------------|-------------------------------------------------|
+| `#id`                | `#firstname` | Selects the element with id="firstname"         |
+| .class             | .intro     | Selects all elements with class="intro"         |
+| element.class      | p.intro    | Selects only `<p>` elements with class="intro"    |
+| *                  | *          | Selects all elements                            |
+| element            | p          | Selects all `<p>` elements                        |
+| element,element,.. | div, p     | Selects all `<div>` elements and all `<p>` elements |
+
+
 ### Cascading & Inheritance
 - Since CSS is Cascading Style Sheet, i.e it works like a waterfall, from top to down.
 - Whichever ruleset it reads last, is what it will follow.
