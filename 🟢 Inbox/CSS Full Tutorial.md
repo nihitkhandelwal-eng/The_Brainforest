@@ -312,16 +312,44 @@ p {
 ### Colors
 - Colors are specified using predefined color names, RGB, HEX, HSL, RGBA, HSLA values.
 	- CSS/HTML support [140 standard color names](https://www.w3schools.com/colors/colors_names.asp).
+	- RGB → Red, Green, Blue
+		- RGBA → RGB + Alpha Channel
+	- HEX → Hexadecimal Color
+	- HSL → Hue, Saturation & Lightness
+		- HSLA → HSL + Alpha Channel
+	- RGB & HEX Codes are most used 
 - You can set colors for
 	- Background
 	- Text
 	- Borders
 - Like every typography type property, color will also follow the rules of inheritance & so, you can override certain values by specifying a specific element & at the same time, set color value in the body itself.
-- RGB & HEX Codes are most used & are self-explanatory
+
+#### RGB & HEX
+- RGB has values ranging from 0-255
+- HEX goes from 0 to 9 and then also uses letters 'a through f'
+	- 0 just like we learned with rgb is the absence of color so six zeros is once again black.
+	- The highest value being the letter f that is full red, green and blue i.e. white.
+	- So, `#FF0000` is red, likewise `#00FF00` is green & `#0000FF` is blue 
+	- Shorthand for R,G & B would be `#F00`, `#0F0` & `#00F`
+		-  For shorthands, they need to be a pair (`#808080` cannot be written as shorthand)
 - RGBA stands for Red, green, blue, alpha channel
 	- This alpha channel guides the transparency
-	- RGB has values ranging from 0-255
-	- Alpha channel or 'a' has a value from 0 to 1
-		- 1 would be like as if alpha channel was not there, that would be the full color that you specify
-		- 0 would make it completely
+	- Alpha channel or 'a' has a value from 0 to 1 
+		- 1 would be like as if alpha channel was not there, that would be the full color that you specify.
+		- 0 would make it completely transparent
+		- We could put it at anywhere b/w 0 to 1 & it will render accordingly
 
+#### HSL
+- Lightness if at 0%, means black, if at 100%, means white.
+- Saturation basically is the intensity of a color
+
+```css
+p{
+    color: rgb(12, 25, 200);
+    color: rgba(148, 211, 131, 0.699);
+    color: #FF00FF;
+    color: hsla(0, 39%, 47%, 0.658);
+}
+```
+
+![[brave_FOIA72EgF0.png]]
