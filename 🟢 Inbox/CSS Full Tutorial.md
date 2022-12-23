@@ -309,3 +309,19 @@ p {
     font: 100;
 }
 ```
+### Colors
+- Colors are specified using predefined color names, RGB, HEX, HSL, RGBA, HSLA values.
+	- CSS/HTML support [140 standard color names](https://www.w3schools.com/colors/colors_names.asp).
+- You can set colors for
+	- Background
+	- Text
+	- Borders
+- Like every typography type property, color will also follow the rules of inheritance & so, you can override certain values by specifying a specific element & at the same time, set color value in the body itself.
+- RGB & HEX Codes are most used & are self-explanatory
+- RGBA stands for Red, green, blue, alpha channel
+	- This alpha channel guides the transparency
+	- RGB has values ranging from 0-255
+	- Alpha channel or 'a' has a value from 0 to 1
+		- 1 would be like as if alpha channel was not there, that would be the full color that you specify
+		- 0 would make it completely
+
