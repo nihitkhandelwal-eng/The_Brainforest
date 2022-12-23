@@ -171,4 +171,69 @@ Universal Selector
 > [!note]
 > If you are not able to figure out the error in your code, just inspect it on the browser & it will tell you which class is over-riding what
 
-Inheritance is where one element inherits the settings from it's parent element.
+Inheritance is where one element inherits the settings/properties from it's parent element.
+
+Like in the case below, body element is parent to all the other elements
+```CSS
+body {
+    font-size: 22px;
+}
+
+p {
+    color: red;
+}
+```
+
+Typically anything related to font or typography is inherited & that can include things like, color, line-height, alignment etc.
+But properties not related to those things are not inherited, such as border.
+Also, form elements do not inherit properties (eg: button, textarea, input, select)
+
+> [!caution]
+> In case of the universal selector, it's not inheritance, it's actually selecting all elements
+
+```CSS
+* {
+    color: green;
+    border: 1px dashed red;
+}
+```
+ This will apply border to every element
+
+Inheritance keeps us from writing the same code again & again, it **keeps our code DRY (Don't repeat yourself)**
+
+So, a good practice to keep your code DRY is to use inheritance with either the body element or the HTML element, which then also allows you to specify different properites for body element. Main element is also a good way to inherit.
+
+```CSS
+html{
+    font-size: 22px;
+}
+```
+
+```css
+main{
+    font-family: monospace;
+}
+```
+
+#### Important Flag
+- Sometime something's not working out and you're wanting to figure out why it's not working out or you just can't figure it out and you get frustrated.
+- There is something you can do but it is recommended that you do not use it & it's the nuclear option.
+- It's to put an exclamation mark and put important flag & it will override everything else.
+- When you see it in code it's kind of an indication that it's not well organized or it's sloppy there's only a few reasons you would really want to use this
+- **Don't use it** 
+- You need to learn how to organize your code and apply it correctly and only after you've learned css well enough to understand when to use that important flag that's the only time you should use it 
+- You should really not give up the struggle you will learn more by struggling and learning how to apply these selectors in the proper way without using that important flag.
+
+```css
+p{
+    color: purple!important;
+}
+
+p{
+    color: red;
+}
+```
+
+
+#### Specificity Calculator
+- [Specificity calculator](https://specificity.keegan.st/) will certainly help you understand why one rule is being applied or why one selector is being applied over another.
