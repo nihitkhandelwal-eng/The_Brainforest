@@ -294,3 +294,18 @@ p{
 
 #### Specificity Calculator
 - [Specificity calculator](https://specificity.keegan.st/) will certainly help you understand why one rule is being applied or why one selector is being applied over another.
+
+### Comments
+- Comments are used to explain the code, and may help when you edit the source code at a later date.
+- Comments are ignored by browsers.
+- You can add comments wherever you want in the code
+- Comments can also span multiple lines
+
+```css
+p {
+    color: red; /* fdf
+    fdf
+     */
+    font: 100;
+}
+```
