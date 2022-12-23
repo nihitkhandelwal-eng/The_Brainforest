@@ -97,8 +97,4 @@ Helper class for [Cards](https://minimal.guide/Block+types/Cards) feature
 | `cards-2-3` | Fit images in cards to 2:3 ratio |
 | `cards-cols-1` to `8` | Force a specific number of columns (from 1 to 8) |
 
-Table of contents
 
-How to use helper classes
-
-Line width control for tables, images and iframes

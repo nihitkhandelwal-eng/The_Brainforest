@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-cssclass: 
+cssclass: table-small
 ---
 
 ### Introduction to CSS
@@ -207,16 +207,13 @@ Universal Selector
 }
 ```
 
-
-| Selector           | Example    | Example description                             |
-|--------------------|------------|-------------------------------------------------|
-| `#id`                | `#firstname` | Selects the element with id="firstname"         |
-| .class             | .intro     | Selects all elements with class="intro"         |
-| element.class      | p.intro    | Selects only `<p>` elements with class="intro"    |
-| *                  | *          | Selects all elements                            |
-| element            | p          | Selects all `<p>` elements                        |
-| element,element,.. | div, p     | Selects all `<div>` elements and all `<p>` elements |
-
+| Selector name                                              | What does it select                                                                                              | Example                                                                              |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Element selector (sometimes called a tag or type selector) | All HTML elements of the specified type.                                                                         | `p`   selects `<p>`                                                                  |
+| ID selector                                                | The element on the page with the specified ID. On a given HTML page, each id value should be unique.             | `#my-id`  selects `<p id="my-id">` or `<a id="my-id">`                               |
+| Class selector                                             | The element(s) on the page with the specified class. Multiple instances of the same class can appear on a page.  | `.my-class`  selects `<p class="my-class">` and `<a class="my-class">`               |
+| Attribute selector                                         | The element(s) on the page with the specified attribute.                                                         | `img[src]`  selects `<img src="myimage.png">` but not `<img>`                        |
+| Pseudo-class selector                                      | The specified element(s), but only when in the specified state. (For example, when a cursor hovers over a link.) | `a:hover`  selects `<a>`, but only when the mouse pointer is hovering over the link. |
  
 ### Cascading & Inheritance
 - Since CSS is Cascading Style Sheet, i.e it works like a waterfall, from top to down.
@@ -376,3 +373,28 @@ image: https://coolors.co/assets/img/og_image.png
 - So, to have good color contrast & better color pallette's, here are some resources
 	- [Coolors.co](https://coolors.co/contrast-checker) →  [Check Contrast Ratio](https://coolors.co/contrast-checker)
 	- [Web Accessibility In Mind](https://webaim.org/)
+
+### Units & Sizes
+> [!note]
+> You'll also see CSS value types referred to as _data types_. The terms are basically interchangeable — when you see something in CSS referred to as a data type, it is really just a fancy way of saying value type. The term _value_ refers to any particular expression supported by a value type that you choose to use.
+
+> [!note]
+> Yes, CSS value types tend to be denoted using angle brackets to differentiate them from CSS properties (e.g., the `color` property, versus the `<color>` data type). You might get confused between CSS data types and HTML elements too, as they both use angle brackets, but this is unlikely — they are used in very different contexts. 
+
+There are two types of lengths used in CSS — relative and absolute.
+
+#### Absolute length units
+- The following are all **absolute** length units — they are not relative to anything else, and are generally considered to always be the same size.
+- Most of these units are more useful when used for print, rather than screen output. For example, we don't typically use `cm` (centimeters) on screen. The only value that you will commonly use is `px` (pixels).
+
+| Unit | Name                | Equivalent to            |
+|------|---------------------|--------------------------|
+| cm   | Centimeters         | 1cm = 37.8px = 25.2/64in |
+| mm   | Millimeters         | 1mm = 1/10th of 1cm      |
+| Q    | Quarter-millimeters | 1Q = 1/40th of 1cm       |
+| in   | Inches              | 1in = 2.54cm = 96px      |
+| pc   | Picas               | 1pc = 1/6th of 1in       |
+| pt   | Points              | 1pt = 1/72nd of 1in      |
+| px   | Pixels              | 1px = 1/96th of 1in      |
+
+
