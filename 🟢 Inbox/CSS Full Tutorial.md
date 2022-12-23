@@ -98,6 +98,8 @@ The whole structure is called a **ruleset**. (The term _ruleset_ is often ref
 - Each declaration includes a CSS property name and a value, separated by a colon.
 - Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
+![[img_selector.gif]]
+
 **Selector**
 This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled (in this example, [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements). To style a different element, change the selector.
 
