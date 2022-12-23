@@ -5,8 +5,9 @@ cssclass:
 ---
 
 ### Introduction to CSS
-Like HTML, CSS is not a programming language. It's not a markup language either. **CSS is a style sheet language.** CSS is what you use to selectively style HTML elements. 
-CSS describes how HTML elements should be displayed.
+- Like HTML, CSS is not a programming language. It's not a markup language either. **CSS is a style sheet language.** CSS is what you use to selectively style HTML elements. 
+- CSS describes how HTML elements should be displayed.
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
 
 For example, this CSS selects paragraph text, setting the color to red:
 ```css
@@ -18,6 +19,15 @@ p {
 **Cascading Style Sheets** (**CSS**) is a [stylesheet](https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet) language used to describe the presentation of a document written in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) or [XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction) (including XML dialects such as [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML) or [XHTML](https://developer.mozilla.org/en-US/docs/Glossary/XHTML)). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
 CSS is among the core languages of the **open web** and is standardized across Web browsers according to [W3C specifications](https://www.w3.org/Style/CSS/#specs)
+
+### CSS Solved A Problem
+- HTML was NEVER intended to contain tags for formatting a web page!
+- HTML was created to describe the content of a web page.
+
+When tags like `<font>`, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+
+To solve this problem, the **World Wide Web Consortium (W3C) created CSS.**
+CSS removed the style formatting from the HTML page!
 
 - Difference b/w HTML & CSS
 	- Consider html as the foundation and structure so if you think about a new building or a house that is being built and you see that structure go up that is the foundation that's everything that holds it together.
@@ -82,6 +92,11 @@ CSS is among the core languages of the **open web** and is standardized across
 ### Anatomy of a CSS Ruleset
 ![[Pasted image 20221221153047.png|700]]
 The whole structure is called a **ruleset**. (The term _ruleset_ is often referred to as just _rule_.)
+
+- The selector points to the HTML element you want to style.
+- The declaration block contains one or more declarations separated by semicolons.
+- Each declaration includes a CSS property name and a value, separated by a colon.
+- Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces.
 
 **Selector**
 This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled (in this example, [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) elements). To style a different element, change the selector.
