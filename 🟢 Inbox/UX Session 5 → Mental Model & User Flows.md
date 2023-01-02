@@ -58,5 +58,10 @@ Most of the pain points I encountered here were the ones, which are with me sinc
 > \- Sandeep Sir
 
 ### Journaling User Flow
+I created user flows for all the major features available in the app.  
+  
+My aim was to give the users a minimal & clutter free experience, when they want to seek help or just feel better.  
+Hence, I tried keeping things very similar & consistent throughout my flows.
 
+![[User Flows.png]]
 
