@@ -40,11 +40,24 @@ Previous:: [[UX Session 7 → Content Strategy & Wireframing]]
 - Spread
 - Press
 
-**Not To Be Done**
+*Not To Be Done*
 - Avoid situations where a single gesture might produce 2 different results
 
 ### UX Laws
-- **Place important action button within easy reach of the user → Fitts Law**
-- Users have a propensity to best remember the first & last items in a series. →  Serial Position Effect.
-- A simple idea that more the choices you present to your user, the longer it will take them to reach a decision. →  **Hick's Law**
+1. **Fitts Law**
+	- Place important action button within easy reach of the user
+	- Amount of time required for a person to move a pointer to a target area ∝ distance of the target / size of the target
+2. **Hick's Law**
+	- A simple idea that more the choices you present to your user, the longer it will take them to reach a decision.
 	- The designer must keep the cognitive load to a minimum
+3. **Serial Position Effect**
+	- Users have a propensity to best remember the first & last items in a series.
+
+### Prototyping In Figma
+- Prototype is a simulation or sample version of a final product, which is used for testing prior to launch. These are created to test the interactions and flow of screens.
+- Make sure that you have selected the right device before prototyping
+
+#### Creating a Scrolling Screen
+- To create a scrolling screen, simply expand the length of your frame.
+- Select your bottom navigation at the bottom of frame and select → 'Fix position when scrolling' checkbox in design panel.
+- Click on preview to check if it works properly.
