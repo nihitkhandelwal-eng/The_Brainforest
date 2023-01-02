@@ -9,28 +9,30 @@ Previous:: [[UX Session 6 → Information Architecture - Navigation]]
 ### UX Writing Principles
 Good UX writing makes flows simpler, actions clearer & choices easier. It reduces complexity & lets people do what they want.
 
-1. Keep It Simple
+1. Clear
 	- Content should be easy to understand for your personas
-	- It should be relevant & clear
-	- It should be accesible & obvious for your target personas
-	- It should be actionable
-2. Be concise
+		- It should be relevant & clear
+		- It should be actionable
+	- Avoid double negatives
+	- Avoid Jargon
+	- Use specific verbs whenver possible
+2. Concise
 	- Avoid long blocks of text
 	- Eliminate Redundancy
-3. Avoid double negatives
-4. Avoid Jargon
-5. Use specific verbs whenver possible
-6. Make the copy consistent
-7. Write in active voice
-8. Use numerals
-9. Be positive
-10. Use "I"
+	- Don't over communicate
+	- Use numerals
+3. Familiar
+	- Write in active voice
 	- Use "I" where user wants to tell the system what to do. This will give the user a feeling of personal interaction with  the system
-11. Be user oriented
-12. Avoid All CAPS
-13. Don't over communicate
-14. Be polite
+4. Responsive
+	- Responsive also means the interface provides some form of feedback. The interface should talk back to the user to inform them about what’s happening. Have you pressed that button successfully? How would you know? The button should display a ‘pressed’ state to give that feedback. Perhaps the button text could change to “Loading…” and it’s state disabled. Is the software stuck or is the content loading? Play a spinning wheel or show a progress bar to keep the user in the loop.
+5. Consistent
+6. Attractive
+7. Efficient
+8. Forgiving
 	- Provide user a way to move out of a difficult situation gracefully
+	- Avoid All CAPS
+
 
 ### Content Inventory
 These 2 images should clear any doubt
