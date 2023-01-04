@@ -17,20 +17,32 @@ Previous:: [[UX Session 8 → Interaction Design & Wireframing]]
 
 ### Structure of a Grid
 #### Module
-1 grid i.e. a square/rectangle is called as a module
+- 1 grid i.e. a square/rectangle is called as a module
 
 ![[brave_VFw0EvkRcy.png]]
 #### Fields
-A set of rows or columns formed together is called fields
+- A set of rows or columns formed together is called fields
+- Field elements are your blocks of design, whether that can be text, image or a combination of both.
+- Background colors don't really count as field elements unless they are a container for your text/image.
+- **Columns** are the thick colored blocks that make up the _content width_ of your design. Field elements are to sit on a certain number of columns. 
+	- Traditionally in a design system, the column width doesn’t change but the number of columns change from 12 on desktop, to 8 on tablet, and to 4 on mobile. 
+	- You can literally use anything you want, but most grids have 60–80px column widths.
 
 ![[brave_XuDvebMnIH.png]]
 #### Margins
-You could have a margin around the main area, where the grid exists, containing all the content.
+- You could have a margin around the main area, where the grid exists, containing all the content.
+- **Side margins** also known as outside gutters are the amount of white space outside of your content width. 
+- For a more accommodating design, the side margins increase as you go up in device width. 
+- Side margins on mobile are usually 20–30px, and vary a lot between tablet and desktop. 
+- Whatever you choose as the side margin, will be the _minimum_ white space you allow when you shrink your browser. 
+	- When you expand your browser from this point, there will be more white space until the next breakpoint.
 
 ![[brave_xDghEu29mP.png]] ![[brave_rbhnrQAKDQ.png]]
 
 #### Gutters
-The space between two columns or rose is called a gutter. This space varies as per design requirement
+- The space between two columns or rose is called a gutter. This space varies as per design requirement.
+- 20px is a common gutter size.
+
 ### Grid Guidelines
 Mostly on mobile of 360dp, layout grid uses a 4-column grid, 16dp gutters, 16dp margins & 70dp column width.
 
@@ -67,3 +79,5 @@ It is a *collection of reusable components, guided by clear standards*, that can
 
 ### Typography
 ![[brave_uYxckYkQal.png]]
+
+### Pixel Density
