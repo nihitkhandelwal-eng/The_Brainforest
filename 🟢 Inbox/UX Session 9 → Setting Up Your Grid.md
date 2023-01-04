@@ -49,3 +49,21 @@ It is a *collection of reusable components, guided by clear standards*, that can
 
 - Material design is inspired by the physical world and its textures, including how they reflect light and cast shadows.
 - Material surfaces reimagine the mediums of paper and ink.
+- Material Design UI's are displayed in an environment that expresses 3D space using light, surfaces & cast shadows.
+- All elements in the material environment *move horizontally, vertically & at varying depths along the z-axis.*
+	- ![[brave_Fiqy8mR3Vf.png]]
+- Material has varying x & y dimensions (measured in dp) & a uniform thickness
+- Material surfaces at different elevations cast shadows.
+	- ![[brave_zGD8SWY19g.png]]
+
+![[brave_8w4CKK5qkR.png]]![[brave_ntdvUrmk3o.png]]
+### Iconography
+- Icon size should be 24 × 24 dp 
+- The touch target area can be 48 × 48 dp
+
+ > [!note]
+>  
+> Use Icon Resize plugin to make sure all your icons have these dimensions.>  
+
+### Typography
+![[brave_uYxckYkQal.png]]
