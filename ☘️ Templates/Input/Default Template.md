@@ -3,6 +3,8 @@ aliases:
 tags: 
 cssclass:
 ---
+Next::
+Previous::
 
 <%tp.file.cursor(0)%>
 

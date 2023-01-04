@@ -25,4 +25,6 @@ cssclass:
 
 - Medical Sector Companies 
 	- Immertive
-	- 
+	- BD
+	- Medhoc
+	- Care Monitor

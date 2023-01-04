@@ -18,3 +18,8 @@ As we stepped into the *ideate* process, key things are coming up, so be alert &
 Information Architecture is introduced & with that comes [[UX Session 6 → Information Architecture - Navigation#Navigation in UI Design|Navigation in UI Design]], which if applied can be really helpful.
 I have a small [[UX Session 6 → Information Architecture - Navigation#Journaling My Sitemap|sitemap to guide me]] during design process.
 
+Whenever stuck, **sketch it out in terms of low fidelity wireframes**
+There are [[UX Session 7 → Content Strategy & Wireframing#UX Writing Principles|Basic UX Writing Principles]] & [[UX Session 8 → Interaction Design & Wireframing#Elements of Interaction Design|Elements of Interaction Design]] to be aware of, especially affordance & signifiers.
+
+Then there are [[UX Session 8 → Interaction Design & Wireframing#UX Laws|Hick's Law, Fitt's Law & Serial Position Effect]] 
+
