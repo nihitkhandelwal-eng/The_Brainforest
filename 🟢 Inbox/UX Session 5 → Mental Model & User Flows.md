@@ -11,7 +11,7 @@ Previous:: [[UX Session 4 → User Personas & Empathy Maps]]
 In the area of user experience design (UX design), and the human-computer interaction (HCI) in general, we pay close attention to three leading (software) models:
 1. Implementation model
 	- How does this work ?
-2. Mental model
+2. Mental model ^e91eb2
 	- How do users think or believe this works ?
 	- i.e. this is based on past experiences & intuitive perceptions
 3. Representational model.

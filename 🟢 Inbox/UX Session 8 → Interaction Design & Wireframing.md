@@ -52,6 +52,15 @@ Previous:: [[UX Session 7 → Content Strategy & Wireframing]]
 	- The designer must keep the cognitive load to a minimum
 3. **Serial Position Effect**
 	- Users have a propensity to best remember the first & last items in a series.
+4. **Jakob's Law**
+	- The law recommends *the use of familiar patterns in design in order to facilitate the user experience, because users prefer it when a site works in the same way as all the other sites they already know*
+	- According to this law, originality would impair user experience
+	- This relates back to [[UX Session 5 → Mental Model & User Flows#Mental Models|Mental Models]]
+5. **Law of proximity**
+	- It states that when objects are close to each other, they tend to be perceived together in one group by users
+
+> [!faq]
+> I don't know why are they called law, when these are observations
 
 ### Prototyping In Figma
 - Prototype is a simulation or sample version of a final product, which is used for testing prior to launch. These are created to test the interactions and flow of screens.
