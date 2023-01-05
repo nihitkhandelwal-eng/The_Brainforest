@@ -69,7 +69,6 @@ It is a *collection of reusable components, guided by clear standards*, that can
 - Material surfaces at different elevations cast shadows.
 	- ![[brave_zGD8SWY19g.png]]
 
-![[brave_8w4CKK5qkR.png]]![[brave_ntdvUrmk3o.png]]
 ### Iconography
 - Icon size should be 24 × 24 dp 
 - The touch target area can be 48 × 48 dp
