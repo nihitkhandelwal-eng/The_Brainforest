@@ -81,3 +81,6 @@ It is a *collection of reusable components, guided by clear standards*, that can
 ![[brave_uYxckYkQal.png]]
 
 ### Pixel Density
+- The number of pixels that fit into an inch is referred to as pixel density.
+- High-density screens have more pixels per inch than low-density ones. As a result, UI elements of the same pixel dimensions appear larger on low-density screens, and smaller on high-density screens.
+![[Pasted image 20230105195414.png|400]]![[Pasted image 20230105195516.png|400]]
