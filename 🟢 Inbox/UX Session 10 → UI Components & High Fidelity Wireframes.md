@@ -18,20 +18,17 @@ The top app bar displays information & actions relating to the current screen
 It allows movement b/w primary destinations in an app.
 
 ![[brave_UFmgGtw5Fx.png|400]]
+
 ### Buttons
 Buttons allow users to take actions and make choices, with a single tap.
 
-1. Text Button
-	- Low emphasis
-	- These are typically used for less important actions.
-2. Outlined Button
-	- Medium emphasis
-	- It is the stroke that they have that gives them more emphasis than text buttons
-	- It can be used for example:
-		- Indicating the secondary action 
-		- Complementing the primary action
-3. fdf
-4. dfdf
-5. dfdf
+#### Text Button
+- Low emphasis
+- These are typically used for less important actions.
 
-
+#### Outlined Button
+- Medium emphasis
+- It is the stroke that they have that gives them more emphasis than text buttons
+- It can be used for example:
+	- Indicating the secondary action 
+	- Complementing the primary action
