@@ -33,7 +33,7 @@ cssclass:
 [[UX Session 21 → Resume & Public Profile]]
 [[UX Session 22 → Behance Case Study]]
 
-
+- Ask sir about [transitions](https://m3.material.io/styles/motion/transitions/transition-patterns)
 - Guidelines for [Dark Theme Designing](https://m2.material.io/design/color/dark-theme.html)
 - Medical Sector Companies 
 	- Immertive
