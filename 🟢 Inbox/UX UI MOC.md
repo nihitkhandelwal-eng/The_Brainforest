@@ -21,8 +21,20 @@ cssclass:
 [[UX Session 9 → Setting Up Your Grid]]
 [[UX Session 10 → UI Components & High Fidelity Wireframes]]
 [[UX Session 11 → UI Design & Prototyping Tools]]
+[[UX Session 12 → Heuristic Evaluation]]
+[[UX Session 13 → Wireframe Refinement]]
+[[UX Session 14 → Color Theory & Theming]]
+[[UX Session 15 → Typography]]
+[[UX Session 16 → Wireframes to Visual Design]]
+[[UX Session 17 → Visual Refinement]]
+[[UX Session 18 → Usability Testing]]
+[[UX Session 19 → Visual Refinement & Developer Hand-off]]
+[[UX Session 20 → Case Study Compilation]]
+[[UX Session 21 → Resume & Public Profile]]
+[[UX Session 22 → Behance Case Study]]
 
 
+- Guidelines for [Dark Theme Designing](https://m2.material.io/design/color/dark-theme.html)
 - Medical Sector Companies 
 	- Immertive
 	- BD

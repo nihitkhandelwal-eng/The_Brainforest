@@ -7,6 +7,7 @@ cssclass:
 Next:: [[UX Session 10 → UI Components & High Fidelity Wireframes]]
 Previous:: [[UX Session 8 → Interaction Design & Wireframing]]
 
+## Grids
 - A grid is a structure comprising of a series of lines (vertical or intersecting) that divides a page into columns or modules.
 - It can be thought of as a skeleton on which a designer can organize the graphic elements
 
@@ -54,7 +55,7 @@ Mostly on mobile of 360dp, layout grid uses a 4-column grid, 16dp gutters, 16dp 
 
 ![[brave_MEpx52gfRD.png]]
 
-### Material Design Language System
+## Material Design Language System
 The design language system is the *set of UI guidelines* followed by designers, which helps users build familiarity with various apps they will be using in Android ecosystem.
 
 It is a *collection of reusable components, guided by clear standards*, that can be assembled together to build any number of applications.
@@ -80,7 +81,24 @@ It is a *collection of reusable components, guided by clear standards*, that can
 ### Typography
 ![[brave_uYxckYkQal.png]]
 
-### Pixel Density
+## Pixel Density
 - The number of pixels that fit into an inch is referred to as pixel density.
 - High-density screens have more pixels per inch than low-density ones. As a result, UI elements of the same pixel dimensions appear larger on low-density screens, and smaller on high-density screens.
 ![[Pasted image 20230105195414.png|400]]![[Pasted image 20230105195516.png|400]]
+
+### Calculating Pixel Density
+Screen density = Screen width (or height) in pixels / Screen width (or height) in inches
+
+### Density Independence
+- Density independence refers to the uniform display of UI elements on screens with different densities.
+- **Density-independent pixels**, written as dp (pronounced "dips"), are flexible units that scale to have uniform dimensions on any screen. They provide a flexible way to accommodate a design across platforms.
+- Material UIs use density-independent pixels to display elements consistently on screens with different densities.
+
+#### Dps and screen density
+A dp is equal to one physical pixel on a screen with a density of 160.
+> [!note] Formula
+> To calculate dp:
+> 
+> dp = (width-in-pixels * 160) / screendensity
+
+![[brave_53rEQzIQ0Y.png]]

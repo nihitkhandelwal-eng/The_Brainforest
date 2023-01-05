@@ -23,3 +23,4 @@ There are [[UX Session 7 → Content Strategy & Wireframing#UX Writing Principle
 
 Then there are [[UX Session 8 → Interaction Design & Wireframing#UX Laws|Hick's Law, Fitt's Law, Serial Position Effect, Jakob's Law & Law of proximity]] 
 
+Now, to refine our wireframes, we have the knowledge of [[UX Session 9 → Setting Up Your Grid#Structure of a Grid|Grids]] & [[UX Session 9 → Setting Up Your Grid#Grid Guidelines|Grid Guidelines]]. Speaking of guidelines, we have [[UX Session 9 → Setting Up Your Grid#Material Design Language System|The Material Design Language System]] & [[UX Session 9 → Setting Up Your Grid#Pixel Density|Pixel Density]] 
