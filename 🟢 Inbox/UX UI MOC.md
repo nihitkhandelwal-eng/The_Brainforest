@@ -35,6 +35,7 @@ cssclass:
 [[UX Session 22 → Behance Case Study]]
 
 - Ask sir about [transitions](https://m3.material.io/styles/motion/transitions/transition-patterns)
+	- [Animations of FAB](https://m3.material.io/components/floating-action-button/guidelines#3ad4a846-ac87-4884-b9b0-97efceea2e41)
 - Guidelines for [Dark Theme Designing](https://m2.material.io/design/color/dark-theme.html)
 - Medical Sector Companies 
 	- Immertive

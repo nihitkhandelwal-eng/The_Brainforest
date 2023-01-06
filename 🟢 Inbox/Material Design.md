@@ -144,10 +144,29 @@ A **large FAB** is useful when the layout calls for a clear and prominent primar
 
 ![[brave_3uNjGmmXjv.png|600]]
 
-
+> [!important] Accessibility Tip
+> These tips are not only for FAB's but in general
+> 
+> Ensure the icon passes minimum of 3:1 contrast ratio.
+> 
+> Consider displaying a tooltip when focused to support the icon-only FAB without a visible label.
 
 
 #### Extended FAB
+- Extended FABs help people take primary actions. They're wider than FABs to accommodate a text label and larger target area.
+- They are the most visually prominent button.
+- Because it has room for both a text label and an icon, the extended FAB can be more effective where an icon alone might be too ambiguous
+
+- Layout: Extended FAB is the same height as the FAB
+- Shape: Boxier style with smaller corner radius
+
+- Use an extended FAB on screens with long, scrolling views that require persistent access to an action, such as a check-out screen. 
+- *Do not use* an extended FAB *in a view that cannot scroll*.
+
+##### Layout
+![[brave_4SbElZY2p6.png]]
+
+
 #### Icon Buttons
 #### Segmented Buttons
 
