@@ -36,7 +36,6 @@ Icons visually communicate the button’s action and help draw attention. They s
 ![[brave_iHqhNOaVw7.png]]
 
 Button containers hold the label text and optional icon. Text buttons have a visible container only when hovered, focused, or pressed. Button containers have fully rounded corners.
-![[Pasted image 20230106121927.png|700]]
 
 
 > [!note]
