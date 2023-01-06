@@ -8,6 +8,7 @@ cssclass:
 [[Insights from Interviews]]
 [[Brainstorming for my app]]
 [[Key Points to Keep in Mind While Designing]]
+[[Material Design]]
 
 [[UX Session 0 → Orientation]]
 [[UX Session 1 → Introduction to UI & UX Design]]
