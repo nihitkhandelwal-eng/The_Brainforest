@@ -161,6 +161,7 @@ A **large FAB** is useful when the layout calls for a clear and prominent primar
 
 - Use an extended FAB on screens with long, scrolling views that require persistent access to an action, such as a check-out screen. 
 - *Do not use* an extended FAB *in a view that cannot scroll*.
+- Avoid using an extended FAB above a bottom app bar, as the combination takes up a lot of screen space. If they are paired, the extended FAB should collapse on scroll.
 
 ##### Layout
 ![[brave_4SbElZY2p6.png]]
