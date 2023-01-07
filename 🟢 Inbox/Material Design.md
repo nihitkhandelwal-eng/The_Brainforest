@@ -168,6 +168,9 @@ A **large FAB** is useful when the layout calls for a clear and prominent primar
 
 
 #### Icon Buttons
+- Icon buttons help people take supplementary actions with a single tap.
+- Icon buttons are commonly found within top app bars and cards.
+- Icons visually communicate the button’s action. Their meaning should be clear and unambiguous.
 #### Segmented Buttons
 
 
