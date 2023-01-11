@@ -1,6 +1,11 @@
-PNR → JN4ZRC
+lddlm,l,;,;,;ld./. /x'/sd/
+]
+\w]
 
-Vellana airport int 
-travel mode air
-duration of stay 4 day
-flight number → 6E1786
+
+\w
+
+	]\\w]e'
+	'/d//'
+
+
