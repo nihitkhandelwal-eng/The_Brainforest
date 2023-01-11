@@ -1,6 +1,4 @@
-PNR → JN4ZRC
+Frame selection → Ctrl + Alt + G
+Zoom selection → Shift + 2
+Detach Instance → Ctrl + Alt + B
 
-Vellana airport int 
-travel mode air
-duration of stay 4 day
-flight number → 6E1786
