@@ -3,9 +3,10 @@ aliases:
 tags: 
 cssclass:
 ---
+Next:: [[UX Session 12 → Heuristic Evaluation]]
+Previous:: [[UX Session 10 → UI Components & High Fidelity Wireframes]]
 
 - Line height should be font size + 50 % of font size
-
 ### Vector
 - Made of hundreds of thousands of tiny lines and curves to create an image
 - It can be scaled up to any desired size without any damage to quality
