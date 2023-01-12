@@ -75,7 +75,7 @@ It is a *collection of reusable components, guided by clear standards*, that can
 
  > [!note]
 >  
-> Use Icon Resize plugin to make sure all your icons have these dimensions.>  
+> Use Icon Resize plugin to make sure all your icons have these dimensions.
 
 ### Typography
 ![[brave_uYxckYkQal.png]]
