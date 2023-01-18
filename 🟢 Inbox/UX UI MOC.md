@@ -20,9 +20,9 @@ cssclass:
 [[UX Session 7 → Content Strategy & Wireframing]]
 [[UX Session 8 → Interaction Design & Wireframing]]
 [[UX Session 9 → Setting Up Your Grid]]
-[[UX Session 10 → UI Components & High Fidelity Wireframes]] | [[UX Session 10 → UI Components & High Fidelity Wireframes#Journal Your Wireframes|Journal My  Wireframes]]
+[[UX Session 10 → UI Components & High Fidelity Wireframes]] | [[UX Session 10 → UI Components & High Fidelity Wireframes#Journal Your Wireframes|Journaling My Wireframes]]
 [[UX Session 11 → UI Design & Prototyping Tools]]
-[[UX Session 12 → Heuristic Evaluation]]
+[[UX Session 12 → Heuristic Evaluation]] | Journaling My Heuristic Evaluation
 [[UX Session 13 → Wireframe Refinement]]
 [[UX Session 14 → Color Theory & Theming]]
 [[UX Session 15 → Typography]]
