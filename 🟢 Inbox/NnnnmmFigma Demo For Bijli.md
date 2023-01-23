@@ -11,24 +11,22 @@ I am going to give an introductory demo to Figma
 
 ---
 
-### What is Figma
-- Figma is a UI Design software
-- In Figma, you can create interactive wireframes & set up advanced user interface designs
-
+,,.',,.(ooooooookkmmmoooommm.oooooooooooooooooooooooooooooooooooooooooooooooooommmmmmmmmm)' is Figma
+-kk- In Figma, you can creatinterac.kactive wireframes & set up advanced us.k.....er J#q,
+Mm mkm mm??nn
 ---
-
+.
 ### Accessibility
-- Cloud Based i.e. Cross Platform
+- Cloud Based i.e.tos1@1qo
 	- So, it's suitable for collaboration
 - Figma Web v/s App → Font installer is required in web version  
-![[Figma Download Options.png|700]]
+Ii III i7kimkii7i7 b I 8ksj77jjj77j 3j7![[Figma Download Options.png|700]]
 
 ---
 
 ### Features
 1. Working in components
-2. Setting up styles
-3. Using constraints for responsive design
+E2eve BH huh 888j JB hhhhuj8bhhh8bibnnn8nin8nni8bi8b88inb8i88b88bb8ib;b8bi88888i88ububuubuu8i8i888j8b⁸7hh3. Using constraints for responsive design
 4. It gives you all the tools to set up a design in a helpful way so that, developers can bring it alive with code.
 5. Inspect tool to access CSS Snippets
 
@@ -37,7 +35,7 @@ I am going to give an introductory demo to Figma
 ### Layout
 - Design Files & FigJam Files
 - File Hierarchy  
-	![[Figma File Hierarchy.png|700]]
+	![[oo kFigma File Hierarchy.png|700]]
 
 ---
 

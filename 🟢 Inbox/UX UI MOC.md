@@ -4,6 +4,8 @@ tags: type/⌘MOC
 cssclass:
 ---
 
+[[Case Study]]
+
 [[An App to Help You Improve Your Mental Well Being]]
 [[Insights from Interviews]]
 [[Brainstorming for my app]]
